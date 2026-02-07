@@ -69,7 +69,7 @@ This is your personal knowledge base - a structured collection of notes and info
 |----------|------|
 | **Feb 10 (Mon) 2:30pm** | Capital HB kickoff meeting |
 | Feb 10 (Mon) | Jensten proposal materials |
-| **Feb 11, 23:59 CET** | Euroleague RFP submission |
+| **Feb 11, 23:59 CET** | Euroleague RFP submission (extended from Feb 10) |
 | Feb 20 | Southern Water bid deadline |
 | ~~Feb 22~~ | ~~FABCON hotel booking~~ (decision pending) |
 | March 8-12 | FABCON Atlanta (decision pending - cannot transfer to Barcelona) |
