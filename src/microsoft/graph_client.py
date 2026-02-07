@@ -408,6 +408,94 @@ class GraphClient:
 
         return messages
 
+    # ==================== TEAMS CHANNELS ====================
+
+    async def get_joined_teams(self, limit: int = 50) -> list[dict]:
+        """Get Teams that the user is a member of."""
+        # Note: /me/joinedTeams does not support $top query parameter
+        result = await self._request("GET", "/me/joinedTeams")
+
+        teams = []
+        for team in result.get("value", []):
+            teams.append({
+                "id": team["id"],
+                "name": team.get("displayName", ""),
+                "description": team.get("description", ""),
+                "visibility": team.get("visibility", ""),
+            })
+
+        return teams[:limit]
+
+    async def get_team_channels(self, team_id: str, limit: int = 50) -> list[dict]:
+        """Get channels for a specific Team."""
+        # Note: /teams/{id}/channels does not support $top query parameter
+        result = await self._request("GET", f"/teams/{team_id}/channels")
+
+        channels = []
+        for channel in result.get("value", []):
+            channels.append({
+                "id": channel["id"],
+                "name": channel.get("displayName", ""),
+                "description": channel.get("description", ""),
+                "membership_type": channel.get("membershipType", ""),
+                "web_url": channel.get("webUrl", ""),
+            })
+
+        return channels[:limit]
+
+    async def get_channel_messages(self, team_id: str, channel_id: str, limit: int = 20) -> list[dict]:
+        """Get messages from a Teams channel."""
+        params = {"$top": limit}
+
+        result = await self._request("GET", f"/teams/{team_id}/channels/{channel_id}/messages", params=params)
+
+        messages = []
+        for msg in result.get("value", []):
+            from_user = msg.get("from") or {}
+            user_info = from_user.get("user") or {}
+            body = msg.get("body") or {}
+
+            # Get replies count if available
+            replies = msg.get("replies", [])
+
+            messages.append({
+                "id": msg["id"],
+                "content": body.get("content", ""),
+                "content_type": body.get("contentType", "text"),
+                "from": user_info.get("displayName", "Unknown"),
+                "from_email": user_info.get("email", ""),
+                "created": msg.get("createdDateTime", ""),
+                "message_type": msg.get("messageType", ""),
+                "subject": msg.get("subject", ""),
+                "reply_count": len(replies),
+                "importance": msg.get("importance", "normal"),
+            })
+
+        return messages
+
+    async def get_channel_message_replies(self, team_id: str, channel_id: str, message_id: str, limit: int = 50) -> list[dict]:
+        """Get replies to a specific channel message."""
+        params = {"$top": limit}
+
+        result = await self._request("GET", f"/teams/{team_id}/channels/{channel_id}/messages/{message_id}/replies", params=params)
+
+        replies = []
+        for msg in result.get("value", []):
+            from_user = msg.get("from") or {}
+            user_info = from_user.get("user") or {}
+            body = msg.get("body") or {}
+
+            replies.append({
+                "id": msg["id"],
+                "content": body.get("content", ""),
+                "content_type": body.get("contentType", "text"),
+                "from": user_info.get("displayName", "Unknown"),
+                "from_email": user_info.get("email", ""),
+                "created": msg.get("createdDateTime", ""),
+            })
+
+        return replies
+
     # ==================== FILES ====================
 
     async def search_files(self, query: str, limit: int = 10) -> list[dict]:

@@ -146,6 +146,56 @@ TOOL_DEFINITIONS = [
             },
         },
     ),
+    # Teams Channels
+    Tool(
+        name="get_joined_teams",
+        description="Get Teams that you are a member of.",
+        inputSchema={
+            "type": "object",
+            "properties": {
+                "limit": {"type": "integer", "description": "Max teams to return (default: 50)"},
+            },
+        },
+    ),
+    Tool(
+        name="get_team_channels",
+        description="Get channels for a specific Team.",
+        inputSchema={
+            "type": "object",
+            "properties": {
+                "team_id": {"type": "string", "description": "The Team ID (from get_joined_teams)"},
+                "limit": {"type": "integer", "description": "Max channels to return (default: 50)"},
+            },
+            "required": ["team_id"],
+        },
+    ),
+    Tool(
+        name="get_channel_messages",
+        description="Get messages from a Teams channel.",
+        inputSchema={
+            "type": "object",
+            "properties": {
+                "team_id": {"type": "string", "description": "The Team ID"},
+                "channel_id": {"type": "string", "description": "The Channel ID (from get_team_channels)"},
+                "limit": {"type": "integer", "description": "Max messages to return (default: 20, max: 50)"},
+            },
+            "required": ["team_id", "channel_id"],
+        },
+    ),
+    Tool(
+        name="get_channel_message_replies",
+        description="Get replies to a specific channel message thread.",
+        inputSchema={
+            "type": "object",
+            "properties": {
+                "team_id": {"type": "string", "description": "The Team ID"},
+                "channel_id": {"type": "string", "description": "The Channel ID"},
+                "message_id": {"type": "string", "description": "The parent message ID"},
+                "limit": {"type": "integer", "description": "Max replies to return (default: 50)"},
+            },
+            "required": ["team_id", "channel_id", "message_id"],
+        },
+    ),
     # Files
     Tool(
         name="search_files",

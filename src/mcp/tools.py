@@ -215,6 +215,48 @@ class ToolHandler:
         my_messages.sort(key=lambda x: x.get("created", ""), reverse=True)
         return {"messages": my_messages[:limit], "count": len(my_messages[:limit])}
 
+    # ==================== TEAMS CHANNELS ====================
+
+    async def get_joined_teams(self, limit: int = 50) -> dict[str, Any]:
+        """Get Teams that you are a member of."""
+        graph = await self._get_graph_client()
+        if not graph:
+            return {"error": "Microsoft 365 not connected. Run 'python auth_server.py' to authenticate."}
+
+        limit = min(limit, 100)
+        result = await graph.get_joined_teams(limit=limit)
+        return {"teams": result, "count": len(result)}
+
+    async def get_team_channels(self, team_id: str, limit: int = 50) -> dict[str, Any]:
+        """Get channels for a specific Team."""
+        graph = await self._get_graph_client()
+        if not graph:
+            return {"error": "Microsoft 365 not connected. Run 'python auth_server.py' to authenticate."}
+
+        limit = min(limit, 100)
+        result = await graph.get_team_channels(team_id=team_id, limit=limit)
+        return {"channels": result, "count": len(result), "team_id": team_id}
+
+    async def get_channel_messages(self, team_id: str, channel_id: str, limit: int = 20) -> dict[str, Any]:
+        """Get messages from a Teams channel."""
+        graph = await self._get_graph_client()
+        if not graph:
+            return {"error": "Microsoft 365 not connected. Run 'python auth_server.py' to authenticate."}
+
+        limit = min(limit, 50)
+        result = await graph.get_channel_messages(team_id=team_id, channel_id=channel_id, limit=limit)
+        return {"messages": result, "count": len(result), "team_id": team_id, "channel_id": channel_id}
+
+    async def get_channel_message_replies(self, team_id: str, channel_id: str, message_id: str, limit: int = 50) -> dict[str, Any]:
+        """Get replies to a specific channel message."""
+        graph = await self._get_graph_client()
+        if not graph:
+            return {"error": "Microsoft 365 not connected. Run 'python auth_server.py' to authenticate."}
+
+        limit = min(limit, 100)
+        result = await graph.get_channel_message_replies(team_id=team_id, channel_id=channel_id, message_id=message_id, limit=limit)
+        return {"replies": result, "count": len(result), "team_id": team_id, "channel_id": channel_id, "message_id": message_id}
+
     # ==================== FILES TOOLS ====================
 
     async def search_files(self, query: str, limit: int = 10) -> dict[str, Any]:

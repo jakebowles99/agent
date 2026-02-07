@@ -19,6 +19,10 @@ if [ -d "/root/.ssh" ]; then
     chmod 600 /home/claude/.ssh/* 2>/dev/null || true
 fi
 
+# Add GitHub to known_hosts (prevents host key verification failure)
+ssh-keyscan -t ed25519,rsa github.com >> /home/claude/.ssh/known_hosts 2>/dev/null || true
+chown claude:claude /home/claude/.ssh/known_hosts 2>/dev/null || true
+
 # Configure git for the claude user
 gosu claude git config --global user.email "monitor@personal-agent"
 gosu claude git config --global user.name "Personal Agent Monitor"

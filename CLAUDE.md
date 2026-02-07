@@ -59,10 +59,16 @@ To auto-approve it, add to `.claude/settings.local.json`:
 - `get_email_details` - Full email content by ID
 - `get_messages_from_person` - Emails and Teams messages from a person
 
-### Teams
-- `get_teams_chats` - Recent chat conversations
+### Teams Chats
+- `get_teams_chats` - Recent chat conversations (1:1 and group DMs)
 - `get_chat_messages` - Messages from a specific chat
 - `get_my_teams_messages` - Teams messages you have sent
+
+### Teams Channels
+- `get_joined_teams` - Teams you are a member of
+- `get_team_channels` - Channels in a specific Team
+- `get_channel_messages` - Messages from a channel
+- `get_channel_message_replies` - Replies to a channel message thread
 
 ### Files (OneDrive/SharePoint)
 - `search_files` - Search for documents

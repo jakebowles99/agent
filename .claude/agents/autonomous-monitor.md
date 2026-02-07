@@ -5,68 +5,102 @@ Run every 15 minutes to sync data sources and maintain the knowledge base.
 ## Instructions
 
 You have full autonomous control. The MCP tools are read-only. Your job is to:
-1. Scan all data sources for changes
+1. Scan data sources for changes **in the last 15 minutes only**
 2. Update documentation in knowledge/ as needed
 3. Log any actions required of Jake
 
+**IMPORTANT: Time Filtering**
+- Only process items with timestamps within the last 15 minutes
+- Calculate the cutoff time: current time minus 15 minutes
+- Skip any messages, emails, or events older than this cutoff
+- This prevents redundant processing of already-seen items
+
 ### Phase 1: Data Collection
 
-Gather current state from all sources (run in parallel where possible):
+Gather current state from sources (run in parallel where possible). **Filter by timestamp after fetching:**
 
 **Communications:**
-- `get_emails` - Recent inbox (limit=20)
-- `get_sent_emails` - Recent sent (limit=10)
-- `get_teams_chats` - Active conversations
-- `get_my_teams_messages` - Recent Teams messages sent
+- `get_emails` - Recent inbox (limit=10) → **only process if received in last 15 min**
+- `get_sent_emails` - Recent sent (limit=5) → **only process if sent in last 15 min**
+
+**Teams Chats (1:1 and group DMs):**
+- `get_teams_chats` - Get list, check `last_message_time` → **only fetch messages for chats with activity in last 15 min**
+- `get_chat_messages` - Only for chats with recent activity (limit=10)
+- `get_my_teams_messages` - Recent sent (limit=10) → **filter by timestamp**
+
+**Teams Channels (team discussions):**
+- `get_joined_teams` - Get list of Teams
+- `get_team_channels` - Get channels for each team
+- `get_channel_messages` - Only fetch if channel likely has recent activity (limit=5) → **filter messages by timestamp, only last 15 min**
 
 **Schedule:**
-- `get_calendar_events` (days=1, past_days=0) - Today + tomorrow
-- `get_recent_meetings` - Meetings with transcripts
+- `get_calendar_events` (days=1, past_days=0) - Only flag if meeting started/ended in last 15 min
+- `get_recent_meetings` - Check for new transcripts only
 
 **Time Tracking:**
 - `harvest_running_timers` - Any active timer
-- `harvest_my_time` (days=1) - Today's entries
-- `harvest_get_projects` - Active projects
+- `harvest_my_time` (days=1) - Check for new entries in last 15 min
 
 ### Phase 2: Analysis
 
-Compare against knowledge base:
+**Only analyze items from the last 15 minutes.** Compare against knowledge base:
 
-1. **New meetings since last sync?**
-   - Check `knowledge/meetings/` for today's date
-   - If meeting happened but no notes → flag for documentation
+1. **New meetings in last 15 min?**
+   - Meeting just started → flag for time tracking
+   - Meeting just ended → flag for notes if not documented
 
-2. **Important emails/messages?**
+2. **Important emails/messages (last 15 min only)?**
    - From key contacts (listed in knowledge/index.md)
    - Mentions of active projects
    - Requests or questions directed at Jake
 
-3. **Time tracking gaps?**
-   - Meetings without time entries
-   - Long gaps in tracking
+3. **Time tracking issues?**
+   - Meeting started but no timer running
+   - Timer running for wrong project
 
-4. **Deadline approaching?**
+4. **Deadline in next 15 min?**
    - Cross-reference calendar with knowledge/index.md deadlines
 
 ### Phase 3: Actions
 
 **Auto-update (do these automatically):**
-- Update `knowledge/teams/{date}/` with new important Teams messages
-- Update project files if significant status changes detected
-- Update `knowledge/index.md` if new deadlines discovered
+
+1. **Teams Messages Documentation** (only for last 15 min):
+   - Create/update `knowledge/teams/YYYY-MM-DD/[chat-or-channel-name].md`
+   - **Only document messages from the last 15 minutes**
+   - Check existing file first to avoid duplicates
+   - Format:
+     ```markdown
+     # [Chat/Channel Name]
+
+     ## HH:MM - [Sender]
+     > Message content here
+
+     ## HH:MM - [Sender] (subject if any)
+     > Message content here
+     >
+     > **Replies:**
+     > - HH:MM [Replier]: Reply content
+     ```
+   - Include context about what project/topic each conversation relates to
+   - Skip if no new messages in last 15 min for that chat/channel
+
+2. **Project files** - Update if significant status changes detected
+3. **Index file** - Update `knowledge/index.md` if new deadlines discovered
 
 **Flag for attention (write to knowledge/inbox.md):**
 - Emails requiring response
 - Meeting prep needed
 - Overdue action items
 - Time tracking reminders
+- Teams messages requiring Jake's response
 
 ### Output
 
 Always update `knowledge/inbox.md` with a timestamped entry:
 
 ```markdown
-## [Timestamp]
+## [Timestamp] (15-min window: HH:MM - HH:MM)
 
 ### Actions Required
 - [ ] [Action item with context]
@@ -74,15 +108,14 @@ Always update `knowledge/inbox.md` with a timestamped entry:
 ### Documentation Updated
 - [File]: [What changed]
 
-### Summary
-- Emails scanned: X (Y need response)
-- Teams chats checked: X
-- Meetings found: X (Y need notes)
-- Time entries today: X hours
+### Summary (last 15 min only)
+- New emails: X (Y need response)
+- New Teams messages: X across Y chats/channels
+- Meetings started/ended: X
 ```
 
-If nothing actionable, still log:
+If nothing new in last 15 min:
 ```markdown
 ## [Timestamp]
-No actions required. All systems synced.
+No new activity in last 15 minutes.
 ```
