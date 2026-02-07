@@ -4,6 +4,28 @@ Action items and notifications from the autonomous monitor.
 
 ---
 
+## 2026-02-07 21:30 UTC (15-min window: 21:15 - 21:30)
+
+**MCP Server Not Connected**
+
+The autonomous monitor attempted to run but the `personal-tools` MCP server is not available. The MCP tools (get_emails, get_teams_chats, get_calendar_events, etc.) are not exposed to this session.
+
+### Actions Required
+
+- [ ] Ensure the MCP server is approved in Claude Code settings
+- [ ] Install dependencies: `pip install -r requirements.txt`
+- [ ] Verify `.mcp.json` is properly configured
+- [ ] Restart Claude Code to reconnect MCP servers
+
+### Previous Actions Still Pending
+
+- [ ] **Respond to Cristian Ettridge** - Confirming 2:30pm Monday for Capital HB kickoff
+- [ ] **Review FX Rates thread** - Tayo/Nandan discussing negative rates filtering
+- [ ] **Jensten deck needs work** - Due Monday
+- [ ] **Check Azure subscription** - Services disabled
+
+---
+
 ## 2026-02-07 21:15 UTC (15-min window: 21:00 - 21:15)
 
 No new activity in last 15 minutes.
