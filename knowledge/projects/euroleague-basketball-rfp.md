@@ -18,6 +18,9 @@ Response to RFP from Euroleague Basketball for a comprehensive digital platform,
 | Original Deadline | February 10, 2026 |
 | **Extended Deadline** | **February 11, 2026, 23:59 CET** |
 | Question Review Meeting | February 3, 2026 |
+| Q&A Responses Received | February 6, 2026 |
+| **Estimates Due** | **Monday, February 10, 2026** |
+| Response Session (Anand) | Monday afternoon, Feb 10 |
 
 ## RFP Scope
 
