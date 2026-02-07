@@ -71,8 +71,8 @@ This is your personal knowledge base - a structured collection of notes and info
 | Feb 10 (Mon) | Jensten proposal materials |
 | **Feb 11, 23:59 CET** | Euroleague RFP submission (extended from Feb 10) |
 | Feb 20 | Southern Water bid deadline |
-| ~~Feb 22~~ | ~~FABCON hotel booking~~ (decision pending) |
-| March 8-12 | FABCON Atlanta (decision pending - cannot transfer to Barcelona) |
+| ~~Feb 22~~ | ~~FABCON hotel booking~~ (N/A - Visa declined) |
+| ~~March 8-12~~ | ~~FABCON Atlanta~~ (Visa declined - cannot attend) |
 
 ## Usage Tips
 
