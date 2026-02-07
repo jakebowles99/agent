@@ -1,107 +1,86 @@
-# Personal Business Agent
+# Personal Second Brain
 
-A personal AI assistant accessible via Telegram that integrates with Microsoft 365 to help you manage your work life.
+A markdown-based second brain that integrates with Microsoft 365 and Harvest via MCP (Model Context Protocol). Claude Code is the primary interface for accessing work data and managing knowledge.
 
 ## Features
 
-- **Telegram Interface** - Chat with your assistant through Telegram
-- **Microsoft 365 Integration** - Access calendar, emails, Teams chats, and OneDrive files
-- **Long-term Memory** - Remembers important details from past conversations using Mem0 + Qdrant
-- **Conversation History** - Maintains context within sessions
-- **Meeting Insights** - Get meeting summaries, transcripts, and Copilot-generated notes
+- **Claude Code Interface** - Natural language access to your work data
+- **Microsoft 365 Integration** - Calendar, emails, Teams chats, OneDrive/SharePoint files
+- **Meeting Insights** - Transcripts and Copilot-generated summaries
+- **Harvest Time Tracking** - Projects, time entries, team utilization
+- **Knowledge Base** - Markdown notes organized by project, person, client, etc.
+- **Custom Agents** - Specialized workflows for common tasks
 
 ## Architecture
 
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
-│    Telegram     │────▶│   FastAPI App    │────▶│  Azure OpenAI   │
-│      User       │◀────│   (Webhook)      │◀────│    (GPT-4)      │
+│   Claude Code   │────▶│   MCP Server     │────▶│  Microsoft 365  │
+│                 │◀────│  (personal-tools)│◀────│   Graph API     │
 └─────────────────┘     └──────────────────┘     └─────────────────┘
                                │
-                    ┌──────────┼──────────┐
-                    ▼          ▼          ▼
-              ┌──────────┐ ┌───────┐ ┌─────────────┐
-              │ MS Graph │ │ Mem0  │ │   Qdrant    │
-              │   API    │ │       │ │ (Vector DB) │
-              └──────────┘ └───────┘ └─────────────┘
+                               ▼
+                        ┌─────────────┐
+                        │   Harvest   │
+                        │     API     │
+                        └─────────────┘
 ```
 
-## Prerequisites
+## Quick Start
 
-- Python 3.11+
-- Docker & Docker Compose (for Qdrant)
-- Telegram Bot Token (from [@BotFather](https://t.me/BotFather))
-- Azure OpenAI deployment
-- Microsoft Azure AD app registration (for M365 integration)
-
-## Setup
-
-### 1. Clone and Install
+### 1. Install Dependencies
 
 ```bash
-git clone <repository-url>
-cd personal-agent
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
 ### 2. Configure Environment
 
-Create a `.env` file in the project root:
-
-```env
-# Telegram
-TELEGRAM_BOT_TOKEN=your_bot_token
-TELEGRAM_WEBHOOK_URL=https://your-domain.com/webhook
-
-# Azure OpenAI
-AZURE_OPENAI_ENDPOINT=https://your-instance.openai.azure.com/
-AZURE_OPENAI_API_KEY=your_api_key
-AZURE_OPENAI_DEPLOYMENT=gpt-4
-AZURE_OPENAI_EMBEDDING_DEPLOYMENT=text-embedding-ada-002
-
-# Azure AD (Microsoft Graph) - Optional
-AZURE_CLIENT_ID=your_client_id
-AZURE_CLIENT_SECRET=your_client_secret
-AZURE_TENANT_ID=your_tenant_id
-
-# Memory
-QDRANT_HOST=localhost
-QDRANT_PORT=6333
-
-# App
-APP_SECRET_KEY=your_secret_key
-ALLOWED_TELEGRAM_USERS=123456789,987654321  # Comma-separated user IDs, empty = allow all
-```
-
-### 3. Start Services
+Create a `.env` file:
 
 ```bash
-# Start Qdrant vector database
-docker-compose up -d qdrant
+# Microsoft 365 OAuth (required)
+AZURE_CLIENT_ID=your-client-id
+AZURE_CLIENT_SECRET=your-client-secret
+AZURE_TENANT_ID=your-tenant-id
 
-# Run the application
-uvicorn src.main:app --host 0.0.0.0 --port 8000
+# App Settings
+APP_SECRET_KEY=your-secret-key-for-token-encryption
+APP_BASE_URL=http://localhost:8000
+
+# Harvest (optional)
+HARVEST_ACCOUNT_ID=your-account-id
+HARVEST_ACCESS_TOKEN=your-access-token
 ```
 
-Or run everything with Docker:
+### 3. Authenticate with Microsoft 365
 
 ```bash
-docker-compose up -d
+python auth_server.py            # Opens browser automatically
+python auth_server.py --headless # For headless/remote servers
 ```
 
-### 4. Set Up Telegram Webhook
+For headless mode, copy the printed auth URL and open it in any browser.
+Tokens are stored in `tokens.db`.
 
-The application automatically sets the webhook on startup. Ensure your `TELEGRAM_WEBHOOK_URL` is publicly accessible (use ngrok for local development).
+### 4. Use with Claude Code
+
+The MCP server is configured in `.mcp.json`. When you open the project in Claude Code, approve the `personal-tools` server when prompted.
+
+To auto-approve, add to `.claude/settings.local.json`:
+```json
+{
+  "enableAllProjectMcpServers": true
+}
+```
 
 ## Azure AD Configuration
 
-To enable Microsoft 365 integration, register an Azure AD application:
+Register an Azure AD application at [Azure Portal](https://portal.azure.com):
 
-1. Go to [Azure Portal](https://portal.azure.com) > Azure Active Directory > App registrations
+1. Go to Azure Active Directory > App registrations
 2. Create a new registration
-3. Add a redirect URI: `https://your-domain.com/auth/callback`
+3. Add redirect URI: `http://localhost:8000/auth/callback` (or your `APP_BASE_URL`)
 4. Create a client secret under "Certificates & secrets"
 5. Add API permissions:
    - `Calendars.Read`
@@ -111,106 +90,126 @@ To enable Microsoft 365 integration, register an Azure AD application:
    - `OnlineMeetings.Read`
    - `OnlineMeetingTranscript.Read.All`
 
-## Bot Commands
-
-| Command | Description |
-|---------|-------------|
-| `/start` | Show welcome message and available commands |
-| `/status` | Check bot status and connections |
-| `/connect` | Connect your Microsoft 365 account |
-| `/disconnect` | Disconnect Microsoft 365 |
-| `/memories` | View stored memories |
-| `/clear` | Clear all memories and conversation history |
-
-## Available Tools
-
-When Microsoft 365 is connected, the agent can use these tools:
+## MCP Tools
 
 ### Calendar
-- `get_calendar_events` - Get upcoming/past calendar events
-- `get_today_events` - Get today's events
-- `get_events_for_date` - Get events for a specific date
-- `get_past_events` - Get events from recent days
+- `get_calendar_events` - Get events (past and/or future)
+- `get_today_events` - Today's schedule
+- `get_events_for_date` - Events for a specific date
+- `get_past_events` - Recent past events
 
 ### Email
-- `get_emails` - Get recent emails (with optional search)
-- `get_email_details` - Get full content of a specific email
+- `get_emails` - Emails from any folder (inbox, sentitems, drafts, etc.)
+- `get_sent_emails` - Emails you have sent
+- `get_email_details` - Full email content by ID
+- `get_messages_from_person` - Emails and Teams messages from a person
 
 ### Teams
-- `get_teams_chats` - Get recent Teams chat conversations
-- `get_chat_messages` - Get messages from a specific chat
+- `get_teams_chats` - Recent chat conversations
+- `get_chat_messages` - Messages from a specific chat
+- `get_my_teams_messages` - Teams messages you have sent
 
-### Files
-- `search_files` - Search OneDrive and SharePoint
-- `get_recent_files` - Get recently accessed files
-- `get_file_content` - Download and read file content (supports .docx, .xlsx, .pptx, .pdf, .txt, .md, .csv, .json, etc.)
+### Files (OneDrive/SharePoint)
+- `search_files` - Search for documents
+- `get_recent_files` - Recently accessed files
+- `read_document` - Search and read document content
+- `get_file_content` - Get file by ID
 
-### Meetings
-- `get_recent_meetings` - Get Teams meetings from calendar
-- `get_meeting_summary` - Get Copilot insights and transcript for a meeting
-- `get_all_transcripts` - List available meeting transcripts
-- `get_transcript_by_meeting_id` - Get transcript by meeting ID
-- `list_meetings_with_transcripts` - Debug transcript availability
+### Meetings & Transcripts
+- `get_recent_meetings` - Teams meetings from calendar
+- `get_meeting_summary` - Copilot AI insights + transcript
+- `get_all_transcripts` - Available transcripts
+- `get_transcript_by_meeting_id` - Transcript for specific meeting
+- `get_meetings_for_date` - Meetings on a specific date
 
-### People
-- `get_messages_from_person` - Get recent emails and Teams messages from a specific person
+### Harvest Time Tracking
+- `harvest_get_projects` - Active projects
+- `harvest_get_project_details` - Project with budget status
+- `harvest_get_time_entries` - Time entries with filters
+- `harvest_get_team` - Team members
+- `harvest_get_team_member` - Member with assignments
+- `harvest_team_report` - Team utilization
+- `harvest_project_report` - Project hours summary
+- `harvest_today_tracking` - Today's time entries
+- `harvest_my_time` - Current user's entries
+- `harvest_running_timers` - Active timers
+- `harvest_client_report` - Time by client
+
+### Utility
+- `check_connection_status` - Check Microsoft/Harvest connection
+
+## Knowledge Base
+
+Store notes in the `knowledge/` directory:
+
+```
+knowledge/
+├── index.md         # Quick reference and overview
+├── projects/        # Project notes and context
+├── people/          # Information about colleagues
+├── clients/         # Client profiles and history
+├── meetings/        # Meeting notes and action items
+├── decisions/       # Key decisions with reasoning
+└── processes/       # Workflows and procedures
+```
+
+Works great with [Obsidian](https://obsidian.md/) as a vault.
+
+## Custom Agents
+
+Specialized agents in `.claude/agents/`:
+
+| Agent | Purpose |
+|-------|---------|
+| `weekly-summary` | Summarize a week's activities |
+| `daily-briefing` | Morning overview |
+| `meeting-prep` | Prepare for upcoming meetings |
+| `meeting-notes` | Extract and save meeting notes |
+| `person-context` | Gather context about someone |
+| `project-status` | Status report for a project |
+| `triage` | Prioritize incoming work |
+| `time-review` | Analyze time tracking data |
+
+Use with `/agent <name>` or ask naturally.
 
 ## Project Structure
 
 ```
-src/
-├── main.py                 # FastAPI app entry point
-├── config.py               # Environment configuration
-├── agent/
-│   ├── orchestrator.py     # Main agent logic with agentic loop
-│   ├── prompts.py          # System prompts
-│   └── tools.py            # Tool definitions and executor
-├── bot/
-│   ├── telegram_handler.py # Telegram webhook handler
-│   └── commands.py         # Bot command handlers
-├── llm/
-│   └── azure_openai.py     # Azure OpenAI client
-├── memory/
-│   ├── mem0_client.py      # Long-term memory (Mem0)
-│   └── conversation_history.py # Short-term conversation context
-└── microsoft/
-    ├── auth.py             # Microsoft OAuth flow
-    ├── graph_client.py     # MS Graph API client
-    └── copilot_client.py   # Meeting insights client
+personal-agent/
+├── mcp_server.py          # MCP server entry point
+├── auth_server.py         # OAuth authentication server
+├── tokens.db              # Encrypted OAuth tokens
+├── .mcp.json              # MCP server config
+├── .claude/agents/        # Custom Claude Code agents
+├── knowledge/             # Markdown knowledge base
+└── src/
+    ├── config.py          # Settings from .env
+    ├── mcp/
+    │   ├── server.py      # MCP server implementation
+    │   └── tools.py       # Tool handlers
+    ├── microsoft/
+    │   ├── auth.py        # OAuth + token storage
+    │   ├── graph_client.py    # Graph API client
+    │   └── copilot_client.py  # Meeting transcripts + AI
+    └── harvest/
+        └── client.py      # Harvest API client
 ```
 
-## How It Works
+## Troubleshooting
 
-1. **User sends a message** via Telegram
-2. **Webhook receives update** and passes to TelegramHandler
-3. **AgentOrchestrator processes** the message:
-   - Searches long-term memory for relevant context
-   - Retrieves recent conversation history
-   - Builds system prompt with memory and M365 status
-   - Sends to Azure OpenAI with available tools
-4. **Agentic loop** executes if tools are needed (max 5 rounds)
-5. **Response sent back** to user via Telegram
-6. **Exchange stored** in both conversation history and long-term memory
+### "Microsoft 365 not connected" Error
+Run `python auth_server.py` to authenticate.
 
-## Development
+### "Harvest not configured" Error
+Set `HARVEST_ACCOUNT_ID` and `HARVEST_ACCESS_TOKEN` in `.env`.
 
-### Running Locally
+### Token Refresh Issues
+Delete `tokens.db` and re-authenticate.
 
-For local development with webhook, use ngrok:
-
-```bash
-ngrok http 8000
-```
-
-Update `TELEGRAM_WEBHOOK_URL` with the ngrok URL.
-
-### Logs
-
-Logs are written to stdout with INFO level by default. Check logs for:
-- Message processing
-- Tool execution
-- Memory operations
-- OAuth flow
+### MCP Server Not Connecting
+1. Approve the MCP server when prompted by Claude Code
+2. Check Python and dependencies are installed
+3. Run `python mcp_server.py` manually to see errors
 
 ## License
 
