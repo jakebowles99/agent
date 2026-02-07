@@ -75,8 +75,17 @@ Response to RFP from Euroleague Basketball for a comprehensive digital platform,
 - [2026-02-03 Question Set Review](../meetings/2026-02-03-euroleague-question-set.md)
 
 ## Status
-- **Phase**: RFP Response Preparation
+- **Phase**: RFP Response Preparation - Estimating
 - **Deadline**: Feb 11, 2026 23:59 CET
+- **Next Action**: Estimates due Monday (Feb 10)
+- **Blockers**: None
+
+## Latest Updates (Feb 7)
+- Charlie requested estimates in days (min 0.25 days)
+- Anand created workflow/scope analysis visual
+- Divya shared Competition Engine Figma designs
+- Q&A responses reviewed - useful process flow info received
+- Anand booking Monday afternoon session to compile response
 
 ## Related
 - [Euroleague Basketball Client](../clients/euroleague-basketball.md)
