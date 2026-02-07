@@ -60,11 +60,16 @@ Response to RFP from Euroleague Basketball for a comprehensive digital platform,
 - **Competition rules variability**: May be treated as post-delivery evolutive work rather than maintenance
 
 ## Team Assignments
-- **Charlie** - Lead, overall coordination
-- **Jake** - Technical architecture, RFP writing
-- **Anand** - Development estimates
-- **Tarun** - Backend considerations
-- **Divya** - Frontend/UI considerations
+- **Charlie** - Lead, overall coordination, final say on estimates
+- **Jake** - Technical architecture, RFP writing, estimates
+- **Anand** - Development estimates, workflow analysis, Q&A documentation
+- **Tarun** - Backend considerations, estimates
+- **Divya** - Frontend/UI design, Figma mockups
+
+### Estimation Notes (Feb 7)
+- Estimates in **days**, minimum 0.25 days
+- Charlie will bump up estimates and wants final say
+- Jake and Tarun need to provide inputs by Monday
 
 ## Meetings
 - [2026-02-03 Question Set Review](../meetings/2026-02-03-euroleague-question-set.md)
