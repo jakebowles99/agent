@@ -23,7 +23,7 @@ This is your personal knowledge base - a structured collection of notes and info
 | [Capital HB Fabric](projects/capital-hb-fabric.md) | Capital Hair & Beauty | **SOW signed Feb 6**, kickoff Mon 2:30pm confirmed |
 | [Leadenhall LemonEdge](projects/leadenhall-lemonedge.md) | Leadenhall Capital | UAT import successful |
 | [Jensten Overview](projects/jensten-overview.md) | Jensten Group | Multiple SOWs pending |
-| [FABCON Atlanta 2026](projects/fabcon-atlanta-2026.md) | - | March 8-12 (decision pending) |
+| [FABCON Atlanta 2026](projects/fabcon-atlanta-2026.md) | - | **VISA DECLINED** - cannot attend |
 
 ### Clients
 
