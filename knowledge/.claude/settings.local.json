@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "personal-tools"
+  ],
+  "enableAllProjectMcpServers": true
+}
