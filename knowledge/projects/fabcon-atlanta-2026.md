@@ -28,11 +28,14 @@ Use this code when registering a second attendee.
 
 Book hotel accommodation before Feb 22 to get conference rate.
 
-## Status Update (Feb 6, 2026)
+## Status Update (Feb 7, 2026)
 
-**Decision**: Likely skipping Atlanta March 2026 due to time constraints.
+**Decision**: Cannot attend - US Visa DECLINED
 
-> "So turns out I can only move Fabcon to next year also in Atlanta. I am leaning towards that still because just do not have time" - Jake Bowles
+> "The issue I have is that mine and my colleague's Visa has been declined for the US…" - Jake Bowles (Feb 7)
+
+Previous status (Feb 6): Was considering skipping due to time constraints.
+Now confirmed: **Visa declined - cannot attend Atlanta.**
 
 ### Transfer Attempt - BLOCKED
 Attempted to transfer registration to European event (Barcelona):
