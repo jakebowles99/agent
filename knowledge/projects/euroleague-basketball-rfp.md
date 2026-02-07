@@ -23,14 +23,38 @@ Response to RFP from Euroleague Basketball for a comprehensive digital platform,
 
 ### Key Topics
 1. **Registration Portal** - User registration and management system
-2. **Data Integration** - Connection with existing data sources
-3. **Real-time APIs** - Live data feeds and synchronization
-4. **Live Stats** - Real-time statistics display and processing
+2. **Competition Engine** - Competition management and scheduling
+3. **Data Integration** - Connection with existing data sources
+4. **Real-time APIs** - Live data feeds and synchronization
+5. **Live Stats** - Real-time statistics display and processing
+
+### Competition Engine Portal Sections
+*(from Divya's Figma designs - Feb 6)*
+1. Dashboard
+2. Fixtures
+3. Games
+4. Rosters
+5. Uniforms
+6. Attendance
+7. Documents
+8. Club Admin (role-based)
+9. Profile & Audit
+
+**Figma**: https://www.figma.com/design/mw3nVL6kuH5evRmpBDGvSh/Euroleague--Competition-Portal
+
+### Key Workflows (identified by Anand)
+1. **Club creation and maintenance**
+2. **Player registration and eligibility checking**
+3. **Game roster management and distribution**
+
+*Note: Eligibility and roster have many interlocking points, particularly close to game day and game start.*
 
 ### Technical Requirements
 - Scalable platform architecture
 - Real-time data processing capabilities
 - Integration with existing Euroleague systems
+- **Testing**: 100% unit test coverage for business logic in code; automated regression/integration tests for Power Platform (Power Apps, Power Automate)
+- **Competition rules variability**: May be treated as post-delivery evolutive work rather than maintenance
 
 ## Team Assignments
 - **Charlie** - Lead, overall coordination
