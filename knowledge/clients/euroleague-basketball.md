@@ -22,10 +22,16 @@ Premier professional basketball league in Europe, organizing top-tier club compe
 | Competition | Multiple vendors expected |
 
 ## Requirements (from RFP)
-1. Registration Portal - User management system
-2. Data Integration - Connect existing data sources
-3. Real-time APIs - Live data feeds
-4. Live Stats - Real-time statistics display
+1. **Registration Portal** - User management system
+2. **Competition Engine** - Competition management portal with Dashboard, Fixtures, Games, Rosters, Uniforms, Attendance, Documents, Club Admin
+3. **Data Integration** - Connect existing data sources
+4. **Real-time APIs** - Live data feeds
+5. **Live Stats** - Real-time statistics display
+
+### Key Workflows
+- Club creation and maintenance
+- Player registration and eligibility checking
+- Game roster management and distribution
 
 ## Team Assigned
 - [Charlie Phipps-Bennett](../people/charlie-phipps-bennett.md) - Lead
