@@ -18,9 +18,10 @@ web/dist/
 *.swp
 
 # Local data
-*.db
 .env.backup*
 
-# Misc
-*.md
+# Logs (generated at runtime)
+logs/
+
+# OS
 .DS_Store

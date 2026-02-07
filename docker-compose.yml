@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  monitor:
+    build: .
+    container_name: personal-agent-monitor
+    restart: unless-stopped
+    environment:
+      # Azure AI Foundry (Claude API)
+      - CLAUDE_CODE_USE_FOUNDRY=1
+      - ANTHROPIC_FOUNDRY_API_KEY=${ANTHROPIC_FOUNDRY_API_KEY}
+      - ANTHROPIC_FOUNDRY_BASE_URL=${ANTHROPIC_FOUNDRY_BASE_URL}
+      - ANTHROPIC_DEFAULT_OPUS_MODEL=claude-opus-4-5
+      - ANTHROPIC_DEFAULT_MODEL=opus
+      # Microsoft 365 OAuth
+      - AZURE_CLIENT_ID=${AZURE_CLIENT_ID}
+      - AZURE_CLIENT_SECRET=${AZURE_CLIENT_SECRET}
+      - AZURE_TENANT_ID=${AZURE_TENANT_ID}
+      # Harvest
+      - HARVEST_ACCOUNT_ID=${HARVEST_ACCOUNT_ID}
+      - HARVEST_ACCESS_TOKEN=${HARVEST_ACCESS_TOKEN}
+    volumes:
+      - .:/app                          # Mount entire repo for git operations
+      - ./logs:/app/logs
+      - ${HOME}/.ssh:/root/.ssh:ro       # SSH keys for git push
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

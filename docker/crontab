@@ -1,0 +1,1 @@
+*/15 * * * * cd /app && /usr/local/bin/run-monitor.sh >> /var/log/monitor.log 2>&1

@@ -2,7 +2,7 @@
   "mcpServers": {
     "personal-tools": {
       "command": "python",
-      "args": ["/Users/jake/proj/personal-agent/mcp_server.py"]
+      "args": ["/home/jake/proj/agent/mcp_server.py"]
     }
   }
 }
