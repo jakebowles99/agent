@@ -46,4 +46,4 @@ Premier professional basketball league in Europe, organizing top-tier club compe
 - Deadline extended from Feb 10 to Feb 11
 
 ---
-*Last Updated: February 2026*
+*Last Updated: February 7, 2026*
