@@ -58,9 +58,10 @@ Attempted to transfer registration to European event (Barcelona):
 - Second person TBD
 
 ## Action Items
-- [x] Decide on Atlanta attendance - **Leaning no**
+- [x] Decide on Atlanta attendance - **Cannot attend (Visa declined)**
 - [x] Inquire about transfer to Barcelona - **Not possible (different organizer)**
-- [ ] Make final decision on Atlanta
+- [x] Make final decision on Atlanta - **Final: Not attending**
+- [ ] Wait for response from Sharon on alternative options (2027 postponement?)
 - [ ] Register separately for Barcelona if proceeding with October plan
 - [ ] Coordinate with Nandan for October trip
 
