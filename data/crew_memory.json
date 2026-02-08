@@ -3,6 +3,11 @@
     "last_runs": [
       {
         "status": "error",
+        "error": "(DeploymentNotFound) The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.\nCode: DeploymentNotFound\nMessage: The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.",
+        "timestamp": "2026-02-08T12:03:31.286577+00:00"
+      },
+      {
+        "status": "error",
         "error": "Azure AI Inference native provider not available, to install: uv add \"crewai[azure-ai-inference]\"",
         "timestamp": "2026-02-08T12:01:29.580303+00:00"
       },
@@ -32,7 +37,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 5,
+      "total_runs": 6,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -45,7 +50,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-08T12:01:29.580314+00:00",
+    "last_updated": "2026-02-08T12:03:31.286585+00:00",
     "version": "1.0"
   }
 }
