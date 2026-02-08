@@ -109,21 +109,39 @@ class GetEmailsInput(BaseModel):
     """Input for getting emails."""
     limit: int = Field(default=10, description="Maximum emails to return")
     folder: str = Field(default="inbox", description="Mail folder: inbox, sentitems, drafts")
+    since_minutes: int | None = Field(default=None, description="Only return emails from the last N minutes")
 
 
 class GetEmailsTool(BaseTool):
     """Get emails from Microsoft 365."""
 
     name: str = "get_emails"
-    description: str = "Get emails from a folder. Supports inbox, sentitems, drafts."
+    description: str = "Get emails from a folder. Supports inbox, sentitems, drafts. Use since_minutes to filter to recent emails only."
     args_schema: Type[BaseModel] = GetEmailsInput
 
-    def _run(self, limit: int = 10, folder: str = "inbox") -> str:
+    def _run(self, limit: int = 10, folder: str = "inbox", since_minutes: int | None = None) -> str:
         async def _fetch():
             client = await _get_graph_client()
             if not client:
                 return json.dumps({"error": "Microsoft 365 not connected"})
             emails = await client.get_emails(limit=limit, folder=folder)
+
+            # Filter by time if since_minutes is specified
+            if since_minutes is not None and emails:
+                cutoff = datetime.now(timezone.utc) - timedelta(minutes=since_minutes)
+                filtered = []
+                for email in emails:
+                    received = email.get("received", "")
+                    if received:
+                        try:
+                            # Parse ISO format timestamp
+                            email_time = datetime.fromisoformat(received.replace("Z", "+00:00"))
+                            if email_time >= cutoff:
+                                filtered.append(email)
+                        except (ValueError, TypeError):
+                            pass  # Skip emails with unparseable timestamps
+                emails = filtered
+
             return json.dumps(emails, default=str)
         return _run_async(_fetch())
 
@@ -131,21 +149,38 @@ class GetEmailsTool(BaseTool):
 class GetSentEmailsInput(BaseModel):
     """Input for getting sent emails."""
     limit: int = Field(default=10, description="Maximum emails to return")
+    since_minutes: int | None = Field(default=None, description="Only return emails from the last N minutes")
 
 
 class GetSentEmailsTool(BaseTool):
     """Get sent emails."""
 
     name: str = "get_sent_emails"
-    description: str = "Get emails you have sent."
+    description: str = "Get emails you have sent. Use since_minutes to filter to recent emails only."
     args_schema: Type[BaseModel] = GetSentEmailsInput
 
-    def _run(self, limit: int = 10) -> str:
+    def _run(self, limit: int = 10, since_minutes: int | None = None) -> str:
         async def _fetch():
             client = await _get_graph_client()
             if not client:
                 return json.dumps({"error": "Microsoft 365 not connected"})
             emails = await client.get_sent_emails(limit=limit)
+
+            # Filter by time if since_minutes is specified
+            if since_minutes is not None and emails:
+                cutoff = datetime.now(timezone.utc) - timedelta(minutes=since_minutes)
+                filtered = []
+                for email in emails:
+                    sent = email.get("sent", "")
+                    if sent:
+                        try:
+                            email_time = datetime.fromisoformat(sent.replace("Z", "+00:00"))
+                            if email_time >= cutoff:
+                                filtered.append(email)
+                        except (ValueError, TypeError):
+                            pass
+                emails = filtered
+
             return json.dumps(emails, default=str)
         return _run_async(_fetch())
 
@@ -156,21 +191,38 @@ class GetSentEmailsTool(BaseTool):
 class GetTeamsChatsInput(BaseModel):
     """Input for getting Teams chats."""
     limit: int = Field(default=10, description="Maximum chats to return")
+    since_minutes: int | None = Field(default=None, description="Only return chats with activity in the last N minutes")
 
 
 class GetTeamsChatsTool(BaseTool):
     """Get recent Teams chats."""
 
     name: str = "get_teams_chats"
-    description: str = "Get recent Teams chat conversations (1:1 and group DMs)."
+    description: str = "Get recent Teams chat conversations (1:1 and group DMs). Use since_minutes to filter to chats with recent activity only."
     args_schema: Type[BaseModel] = GetTeamsChatsInput
 
-    def _run(self, limit: int = 10) -> str:
+    def _run(self, limit: int = 10, since_minutes: int | None = None) -> str:
         async def _fetch():
             client = await _get_graph_client()
             if not client:
                 return json.dumps({"error": "Microsoft 365 not connected"})
             chats = await client.get_teams_chats(limit=limit)
+
+            # Filter by last message time if since_minutes is specified
+            if since_minutes is not None and chats:
+                cutoff = datetime.now(timezone.utc) - timedelta(minutes=since_minutes)
+                filtered = []
+                for chat in chats:
+                    last_msg_time = chat.get("last_message_time", "")
+                    if last_msg_time:
+                        try:
+                            chat_time = datetime.fromisoformat(last_msg_time.replace("Z", "+00:00"))
+                            if chat_time >= cutoff:
+                                filtered.append(chat)
+                        except (ValueError, TypeError):
+                            pass
+                chats = filtered
+
             return json.dumps(chats, default=str)
         return _run_async(_fetch())
 
@@ -179,21 +231,38 @@ class GetChatMessagesInput(BaseModel):
     """Input for getting chat messages."""
     chat_id: str = Field(description="The chat ID to get messages from")
     limit: int = Field(default=20, description="Maximum messages to return")
+    since_minutes: int | None = Field(default=None, description="Only return messages from the last N minutes")
 
 
 class GetChatMessagesTool(BaseTool):
     """Get messages from a specific Teams chat."""
 
     name: str = "get_chat_messages"
-    description: str = "Get messages from a specific Teams chat by ID."
+    description: str = "Get messages from a specific Teams chat by ID. Use since_minutes to filter to recent messages only."
     args_schema: Type[BaseModel] = GetChatMessagesInput
 
-    def _run(self, chat_id: str, limit: int = 20) -> str:
+    def _run(self, chat_id: str, limit: int = 20, since_minutes: int | None = None) -> str:
         async def _fetch():
             client = await _get_graph_client()
             if not client:
                 return json.dumps({"error": "Microsoft 365 not connected"})
             messages = await client.get_chat_messages(chat_id=chat_id, limit=limit)
+
+            # Filter by time if since_minutes is specified
+            if since_minutes is not None and messages:
+                cutoff = datetime.now(timezone.utc) - timedelta(minutes=since_minutes)
+                filtered = []
+                for msg in messages:
+                    created = msg.get("created", "")
+                    if created:
+                        try:
+                            msg_time = datetime.fromisoformat(created.replace("Z", "+00:00"))
+                            if msg_time >= cutoff:
+                                filtered.append(msg)
+                        except (ValueError, TypeError):
+                            pass
+                messages = filtered
+
             return json.dumps(messages, default=str)
         return _run_async(_fetch())
 
@@ -244,16 +313,17 @@ class GetChannelMessagesInput(BaseModel):
     team_id: str = Field(description="The Team ID")
     channel_id: str = Field(description="The Channel ID")
     limit: int = Field(default=20, description="Maximum messages to return")
+    since_minutes: int | None = Field(default=None, description="Only return messages from the last N minutes")
 
 
 class GetChannelMessagesTool(BaseTool):
     """Get messages from a Teams channel."""
 
     name: str = "get_channel_messages"
-    description: str = "Get messages from a Teams channel."
+    description: str = "Get messages from a Teams channel. Use since_minutes to filter to recent messages only."
     args_schema: Type[BaseModel] = GetChannelMessagesInput
 
-    def _run(self, team_id: str, channel_id: str, limit: int = 20) -> str:
+    def _run(self, team_id: str, channel_id: str, limit: int = 20, since_minutes: int | None = None) -> str:
         async def _fetch():
             client = await _get_graph_client()
             if not client:
@@ -261,6 +331,22 @@ class GetChannelMessagesTool(BaseTool):
             messages = await client.get_channel_messages(
                 team_id=team_id, channel_id=channel_id, limit=limit
             )
+
+            # Filter by time if since_minutes is specified
+            if since_minutes is not None and messages:
+                cutoff = datetime.now(timezone.utc) - timedelta(minutes=since_minutes)
+                filtered = []
+                for msg in messages:
+                    created = msg.get("created", "")
+                    if created:
+                        try:
+                            msg_time = datetime.fromisoformat(created.replace("Z", "+00:00"))
+                            if msg_time >= cutoff:
+                                filtered.append(msg)
+                        except (ValueError, TypeError):
+                            pass
+                messages = filtered
+
             return json.dumps(messages, default=str)
         return _run_async(_fetch())
 

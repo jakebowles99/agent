@@ -23,38 +23,39 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
         description=f"""Collect ALL data from all sources for the monitoring window.
         Current time: {timestamp} UTC
 
-        Gather EVERYTHING from the last 15 minutes:
+        IMPORTANT: Use since_minutes=15 on ALL tools that support it to STRICTLY filter to the last 15 minutes only.
 
         **Emails:**
-        1. get_emails(limit=20) - get recent inbox emails
-        2. get_sent_emails(limit=10) - get sent emails
+        1. get_emails(limit=20, since_minutes=15) - get inbox emails from last 15 min
+        2. get_sent_emails(limit=10, since_minutes=15) - get sent emails from last 15 min
 
         **Teams Chats (DMs):**
-        3. get_teams_chats(limit=20) - get chat list with last_message_time
-        4. For each chat with activity in last 15 min: get_chat_messages(chat_id, limit=10)
+        3. get_teams_chats(limit=20, since_minutes=15) - get chats with activity in last 15 min
+        4. For each chat returned: get_chat_messages(chat_id, limit=10, since_minutes=15)
 
         **Teams Channels:**
         5. get_joined_teams() - get all teams
         6. For each team: get_team_channels(team_id)
-        7. For active channels: get_channel_messages(team_id, channel_id, limit=10)
+        7. For each channel: get_channel_messages(team_id, channel_id, limit=10, since_minutes=15)
 
         **Calendar:**
-        8. get_today_events() - today's schedule
+        8. get_today_events() - today's schedule (for context only)
 
         **Time Tracking:**
         9. harvest_running_timers() - any active timer
         10. harvest_today_tracking() - today's time entries
 
-        Return ALL items found, filtering to last 15 minutes where timestamps are available.""",
-        expected_output="""Complete data dump with:
-        - emails: ALL recent emails (id, timestamp, from, to, subject, preview)
-        - sent_emails: ALL sent emails (id, timestamp, to, subject, preview)
-        - teams_chats: ALL chat messages (chat_id, chat_name, timestamp, from, content)
-        - teams_channels: ALL channel messages (team, channel, timestamp, from, subject, content)
-        - calendar: today's events (id, subject, start, end, attendees)
+        CRITICAL: Only process items from the last 15 minutes. The since_minutes parameter enforces this strictly.""",
+        expected_output="""Data from the last 15 minutes only:
+        - emails: emails received in last 15 min (id, timestamp, from, to, subject, preview) - may be empty
+        - sent_emails: emails sent in last 15 min (id, timestamp, to, subject, preview) - may be empty
+        - teams_chats: chat messages from last 15 min (chat_id, chat_name, timestamp, from, content) - may be empty
+        - teams_channels: channel messages from last 15 min (team, channel, timestamp, from, subject, content) - may be empty
+        - calendar: today's events for context (id, subject, start, end, attendees)
         - harvest_timers: running timers (project, task, hours)
         - harvest_today: today's entries (project, task, hours, notes)
-        - counts: {emails: X, sent: X, chat_messages: X, channel_messages: X}""",
+        - counts: {emails: X, sent: X, chat_messages: X, channel_messages: X}
+        Note: Counts may be 0 if no activity in the 15-minute window.""",
         agent=data_collector,
     )
 
@@ -147,7 +148,8 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
         - Read existing files BEFORE writing to avoid duplicates
         - Append to existing files, don't overwrite
         - Create new files/directories as needed
-        - If no activity, still update inbox.md with "No new activity" entry""",
+        - If no activity in the 15-minute window, update inbox.md with "No new activity" entry
+        - Only archive items that were in the 15-minute window - do NOT archive older items""",
         expected_output="""Archive report:
         - files_created: [list of new files created]
         - files_updated: [list of files appended to]
