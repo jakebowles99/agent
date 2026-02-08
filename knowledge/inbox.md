@@ -1,3 +1,31 @@
+## 2026-02-08 21:30 (15-min window: 21:15 - 21:30 UTC)
+
+### Actions Required
+- [ ] **RESPOND:** Kristy Lovegrove (Pro-Global CTO) re: Jensten - schedule 30-min call tomorrow (Sun Feb 9) for SME support discussion. She will provide rates, knowledge, and info on Pro. Email received 21:22 UTC.
+- [ ] **SOWs Signed:** (Carried forward) File the completed SOW011 (DevOps Training) and SOW012 (AI Support) documents
+
+### Documentation Updated
+- emails/2026-02-08.md — added Kristy Lovegrove email about Jensten SME support
+
+### Summary (last 15 min only)
+- **New emails:** 1 (1 needs response - from Kristy Lovegrove, Pro-Global CTO)
+- **New Teams messages:** 0
+- **Meetings started/ended:** 0
+- **Time tracking:** No active timer
+
+### Notes
+- **NEW CONTACT:** Kristy Lovegrove, CTO at Pro Insurance Solutions (Pro-Global)
+  - Email: kristy.lovegrove@pro-global.com
+  - Mobile: +44 (0) 7583895265
+- Matt Davies mentioned Jensten (typo: "Jenston") to Kristy
+- Kristy offers SME support from "Bas" for Jensten reporting work
+- Areas covered: risk capture, BDX (Bordereaux), Exposure Management
+- Pro-Global is an insurance services company (FCA regulated)
+- This aligns with Jensten being an insurance company - Pro-Global may be providing domain expertise
+- Tomorrow's Jensten Proposal meeting at 11:00 UTC - consider whether Kristy's call should be before or after
+
+---
+
 ## 2026-02-08 21:15 (15-min window: 21:00 - 21:15 UTC)
 
 ### Actions Required
