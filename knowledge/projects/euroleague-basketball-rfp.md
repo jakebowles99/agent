@@ -87,6 +87,10 @@ Response to RFP from Euroleague Basketball for a comprehensive digital platform,
 - Q&A responses reviewed - useful process flow info received
 - Anand booking Monday afternoon session to compile response
 
+## Resources
+- **Source Files**: https://synapxltd.sharepoint.com/:f:/s/SynapxDelivery-EuroleagueBasketball-RegistrationPortal/IgB3bVfneV2NS5VDOwVG6EPVAdW04AKDKMlPd0e9HlNOB5I?e=L07IWh
+- **Figma Designs**: https://www.figma.com/design/mw3nVL6kuH5evRmpBDGvSh/Euroleague--Competition-Portal
+
 ## Related
 - [Euroleague Basketball Client](../clients/euroleague-basketball.md)
 - [Graham Maher](../people/graham-maher.md)
