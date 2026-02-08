@@ -26,7 +26,8 @@ git config --global --add safe.directory /app
 # Set up cron job
 echo "*/15 * * * * /usr/local/bin/run-monitor.sh >> /app/logs/cron.log 2>&1" > /etc/cron.d/monitor-cron
 chmod 0644 /etc/cron.d/monitor-cron
-crontab /etc/cron.d/monitor-cron
+# Don't use 'crontab' - that expects user crontab format (no username field)
+# Just let cron daemon pick up the file from /etc/cron.d/
 
 # Start cron in foreground
 echo "Starting CrewAI autonomous monitor (15-min intervals)..."

@@ -9,9 +9,20 @@ if [ -f /app/.docker-env ]; then
     set +a
 fi
 
+# Ensure PATH includes python and node binaries
+export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
+
 cd /app
 
 echo "=== Monitor run: $(date) ==="
+
+# Quick MCP server health check - verify it can start
+echo "Checking MCP server..."
+if ! timeout 5 python -c "import mcp_server" 2>&1; then
+    echo "ERROR: MCP server module failed to import"
+    # Try to show the actual error
+    python -c "import mcp_server" 2>&1 || true
+fi
 
 # Pull any remote changes first
 git pull --rebase --autostash 2>/dev/null || true
