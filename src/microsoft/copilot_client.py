@@ -361,7 +361,7 @@ class MeetingInsightsClient:
 
     async def get_meeting_transcripts(self, meeting_id: str) -> list[dict]:
         """Get available transcripts for a specific meeting."""
-        url = f"{GRAPH_BASE_URL}/me/onlineMeetings/{meeting_id}/transcripts"
+        url = f"{GRAPH_BASE_URL}/me/onlineMeetings/{quote(meeting_id, safe='')}/transcripts"
 
         try:
             result = await self._request("GET", url)
@@ -387,7 +387,7 @@ class MeetingInsightsClient:
 
     async def get_transcript_content(self, meeting_id: str, transcript_id: str) -> str:
         """Get the content of a specific transcript in WebVTT format."""
-        url = f"{GRAPH_BASE_URL}/me/onlineMeetings/{meeting_id}/transcripts/{transcript_id}/content"
+        url = f"{GRAPH_BASE_URL}/me/onlineMeetings/{quote(meeting_id, safe='')}/transcripts/{quote(transcript_id, safe='')}/content"
 
         async with httpx.AsyncClient() as client:
             response = await client.get(

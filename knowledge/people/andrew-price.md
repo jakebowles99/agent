@@ -1,25 +1,7 @@
 # Andrew Price
 
-## Basic Info
-- **Role**: CEO
-- **Company**: Synapx
-- **Type**: Internal - Leadership
+- **Email:** andrew.price@synapx.com
+- **Last contact:** 2026-02-08
 
-## Responsibilities
-- Chief Executive Officer of Synapx
-- Overall business strategy and direction
-- Key client relationships
-
-## Projects
-- Involved in [Euroleague Basketball RFP](../projects/euroleague-basketball-rfp.md) review
-
-## Working Relationship
-- Company leadership
-- Involved in major opportunity decisions
-- Reviews significant proposals
-
-## Meetings
-- [2026-02-03 Euroleague Question Set](../meetings/2026-02-03-euroleague-question-set.md)
-
----
-*Last Updated: February 2026*
+## Recent interactions
+- **2026-02-08:** Asked in Teams (Jensten Check in) what ownership/workstreams I am taking on Jensten.

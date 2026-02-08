@@ -6,12 +6,11 @@ services:
     container_name: personal-agent-monitor
     restart: unless-stopped
     environment:
-      # Azure AI Foundry (Claude API)
-      - CLAUDE_CODE_USE_FOUNDRY=1
-      - ANTHROPIC_FOUNDRY_API_KEY=${ANTHROPIC_FOUNDRY_API_KEY}
-      - ANTHROPIC_FOUNDRY_BASE_URL=${ANTHROPIC_FOUNDRY_BASE_URL}
-      - ANTHROPIC_DEFAULT_OPUS_MODEL=claude-opus-4-5
-      - ANTHROPIC_DEFAULT_MODEL=opus
+      # Azure OpenAI (used by CrewAI)
+      - AZURE_API_KEY=${AZURE_API_KEY}
+      - AZURE_ENDPOINT=${AZURE_ENDPOINT}
+      - AZURE_API_VERSION=${AZURE_API_VERSION:-2024-12-01-preview}
+      - AZURE_DEPLOYMENT_NAME=${AZURE_DEPLOYMENT_NAME:-gpt5.2}
       # Microsoft 365 OAuth
       - AZURE_CLIENT_ID=${AZURE_CLIENT_ID}
       - AZURE_CLIENT_SECRET=${AZURE_CLIENT_SECRET}
@@ -19,12 +18,13 @@ services:
       # Harvest
       - HARVEST_ACCOUNT_ID=${HARVEST_ACCOUNT_ID}
       - HARVEST_ACCESS_TOKEN=${HARVEST_ACCESS_TOKEN}
-      # App secrets (needed for MCP server to decrypt tokens)
+      # App settings (for token encryption)
       - APP_SECRET_KEY=${APP_SECRET_KEY}
+      - APP_BASE_URL=${APP_BASE_URL:-http://localhost:8000}
     volumes:
       - .:/app                          # Mount entire repo for git operations
       - ./logs:/app/logs
-      - /home/jake/.ssh:/root/.ssh:ro     # SSH keys for git push
+      - /home/jake/.ssh:/mnt/ssh:ro      # SSH keys for git push (copied to /root/.ssh at startup)
     logging:
       driver: "json-file"
       options:
