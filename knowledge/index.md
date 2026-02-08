@@ -29,8 +29,8 @@ This is your personal knowledge base - a structured collection of notes and info
 
 | Client | Key Contact | Active Project |
 |--------|-------------|----------------|
-| [Midwich](clients/midwich.md) | Joe Thompson | Nimans Slipstream |
-| [Leadenhall Capital](clients/leadenhall-capital.md) | Tayo Eletu-Odibo | LemonEdge POC |
+| [Midwich](clients/midwich.md) | Joe Thompson | Slipstream (SOW009 pending) |
+| [LCP](clients/lcp.md) | Chris Learmonth | SOW005 FX Rates (draft), Lemonedge POC (pending) |
 | [Jensten Group](clients/jensten.md) | Dave | Multiple SOWs |
 | [Capital Hair & Beauty](clients/capital-hb.md) | Cristian Ettridge | Fabric/Power BI |
 | [Euroleague Basketball](clients/euroleague-basketball.md) | (via PMY Group) | RFP |
