@@ -91,4 +91,4 @@ Use the MCP server tools to gather information:
 - `harvest_*` tools - Time tracking and project data
 
 ---
-*Last Updated: February 7, 2026*
+*Last Updated: February 8, 2026*
