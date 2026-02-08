@@ -19,3 +19,8 @@ Teams chat messages for 2026-02-08.
 > She is a superstar 😉
 
 **Context:** Kim praising Sophia for her weekend work on the proposal.
+
+## 16:29 - Jake Bowles
+> fyi I have removed mention of F64 because I have a feeling we might regret putting that in writing when/if we blow past the limits of it
+
+**Context:** Jake flagging a change to the Jensten proposal - removed mention of F64 license to avoid potential issues if usage exceeds limits. This relates to Fabric licensing considerations for the Jensten engagement.
