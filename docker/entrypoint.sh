@@ -29,9 +29,11 @@ gosu claude git config --global user.name "Personal Agent Monitor"
 gosu claude git config --global --add safe.directory /app
 
 # Set up cron job to run as claude user
-echo "*/15 * * * * claude /usr/local/bin/run-monitor.sh >> /app/logs/cron.log 2>&1" > /etc/cron.d/monitor-cron
+# Note: /etc/cron.d/ format requires username field and trailing newline
+printf "*/15 * * * * claude /usr/local/bin/run-monitor.sh >> /app/logs/cron.log 2>&1\n" > /etc/cron.d/monitor-cron
 chmod 0644 /etc/cron.d/monitor-cron
-crontab /etc/cron.d/monitor-cron
+# Don't use 'crontab' - that expects user crontab format (no username field)
+# Just let cron daemon pick up the file from /etc/cron.d/
 
 # Start cron in foreground
 echo "Starting autonomous monitor (15-min intervals)..."

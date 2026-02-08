@@ -19,6 +19,8 @@ services:
       # Harvest
       - HARVEST_ACCOUNT_ID=${HARVEST_ACCOUNT_ID}
       - HARVEST_ACCESS_TOKEN=${HARVEST_ACCESS_TOKEN}
+      # App secrets (needed for MCP server to decrypt tokens)
+      - APP_SECRET_KEY=${APP_SECRET_KEY}
     volumes:
       - .:/app                          # Mount entire repo for git operations
       - ./logs:/app/logs
