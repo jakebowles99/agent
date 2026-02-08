@@ -97,4 +97,4 @@ Response to RFP from Euroleague Basketball for a comprehensive digital platform,
 - [Charlie Phipps-Bennett](../people/charlie-phipps-bennett.md)
 
 ---
-*Last Updated: February 7, 2026*
+*Last Updated: February 8, 2026*
