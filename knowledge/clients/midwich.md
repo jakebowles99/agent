@@ -19,15 +19,39 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 - First engagement through Nimans subsidiary
 - Focus on digital transformation and AI initiatives
 
-## Commercial History
+## SOW Summary
 
-| Project | Value | Status |
-|---------|-------|--------|
-| Nimans Slipstream | £20,950 + VAT | SOW in preparation |
+| SOW | Description | Value | Status |
+|-----|-------------|-------|--------|
+| SOW001 | Process Automation Project | - | Signed (Apr 2025) |
+| SOW002 | Technical Design | - | Signed (May 2025) |
+| SOW003 | Implementation | - | Signed (Aug 2025) |
+| SOW004 | Architecture Review & Strategy | - | Signed (Aug 2025) |
+| SOW005 | *Skipped* | - | - |
+| SOW006 | Centre of Excellence (CoE) | - | Draft (Dec 2025) |
+| SOW007 | Support Contract | - | Signed (Dec 2025) |
+| SOW008 | App Development & Roll Out | - | Draft (Jan 2026) |
+| SOW009 | Nimans Slipstream AI Extraction | £20,950 + VAT | Contract request submitted (Feb 6) |
+
+## Contract Requests Pending
+
+### Nimans Slipstream (SOW009)
+- **Request**: Submitted Feb 6, 2026 by Charlie to Compliance channel
+- **Value**: £20,950 + VAT
+- **USA Work**: Fully discounted (£0)
+- **Status**: Awaiting SOW draft from contracts team
+
+### Midwich Slipstream US
+- **Request**: Submitted Feb 5, 2026 by Jake to Compliance channel
+- **Status**: Awaiting SOW draft
 
 ## Notes
 - USA entity work provided at no additional cost
 - Strong interest in AI-powered automation
+- MSA signed April 2025
+
+## SharePoint
+- **Contracts**: [Synapx-Contracts > Midwich](https://synapxltd.sharepoint.com/sites/Synapx-Contracts/Shared%20Documents/Contracts/Clients/Midwich/)
 
 ---
-*Last Updated: February 2026*
+*Last Updated: February 8, 2026*
