@@ -24,6 +24,7 @@ services:
     volumes:
       - .:/app                          # Mount entire repo for git operations
       - ./logs:/app/logs
+      - /home/jake/.ssh:/mnt/ssh:ro      # SSH keys for git push (copied to /root/.ssh at startup)
     logging:
       driver: "json-file"
       options:

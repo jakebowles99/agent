@@ -4,6 +4,7 @@ import io
 import logging
 from datetime import datetime, timedelta, timezone
 from typing import Any
+from urllib.parse import quote
 
 import httpx
 
@@ -179,7 +180,7 @@ class GraphClient:
             "$select": "id,subject,from,toRecipients,receivedDateTime,body,isRead,importance,hasAttachments",
         }
 
-        result = await self._request("GET", f"/me/messages/{email_id}", params=params)
+        result = await self._request("GET", f"/me/messages/{quote(email_id, safe='')}", params=params)
 
         return {
             "id": result["id"],
@@ -388,7 +389,7 @@ class GraphClient:
             "$orderby": "createdDateTime desc",
         }
 
-        result = await self._request("GET", f"/me/chats/{chat_id}/messages", params=params)
+        result = await self._request("GET", f"/me/chats/{quote(chat_id, safe='')}/messages", params=params)
 
         messages = []
         for msg in result.get("value", []):
@@ -429,7 +430,7 @@ class GraphClient:
     async def get_team_channels(self, team_id: str, limit: int = 50) -> list[dict]:
         """Get channels for a specific Team."""
         # Note: /teams/{id}/channels does not support $top query parameter
-        result = await self._request("GET", f"/teams/{team_id}/channels")
+        result = await self._request("GET", f"/teams/{quote(team_id, safe='')}/channels")
 
         channels = []
         for channel in result.get("value", []):
@@ -447,7 +448,7 @@ class GraphClient:
         """Get messages from a Teams channel."""
         params = {"$top": limit}
 
-        result = await self._request("GET", f"/teams/{team_id}/channels/{channel_id}/messages", params=params)
+        result = await self._request("GET", f"/teams/{quote(team_id, safe='')}/channels/{quote(channel_id, safe='')}/messages", params=params)
 
         messages = []
         for msg in result.get("value", []):
@@ -477,7 +478,7 @@ class GraphClient:
         """Get replies to a specific channel message."""
         params = {"$top": limit}
 
-        result = await self._request("GET", f"/teams/{team_id}/channels/{channel_id}/messages/{message_id}/replies", params=params)
+        result = await self._request("GET", f"/teams/{quote(team_id, safe='')}/channels/{quote(channel_id, safe='')}/messages/{quote(message_id, safe='')}/replies", params=params)
 
         replies = []
         for msg in result.get("value", []):
@@ -568,10 +569,10 @@ class GraphClient:
         # Build the correct endpoint based on whether we have a drive_id
         if drive_id:
             # SharePoint or specific drive
-            base_path = f"/drives/{drive_id}/items/{file_id}"
+            base_path = f"/drives/{quote(drive_id, safe='')}/items/{quote(file_id, safe='')}"
         else:
             # Default to user's OneDrive
-            base_path = f"/me/drive/items/{file_id}"
+            base_path = f"/me/drive/items/{quote(file_id, safe='')}"
 
         logger.info(f"get_file_content: base_path={base_path}")
 
@@ -822,7 +823,7 @@ class GraphClient:
                     "$orderby": "createdDateTime desc",
                 }
                 msg_result = await self._request(
-                    "GET", f"/me/chats/{chat_id}/messages", params=msg_params
+                    "GET", f"/me/chats/{quote(chat_id, safe='')}/messages", params=msg_params
                 )
 
                 chat_messages = msg_result.get("value", [])
@@ -1160,7 +1161,7 @@ class GraphClient:
             chat_id = chat["id"]
             try:
                 # Get chat members
-                result = await self._request("GET", f"/me/chats/{chat_id}/members")
+                result = await self._request("GET", f"/me/chats/{quote(chat_id, safe='')}/members")
                 members = result.get("value", [])
 
                 for member in members:
@@ -1251,7 +1252,7 @@ class GraphClient:
         if folder_path == "root":
             endpoint = "/me/drive/root/children"
         else:
-            endpoint = f"/me/drive/root:/{folder_path}:/children"
+            endpoint = f"/me/drive/root:/{quote(folder_path, safe='/')}:/children"
 
         params = {
             "$select": "id,name,size,lastModifiedDateTime,folder,file,webUrl",
@@ -1276,9 +1277,9 @@ class GraphClient:
     async def get_file_info(self, file_id: str, drive_id: str | None = None) -> dict:
         """Get file metadata without downloading."""
         if drive_id:
-            endpoint = f"/drives/{drive_id}/items/{file_id}"
+            endpoint = f"/drives/{quote(drive_id, safe='')}/items/{quote(file_id, safe='')}"
         else:
-            endpoint = f"/me/drive/items/{file_id}"
+            endpoint = f"/me/drive/items/{quote(file_id, safe='')}"
 
         result = await self._request("GET", endpoint)
 

@@ -8,6 +8,16 @@ mkdir -p /app/logs /app/data
 # Filter to only include our app-specific vars
 env | grep -E '^(AZURE|ANTHROPIC_|HARVEST_|APP_)' > /app/.docker-env || true
 
+# Set up SSH keys for git push (if mounted at /mnt/ssh)
+if [ -d "/mnt/ssh" ] && [ "$(ls -A /mnt/ssh 2>/dev/null)" ]; then
+    mkdir -p /root/.ssh
+    cp /mnt/ssh/* /root/.ssh/ 2>/dev/null || true
+    chmod 700 /root/.ssh
+    chmod 600 /root/.ssh/* 2>/dev/null || true
+    # Add GitHub to known_hosts (prevents host key verification failure)
+    ssh-keyscan -t ed25519,rsa github.com >> /root/.ssh/known_hosts 2>/dev/null || true
+fi
+
 # Configure git
 git config --global user.email "monitor@personal-agent"
 git config --global user.name "Personal Agent Monitor"
