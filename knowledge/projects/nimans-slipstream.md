@@ -47,8 +47,16 @@ AI-powered extraction system for Midwich/Nimans to process inbound emails and ex
 
 ## Status
 - **Current Phase**: SOW preparation
-- **Action Required**: Jake to prepare Statement of Work
+- **Contract Request**: ✅ Submitted (Feb 6) - Charlie posted full scope to Synapx | Compliance channel
+- **SOW Draft**: ❌ Not yet created - Contracts team to action week of Feb 10
+- **Action Required**: Follow up with contracts team (Anuj/Charlotte) to create SOW009
 - **Latest Update**: Charlie sent refined scope to Joe (Feb 6)
+
+## Contract Request Details
+Posted by Charlie to **Synapx | Compliance > General** channel on Feb 6, 18:54:
+> "If not done so already can someone please create me a SoW next week for Nimans (Midwich Germany)"
+
+Full scope included in request. Expected SOW number: **SOW009**
 
 ## Key Decisions
 - USA entity work to be included at no additional cost
