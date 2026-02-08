@@ -3,6 +3,11 @@
     "last_runs": [
       {
         "status": "error",
+        "error": "Azure OpenAI not configured. Set AZURE_API_KEY and AZURE_ENDPOINT",
+        "timestamp": "2026-02-08T12:00:11.662804+00:00"
+      },
+      {
+        "status": "error",
         "error": "litellm.NotFoundError: NotFoundError: Azure_aiException - {\"error\":{\"code\":\"404\",\"message\": \"Resource not found\"}}",
         "timestamp": "2026-02-08T11:54:07.989742+00:00"
       },
@@ -22,7 +27,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 3,
+      "total_runs": 4,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -35,7 +40,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-08T11:54:07.989750+00:00",
+    "last_updated": "2026-02-08T12:00:11.662825+00:00",
     "version": "1.0"
   }
 }
