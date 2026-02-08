@@ -1,3 +1,54 @@
+## 2026-02-08 12:47
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 0 messages across 0 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Calendar:** No meetings captured in window
+- **Time Tracking:** No Harvest timers/entries captured in window
+
+### Action Items Detected
+- [ ] No new action items detected in this window.
+
+### Files Updated
+- inbox.md — prepended 2026-02-08 12:47 entry (no new activity captured).
+
+---
+
+## 2026-02-08 12:38
+
+### Changes This Window
+- **Emails:** 20 new ("Check in"; "Test 2"; "Test"; "Microsoft 365 security: You have messages in quarantine"; "Interview Scheduled  Azure SME | Synapx | Rahul Mahajan"; "Your services were disabled because you reached your spending limit"; "Partner Center: Benefits  New go-to-market benefits are now available"; "Re: Nimans - Slipstream Lite"; "Stephanie mentioned Fabric Partner Community"; "Re: Synapx - Invitation to Participate in Euroleague Basketball RFPs"; "5 January Replit Product Updates"; "RE: Custom Import Template and Auth"; "RE: Thank you for registering for FABCON Atlanta 2026"; "RE: managing lots of reports and dashboards"; "Completed: \"CAPITAL (HAIR AND BEAUTY) LIMITED_SOW002_Fabric & PowerBI Implementation_3 February 2026\""; "Fw: Additional AI inputs"; "Fw: Document Extraction (bond)"; Sent: "Re: Thank you for registering for FABCON Atlanta 2026"; "Accepted: Jensten Proposal"; "Re: Scoping / Business Case"; "Re: managing lots of reports and dashboards"; "Accepted: Jensten Check in"; "Re: Thank you for registering for FABCON Atlanta 2026"; "Re: Thank you for registering for FABCON Atlanta 2026"; "Re: Thank you for registering for FABCON Atlanta 2026"; "Jake | Andrew | Nandan - Sync")
+- **Teams Chats:** 2 messages across 2 conversations (Jensten Proposal; Jensten Check in)
+- **Teams Channels:** 0 messages in 0 channels
+- **Calendar:** No meetings captured in window
+- **Time Tracking:** No Harvest timers/entries captured in window
+
+### Action Items Detected
+- [ ] Reply to jb8699@gmail.com to confirm receipt and ask what the urgent issue is / what they need.
+- [ ] Confirm whether jb8699@gmail.com is actually Jake Bowles; if yes, merge/rename person record appropriately and avoid duplicate identities.
+- [ ] Jensten: reply to Andrew Price with clear ownership/workstreams.
+- [ ] Jensten: review Sophia Frickers recreated proposal deck and provide feedback.
+- [ ] Euroleague Basketball RFP: update plan/deadlines to reflect due date moved to Feb 11 23:59:59 CET.
+- [ ] Capital HB Fabric: confirm Monday 14:30 meeting; file executed SOW002 and ensure kickoff readiness.
+- [ ] LCP: get Swapna confirmation on GraphQL filtering for latest FX rates; implement as required.
+- [ ] Leadenhall/Lemonedge: review forwarded bond extraction + additional AI inputs; add to backlog.
+- [ ] Azure: remove spending limit/reactivate subscription; assess any impacted services/projects.
+- [ ] Security: review Microsoft 365 quarantined message(s) within 30 days.
+- [ ] Recruitment: confirm timezone/link and prepare for Azure SME interview (Feb 10 21:0021:30 per email).
+- [ ] FABCON: continue ticket resolution thread (EU transfer/2027/refund options) given US visa declined.
+
+### Files Updated
+- emails/2026-02-08.md  archived all collected inbox + sent email previews for Feb 68 (20 entries total).
+- teams/2026-02-08/jensten-proposal.md  logged Sophias proposal update message.
+- teams/2026-02-08/jensten-check-in.md  logged Andrews ownership request.
+- people/andrew-price.md  created/updated last contact + interaction.
+- people/sophia-fricker.md  created last contact + interaction.
+- projects/jensten-overview.md  appended Feb 8 updates (proposal recreated; ownership clarification needed).
+- inbox.md  prepended this 12:38 changelog entry.
+
+---
+
 ## 2026-02-08 12:24
 
 ### Changes This Window
@@ -12,9 +63,9 @@
 - [ ] Triage identity: determine who jb8699@gmail.com is and whether this maps to an existing client/project; if valid, link to the relevant project/client.
 
 ### Files Updated
-- emails/2026-02-08.md — archived 1 email received at 12:18Z.
-- people/jake-bowles.md — created person record for jb8699@gmail.com; flagged identity as unconfirmed.
-- inbox.md — added 2026-02-08 12:24 changelog entry.
+- emails/2026-02-08.md  archived 1 email received at 12:18Z.
+- people/jake-bowles.md  created person record for jb8699@gmail.com; flagged identity as unconfirmed.
+- inbox.md  added 2026-02-08 12:24 changelog entry.
 
 ---
 

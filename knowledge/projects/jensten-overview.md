@@ -72,3 +72,8 @@ Multiple active projects with Jensten Group, an insurance company. Work spans da
 
 ---
 *Last Updated: February 7, 2026*
+
+
+## 2026-02-08 Updates
+- **Proposal deck:** Sophia Fricker recreated the proposal deck and asked for feedback (Canva link shared in Teams chat: `teams/2026-02-08/jensten-proposal.md`).
+- **Ownership clarification:** Andrew Price asked what I am owning on Jensten (see `teams/2026-02-08/jensten-check-in.md`).
