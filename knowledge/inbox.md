@@ -1,3 +1,30 @@
+## 2026-02-08 22:15 (15-min window: 22:00 - 22:15 UTC)
+
+### Actions Required
+- [ ] **Jensten Proposal Feedback (Matt Davies):** Review and address Matt's 3 feedback items on the deck before tomorrow's 11:00 UTC meeting:
+  1. Slide 10 transition - journey ends there, then move to wider proposal/recommendations
+  2. Slide 4 - couple underwriting work underneath Fabric foundation
+  3. Slides 5+ - more context on recommendations and tie-in to "Synapx as a Service"
+- [ ] (Carried forward) **RESPOND:** Kristy Lovegrove (Pro-Global CTO) re: Jensten - schedule call for SME support discussion
+
+### Documentation Updated
+- teams/2026-02-08/jensten-proposal.md — added 3 messages from Matt Davies (22:03, 22:05, 22:09)
+
+### Summary (last 15 min only)
+- **New emails:** 0
+- **New Teams messages:** 3 in 1 chat (Jensten Proposal - Matt Davies feedback)
+- **Meetings started/ended:** 0
+- **Time tracking:** No active timer
+
+### Notes
+- Matt Davies reviewing Jensten proposal at 22:00-22:09 UTC (Saturday evening)
+- Deck "much improved" - Sophia's work praised
+- Key structural feedback: slide 10 as transition point, positioning toward "Synapx as a Service"
+- Tomorrow's meeting (Mon Feb 9, 11:00 UTC) will finalize proposal
+- Weekend work continues on high-priority pre-sales
+
+---
+
 ## 2026-02-08 22:00 (15-min window: 21:45 - 22:00 UTC)
 
 No new activity in last 15 minutes.
