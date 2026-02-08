@@ -77,4 +77,4 @@ Full scope included in request. Expected SOW number: **SOW009**
 - [Charlie Phipps-Bennett](../people/charlie-phipps-bennett.md)
 
 ---
-*Last Updated: February 7, 2026*
+*Last Updated: February 8, 2026*
