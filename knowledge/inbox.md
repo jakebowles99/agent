@@ -1,3 +1,26 @@
+## 2026-02-08 18:30 (15-min window: 18:15 - 18:30 UTC)
+
+### Actions Required
+- [ ] **Nimans/Sudarshan:** Be aware that Sudarshan owes time to Synapx - Jake let him bill to training code. Monitor project progress and plan to recoup time through extra work.
+- [ ] Still pending: Reply to jb8699@gmail.com (Jake Bowles) - emails from earlier today marked urgent
+
+### Documentation Updated
+- teams/2026-02-08/charlie-phipps-bennett-1on1.md — added Jake's 18:19 message about Sudarshan/Nimans billing
+
+### Summary (last 15 min only)
+- **New emails:** 0
+- **New Teams messages:** 1 in 1 chat (Charlie 1:1 - Nimans/Sudarshan billing)
+- **Meetings started/ended:** 0
+- **Time tracking:** No active timer (Jake logged 4h earlier at 18:14)
+
+### Notes
+- Jake messaged Charlie about Sudarshan billing to Jake's training code for Nimans work
+- This creates an informal "time debt" to be recouped through extra project work
+- Nimans Slipstream project is pending SOW - see [projects/nimans-slipstream.md](projects/nimans-slipstream.md)
+- Weekend work continues - Euroleague RFP due Feb 11, Jensten Proposal meeting tomorrow 11:00 UTC
+
+---
+
 ## 2026-02-08 18:15 (15-min window: 18:00 - 18:15 UTC)
 
 ### Actions Required
