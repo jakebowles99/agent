@@ -24,3 +24,18 @@ Teams chat messages for 2026-02-08.
 > fyi I have removed mention of F64 because I have a feeling we might regret putting that in writing when/if we blow past the limits of it
 
 **Context:** Jake flagging a change to the Jensten proposal - removed mention of F64 license to avoid potential issues if usage exceeds limits. This relates to Fabric licensing considerations for the Jensten engagement.
+
+## 22:03 - Matt Davies
+> deck much improved thanks Sophia. the "journey" we have been on with them ends at slide 10 and that is where we should transition into our wider proposal and recommendations
+
+**Context:** Matt reviewing the recreated Jensten proposal deck. Suggests slide 10 is the transition point from the "journey" narrative to broader recommendations.
+
+## 22:05 - Matt Davies
+> slide 4 - we could couple the underwriting work underneath the Fabric foundation to show that they are linked
+
+**Context:** Matt's feedback on deck structure - recommendation to position underwriting work as tied to the Fabric foundation/platform.
+
+## 22:09 - Matt Davies
+> 5 onwards I think we need to provide more context on what our recommendations are and why - and how we tie this all into Synapx as a Service
+
+**Context:** Matt's feedback on slides 5+ - need more context on recommendations and positioning toward "Synapx as a Service" offering. Meeting tomorrow (Mon Feb 9) at 11:00 UTC to finalize.
