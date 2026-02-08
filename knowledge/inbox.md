@@ -4,6 +4,33 @@ Action items and notifications from the autonomous monitor.
 
 ---
 
+## 2026-02-08 11:45 UTC (15-min window: 11:30 - 11:45)
+
+**MCP Server Not Connected**
+
+The autonomous monitor attempted to run but the `personal-tools` MCP server is not available. The MCP tools (get_emails, get_teams_chats, get_calendar_events, harvest_running_timers, etc.) are not exposed to this session.
+
+### Actions Required
+
+- [ ] Ensure the MCP server is approved in Claude Code settings
+- [ ] Check that `python` command points to a valid Python installation with dependencies
+- [ ] Restart Claude Code to reconnect MCP servers
+- [ ] Or run the MCP server manually and verify it starts without errors
+
+### Previous Actions Still Pending
+
+- [ ] **Review Jensten proposal** - Sophia Fricker recreated the proposal deck and is asking for feedback: https://www.canva.com/design/DAHAuGx6llE/ybwfXpvehf6jr3uGATv6Ow/edit (message at 10:08)
+- [ ] **Respond to test emails** - "Test" and "Test 2" from jb8699@gmail.com asking if agent will pick them up (received 20:44 and 21:25 UTC on Feb 7)
+- [ ] **Check Azure subscription** - Services disabled (Feb 6)
+
+### Notes
+
+- Sunday morning (11:45 UTC)
+- MCP connection issue prevents data collection this cycle
+- All pending action items carried forward
+
+---
+
 ## 2026-02-08 11:30 UTC (15-min window: 11:15 - 11:30)
 
 No new activity in last 15 minutes.
