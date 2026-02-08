@@ -1,3 +1,35 @@
+## 2026-02-08 23:45 (15-min window: 23:30 - 23:45 UTC)
+
+No new activity in last 15 minutes.
+
+### Carried Forward Actions
+- [ ] **Jensten Proposal Feedback (Matt Davies):** Review and address Matt's 3 feedback items on the deck before tomorrow's 11:00 UTC meeting:
+  1. Slide 10 transition - journey ends there, then move to wider proposal/recommendations
+  2. Slide 4 - couple underwriting work underneath Fabric foundation
+  3. Slides 5+ - more context on recommendations and tie-in to "Synapx as a Service"
+- [ ] **RESPOND:** Kristy Lovegrove (Pro-Global CTO) re: Jensten - schedule call for SME support discussion
+
+### Time Tracking
+- No active timer
+- Today's logged time: 4h (3h Basketball RFP + 1h Jensten deck)
+
+### Tomorrow's Schedule (Mon Feb 9)
+- 08:45 UTC - Midwich Squad daily standup
+- 09:30 UTC - Project Status Review (Spring Capital, in-person Basildon House)
+- 09:30 UTC - Data & AI Use Cases for Marketing
+- 09:30 UTC - Standup - LCP Doc Extraction
+- 10:30 UTC - Product Catchup
+- 10:30 UTC - Euroleague BB RFP checkpoint
+- **11:00 UTC - Jensten Proposal** (key meeting - address Matt's feedback beforehand)
+- 11:00 UTC - Webinar Recording session
+- 12:00 UTC - Pipeline & Progress Weekly Review
+- 13:00 UTC - Weekly Project Sign Off
+- 13:00 UTC - Synapx Internal Projects Weekly Status
+- 13:30 UTC - Outlook Plugin + Fraud Prediction Demo (LCP)
+- 14:30 UTC - Capital H&B <> Synapx (kickoff meeting)
+
+---
+
 ## 2026-02-08 23:30 (15-min window: 23:15 - 23:30 UTC)
 
 No new activity in last 15 minutes.
