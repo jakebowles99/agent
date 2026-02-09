@@ -6,13 +6,16 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "files_created:\n- people/jake-bowles.md\n- people/charlie-phipps-bennett.md\n- people/james-unknown.md\n- people/grant-unknown.md\n- projects/vinco-wines-quote-commercial.md\n\nfiles_updated:\n- emails/2026-02-09.md\n- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md\n- inbox.md\n\nemail_count: 1\n\nmessage_count: 2\n\ninbox_entry: |\n  ## 2026-02-09 20:30\n\n  ### Changes This Window\n  - **Emails:** 1 new (Re: Latest quote breakdown)\n  - **Teams Chats:** 2 messages across 1 conversation\n  - **Teams Ch",
-        "timestamp": "2026-02-09T20:47:24.636832+00:00"
+        "result_preview": "files_created: []\nfiles_updated:\n- emails/2026-02-09.md\n- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md\n- inbox.md\nemail_count: 0\nmessage_count: 0\ninbox_entry: |-\n  ## 2026-02-09 20:45\n\n  ### Changes This Window\n  - **Emails:** 0 new\n  - **Teams Chats:** 0 messages across 0 conversations\n  - **Teams Channels:** 0 messages in 0 channels\n  - **Calendar:** No meetings started/ended in this window\n  - **Time Tracking:** No running Harvest timer\n\n  ### Action Items Detected\n  - [ ] Pro",
+        "timestamp": "2026-02-09T20:59:40.665993+00:00"
       },
       {
-        "status": "error",
-        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "timestamp": "2026-02-09T20:15:37.985922+00:00"
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "files_created:\n- knowledge/people/andrew-catt.md\n\nfiles_updated:\n- knowledge/emails/2026-02-09.md\n- knowledge/teams/2026-02-09/marketing-requests.md\n- knowledge/projects/marketing-requests-internal.md\n- knowledge/inbox.md\n\nemail_count: 1\n\nmessage_count: 8\n\ninbox_entry: |\n  ## 2026-02-09 20:15\n\n  ### Changes This Window\n  - **Emails:** 1 new (Re: Latest quote breakdown)\n  - **Teams Chats:** 8 messages across 1 conversation\n  - **Teams Channels:** 0 messages in 0 channels\n  - **Calendar:** No meet",
+        "timestamp": "2026-02-09T20:32:32.584783+00:00"
       },
       {
         "status": "success",
@@ -88,7 +91,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-09T20:47:24.636862+00:00",
+    "last_updated": "2026-02-09T20:59:40.666013+00:00",
     "version": "1.0"
   }
 }
