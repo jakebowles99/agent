@@ -3,13 +3,13 @@
     "last_runs": [
       {
         "status": "error",
-        "error": "MCPServerAdapter.__init__() got an unexpected keyword argument 'command'",
-        "timestamp": "2026-02-09T23:30:05.264183+00:00"
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-09T23:31:59.396021+00:00"
       },
       {
         "status": "error",
         "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "timestamp": "2026-02-09T23:17:35.913571+00:00"
+        "timestamp": "2026-02-09T23:01:30.670753+00:00"
       },
       {
         "status": "error",
@@ -85,7 +85,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-09T23:30:05.264189+00:00",
+    "last_updated": "2026-02-09T23:31:59.396033+00:00",
     "version": "1.0"
   }
 }
