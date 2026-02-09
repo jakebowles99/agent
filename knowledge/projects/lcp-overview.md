@@ -61,4 +61,23 @@ FX rates successfully ingested and available within Fabric
 - **Delivery**: Synapx | Delivery > LCP - SOW002 - Document Extraction
 
 ---
-*Last Updated: February 8, 2026*
+
+## 2026-02-09 Updates
+
+### Resource Change
+- **Vijay G** handing over to **Katyayani Lal** - Vijay required on Midwich project
+- Katyayani received field descriptions file (`Fields_With_Categories_LCP.xlsx`)
+
+### Document Extraction Status
+- **Ajay** tested 8 different analysers - not getting expected extraction outcomes
+- Email PDF extraction is priority focus - OCs illogical until email extraction works
+- Website and plugin have no bugs except extraction accuracy
+- Manifest file issue encountered during plugin demo - needs debugging
+
+### Claim Review Workflow (Product)
+New status added:
+- `Needs Review` → `In Review` (NEW) → `Approved/Rejected`
+- "In Review" prevents multiple analysts working same claim
+
+---
+*Last Updated: February 9, 2026*
