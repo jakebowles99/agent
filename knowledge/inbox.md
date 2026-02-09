@@ -1,3 +1,28 @@
+## 2026-02-09 21:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 1 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Calendar:** No meetings started/ended in this window
+- **Time Tracking:** No running Harvest timer
+
+### Action Items Detected
+- [ ] Respond to Charlie with decision/next steps on proceeding with weekend internal Customer Service install (Feb 21–22).
+- [ ] Confirm who can provide: Azure subscription + Azure B2C prerequisites.
+- [ ] Identify/assign Power Platform Admin + Dynamics Admin for required access/roles.
+- [ ] Nominate internal owner for portal customisations (branding/logos/etc) post-handover.
+
+### Files Updated
+- teams/2026-02-09/synapx-directors.md — archived 1 message (20:59 UTC) about internal Customer Service install prerequisites and weekend plan.
+- people/narayan.md — created new person record referenced in Teams message.
+- people/charlie-phipps-bennett.md — updated last contact + added interaction summary.
+- projects/synapx-directors-zoho-salesiq-whatsapp.md — appended update + action items re: internal Customer Service install.
+- inbox.md — prepended 2026-02-09 21:00 entry.
+
+---
+
+
 ## 2026-02-09 20:45
 
 ### Changes This Window

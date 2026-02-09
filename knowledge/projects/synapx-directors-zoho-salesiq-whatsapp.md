@@ -21,3 +21,13 @@ Internal directors discussion about avoiding custom build and leveraging Zoho Sa
 - [ ] Confirm what Adobe Pro action is being taken (purchase/renewal/contract) and who is responsible for final sign-off.
 - [ ] Chase Narayan for response; document decision once received.
 - [ ] Charlie: prepare agenda + measurable follow-ups for Wednesday conversation with Ajay.
+
+
+## Updates
+- **2026-02-09 20:59 UTC (Teams, Charlie Phipps-Bennett):** Spoke to Narayan about internal **Dynamics Customer Service** install. Narayan can set it up over weekend **Feb 21–22**. Prerequisites: **Azure subscription** to set up **Azure B2C**, plus **Power Platform Admin** and **Dynamics Admin** access/roles. Narayan to configure: self-service, ticket retrieval, portal, Teams integration. Handover afterwards for internal portal customisations (branding/logos). Asked for thoughts/decision.
+
+## Open questions / action items
+- [ ] Respond to Charlie with decision/next steps on proceeding with weekend install (Feb 21–22).
+- [ ] Confirm who can provide: Azure subscription + Azure B2C prerequisites.
+- [ ] Identify/assign Power Platform Admin + Dynamics Admin for required access/roles.
+- [ ] Nominate internal owner for portal customisations (branding/logos/etc) post-handover.

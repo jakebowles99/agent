@@ -38,3 +38,18 @@
 > 4) Since being an MVP, I have not seen him push one update to the company about new releases, upcoming features, preview features, latest and greatest. Bugger all I have seen.
 >
 > Going to explain I want more from him in order for him to grow. I think some of his work is top class but other attributes are letting him down
+
+
+## 20:59 - Charlie Phipps-Bennett
+> Spoke to Narayan about Customer Service install internally. He can set it up with me over a weekend February 21st and 22nd.
+>
+> He would need Azure Subscription to setup Azure B2C. Power Platform and Dynamics Administrator and he will then configure:
+>
+> - Self service
+> - Retrieval of tickets
+> - Portal
+> - Teams Integration
+>
+> He can then hand over to someone our side to do any portal customisations we want like logos etc...
+>
+> Thoughts?
