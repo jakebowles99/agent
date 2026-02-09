@@ -2,15 +2,14 @@
 
 import os
 from crewai import Agent, LLM
-from crewai_tools import MCPServerAdapter
-from mcp import StdioServerParameters
+from crewai.agents.agent_adapters.mcp import MCPServerStdio
 
 from src.crew.tools import get_knowledge_tools
 
 
-def get_mcp_server_params() -> StdioServerParameters:
-    """Get the MCP server parameters for Microsoft 365 and Harvest tools."""
-    return StdioServerParameters(
+def get_mcp_server() -> MCPServerStdio:
+    """Get the MCP server config for Microsoft 365 and Harvest tools."""
+    return MCPServerStdio(
         command="python",
         args=["/app/mcp_server.py"] if os.path.exists("/app/mcp_server.py") else ["mcp_server.py"],
         env={**os.environ},
@@ -60,7 +59,7 @@ Archive to: knowledge/emails/YYYY-MM-DD.md
 Format: ## HH:MM - From: [sender] **Subject:** [subject] > [preview]
 
 ALWAYS use append=True. Never overwrite existing content.""",
-        mcps=[MCPServerAdapter(get_mcp_server_params())],
+        mcps=[get_mcp_server()],
         tools=get_knowledge_tools(),
         llm=get_llm(),
         verbose=True,
@@ -92,7 +91,7 @@ Archive to: knowledge/teams/YYYY-MM-DD/[display-name].md
 Format: ## HH:MM - [Sender] > [message content]
 
 ALWAYS use append=True. Never overwrite existing content.""",
-        mcps=[MCPServerAdapter(get_mcp_server_params())],
+        mcps=[get_mcp_server()],
         tools=get_knowledge_tools(),
         llm=get_llm(),
         verbose=True,
@@ -119,7 +118,7 @@ Archive to: knowledge/channels/YYYY-MM-DD/[team]-[channel].md
 Format: ## HH:MM - [Sender] > [message content]
 
 ALWAYS use append=True. Never overwrite existing content.""",
-        mcps=[MCPServerAdapter(get_mcp_server_params())],
+        mcps=[get_mcp_server()],
         tools=get_knowledge_tools(),
         llm=get_llm(),
         verbose=True,
@@ -150,7 +149,7 @@ Format: # [Subject] **Date:** YYYY-MM-DD **Attendees:** [list] ## Transcript [co
 Report calendar events and time tracking status in your output.
 
 ALWAYS use append=True for existing files. Never overwrite.""",
-        mcps=[MCPServerAdapter(get_mcp_server_params())],
+        mcps=[get_mcp_server()],
         tools=get_knowledge_tools(),
         llm=get_llm(),
         verbose=True,
@@ -229,7 +228,7 @@ def create_data_collector() -> Agent:
         - get_joined_teams, get_team_channels, get_channel_messages - for Teams channels
         - harvest_running_timers, harvest_my_time, harvest_today_tracking - for time tracking
         - get_all_transcripts, get_transcript_by_meeting_id - for meeting transcripts""",
-        mcps=[MCPServerAdapter(get_mcp_server_params())],
+        mcps=[get_mcp_server()],
         llm=get_llm(),
         verbose=True,
         allow_delegation=False,
@@ -257,7 +256,7 @@ def create_analyst() -> Agent:
 
         Use read_knowledge and list_knowledge to access the knowledge base
         for historical context and existing documentation.""",
-        mcps=[MCPServerAdapter(get_mcp_server_params())],
+        mcps=[get_mcp_server()],
         tools=get_knowledge_tools(),
         llm=get_llm(),
         verbose=True,
