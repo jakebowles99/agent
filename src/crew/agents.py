@@ -43,8 +43,12 @@ def get_llm() -> LLM:
         api_key=api_key,
         endpoint=endpoint,
         api_version=api_version,
-        timeout=300,  # 5 minute timeout per request
-        max_retries=3,  # Retry on transient failures
+        timeout=600,  # 10 minute timeout (increased from 5 min for large requests)
+        max_retries=5,  # More retries for transient connection failures
+        # Note: If connection issues persist, consider:
+        # - Checking Azure OpenAI endpoint health
+        # - Reducing context size in tasks
+        # - Adding exponential backoff at the httpx level
     )
 
 

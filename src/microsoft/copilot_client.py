@@ -328,21 +328,38 @@ class MeetingInsightsClient:
 
     async def get_all_transcripts(self, days_back: int = 30, limit: int = 50) -> list[dict]:
         """
-        Get all transcripts by iterating through online meetings.
+        Get all transcripts by iterating through calendar meetings.
 
-        Note: getAllTranscripts endpoint requires application permissions,
-        so for delegated access we iterate through meetings instead.
+        Uses calendar events to find online meetings, then looks up transcripts
+        for each meeting via its join URL.
         """
         logger.info(f"Getting transcripts for meetings from last {days_back} days...")
 
-        # Get online meetings the user organized
-        meetings = await self.get_user_online_meetings(limit=limit)
-        logger.info(f"Found {len(meetings)} online meetings to check for transcripts")
+        # Get online meetings from calendar (more reliable than /me/onlineMeetings)
+        calendar_meetings = await self.get_recent_meetings(days_back=days_back, limit=limit)
+        logger.info(f"Found {len(calendar_meetings)} online meetings from calendar")
 
         all_transcripts = []
-        for meeting in meetings:
-            meeting_id = meeting.get("id")
-            subject = meeting.get("subject", "No subject")
+        for cal_meeting in calendar_meetings:
+            join_url = cal_meeting.get("join_url", "")
+            subject = cal_meeting.get("subject", "No subject")
+
+            if not join_url:
+                continue
+
+            # Look up the online meeting to get its ID
+            online_meeting = await self.get_online_meeting_by_join_url(
+                join_url=join_url,
+                subject=subject
+            )
+
+            if not online_meeting:
+                logger.debug(f"Could not find online meeting for '{subject}'")
+                continue
+
+            meeting_id = online_meeting.get("id")
+            if not meeting_id:
+                continue
 
             transcripts = await self.get_meeting_transcripts(meeting_id)
             if transcripts:
@@ -353,7 +370,7 @@ class MeetingInsightsClient:
                         "meeting_id": meeting_id,
                         "meeting_subject": subject,
                         "created": t.get("created", ""),
-                        "start_time": meeting.get("startDateTime", ""),
+                        "start_time": cal_meeting.get("start", ""),
                     })
 
         logger.info(f"Found {len(all_transcripts)} total transcripts across all meetings")
