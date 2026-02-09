@@ -8,6 +8,9 @@ Group chat for internal recruitment discussions (Matt Davies, Charlie Phipps-Ben
 ## 06:56 - Matt Davies
 > My feeling is that we should be recruiting someone who has specific technology expertise in Data and/or has a technical background in data/databricks/azure data, however I will let @Jake Bowles @Charlie Phipps-Bennett confirm
 
+## 07:02 - Andrew Price
+> Must have delivered Data protects, yes
+
 ---
 
 **Context:** Discussion about a UK Project Manager role, which is now a priority hire per Matt.
