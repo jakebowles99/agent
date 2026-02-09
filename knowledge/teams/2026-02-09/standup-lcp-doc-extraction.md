@@ -48,6 +48,11 @@ Daily standup meeting chat for the LCP (Leadenhall Capital) Document Extraction 
 >
 > (shared Excel file with LCP field definitions)
 
+## 07:09 - Ajay Gannamaneni
+> creating based on email and testing with another document. i created 8 Analyser as of now. testing with same document so whichever gives highest precision for fields i will pick it from different analysers and create a new one
+>
+> (attachment - likely extraction results)
+
 ---
 
 **Context:** Pre-demo status check for the LCP Document Extraction project. Demo scheduled today at 13:30 UTC (Outlook Plugin + Fraud Prediction Demo with Tayo Eletu-Odibo from Leadenhall).
