@@ -15,6 +15,11 @@ Meeting chat for LCP document extraction product development (Navsheen Koul, Rah
 ## 05:43 - Navsheen Koul
 > dont touch 'needs review', never said replace. add 'in review'
 
+## 06:23 - Rahul Matta
+> Good Morning Navsheen
+>
+> Understood, will add "in review"
+
 ---
 
 **Context:** This relates to the LCP Document Extraction product. Navsheen is clarifying the claim review workflow states to Rahul:
