@@ -58,8 +58,9 @@ Daily standup meeting chat for the LCP (Leadenhall Capital) Document Extraction 
 - Email PDF extraction is the priority - Navsheen says OCs are illogical to pursue until email extraction works
 
 **Resource Change:**
-- **Vijay G** handing over to **Katayani** today - Vijay required on Midwich project
+- **Vijay G** handing over to **Katyayani Lal** today - Vijay required on Midwich project
 - Jake and Charlie tagged for awareness
+- **Handover in progress:** Katyayani requesting plugin access from Ajay; Navsheen shared field descriptions file
 
 **Related:**
 - [LCP Overview](../../projects/lcp-overview.md)
