@@ -14,3 +14,10 @@
 
 ## 18:26 - Jake Bowles
 > All yours
+
+
+## 18:33 - Akshansh Sharma
+> hang on if it's the same sales IQ we are using then I would suggest otherwise because it didn't work out for us and @Matt can explain further why but before presenting that as a solution to compass i suggest we align first if that's a viable solution or not please
+
+## 18:36 - Charlie Phipps-Bennett
+> I will wait for internal demo. Then know my options on how to proceed

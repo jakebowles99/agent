@@ -5,4 +5,4 @@
 
 ## Recent interactions
 - **2026-02-09:** In meeting chat `Synapx Internal Projects – Weekly Status Update`, suggested assigning a priority deliverable to Nikhil once onboarded (attachment referenced; needs clarification).
-
+- **2026-02-09 18:33 UTC (Teams | Synapx Directors):** Warned that if the Zoho SalesIQ approach is the same as previously used, it did not work; asked for internal alignment before presenting to Compass. Noted Matt can explain why it failed.

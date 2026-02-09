@@ -49,3 +49,17 @@
 > Vaishnavi MP
 >
 > For tomorrow, can you just rename the display name of env var: 'synapx_ev_OrderManagementPOsqlDatabase' to 'ev_OrderManagementPOsqlDatabase'. ID of the env var is correct, but just trim the Display name.
+
+
+## 18:39 - Timon Wan
+> @Vaishnavi @MP for tomorrow, can you check Umar's PO app in UAT if it's using env vars for the data sources? Specifically the bid reference.
+
+## 18:43 - Yaz Qaraqesh
+> Is the issue resolved please Tim?
+
+## 18:43 - Yaz Qaraqesh
+> Temporarily
+
+## 18:45 - Timon Wan
+> No, I'm getting issues when trying to edit the App to view what datasources there are
+> Best thing is tomorrow Vaishnavi to work with Umar on it
