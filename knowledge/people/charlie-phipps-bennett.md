@@ -24,5 +24,11 @@
 ## Meetings
 - [2026-02-03 Euroleague Question Set](../meetings/2026-02-03-euroleague-question-set.md)
 
+## Last contact
+- **2026-02-09**
+
+## Recent interactions
+- **2026-02-09:** Sent “Nimans Internal Sync” email (Teams meeting link) and coordinated a short call time (5:30, 15 mins).
+
 ---
-*Last Updated: February 2026*
+*Last Updated: 2026-02-09*

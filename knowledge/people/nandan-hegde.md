@@ -1,43 +1,23 @@
 # Nandan Hegde
 
 ## Basic Info
-- **Role**: Data & AI Lead
+- **Role**: Data Engineer / Fabric Engineer
 - **Company**: Synapx
 - **Type**: Internal - Colleague
 
-## Responsibilities
-- Leading data and AI practice at Synapx
-- Technical leadership for data projects
-- AI solution architecture
+## Projects
+- [Leadenhall - LemonEdge Fabric Integration POC](../projects/leadenhall-lemonedge.md)
+- [Capital HB Fabric](../projects/capital-hb-fabric.md)
 
-## Working Relationship
-- Senior technical leader
-- Collaborates on data-focused client projects
-- Expertise in AI and machine learning solutions
+## Context
+- Implementing LemonEdge FX rates ingestion into Fabric
+- Previously filtering out negative FX rates (per Tayo decision)
 
-## Focus Areas
-- Microsoft Fabric
-- Power BI
-- AI/ML implementations
-- Data architecture
+## Last contact
+- **2026-02-09** (mentioned in Teams DM re: receipt of LemonEdge templates)
 
-## Recent Updates
-
-### February 6, 2026 - Promotion/Recognition
-> "Nandan informed - he was very happy. Aligned a bit on strategy of his area." - Andrew Price
-
-- Received promotion/recognition from leadership
-- Strategy alignment discussion held with Andrew
-- Will be added to Synapx Directors chat
-
-### UK Visit & FabCon Barcelona (October 2026)
-- Visiting UK in October 2026
-- Plan to attend FabCon Barcelona together with Jake
-- Note: Atlanta tickets cannot be transferred (different organizer) - need separate registration
-
-### Leadenhall LemonEdge Project (Feb 6)
-- Implementing negative FX rate filter per Tayo's request
-- Working on GraphQL integration improvements
+## Recent interactions
+- **2026-02-09:** Mentioned in Teams DM: Tayo asked whether Nandan has received all LemonEdge custom import templates for various datasets; only FX rates template has been received so far.
 
 ---
-*Last Updated: February 7, 2026*
+*Last Updated: 2026-02-09*
