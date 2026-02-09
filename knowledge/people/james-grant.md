@@ -1,0 +1,13 @@
+# James Grant
+
+- **Type:** Person
+- **Last contact:** 2026-02-09
+
+## Notes
+- Contacted via Teams DM about scheduling.
+
+## Recent interactions
+- **2026-02-09 21:13 UTC (Teams DM):** Unavailable tomorrow (at a conference); suggested Wednesday instead.
+
+---
+*Last Updated: 2026-02-09*
