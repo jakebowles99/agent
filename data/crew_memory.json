@@ -6,16 +6,13 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "\n\n\n\n",
-        "timestamp": "2026-02-09T16:06:04.176321+00:00"
+        "result_preview": "files_created: []\n\nfiles_updated: []\n\nemail_count: 0\n\nmessage_count: 0\n\ninbox_entry:\n```md\n## 2026-02-09 16:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Calendar:** No meetings started/ended in this window\n- **Time Tracking:** No active timer\n\n### Action Items Detected\n- [ ] No new action items detected in this window.\n\n### Files Updated\n- None\n\n---\n```\n\nerrors:\n- Requirements not met: No a",
+        "timestamp": "2026-02-09T16:22:49.964497+00:00"
       },
       {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "\n\nfiles_created:\n- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md\n- teams/2026-02-09/17c-user-accounts.md\n- teams/2026-02-09/chat-19_4260f6a8-1c91-4928-a81e-c8025b63f509_9d510fd1.md\n- teams/2026-02-09/chat-19_4260f6a8-1c91-4928-a81e-c8025b63f509_ab68eab8.md\n- teams/2026-02-09/synapx-td-synnex.md\n- teams/2026-02-09/timesheeting-administration.md\n- people/gaurav-rauthan.md\n\nfiles_updated:\n- inbox.md\n- emails/2026-02-09.md\n- people/andrew-price.md\n- people/matt-davies.md\n\nemail_count:",
-        "timestamp": "2026-02-09T15:37:50.335409+00:00"
+        "status": "error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-09T15:51:47.042893+00:00"
       },
       {
         "status": "error",
@@ -91,7 +88,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-09T16:06:04.176331+00:00",
+    "last_updated": "2026-02-09T16:22:49.964507+00:00",
     "version": "1.0"
   }
 }
