@@ -1,3 +1,55 @@
+## 2026-02-09 06:15 (Mon) (15-min window: 06:00 - 06:15 UTC)
+
+### Actions Required
+- [ ] (Carried forward) **Jensten Proposal Feedback (Matt Davies):** Review and address Matt's 3 feedback items on the deck before today's 11:00 UTC meeting:
+  1. Slide 10 transition - journey ends there, then move to wider proposal/recommendations
+  2. Slide 4 - couple underwriting work underneath Fabric foundation
+  3. Slides 5+ - more context on recommendations and tie-in to "Synapx as a Service"
+- [ ] (Carried forward) **RESPOND:** Kristy Lovegrove (Pro-Global CTO) re: Jensten - schedule call for SME support discussion
+
+### Documentation Updated
+- teams/2026-02-09/marketing-requests.md - Created with 1 message from Ankita Kajal (06:12) asking Navsheen for feedback on attachment
+
+### Summary (last 15 min only)
+- **New emails:** 0
+- **New Teams messages:** 1 in 1 chat (Marketing Requests - Ankita asking Navsheen for design feedback)
+- **Meetings started/ended:** 0
+- **Time tracking:** No active timer
+
+### Notes
+- Ankita Kajal asking Navsheen Koul for feedback on an attachment in Marketing Requests chat
+- No action required from Jake - internal marketing team discussion
+- First meeting (Midwich standup) is at 08:45 UTC - ~2.5 hours away
+- Remember: 09:30 UTC has 3 conflicting meetings (Spring Capital in-person, Marketing use cases, LCP standup)
+
+### Time Tracking
+- No active timer
+- Yesterday's logged time: 4h (3h Basketball RFP + 1h Jensten deck)
+
+### Today's Schedule (Mon Feb 9) - BUSY DAY
+| Time (UTC) | Meeting | Notes |
+|------------|---------|-------|
+| 08:45 | Midwich Squad daily standup | ~2.5 hours away |
+| 09:30 | Project Status Review (Spring Capital) | **In-person** Basildon House |
+| 09:30 | Data & AI Use Cases for Marketing | Conflicts with above |
+| 09:30 | Standup - LCP Doc Extraction | Conflicts with above |
+| 10:30 | Product Catchup | |
+| 10:30 | Euroleague BB RFP checkpoint | Conflicts - RFP due Feb 11! |
+| **11:00** | **Jensten Proposal** | **KEY** - address Matt's feedback |
+| 11:00 | Webinar Recording session | Conflicts with above |
+| 12:00 | Pipeline & Progress Weekly Review | |
+| 13:00 | Weekly Project Sign Off | |
+| 13:00 | Synapx Internal Projects Weekly Status | Conflicts with above |
+| 13:30 | Outlook Plugin + Fraud Prediction Demo (LCP) | |
+| **14:30** | **Capital H&B <> Synapx** | **KICKOFF** - SOW signed |
+
+### Key Priorities Today
+1. **Jensten Proposal (11:00)** - Review Matt's feedback before meeting
+2. **Capital H&B Kickoff (14:30)** - First client meeting, SOW signed
+3. **Euroleague RFP** - Due Feb 11, 23:59 CET (2 days)
+
+---
+
 ## 2026-02-09 06:00 (Mon) (15-min window: 05:45 - 06:00 UTC)
 
 No new activity in last 15 minutes.
