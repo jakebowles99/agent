@@ -37,3 +37,8 @@
 
 - **2026-02-09 18:13 UTC:** Email re: **Compass CHC** Weekly Status Review recording sharing 
   - Believes no additional step is required if the team can access the provided recording link; asked for confirmation.
+
+
+- **2026-02-09 18:19–18:26 UTC:** Teams (Synapx Directors)
+  - Proposed using Zoho SalesIQ (out-of-box agent) with native API integration with WhatsApp; internal demo planned next week then external client-facing demo.
+  - Offered to manage solo; Jake confirmed handoff ("All yours").

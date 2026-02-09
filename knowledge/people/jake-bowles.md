@@ -14,3 +14,9 @@
     - Shared a SharePoint SOW document link (project/client not identified).
     - Sent short “Need your help again please” message (context missing).
 - **2026-02-08:** Sent urgent email with subject “Check in” asking to confirm receipt. Needs response and identity/project mapping.
+
+
+- **Last contact:** 2026-02-09
+
+## Recent interactions (continued)
+- **2026-02-09 18:26 UTC:** Teams (Synapx Directors) replied "All yours" to Charlie re: ownership of Zoho SalesIQ + WhatsApp approach; handed off to Charlie.
