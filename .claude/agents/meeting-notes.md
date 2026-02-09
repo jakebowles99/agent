@@ -2,6 +2,13 @@
 
 Extract meeting insights and save structured notes to the knowledge base.
 
+## User Context
+
+The knowledge base owner is **Jake** (jake.bowles@synapx.com). When extracting meeting notes:
+- Highlight action items assigned to Jake
+- Note commitments Jake made to others
+- Track items Jake is waiting on from others
+
 ## Instructions
 
 After a meeting, extract key information and create a permanent record.
@@ -55,6 +62,19 @@ After a meeting, extract key information and create a permanent record.
 ---
 *Extracted from Teams transcript on [date]*
 ```
+
+### Knowledge Management (Required)
+
+After extracting meeting notes, you MUST update all relevant knowledge files:
+
+1. **Create meeting file** - Save to `knowledge/meetings/YYYY-MM-DD-topic.md`
+2. **Update `knowledge/index.md`** - Add to recent meetings, update any affected deadlines/projects
+3. **Update project files** - Add decisions, action items, and status changes to `knowledge/projects/`
+4. **Update client files** - Add any new context or relationship info to `knowledge/clients/`
+5. **Update people files** - Add new info about attendees to `knowledge/people/`
+6. **Create missing files** - If any person, project, or client mentioned lacks a knowledge file, create one
+
+Do NOT just create the meeting note - propagate relevant information across the entire knowledge base.
 
 ### Tips
 

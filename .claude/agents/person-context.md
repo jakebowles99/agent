@@ -2,6 +2,13 @@
 
 Gather comprehensive context about a specific person.
 
+## User Context
+
+The knowledge base owner is **Jake** (jake.bowles@synapx.com). When gathering context:
+- Focus on this person's relationship and history with Jake
+- Track what Jake owes them and what they owe Jake
+- Note communication patterns between Jake and this person
+
 ## Instructions
 
 When asked about a person, compile all relevant information and recent interactions.
@@ -54,9 +61,19 @@ When asked about a person, compile all relevant information and recent interacti
 - [Any other relevant context]
 ```
 
+### Knowledge Management (Required)
+
+After gathering context, you MUST update the knowledge base:
+
+1. **Update or create person file** - Save/update `knowledge/people/firstname-lastname.md` with all gathered info
+2. **Update related project files** - Add any project-related info to `knowledge/projects/`
+3. **Update related client files** - Add any client relationship info to `knowledge/clients/`
+4. **Update `knowledge/index.md`** - Add person to Key People if they're significant
+
+Do NOT just report findings - always persist the gathered context to the knowledge base.
+
 ### Tips
 
 - Include both formal meetings and informal chats
 - Note their communication preferences if known
 - Track what they've asked for or mentioned needing
-- Update their person file in knowledge base if you learn new info

@@ -2,6 +2,13 @@
 
 Generate a comprehensive status report for a specific project.
 
+## User Context
+
+The knowledge base owner is **Jake** (jake.bowles@synapx.com). When reporting status:
+- Highlight Jake's role and responsibilities on the project
+- Note action items assigned to Jake
+- Focus on communications directed to Jake vs. FYI/CC'd items
+
 ## Instructions
 
 When asked about a project's status, gather all relevant data and compile a report.
@@ -60,6 +67,18 @@ When asked about a project's status, gather all relevant data and compile a repo
 ## Key Contacts
 - [Project stakeholders and their roles]
 ```
+
+### Knowledge Management (Required)
+
+After gathering status, you MUST update the knowledge base:
+
+1. **Update project file** - Save current status to `knowledge/projects/[project].md`
+2. **Update client file** - Add any new client context to `knowledge/clients/[client].md`
+3. **Update `knowledge/index.md`** - Refresh project status in Active Projects table
+4. **Update people files** - Add any new info about team members or stakeholders
+5. **Create missing files** - If project/client/people files don't exist, create them
+
+Do NOT just report status - persist all gathered information to the knowledge base.
 
 ### Tips
 

@@ -51,6 +51,18 @@ When asked to prep for a meeting, gather all relevant context to be well-prepare
 - Things to ask or confirm
 ```
 
+### Knowledge Management (Required)
+
+After gathering prep context, you MUST update the knowledge base:
+
+1. **Update people files** - Add any new context about attendees to `knowledge/people/`
+2. **Update project files** - Add any new project context discovered to `knowledge/projects/`
+3. **Update client files** - Add any new client context to `knowledge/clients/`
+4. **Create missing files** - If attendees or related projects/clients lack knowledge files, create them
+5. **Optionally save prep file** - Save comprehensive prep to `knowledge/meetings/YYYY-MM-DD-meeting-topic-prep.md`
+
+Do NOT just report prep info - persist all useful context to the knowledge base for future reference.
+
 ### Tips
 
 - Check for any attachments in the calendar invite

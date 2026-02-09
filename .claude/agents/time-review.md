@@ -2,6 +2,13 @@
 
 Analyze time tracking data for insights and reporting.
 
+## User Context
+
+The knowledge base owner is **Jake** (jake.bowles@synapx.com). When reviewing time:
+- Include a section for Jake's personal time breakdown
+- Compare Jake's utilization against team averages
+- Highlight projects where Jake has logged significant time
+
 ## Instructions
 
 When asked to review time, analyze Harvest data and provide insights.
@@ -61,6 +68,17 @@ Common requests:
 - "last week" = Previous Monday to Sunday
 - "this month" = 1st to today
 - "last month" = Previous month 1st to last day
+
+### Knowledge Management (Required)
+
+After reviewing time data, you MUST update the knowledge base:
+
+1. **Update project files** - Add budget status, hours logged, and any concerns to `knowledge/projects/`
+2. **Update client files** - Add utilization info and any billing concerns to `knowledge/clients/`
+3. **Update `knowledge/index.md`** - Flag any projects with budget warnings in Active Projects table
+4. **Create missing files** - If Harvest shows projects/clients without knowledge files, create them
+
+Do NOT just report time data - persist budget status and project health to the knowledge base.
 
 ### Tips
 

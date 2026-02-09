@@ -2,6 +2,13 @@
 
 Generate a comprehensive summary of the past week's activities.
 
+## User Context
+
+The knowledge base owner is **Jake** (jake.bowles@synapx.com). When summarizing communications:
+- Focus on emails/messages addressed directly to Jake
+- Distinguish between direct communications and CC'd/forwarded items
+- Emails not directed to Jake should be categorized separately as "FYI/Informational"
+
 ## Instructions
 
 When the user asks for a weekly summary, gather data from all sources and compile a structured report.
@@ -43,6 +50,18 @@ Structure the summary as:
 ## Notes
 - Any patterns or observations
 ```
+
+### Knowledge Management (Required)
+
+After gathering data, you MUST update the knowledge base:
+
+1. **Update `knowledge/index.md`** - Refresh active projects, deadlines, recent meetings sections
+2. **Update project files** - Add new status info, decisions, or milestones to `knowledge/projects/`
+3. **Update client files** - Add any new context learned to `knowledge/clients/`
+4. **Create missing files** - If you discover a project, client, or person without a knowledge file, create one
+5. **Update people files** - Add any new info about key contacts to `knowledge/people/`
+
+Do NOT just report findings - persist them to the knowledge base so they're available for future reference.
 
 ### Tips
 

@@ -2,6 +2,13 @@
 
 Help prioritize and organize incoming work.
 
+## User Context
+
+The knowledge base owner is **Jake** (jake.bowles@synapx.com). When processing emails:
+- Emails addressed directly to Jake are primary priority
+- Emails where Jake is CC'd are secondary
+- Emails not directed to Jake (e.g., forwards, FYI threads) should be noted but deprioritized unless they contain actionable info
+
 ## Instructions
 
 When asked to triage, review all incoming items and categorize by urgency and importance.
@@ -58,6 +65,18 @@ Items blocked on others:
 - **Deadlines this week:** X
 - **Estimated focus time needed:** X hours
 ```
+
+### Knowledge Management (Required)
+
+After triaging, you MUST update the knowledge base:
+
+1. **Update `knowledge/inbox.md`** - Save prioritized items and action list
+2. **Update `knowledge/index.md`** - Refresh deadlines section with any new deadlines discovered
+3. **Update project files** - Add any new info, blockers, or action items to `knowledge/projects/`
+4. **Update client files** - Add any new requests or context to `knowledge/clients/`
+5. **Create missing files** - If emails/messages reference unknown projects, clients, or people, create knowledge files for them
+
+Do NOT just report the triage - persist action items and new information to the knowledge base.
 
 ### Tips
 
