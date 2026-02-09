@@ -106,4 +106,15 @@ Cristian raised interest in understanding how to manage growing number of report
 - [Cristian Ettridge](../people/cristian-ettridge.md)
 
 ---
-*Last Updated: February 7, 2026*
+
+## 2026-02-09 Updates
+
+### Meeting Today
+- **Capital H&B <> Synapx** (14:30-15:00) - Jake Bowles organizing
+
+### Status
+- Kickoff confirmed for Monday 2:30 PM (Feb 10)
+- Pre-kickoff sync completed today
+
+---
+*Last Updated: February 9, 2026*
