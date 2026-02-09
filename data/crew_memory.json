@@ -2,6 +2,11 @@
   "short_term": {
     "last_runs": [
       {
+        "status": "error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-09T09:09:06.492971+00:00"
+      },
+      {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
@@ -60,11 +65,6 @@
         "status": "error",
         "error": "(DeploymentNotFound) The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.\nCode: DeploymentNotFound\nMessage: The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.",
         "timestamp": "2026-02-08T12:03:31.286577+00:00"
-      },
-      {
-        "status": "error",
-        "error": "Azure AI Inference native provider not available, to install: uv add \"crewai[azure-ai-inference]\"",
-        "timestamp": "2026-02-08T12:01:29.580303+00:00"
       }
     ],
     "pending_items": []
@@ -72,7 +72,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 14,
+      "total_runs": 15,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -85,7 +85,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-08T13:01:07.456218+00:00",
+    "last_updated": "2026-02-09T09:09:06.492991+00:00",
     "version": "1.0"
   }
 }
