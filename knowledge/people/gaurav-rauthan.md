@@ -13,3 +13,9 @@
 
 ---
 *Last Updated: 2026-02-09*
+
+
+
+## Recent interactions (continued)
+- **2026-02-09 18:08 UTC:** Email re: **Compass CHC** Weekly Status Review recording sharing 
+  - Set up common SharePoint link for large files/recordings; will add Munni’s team as members for direct access.

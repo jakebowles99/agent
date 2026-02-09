@@ -33,3 +33,7 @@
 
 ---
 *Last Updated: 2026-02-09*
+
+
+- **2026-02-09 18:13 UTC:** Email re: **Compass CHC** Weekly Status Review recording sharing 
+  - Believes no additional step is required if the team can access the provided recording link; asked for confirmation.
