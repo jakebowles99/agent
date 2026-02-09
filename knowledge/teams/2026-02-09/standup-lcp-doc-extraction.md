@@ -45,6 +45,11 @@ Daily standup meeting chat for the LCP (Leadenhall Capital) Document Extraction 
 **Issues:**
 - AI extraction not getting expected outcomes with different analysers - Ajay still working on it
 - Website and plugin have no bugs except for the extraction issue
+- Email PDF extraction is the priority - Navsheen says OCs are illogical to pursue until email extraction works
+
+**Resource Change:**
+- **Vijay G** handing over to **Katayani** today - Vijay required on Midwich project
+- Jake and Charlie tagged for awareness
 
 **Related:**
 - [LCP Overview](../../projects/lcp-overview.md)
