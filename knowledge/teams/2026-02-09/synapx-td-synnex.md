@@ -3,3 +3,7 @@
 ## 15:06 - Andrew Price
 > @Gilluley, @Callum Do you know how to add a new customer to ION please? The new process is not simple
 
+
+## 15:34 - Gilluley, Callum
+> Kinga sent me this which was updated as recently as this month so this should walk you through all the steps [Microsoft Tenant Configuration in StreamOne Ion (Jan-2026)](https://www.brainshark.com/1/player/tdsynnex?pi=zH9zN1JyrziVL3z0)
+
