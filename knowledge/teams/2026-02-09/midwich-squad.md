@@ -14,3 +14,19 @@
 ## 16:24 - Timon Wan
 > i'll connect with him directly
 
+## 16:32 - Yaz Qaraqesh
+> Amazing thanks pal
+
+## 16:33 - Timon Wan
+> Are we still using db-orders-1 btw?
+
+## 16:44 - Yaz Qaraqesh
+> I'd wait for Hemanth / Vaishnavi to confirm tomorrow
+
+## 16:44 - Yaz Qaraqesh
+> (attachment id: 1770654273548)
+> Is the issue sorted?
+
+## 16:45 - Timon Wan
+> He's away atm
+> but when I open the app, it's pointing to UAT (old db hence my q above)
