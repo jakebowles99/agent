@@ -5,4 +5,7 @@
 >
 > (attached file)
 
-**Context:** Marketing team discussion - Ankita asking Navsheen for feedback on an attachment. Related to internal marketing deliverables (e.g., templates, design work).
+## 06:22 - Navsheen Koul
+> the content focus on agentic AI in Microsoft ecosystem
+
+**Context:** Marketing team discussion about content direction. Navsheen confirming the focus should be on agentic AI in Microsoft ecosystem. Related to internal marketing deliverables (e.g., templates, design work).
