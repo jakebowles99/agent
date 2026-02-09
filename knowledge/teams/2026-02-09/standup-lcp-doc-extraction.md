@@ -78,3 +78,8 @@ Daily standup meeting chat for the LCP (Leadenhall Capital) Document Extraction 
 
 ## 17:28 - Charlie Phipps-Bennett
 > I would like update before you sign-off please so I understand the state of paly
+
+
+
+## 17:41 - Navsheen Koul
+> Tim onboarding first thing tomm

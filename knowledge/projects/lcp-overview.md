@@ -77,6 +77,9 @@ FX rates successfully ingested and available within Fabric
 ### 17:15–17:30 UTC: Sign-off dependency
 - **Charlie Phipps-Bennett** requested an updated status **before sign-off** and asked for the current state of play (Teams standup thread pings at 17:27 and 17:28 UTC).
 
+### 17:45–18:00 UTC: Onboarding note
+- **Navsheen Koul** noted: "Tim onboarding first thing tomm" in the Standup - LCP Doc Extraction meeting chat (17:41 UTC).
+
 ### Claim Review Workflow (Product)
 New status added:
 - `Needs Review` → `In Review` (NEW) → `Approved/Rejected`

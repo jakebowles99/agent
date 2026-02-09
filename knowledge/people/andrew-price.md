@@ -7,6 +7,7 @@
 - **2026-02-09:**
   - In **Timesheeting Administration** chat: requested moving logged hours out of a placeholder (image attached).
   - In **Synapx/TD SYNNEX** chat: asked for guidance on adding a new customer to ION under the new process.
-  - In **17C User Accounts** chat: asked to be CC’d on account request(s) and urged recipients to sign in ASAP due to password expiry.
+  - **2026-02-09 17:50 UTC:** Follow-up in Synapx/TD SYNNEX chat: "Thank you - need more details than before" (attachment placeholder included).
+  - In **17C User Accounts** chat: asked to be CCd on account request(s) and urged recipients to sign in ASAP due to password expiry.
 
 - **2026-02-08:** Asked in Teams (Jensten Check in) what ownership/workstreams I am taking on Jensten.

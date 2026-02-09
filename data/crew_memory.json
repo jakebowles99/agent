@@ -2,6 +2,11 @@
   "short_term": {
     "last_runs": [
       {
+        "status": "error",
+        "error": "Invalid response from LLM call - None or empty.",
+        "timestamp": "2026-02-09T18:10:37.717241+00:00"
+      },
+      {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
@@ -60,14 +65,6 @@
         "files_updated": 0,
         "result_preview": "files_created: []\nfiles_updated: [\"inbox.md \u2014 prepended 2026-02-08 12:59 entry (no new activity captured)\"]\nemail_count: 0\nmessage_count: 0\ninbox_entry: |\n  ## 2026-02-08 12:59\n\n  ### Changes This Window\n  - **Emails:** 0 new\n  - **Teams Chats:** 0 messages across 0 conversations\n  - **Teams Channels:** 0 messages in 0 channels\n  - **Calendar:** No meetings captured in window\n  - **Time Tracking:** No Harvest timers/entries captured in window\n\n  ### Action Items Detected\n  - [ ] No new action it",
         "timestamp": "2026-02-08T13:01:07.456193+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "files_created: []\nfiles_updated:\n- emails/2026-02-08.md\n- teams/2026-02-08/jensten-proposal.md\n- teams/2026-02-08/jensten-check-in.md\n- people/andrew-price.md\n- people/sophia-fricker.md\n- projects/jensten-overview.md\n- inbox.md\nemail_count: 0\nmessage_count: 0\ninbox_entry: |-\n  ## 2026-02-08 12:47\n\n  ### Changes This Window\n  - **Emails:** 0 new\n  - **Teams Chats:** 0 messages across 0 conversations\n  - **Teams Channels:** 0 messages in 0 channels\n  - **Calendar:** No meetings captured in window\n",
-        "timestamp": "2026-02-08T12:49:46.489424+00:00"
       }
     ],
     "pending_items": []
@@ -75,7 +72,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 22,
+      "total_runs": 23,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -88,7 +85,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-09T17:55:59.554363+00:00",
+    "last_updated": "2026-02-09T18:10:37.717252+00:00",
     "version": "1.0"
   }
 }
