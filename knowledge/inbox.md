@@ -1,3 +1,63 @@
+## 2026-02-09 06:45 (Mon) (15-min window: 06:30 - 06:45 UTC)
+
+### Actions Required
+- [ ] (Carried forward) **Jensten Proposal Feedback (Matt Davies):** Review and address Matt's 3 feedback items on the deck before today's 11:00 UTC meeting:
+  1. Slide 10 transition - journey ends there, then move to wider proposal/recommendations
+  2. Slide 4 - couple underwriting work underneath Fabric foundation
+  3. Slides 5+ - more context on recommendations and tie-in to "Synapx as a Service"
+- [ ] (Carried forward) **RESPOND:** Kristy Lovegrove (Pro-Global CTO) re: Jensten - schedule call for SME support discussion
+- [ ] (Carried forward) **HEADS UP:** Yash Bhatia emailed at 06:20 asking to connect at 10AM UK time today re: Midwich account setup for him and Sudarshan Gopal
+- [ ] **ACTION:** Vijay G handing over LCP work to Katayani today - monitor handover progress
+
+### Documentation Updated
+- teams/2026-02-09/standup-lcp-doc-extraction.md - Added 6 messages (06:38-06:45) about extraction strategy and resource change
+
+### Summary (last 15 min only)
+- **New emails:** 0
+- **New Teams messages:** 6 in 1 chat (Standup - LCP Doc Extraction)
+- **Meetings started/ended:** 0
+- **Time tracking:** No active timer
+
+### Notes
+- **LCP Demo Update (13:30 today):**
+  - Navsheen prioritizing email PDF extraction over OCs (Outcome Clauses)
+  - Strategy: "Work with the email pdf only, it's straight forward than the long pdfs and is in hierarchy too"
+  - Navsheen: "If we can't pull out from the emails correctly, OCs are illogical to go after"
+- **RESOURCE ALERT:** Vijay G being moved from LCP to Midwich - handing over to Katayani
+  - Jake and Charlie tagged in the notification
+  - This affects LCP project capacity
+- First meeting (Midwich standup) at 08:45 UTC - ~2 hours away
+
+### Time Tracking
+- No active timer
+- Yesterday's logged time: 4h (3h Basketball RFP + 1h Jensten deck)
+
+### Today's Schedule (Mon Feb 9) - BUSY DAY
+| Time (UTC) | Meeting | Notes |
+|------------|---------|-------|
+| 08:45 | Midwich Squad daily standup | ~2 hours away |
+| 09:30 | Project Status Review (Spring Capital) | **In-person** Basildon House |
+| 09:30 | Data & AI Use Cases for Marketing | Conflicts with above |
+| 09:30 | Standup - LCP Doc Extraction | Conflicts with above |
+| 10:00? | Yash Bhatia call? | Requested in email - Midwich account |
+| 10:30 | Product Catchup | |
+| 10:30 | Euroleague BB RFP checkpoint | Conflicts - RFP due Feb 11! |
+| **11:00** | **Jensten Proposal** | **KEY** - address Matt's feedback |
+| 11:00 | Webinar Recording session | Conflicts with above |
+| 12:00 | Pipeline & Progress Weekly Review | |
+| 13:00 | Weekly Project Sign Off | |
+| 13:00 | Synapx Internal Projects Weekly Status | Conflicts with above |
+| **13:30** | **Outlook Plugin + Fraud Demo (LCP)** | **RISK** - extraction issues, Vijay reassigned |
+| **14:30** | **Capital H&B <> Synapx** | **KICKOFF** - SOW signed |
+
+### Key Priorities Today
+1. **Jensten Proposal (11:00)** - Review Matt's feedback before meeting
+2. **LCP Demo (13:30)** - Extraction issues + Vijay reassigned - monitor Katayani handover
+3. **Capital H&B Kickoff (14:30)** - First client meeting, SOW signed
+4. **Euroleague RFP** - Due Feb 11, 23:59 CET (2 days)
+
+---
+
 ## 2026-02-09 06:30 (Mon) (15-min window: 06:15 - 06:30 UTC)
 
 ### Actions Required
