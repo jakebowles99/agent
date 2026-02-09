@@ -42,3 +42,7 @@
 - **2026-02-09 18:19–18:26 UTC:** Teams (Synapx Directors)
   - Proposed using Zoho SalesIQ (out-of-box agent) with native API integration with WhatsApp; internal demo planned next week then external client-facing demo.
   - Offered to manage solo; Jake confirmed handoff ("All yours").
+
+
+- **2026-02-09 18:59 UTC (Teams | Midwich Squad):** Offered to take a look at the Midwich app issue; attachment referenced: 1770662752828.
+- **2026-02-09 18:56 UTC (Teams | Synapx Directors):** Flagged upcoming Wednesday discussion with Ajay about senior behaviour/communication, development approach, timesheet note etiquette, and proactive sharing of MVP updates.

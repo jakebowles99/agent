@@ -11,3 +11,13 @@ Internal directors discussion about avoiding custom build and leveraging Zoho Sa
 - [ ] Charlie: schedule/hold internal demo next week.
 - [ ] Identify which customer/opportunity this relates to and attach to correct client/project.
 - [ ] After internal demo, plan external client-facing demo.
+
+
+## Updates
+- **2026-02-09 18:46 UTC (Teams, Matt Davies):** Adobe Pro  send/enablement in progress but **do not sign/commit** until **Narayan** responds and they are satisfied with the response.
+- **2026-02-09 18:56 UTC (Teams, Charlie Phipps-Bennett):** Upcoming Wednesday discussion with **Ajay** re: communication/seniority expectations, dev approach, and timesheet etiquette; wants more proactive sharing of MVP updates.
+
+## Open questions / action items
+- [ ] Confirm what Adobe Pro action is being taken (purchase/renewal/contract) and who is responsible for final sign-off.
+- [ ] Chase Narayan for response; document decision once received.
+- [ ] Charlie: prepare agenda + measurable follow-ups for Wednesday conversation with Ajay.

@@ -63,3 +63,18 @@
 ## 18:45 - Timon Wan
 > No, I'm getting issues when trying to edit the App to view what datasources there are
 > Best thing is tomorrow Vaishnavi to work with Umar on it
+
+
+## 18:45 - Timon Wan
+> Seeing some weird behaviour in the App and work just having a session together to try resolve it
+
+## 18:59 - Yaz Qaraqesh
+> (attachment id: 1770662722714)
+> Heard this before
+
+## 18:59 - Yaz Qaraqesh
+> Concerning
+
+## 18:59 - Charlie Phipps-Bennett
+> (attachment id: 1770662752828)
+> Want me to take a look?

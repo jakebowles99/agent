@@ -15,3 +15,10 @@
 - Confirm correct environment (UAT vs Prod) and current active DB (db-orders-1 or otherwise).
 - Check app configuration/connection references and correct if mispointed.
 - Follow up with Hemanth and Vaishnavi for confirmation.
+
+
+### 2026-02-09 18:4539:00 UTC
+- Timon reported "weird behaviour" while working in-session to resolve.
+- Yaz flagged it's been seen before and is "concerning" (attachments: 1770662722714).
+- Charlie offered to investigate (attachment: 1770662752828).
+
