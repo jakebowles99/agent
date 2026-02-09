@@ -435,7 +435,62 @@ class HarvestTodayTrackingTool(BaseTool):
         return _run_async(_fetch())
 
 
-# ==================== TRANSCRIPT TOOLS ====================
+# ==================== MEETING & TRANSCRIPT TOOLS ====================
+
+
+class GetMeetingSummaryInput(BaseModel):
+    """Input for getting meeting summary with Copilot AI insights."""
+    subject: str = Field(description="Meeting subject to search for")
+    organizer_email: str | None = Field(default=None, description="Optional organizer email for better matching")
+
+
+class GetMeetingSummaryTool(BaseTool):
+    """Get meeting summary including Copilot AI insights (action items, meeting notes)."""
+
+    name: str = "get_meeting_summary"
+    description: str = """Get a meeting summary with Copilot AI-generated insights including:
+    - Action items with owners
+    - Meeting notes with structured subpoints
+    - Transcript preview if available
+    Search by meeting subject. Returns formatted summary."""
+    args_schema: Type[BaseModel] = GetMeetingSummaryInput
+
+    def _run(self, subject: str, organizer_email: str | None = None) -> str:
+        async def _fetch():
+            client = await _get_meetings_client()
+            if not client:
+                return json.dumps({"error": "Microsoft 365 not connected"})
+
+            result = await client.get_meeting_summary(
+                subject=subject,
+                organizer_email=organizer_email,
+            )
+            return json.dumps(result, default=str)
+        return _run_async(_fetch())
+
+
+class GetRecentMeetingsInput(BaseModel):
+    """Input for getting recent meetings."""
+    days_back: int = Field(default=7, description="Days to look back")
+    limit: int = Field(default=10, description="Maximum meetings to return")
+
+
+class GetRecentMeetingsTool(BaseTool):
+    """Get recent Teams meetings from calendar."""
+
+    name: str = "get_recent_meetings"
+    description: str = "Get recent Teams online meetings from calendar. Use to find meeting IDs and subjects."
+    args_schema: Type[BaseModel] = GetRecentMeetingsInput
+
+    def _run(self, days_back: int = 7, limit: int = 10) -> str:
+        async def _fetch():
+            client = await _get_meetings_client()
+            if not client:
+                return json.dumps({"error": "Microsoft 365 not connected"})
+
+            meetings = await client.get_recent_meetings(days_back=days_back, limit=limit)
+            return json.dumps(meetings, default=str)
+        return _run_async(_fetch())
 
 
 class GetAllTranscriptsInput(BaseModel):
@@ -620,7 +675,9 @@ def get_all_tools() -> list[BaseTool]:
         HarvestMyTimeTool(),
         HarvestRunningTimersTool(),
         HarvestTodayTrackingTool(),
-        # Transcripts
+        # Meetings & Transcripts
+        GetMeetingSummaryTool(),
+        GetRecentMeetingsTool(),
         GetAllTranscriptsTool(),
         GetTranscriptByMeetingIdTool(),
         # Knowledge Base
@@ -645,7 +702,9 @@ def get_data_collection_tools() -> list[BaseTool]:
         HarvestRunningTimersTool(),
         HarvestTodayTrackingTool(),
         HarvestMyTimeTool(),
-        # Transcripts
+        # Meetings & Transcripts
+        GetMeetingSummaryTool(),
+        GetRecentMeetingsTool(),
         GetAllTranscriptsTool(),
         GetTranscriptByMeetingIdTool(),
     ]
@@ -661,6 +720,9 @@ def get_analysis_tools() -> list[BaseTool]:
         GetTeamsChatsTool(),
         GetChatMessagesTool(),
         HarvestGetProjectsTool(),
+        # Meeting insights
+        GetMeetingSummaryTool(),
+        GetRecentMeetingsTool(),
     ]
 
 

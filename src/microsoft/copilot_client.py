@@ -158,7 +158,6 @@ class MeetingInsightsClient:
     def _extract_meeting_info_from_join_url(self, join_url: str) -> dict:
         """Extract meeting info from a Teams join URL."""
         import urllib.parse
-        import base64
         import json
 
         result = {
@@ -189,6 +188,35 @@ class MeetingInsightsClient:
             logger.warning(f"Could not extract meeting info: {e}")
 
         return result
+
+    def _construct_meeting_id_from_join_url(self, join_url: str) -> str | None:
+        """
+        Construct a meeting ID from the join URL for use with Copilot APIs.
+
+        The meeting ID format for Copilot APIs is:
+        Base64URL(1*{organizerId}*0**{threadId})
+
+        This allows accessing meeting data as an attendee, not just the organizer.
+        """
+        import base64
+
+        meeting_info = self._extract_meeting_info_from_join_url(join_url)
+        thread_id = meeting_info.get("thread_id")
+        organizer_id = meeting_info.get("organizer_id")
+
+        if not thread_id or not organizer_id:
+            logger.warning("Could not extract thread_id or organizer_id from join URL")
+            return None
+
+        # Construct the meeting ID in the format expected by Copilot APIs
+        # Format: 1*{organizerId}*0**{threadId}
+        raw_id = f"1*{organizer_id}*0**{thread_id}"
+
+        # Base64 URL-safe encode (without padding)
+        meeting_id = base64.urlsafe_b64encode(raw_id.encode()).decode().rstrip('=')
+
+        logger.info(f"Constructed meeting ID from join URL: {meeting_id[:60]}...")
+        return meeting_id
 
     async def get_online_meeting_by_join_url(
         self,
@@ -391,29 +419,35 @@ class MeetingInsightsClient:
             logger.error("Could not get user ID for transcripts")
             return []
 
+        # URL-encode the meeting ID for the URL path
+        encoded_meeting_id = quote(meeting_id, safe='')
+
         # Use Copilot API path - works for any meeting you attended
-        url = f"{GRAPH_BASE_URL}/copilot/users/{user_id}/onlineMeetings/{quote(meeting_id, safe='')}/transcripts"
+        url = f"{GRAPH_BASE_URL}/copilot/users/{user_id}/onlineMeetings/{encoded_meeting_id}/transcripts"
+        logger.info(f"Fetching transcripts from: {url[:120]}...")
 
         try:
             result = await self._request("GET", url)
 
             if "error" in result:
-                logger.warning(f"No transcripts found for meeting {meeting_id}")
+                logger.warning(f"Transcripts error: {result.get('error')} (status: {result.get('status')})")
                 return []
 
+            raw_values = result.get("value", [])
+            logger.info(f"Transcripts API returned {len(raw_values)} transcript(s)")
+
             transcripts = []
-            for t in result.get("value", []):
+            for t in raw_values:
                 transcripts.append({
                     "id": t.get("id", ""),
                     "meeting_id": meeting_id,
                     "created": t.get("createdDateTime", ""),
                 })
 
-            logger.info(f"Found {len(transcripts)} transcripts for meeting {meeting_id}")
             return transcripts
 
         except Exception as e:
-            logger.error(f"Failed to get transcripts for meeting {meeting_id}: {e}")
+            logger.error(f"Failed to get transcripts: {e}")
             return []
 
     async def get_transcript_content(self, meeting_id: str, transcript_id: str) -> str:
@@ -459,6 +493,9 @@ class MeetingInsightsClient:
 
         Endpoint: GET /copilot/users/{userId}/onlineMeetings/{onlineMeetingId}/aiInsights
 
+        Note: The list endpoint only returns metadata. We must fetch each insight
+        individually to get the full content (actionItems, meetingNotes).
+
         Returns callAiInsight objects containing:
         - actionItems: Collection of action items
         - meetingNotes: Collection of meeting notes with title, text, subpoints
@@ -470,54 +507,90 @@ class MeetingInsightsClient:
             logger.error("Could not get user ID for AI insights")
             return []
 
+        # URL-encode the meeting ID for the URL path
+        encoded_meeting_id = quote(meeting_id, safe='')
+
         # AI Insights API is now GA in v1.0 (December 2025)
-        url = f"{GRAPH_BASE_URL}/copilot/users/{user_id}/onlineMeetings/{meeting_id}/aiInsights"
-        logger.info(f"Fetching AI insights from: {url}")
+        list_url = f"{GRAPH_BASE_URL}/copilot/users/{user_id}/onlineMeetings/{encoded_meeting_id}/aiInsights"
+        logger.info(f"Listing AI insights from: {list_url[:120]}...")
 
         try:
-            result = await self._request("GET", url)
+            # Step 1: List all insights to get their IDs
+            list_result = await self._request("GET", list_url)
 
-            if "error" in result:
-                logger.warning(f"AI insights error: {result.get('error')}")
+            if "error" in list_result:
+                logger.warning(f"AI insights list error: {list_result.get('error')} (status: {list_result.get('status')})")
                 return []
 
+            raw_values = list_result.get("value", [])
+            logger.info(f"AI insights list returned {len(raw_values)} insight object(s)")
+
+            if not raw_values:
+                return []
+
+            # Step 2: Fetch each insight individually to get full content
             insights = []
-            for insight in result.get("value", []):
-                # Parse the callAiInsight structure
-                parsed = {
-                    "id": insight.get("id", ""),
-                    "created": insight.get("createdDateTime", ""),
-                    "end": insight.get("endDateTime", ""),
-                    "call_id": insight.get("callId", ""),
-                }
+            for insight_meta in raw_values:
+                insight_id = insight_meta.get("id", "")
+                if not insight_id:
+                    continue
 
-                # Extract action items
-                action_items = insight.get("actionItems", [])
-                if action_items:
-                    parsed["action_items"] = [
-                        {"text": item.get("text", "")} for item in action_items
-                    ]
+                # Fetch the full insight with meetingNotes and actionItems
+                encoded_insight_id = quote(insight_id, safe='')
+                detail_url = f"{GRAPH_BASE_URL}/copilot/users/{user_id}/onlineMeetings/{encoded_meeting_id}/aiInsights/{encoded_insight_id}"
 
-                # Extract meeting notes (structured with title, text, subpoints)
-                meeting_notes = insight.get("meetingNotes", [])
-                if meeting_notes:
-                    parsed["meeting_notes"] = []
-                    for note in meeting_notes:
-                        note_data = {
-                            "title": note.get("title", ""),
-                            "text": note.get("text", ""),
-                        }
-                        subpoints = note.get("subpoints", [])
-                        if subpoints:
-                            note_data["subpoints"] = [
-                                {"title": sp.get("title", ""), "text": sp.get("text", "")}
-                                for sp in subpoints
-                            ]
-                        parsed["meeting_notes"].append(note_data)
+                try:
+                    insight = await self._request("GET", detail_url)
 
-                insights.append(parsed)
+                    if "error" in insight:
+                        logger.warning(f"Failed to fetch insight {insight_id[:30]}...: {insight.get('error')}")
+                        continue
 
-            logger.info(f"Found {len(insights)} AI insights for meeting {meeting_id}")
+                    # Parse the full callAiInsight structure
+                    parsed = {
+                        "id": insight.get("id", ""),
+                        "created": insight.get("createdDateTime", ""),
+                        "end": insight.get("endDateTime", ""),
+                        "call_id": insight.get("callId", ""),
+                    }
+
+                    # Extract action items
+                    action_items = insight.get("actionItems", [])
+                    if action_items:
+                        parsed["action_items"] = [
+                            {
+                                "title": item.get("title", ""),
+                                "text": item.get("text", ""),
+                                "owner": item.get("ownerDisplayName", ""),
+                            }
+                            for item in action_items
+                        ]
+
+                    # Extract meeting notes (structured with title, text, subpoints)
+                    meeting_notes = insight.get("meetingNotes", [])
+                    if meeting_notes:
+                        parsed["meeting_notes"] = []
+                        for note in meeting_notes:
+                            note_data = {
+                                "title": note.get("title", ""),
+                                "text": note.get("text", ""),
+                            }
+                            subpoints = note.get("subpoints", [])
+                            if subpoints:
+                                note_data["subpoints"] = [
+                                    {"title": sp.get("title", ""), "text": sp.get("text", "")}
+                                    for sp in subpoints
+                                ]
+                            parsed["meeting_notes"].append(note_data)
+
+                    insights.append(parsed)
+                    logger.info(f"Fetched insight with {len(parsed.get('action_items', []))} action items, {len(parsed.get('meeting_notes', []))} notes")
+
+                except Exception as e:
+                    logger.warning(f"Failed to fetch insight detail: {e}")
+                    continue
+
+            logger.info(f"Retrieved {len(insights)} complete AI insights for meeting")
             return insights
 
         except PermissionError as e:
@@ -590,9 +663,17 @@ class MeetingInsightsClient:
                 result["meeting_id"] = meeting_id
                 if not result.get("subject"):
                     result["subject"] = online_meeting.get("subject", "")
-                logger.info(f"Resolved meeting ID: {meeting_id}")
+                logger.info(f"Resolved meeting ID via Graph API: {meeting_id}")
+            else:
+                # Fallback: construct meeting ID directly from join URL components
+                # This works for attendees who can't query the organizer's onlineMeetings
+                logger.info("Graph API lookup failed, constructing meeting ID from join URL...")
+                meeting_id = self._construct_meeting_id_from_join_url(join_url)
+                if meeting_id:
+                    result["meeting_id"] = meeting_id
+                    result["meeting_id_source"] = "constructed_from_join_url"
 
-        # Step 2: If still no meeting ID, report error
+        # Step 3: If still no meeting ID, report error
         if not meeting_id:
             result["error"] = (
                 "Could not resolve meeting ID. This can happen if:\n"
@@ -620,7 +701,13 @@ class MeetingInsightsClient:
             if result["action_items"]:
                 summary_parts.append("**Action Items:**")
                 for item in result["action_items"]:
-                    summary_parts.append(f"- {item.get('text', '')}")
+                    owner = item.get('owner', '')
+                    title = item.get('title', '')
+                    text = item.get('text', '')
+                    if owner:
+                        summary_parts.append(f"- **{owner}**: {title or text}")
+                    else:
+                        summary_parts.append(f"- {title or text}")
 
             if result["meeting_notes"]:
                 summary_parts.append("\n**Meeting Notes:**")
