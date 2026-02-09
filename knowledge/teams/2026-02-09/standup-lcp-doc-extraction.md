@@ -70,3 +70,11 @@ Daily standup meeting chat for the LCP (Leadenhall Capital) Document Extraction 
 **Related:**
 - [LCP Overview](../../projects/lcp-overview.md)
 - Today's 13:30 UTC demo: "Outlook Plugin + Fraud Prediction Demo" with Tayo
+
+
+
+## 17:27 - Charlie Phipps-Bennett
+> Is there any update?
+
+## 17:28 - Charlie Phipps-Bennett
+> I would like update before you sign-off please so I understand the state of paly

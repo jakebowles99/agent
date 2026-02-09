@@ -1,3 +1,25 @@
+## 2026-02-09 17:30
+
+### Changes This Window
+- **Emails:** 1 new (Replit Team coming to Bangalore 🇮🇳)
+- **Teams Chats:** 2 messages across 1 conversation (Standup - LCP Doc Extraction)
+- **Teams Channels:** 0 messages in 0 channels
+- **Calendar:** No meetings started/ended in this window
+- **Time Tracking:** No running Harvest timer
+
+### Action Items Detected
+- [ ] Respond to Charlie Phipps-Bennett with an LCP Doc Extraction status update BEFORE any sign-off.
+- [ ] Decide whether to RSVP to Replit Bangalore meetup invitation.
+- [ ] Timekeeping hygiene: update the 'Meeting' Harvest entry note (Midwich SOW007, 0.25h) to specify which meeting.
+
+### Files Updated
+- emails/2026-02-09.md — appended 1 email (17:18) Replit Bangalore meetup invite.
+- teams/2026-02-09/standup-lcp-doc-extraction.md — appended 2 messages (17:27–17:28) from Charlie requesting status before sign-off.
+- people/charlie-phipps-bennett.md — updated recent interactions with 17:27–17:28 status request.
+- projects/lcp-overview.md — noted sign-off dependency and Charlie’s request (17:15–17:30 window).
+
+---
+
 ## 2026-02-09 16:45
 
 ### Changes This Window

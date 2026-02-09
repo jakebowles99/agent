@@ -74,6 +74,9 @@ FX rates successfully ingested and available within Fabric
 - Website and plugin have no bugs except extraction accuracy
 - Manifest file issue encountered during plugin demo - needs debugging
 
+### 17:15–17:30 UTC: Sign-off dependency
+- **Charlie Phipps-Bennett** requested an updated status **before sign-off** and asked for the current state of play (Teams standup thread pings at 17:27 and 17:28 UTC).
+
 ### Claim Review Workflow (Product)
 New status added:
 - `Needs Review` → `In Review` (NEW) → `Approved/Rejected`
