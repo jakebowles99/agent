@@ -1,3 +1,62 @@
+## 2026-02-09 07:15 (Mon) (15-min window: 07:00 - 07:15 UTC)
+
+### Actions Required
+- [ ] (Carried forward) **Jensten Proposal Feedback (Matt Davies):** Review and address Matt's 3 feedback items on the deck before today's 11:00 UTC meeting
+- [ ] (Carried forward) **RESPOND:** Kristy Lovegrove (Pro-Global CTO) re: Jensten - schedule call for SME support discussion
+- [ ] (Carried forward) **HEADS UP:** Yash Bhatia wants call at 10AM UK time today re: Midwich account setup
+- [ ] (Carried forward) **ACTION:** Vijay G handing over LCP work to Katyayani today - monitor handover progress
+- [ ] (Carried forward) **PM UK Role:** Jake & Charlie to provide requirements for priority PM UK hire - Andrew confirms "must have delivered Data projects"
+- [ ] **NEW - Spring Capital Meeting (09:30):** Andrew asking "Do you have the answers or should I check with Gagan?" and confirming meet at their office at 09:20
+
+### Documentation Updated
+- teams/2026-02-09/standup-lcp-doc-extraction.md - Added 1 message (07:09): Ajay created 8 Analysers, testing for highest precision to combine best fields into new one
+- teams/2026-02-09/internal-synapx-recruitment.md - Added 1 message (07:02): Andrew confirms "Must have delivered Data projects, yes"
+
+### Summary (last 15 min only)
+- **New emails:** 0
+- **New Teams messages:** 4 across 3 chats (LCP Standup, Andrew 1:1, Recruitment)
+- **Meetings started/ended:** 0
+- **Time tracking:** No active timer
+
+### Notes
+- **LCP Extraction Progress:** Ajay has created 8 different analysers, testing same document to find highest precision per field - will combine best performing fields into a new unified analyser
+- **Spring Capital Logistics:** Andrew wants to meet Jake at their office at 09:20 for the 09:30 in-person meeting. Also asking about "the answers" - check with Gagan if needed
+- **PM UK Role Confirmed:** Andrew seconds Matt's requirement - must have delivered Data projects
+- First meeting (Midwich standup) at 08:45 UTC - ~1.5 hours away
+
+### Time Tracking
+- No active timer
+- Yesterday's logged time: 4h (3h Basketball RFP + 1h Jensten deck)
+
+### Today's Schedule (Mon Feb 9) - BUSY DAY
+| Time (UTC) | Meeting | Notes |
+|------------|---------|-------|
+| 08:45 | Midwich Squad daily standup | ~1.5 hours away |
+| **09:20** | **Meet Andrew at Spring Capital office** | NEW - meet before meeting |
+| 09:30 | Project Status Review (Spring Capital) | **In-person** Basildon House |
+| 09:30 | Data & AI Use Cases for Marketing | Conflicts with above |
+| 09:30 | Standup - LCP Doc Extraction | Conflicts with above |
+| 10:00? | Yash Bhatia call? | Requested in email - Midwich account |
+| 10:30 | Product Catchup | |
+| 10:30 | Euroleague BB RFP checkpoint | Conflicts - RFP due Feb 11! |
+| **11:00** | **Jensten Proposal** | **KEY** - address Matt's feedback |
+| 11:00 | Webinar Recording session | Conflicts with above |
+| 12:00 | Pipeline & Progress Weekly Review | |
+| 13:00 | Weekly Project Sign Off | |
+| 13:00 | Synapx Internal Projects Weekly Status | Conflicts with above |
+| **13:30** | **Outlook Plugin + Fraud Demo (LCP)** | **RISK** - extraction issues; Katyayani handover in progress |
+| **14:30** | **Capital H&B <> Synapx** | **KICKOFF** - SOW signed |
+
+### Key Priorities Today
+1. **Spring Capital Meeting (09:30)** - IN-PERSON, meet Andrew at 09:20 - "the answers" needed?
+2. **Jensten Proposal (11:00)** - Review Matt's feedback before meeting
+3. **LCP Demo (13:30)** - Ajay testing 8 analysers, Katyayani handover active
+4. **Capital H&B Kickoff (14:30)** - First client meeting, SOW signed
+5. **Euroleague RFP** - Due Feb 11, 23:59 CET (2 days)
+6. **PM UK Role** - Provide requirements to Bhoomi (Data projects experience required)
+
+---
+
 ## 2026-02-09 07:00 (Mon) (15-min window: 06:45 - 07:00 UTC)
 
 ### Actions Required
