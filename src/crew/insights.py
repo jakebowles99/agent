@@ -12,8 +12,9 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from crewai import Agent, Crew, Process, Task
+from crewai_tools import MCPServerAdapter
 
-from src.crew.agents import get_llm, get_mcp_server
+from src.crew.agents import get_llm, get_mcp_server_params
 from src.crew.memory import get_memory
 from src.crew.tools import get_knowledge_tools
 
@@ -37,7 +38,7 @@ def create_insight_agent() -> Agent:
 
         You write concise, actionable insights in markdown format.
         You focus on what matters and avoid noise.""",
-        mcps=[get_mcp_server()],
+        mcps=[MCPServerAdapter(get_mcp_server_params())],
         tools=get_knowledge_tools(),
         llm=get_llm(),
         verbose=True,
