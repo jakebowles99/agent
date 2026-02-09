@@ -1,19 +1,15 @@
 # Matt Davies
 
 ## Basic Info
-- **Role**: Director
+- **Role**: (Unknown)
 - **Company**: Synapx
-- **Type**: Internal - Leadership
+- **Type**: Internal - Colleague
 
-## Responsibilities
-- Director-level leadership
-- Business development
-- Client relationships
+## Last contact
+- **2026-02-09**
 
-## Working Relationship
-- Part of Synapx leadership team
-- Involved in strategic decisions
-- Client account oversight
+## Recent interactions
+- **2026-02-09:** Referenced in Teams by Nandan (accounts created but not shared; Nandan planned to ask Matt to share credentials/details).
 
 ---
-*Last Updated: February 2026*
+*Last Updated: 2026-02-09*
