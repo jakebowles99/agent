@@ -3,5 +3,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
-- **2026-02-09 (Teams | Midwich Squad):** Acknowledged request to check connection references (possible DEV DB mispoint) and said he will contact the impacted user directly.
+- **2026-02-09 (Teams | Midwich Squad):**
+  - Noted he sees the same error in the “new part”.
+  - Said he will jump on a call with the relevant person when available.
+  - Requested (tagging Vaishnavi/MP) to rename environment variable display name from `synapx_ev_OrderManagementPOsqlDatabase` → `ev_OrderManagementPOsqlDatabase` (ID unchanged) by tomorrow.
 - **2026-02-09 (Harvest):** Logged time on Midwich Support Contract (SOW007): 6.25h "TASK 191 - Logging" and 0.25h "Meeting" (entries created ~16:19Z).

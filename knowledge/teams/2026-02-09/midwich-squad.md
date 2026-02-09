@@ -30,3 +30,22 @@
 ## 16:45 - Timon Wan
 > He's away atm
 > but when I open the app, it's pointing to UAT (old db hence my q above)
+
+
+
+## 16:45 - Timon Wan
+> ah wait, for that new part I do see the same error
+
+## 16:45 - Nandan Hegde
+> UAT database is the db-orders-1
+
+## 16:45 - Timon Wan
+> He's back now, so will jump on a call with him
+
+## 16:46 - Timon Wan
+> Thanks for confirming
+
+## 16:50 - Timon Wan
+> Vaishnavi MP
+>
+> For tomorrow, can you just rename the display name of env var: 'synapx_ev_OrderManagementPOsqlDatabase' to 'ev_OrderManagementPOsqlDatabase'. ID of the env var is correct, but just trim the Display name.
