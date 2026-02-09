@@ -43,6 +43,8 @@ def get_llm() -> LLM:
         api_key=api_key,
         endpoint=endpoint,
         api_version=api_version,
+        timeout=300,  # 5 minute timeout per request
+        max_retries=3,  # Retry on transient failures
     )
 
 
