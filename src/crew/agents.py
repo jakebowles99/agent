@@ -1,32 +1,24 @@
-"""CrewAI agent definitions for autonomous monitoring."""
+"""Agent definitions for the monitoring crew."""
 
 import os
-from pathlib import Path
-
 from crewai import Agent, LLM
-from crewai.mcp import MCPServerStdio
+from crewai_tools import MCPServerAdapter
 
 from src.crew.tools import get_knowledge_tools
 
 
-def get_mcp_server() -> MCPServerStdio:
-    """Get the MCP server configuration for Microsoft 365 and Harvest tools."""
-    project_root = Path(__file__).parent.parent.parent
-    mcp_server_path = project_root / "mcp_server.py"
-
-    return MCPServerStdio(
+def get_mcp_server() -> MCPServerAdapter:
+    """Get the MCP server adapter for Microsoft 365 and Harvest tools."""
+    return MCPServerAdapter(
         command="python",
-        args=[str(mcp_server_path)],
+        args=["/app/mcp_server.py"] if os.path.exists("/app/mcp_server.py") else ["mcp_server.py"],
         env={**os.environ},
         cache_tools_list=True,
     )
 
 
 def get_llm() -> LLM:
-    """Get the LLM configured for Azure OpenAI.
-
-    Uses CrewAI's azure provider with Azure OpenAI endpoint.
-    """
+    """Get the LLM configured for Azure OpenAI."""
     api_key = os.getenv("AZURE_API_KEY")
     endpoint = os.getenv("AZURE_ENDPOINT")
     api_version = os.getenv("AZURE_API_VERSION", "2024-12-01-preview")
@@ -43,21 +35,177 @@ def get_llm() -> LLM:
         api_key=api_key,
         endpoint=endpoint,
         api_version=api_version,
-        timeout=600,  # 10 minute timeout (increased from 5 min for large requests)
-        max_retries=5,  # More retries for transient connection failures
-        # Note: If connection issues persist, consider:
-        # - Checking Azure OpenAI endpoint health
-        # - Reducing context size in tasks
-        # - Adding exponential backoff at the httpx level
+        timeout=600,
+        max_retries=5,
     )
 
 
-def create_data_collector() -> Agent:
-    """Create the DataCollector agent.
+# ==================== SPECIALIZED COLLECTORS ====================
 
-    This agent gathers data from all sources (Microsoft 365, Harvest).
-    It focuses on collecting recent activity within the monitoring window.
-    """
+
+def create_email_agent() -> Agent:
+    """Agent that collects and archives emails."""
+    return Agent(
+        role="Email Processor",
+        goal="Collect emails from last 15 minutes and archive them",
+        backstory="""You collect and archive emails. Use since_minutes=15 parameter.
+
+Tools:
+- get_emails(limit=20, since_minutes=15) - inbox emails
+- get_sent_emails(limit=10, since_minutes=15) - sent emails
+- write_knowledge - to archive (use append=True)
+- read_knowledge - check existing files first
+
+Archive to: knowledge/emails/YYYY-MM-DD.md
+Format: ## HH:MM - From: [sender] **Subject:** [subject] > [preview]
+
+ALWAYS use append=True. Never overwrite existing content.""",
+        mcps=[get_mcp_server()],
+        tools=get_knowledge_tools(),
+        llm=get_llm(),
+        verbose=True,
+        allow_delegation=False,
+        memory=False,
+    )
+
+
+def create_teams_chat_agent() -> Agent:
+    """Agent that collects and archives Teams DM chats."""
+    return Agent(
+        role="Teams Chat Processor",
+        goal="Collect Teams DM chats from last 15 minutes and archive them",
+        backstory="""You collect and archive Teams direct message chats.
+
+Tools:
+- get_teams_chats(limit=20, since_minutes=15) - returns chats with display_name field
+- get_chat_messages(chat_id, limit=10, since_minutes=15) - messages for each chat
+- write_knowledge - to archive (use append=True)
+- read_knowledge - check existing files first
+
+IMPORTANT: Each chat has a display_name field containing the person's name (for 1:1)
+or chat topic (for groups). Use this for filenames, NOT the chat ID or GUID.
+
+Archive to: knowledge/teams/YYYY-MM-DD/[display-name].md
+- Convert display_name to lowercase-kebab-case (e.g., "Charlie Phipps-Bennett" -> "charlie-phipps-bennett.md")
+- NEVER use GUIDs or chat IDs in filenames
+
+Format: ## HH:MM - [Sender] > [message content]
+
+ALWAYS use append=True. Never overwrite existing content.""",
+        mcps=[get_mcp_server()],
+        tools=get_knowledge_tools(),
+        llm=get_llm(),
+        verbose=True,
+        allow_delegation=False,
+        memory=False,
+    )
+
+
+def create_teams_channel_agent() -> Agent:
+    """Agent that collects and archives Teams channel messages."""
+    return Agent(
+        role="Teams Channel Processor",
+        goal="Collect Teams channel messages from last 15 minutes and archive them",
+        backstory="""You collect and archive Teams channel messages.
+
+Tools:
+- get_joined_teams() - list of teams
+- get_team_channels(team_id) - channels in each team
+- get_channel_messages(team_id, channel_id, limit=10, since_minutes=15) - messages
+- write_knowledge - to archive (use append=True)
+- read_knowledge - check existing files first
+
+Archive to: knowledge/channels/YYYY-MM-DD/[team]-[channel].md
+Format: ## HH:MM - [Sender] > [message content]
+
+ALWAYS use append=True. Never overwrite existing content.""",
+        mcps=[get_mcp_server()],
+        tools=get_knowledge_tools(),
+        llm=get_llm(),
+        verbose=True,
+        allow_delegation=False,
+        memory=False,
+    )
+
+
+def create_context_agent() -> Agent:
+    """Agent that collects calendar, Harvest, and transcript data."""
+    return Agent(
+        role="Context Processor",
+        goal="Collect calendar events, time tracking, and meeting transcripts",
+        backstory="""You collect contextual data: calendar, Harvest time tracking, and transcripts.
+
+Tools:
+- get_today_events() - today's calendar
+- harvest_running_timers() - active timers
+- harvest_today_tracking() - today's time entries
+- get_all_transcripts(limit=10) - available transcripts
+- get_transcript_by_meeting_id(meeting_id) - full transcript content
+- write_knowledge - to archive (use append=True)
+- read_knowledge - check existing files first
+
+Archive transcripts to: knowledge/meetings/transcripts/YYYY-MM-DD-[subject].md
+Format: # [Subject] **Date:** YYYY-MM-DD **Attendees:** [list] ## Transcript [content]
+
+Report calendar events and time tracking status in your output.
+
+ALWAYS use append=True for existing files. Never overwrite.""",
+        mcps=[get_mcp_server()],
+        tools=get_knowledge_tools(),
+        llm=get_llm(),
+        verbose=True,
+        allow_delegation=False,
+        memory=False,
+    )
+
+
+def create_inbox_agent() -> Agent:
+    """Agent that updates the inbox with a summary."""
+    return Agent(
+        role="Inbox Updater",
+        goal="Update inbox.md with summary of all activity",
+        backstory="""You create a summary entry in knowledge/inbox.md.
+
+Tools:
+- read_knowledge - read previous task outputs and existing inbox
+- write_knowledge - update inbox.md
+
+Read the outputs from previous tasks and create a changelog entry.
+PREPEND (not append) the entry to the TOP of inbox.md.
+
+Format:
+## YYYY-MM-DD HH:MM
+
+### Changes This Window
+- **Emails:** X new (list subjects)
+- **Teams Chats:** X messages across Y conversations
+- **Teams Channels:** X messages in Y channels
+- **Transcripts:** X new
+- **Calendar:** [status]
+- **Time Tracking:** [current timer or none]
+
+### Action Items Detected
+- [ ] [any requests found]
+
+### Files Updated
+- [list files]
+
+---
+
+If no activity, write "No new activity in last 15 minutes." """,
+        tools=get_knowledge_tools(),
+        llm=get_llm(),
+        verbose=True,
+        allow_delegation=False,
+        memory=False,
+    )
+
+
+# ==================== LEGACY AGENTS (for compatibility) ====================
+
+
+def create_data_collector() -> Agent:
+    """Create the DataCollector agent (legacy)."""
     return Agent(
         role="Data Collector",
         goal="Gather all recent data from Microsoft 365 and Harvest within the last 15 minutes",
@@ -90,11 +238,7 @@ def create_data_collector() -> Agent:
 
 
 def create_analyst() -> Agent:
-    """Create the Analyst agent.
-
-    This agent analyzes collected data for patterns, priorities, and insights.
-    It compares against the knowledge base to identify what's new or important.
-    """
+    """Create the Analyst agent (legacy)."""
     return Agent(
         role="Analyst",
         goal="Identify patterns, priorities, and actionable insights from collected data",
@@ -123,11 +267,7 @@ def create_analyst() -> Agent:
 
 
 def create_archivist() -> Agent:
-    """Create the Archivist agent.
-
-    This agent updates the knowledge base with new information,
-    ensuring proper documentation and organization.
-    """
+    """Create the Archivist agent (legacy)."""
     return Agent(
         role="Archivist",
         goal="Update the knowledge base with new information while PRESERVING all existing content",
@@ -174,14 +314,17 @@ def create_archivist() -> Agent:
     )
 
 
-def create_all_agents() -> tuple[Agent, Agent, Agent]:
-    """Create all agents for the monitoring crew.
+def create_all_agents():
+    """Create all agents for the legacy crew structure."""
+    return create_data_collector(), create_analyst(), create_archivist()
 
-    Returns:
-        Tuple of (data_collector, analyst, archivist)
-    """
+
+def create_specialized_agents():
+    """Create specialized agents for the parallel crew structure."""
     return (
-        create_data_collector(),
-        create_analyst(),
-        create_archivist(),
+        create_email_agent(),
+        create_teams_chat_agent(),
+        create_teams_channel_agent(),
+        create_context_agent(),
+        create_inbox_agent(),
     )

@@ -198,6 +198,8 @@ class MeetingInsightsClient:
     ) -> dict | None:
         """
         Look up an online meeting by its join URL.
+
+        Uses the Copilot API path which works for any meeting you attended.
         """
         if not join_url and not subject:
             logger.warning("No join_url or subject provided")
@@ -209,12 +211,15 @@ class MeetingInsightsClient:
         if subject:
             logger.info(f"  subject: {subject}")
 
+        user_id = await self.get_user_id()
+        if not user_id:
+            logger.error("Could not get user ID for meeting lookup")
+            return None
+
         # Extract info from join URL
         meeting_info = self._extract_meeting_info_from_join_url(join_url) if join_url else {}
         thread_id = meeting_info.get("thread_id")
 
-        # Need to get the actual online meeting ID via the JoinWebUrl filter
-        # The join URL must NOT be double-encoded
         if join_url:
             import urllib.parse
 
@@ -222,15 +227,14 @@ class MeetingInsightsClient:
             decoded_url = urllib.parse.unquote(join_url)
             logger.info(f"Decoded join URL: {decoded_url[:80]}...")
 
-            # Try the JoinWebUrl filter with properly encoded URL
+            # Try the JoinWebUrl filter using user's onlineMeetings endpoint
             try:
-                # The filter value needs single quotes, and the URL inside should not be re-encoded
                 filter_value = f"JoinWebUrl eq '{decoded_url}'"
                 logger.info(f"Trying filter: {filter_value[:100]}...")
 
                 result = await self._request(
                     "GET",
-                    f"{GRAPH_BASE_URL}/me/onlineMeetings",
+                    f"{GRAPH_BASE_URL}/users/{user_id}/onlineMeetings",
                     params={"$filter": filter_value}
                 )
 
@@ -377,8 +381,18 @@ class MeetingInsightsClient:
         return all_transcripts
 
     async def get_meeting_transcripts(self, meeting_id: str) -> list[dict]:
-        """Get available transcripts for a specific meeting."""
-        url = f"{GRAPH_BASE_URL}/me/onlineMeetings/{quote(meeting_id, safe='')}/transcripts"
+        """Get available transcripts for a specific meeting.
+
+        Uses the Copilot API path which allows access to transcripts for any
+        meeting you attended, not just ones you organized.
+        """
+        user_id = await self.get_user_id()
+        if not user_id:
+            logger.error("Could not get user ID for transcripts")
+            return []
+
+        # Use Copilot API path - works for any meeting you attended
+        url = f"{GRAPH_BASE_URL}/copilot/users/{user_id}/onlineMeetings/{quote(meeting_id, safe='')}/transcripts"
 
         try:
             result = await self._request("GET", url)
@@ -403,8 +417,17 @@ class MeetingInsightsClient:
             return []
 
     async def get_transcript_content(self, meeting_id: str, transcript_id: str) -> str:
-        """Get the content of a specific transcript in WebVTT format."""
-        url = f"{GRAPH_BASE_URL}/me/onlineMeetings/{quote(meeting_id, safe='')}/transcripts/{quote(transcript_id, safe='')}/content"
+        """Get the content of a specific transcript in WebVTT format.
+
+        Uses the Copilot API path for access to any meeting's transcript.
+        """
+        user_id = await self.get_user_id()
+        if not user_id:
+            logger.error("Could not get user ID for transcript content")
+            return ""
+
+        # Use Copilot API path
+        url = f"{GRAPH_BASE_URL}/copilot/users/{user_id}/onlineMeetings/{quote(meeting_id, safe='')}/transcripts/{quote(transcript_id, safe='')}/content"
 
         async with httpx.AsyncClient() as client:
             response = await client.get(
