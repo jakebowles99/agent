@@ -7,14 +7,21 @@ if [ -f /app/.docker-env ]; then
     set -a
     source /app/.docker-env
     set +a
+else
+    echo "WARNING: /app/.docker-env not found!"
 fi
 
-# Ensure PATH includes python and node binaries
+# Cron runs with minimal environment - set required vars
 export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
+export HOME="${HOME:-/root}"
+export SHELL="${SHELL:-/bin/bash}"
+export LANG="${LANG:-C.UTF-8}"
 
 cd /app
 
 echo "=== Monitor run: $(date) ==="
+echo "DEBUG: AZURE_ENDPOINT=${AZURE_ENDPOINT:-(not set)}"
+echo "DEBUG: AZURE_API_KEY=${AZURE_API_KEY:+[set]}"
 
 # Quick MCP server health check - verify it can start
 echo "Checking MCP server..."

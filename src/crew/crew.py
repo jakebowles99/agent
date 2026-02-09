@@ -31,6 +31,7 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
 
         **Teams Chats (DMs):**
         3. get_teams_chats(limit=20, since_minutes=15) - get chats with activity in last 15 min
+           - Each chat returns: id, display_name (person's name for 1:1, topic for groups), members, chat_type
         4. For each chat returned: get_chat_messages(chat_id, limit=10, since_minutes=15)
 
         **Teams Channels:**
@@ -45,16 +46,21 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
         9. harvest_running_timers() - any active timer
         10. harvest_today_tracking() - today's time entries
 
+        **Meeting Transcripts:**
+        11. get_all_transcripts(limit=10) - get available meeting transcripts
+        12. For new transcripts: get_transcript_by_meeting_id(meeting_id) - fetch full transcript content
+
         CRITICAL: Only process items from the last 15 minutes. The since_minutes parameter enforces this strictly.""",
         expected_output="""Data from the last 15 minutes only:
         - emails: emails received in last 15 min (id, timestamp, from, to, subject, preview) - may be empty
         - sent_emails: emails sent in last 15 min (id, timestamp, to, subject, preview) - may be empty
-        - teams_chats: chat messages from last 15 min (chat_id, chat_name, timestamp, from, content) - may be empty
+        - teams_chats: chat messages from last 15 min with display_name for each chat (chat_id, display_name, members, timestamp, from, content) - may be empty
         - teams_channels: channel messages from last 15 min (team, channel, timestamp, from, subject, content) - may be empty
         - calendar: today's events for context (id, subject, start, end, attendees)
         - harvest_timers: running timers (project, task, hours)
         - harvest_today: today's entries (project, task, hours, notes)
-        - counts: {emails: X, sent: X, chat_messages: X, channel_messages: X}
+        - transcripts: available meeting transcripts (meeting_id, subject, transcript_content)
+        - counts: {emails: X, sent: X, chat_messages: X, channel_messages: X, transcripts: X}
         Note: Counts may be 0 if no activity in the 15-minute window.""",
         agent=data_collector,
     )
@@ -95,8 +101,15 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
 
         You have FULL CONTROL of the knowledge base. Document EVERYTHING.
 
+        **CRITICAL: PRESERVE EXISTING CONTENT**
+        - The knowledge base is a constantly evolving record of important information
+        - NEVER overwrite or replace existing content - always APPEND new information
+        - When updating a file, use write_knowledge with append=True
+        - Existing content is historically accurate and must be preserved
+        - Only add NEW information that wasn't already documented
+
         **1. Email Archive** (knowledge/emails/{date_str}.md):
-        - Create/append to daily email log
+        - APPEND to daily email log (use append=True)
         - Format each email:
           ## HH:MM - From: [sender]
           **Subject:** [subject]
@@ -106,9 +119,11 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
           **Project:** [related project or "Uncategorized"]
           ---
 
-        **2. Teams Chat Archive** (knowledge/teams/{date_str}/[chat-name].md):
-        - One file per chat/channel
-        - Append new messages:
+        **2. Teams Chat Archive** (knowledge/teams/{date_str}/[display-name].md):
+        - Use the chat's display_name field for the filename (person's name for 1:1 chats)
+        - Convert display_name to lowercase-kebab-case for filename (e.g., "Charlie Phipps-Bennett" -> "charlie-phipps-bennett.md")
+        - NEVER use chat IDs or GUIDs in filenames
+        - APPEND new messages (use append=True):
           ## HH:MM - [Sender]
           > [message content]
 
@@ -116,9 +131,20 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
 
         **3. Teams Channel Archive** (knowledge/channels/{date_str}/[team]-[channel].md):
         - One file per channel with activity
-        - Same format as chats
+        - Same format as chats, APPEND only
 
-        **4. Inbox/Changelog** (knowledge/inbox.md):
+        **4. Meeting Transcripts** (knowledge/meetings/transcripts/{date_str}-[meeting-subject].md):
+        - Archive any new meeting transcripts
+        - Include full transcript content with speaker attribution
+        - Format:
+          # [Meeting Subject]
+          **Date:** {date_str}
+          **Attendees:** [list from transcript]
+
+          ## Transcript
+          [Full transcript content]
+
+        **5. Inbox/Changelog** (knowledge/inbox.md):
         - Prepend a new entry at the TOP of the file:
           ## {timestamp}
 
@@ -126,6 +152,7 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
           - **Emails:** X new (list subjects)
           - **Teams Chats:** X messages across Y conversations
           - **Teams Channels:** X messages in Y channels
+          - **Transcripts:** X new meeting transcripts
           - **Calendar:** [any meetings started/ended]
           - **Time Tracking:** [current timer status]
 
@@ -137,24 +164,29 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
 
           ---
 
-        **5. Person Files** (knowledge/people/[name].md):
-        - Update last_contact date
-        - Add recent interaction summary
+        **6. Person Files** (knowledge/people/[name].md):
+        - APPEND new information only
+        - Add recent interaction summary at the end
+        - DO NOT rewrite the entire file
 
-        **6. Project Files** (knowledge/projects/[name].md):
-        - Add any relevant updates from messages
+        **7. Project Files** (knowledge/projects/[name].md):
+        - APPEND any relevant updates from messages
+        - DO NOT rewrite existing content
 
-        IMPORTANT:
-        - Read existing files BEFORE writing to avoid duplicates
-        - Append to existing files, don't overwrite
-        - Create new files/directories as needed
+        IMPORTANT RULES:
+        - ALWAYS read existing files BEFORE writing to check for duplicates
+        - ALWAYS use append=True when updating existing files
+        - NEVER overwrite historical content - it is valuable context
+        - Create new files/directories only when needed
         - If no activity in the 15-minute window, update inbox.md with "No new activity" entry
-        - Only archive items that were in the 15-minute window - do NOT archive older items""",
+        - Only archive items from the 15-minute window - do NOT archive older items
+        - Use person names (display_name) not GUIDs for file naming""",
         expected_output="""Archive report:
         - files_created: [list of new files created]
         - files_updated: [list of files appended to]
         - email_count: number of emails archived
         - message_count: number of messages archived
+        - transcript_count: number of transcripts archived
         - inbox_entry: the changelog entry added
         - errors: any issues encountered""",
         agent=archivist,

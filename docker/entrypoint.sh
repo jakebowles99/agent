@@ -23,8 +23,8 @@ git config --global user.email "monitor@personal-agent"
 git config --global user.name "Personal Agent Monitor"
 git config --global --add safe.directory /app
 
-# Set up cron job
-echo "*/15 * * * * /usr/local/bin/run-monitor.sh >> /app/logs/cron.log 2>&1" > /etc/cron.d/monitor-cron
+# Set up cron job (cron.d format requires username after time spec)
+echo "*/15 * * * * root /usr/local/bin/run-monitor.sh >> /app/logs/cron.log 2>&1" > /etc/cron.d/monitor-cron
 chmod 0644 /etc/cron.d/monitor-cron
 # Don't use 'crontab' - that expects user crontab format (no username field)
 # Just let cron daemon pick up the file from /etc/cron.d/

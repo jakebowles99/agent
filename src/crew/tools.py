@@ -17,6 +17,7 @@ from pydantic import BaseModel, Field
 from src.config import settings
 from src.harvest.client import HarvestClient
 from src.microsoft.auth import MicrosoftAuth
+from src.microsoft.copilot_client import MeetingInsightsClient
 from src.microsoft.graph_client import GraphClient
 
 logger = logging.getLogger(__name__)
@@ -58,6 +59,16 @@ def _get_harvest_client() -> HarvestClient | None:
         logger.warning("Harvest not configured")
         return None
     return HarvestClient(settings.harvest_account_id, settings.harvest_access_token)
+
+
+async def _get_meetings_client() -> MeetingInsightsClient | None:
+    """Get an authenticated Meetings/Transcripts client."""
+    auth = MicrosoftAuth()
+    token = await auth.get_access_token(DEFAULT_USER_ID)
+    if not token:
+        logger.error("Microsoft 365 not connected - no access token")
+        return None
+    return MeetingInsightsClient(token)
 
 
 # ==================== CALENDAR TOOLS ====================
@@ -424,6 +435,67 @@ class HarvestTodayTrackingTool(BaseTool):
         return _run_async(_fetch())
 
 
+# ==================== TRANSCRIPT TOOLS ====================
+
+
+class GetAllTranscriptsInput(BaseModel):
+    """Input for getting all transcripts."""
+    limit: int = Field(default=50, description="Maximum transcripts to return")
+
+
+class GetAllTranscriptsTool(BaseTool):
+    """Get all available meeting transcripts."""
+
+    name: str = "get_all_transcripts"
+    description: str = "Get all available meeting transcripts. Returns a list of transcripts with meeting info."
+    args_schema: Type[BaseModel] = GetAllTranscriptsInput
+
+    def _run(self, limit: int = 50) -> str:
+        async def _fetch():
+            client = await _get_meetings_client()
+            if not client:
+                return json.dumps({"error": "Microsoft 365 not connected"})
+            transcripts = await client.get_all_transcripts(limit=limit)
+            return json.dumps(transcripts, default=str)
+        return _run_async(_fetch())
+
+
+class GetTranscriptByMeetingIdInput(BaseModel):
+    """Input for getting a transcript by meeting ID."""
+    meeting_id: str = Field(description="The online meeting ID")
+
+
+class GetTranscriptByMeetingIdTool(BaseTool):
+    """Get transcript for a specific meeting."""
+
+    name: str = "get_transcript_by_meeting_id"
+    description: str = "Get the full transcript for a specific meeting by its meeting ID."
+    args_schema: Type[BaseModel] = GetTranscriptByMeetingIdInput
+
+    def _run(self, meeting_id: str) -> str:
+        async def _fetch():
+            client = await _get_meetings_client()
+            if not client:
+                return json.dumps({"error": "Microsoft 365 not connected"})
+
+            # Get transcripts for this meeting
+            transcripts = await client.get_meeting_transcripts(meeting_id)
+            if not transcripts:
+                return json.dumps({"error": f"No transcripts found for meeting {meeting_id}"})
+
+            # Get the content of the first transcript
+            transcript = transcripts[0]
+            transcript_id = transcript.get("id")
+            content = await client.get_transcript_content(meeting_id, transcript_id)
+
+            return json.dumps({
+                "meeting_id": meeting_id,
+                "transcript_id": transcript_id,
+                "content": content,
+            }, default=str)
+        return _run_async(_fetch())
+
+
 # ==================== KNOWLEDGE BASE TOOLS ====================
 
 
@@ -548,6 +620,9 @@ def get_all_tools() -> list[BaseTool]:
         HarvestMyTimeTool(),
         HarvestRunningTimersTool(),
         HarvestTodayTrackingTool(),
+        # Transcripts
+        GetAllTranscriptsTool(),
+        GetTranscriptByMeetingIdTool(),
         # Knowledge Base
         ReadKnowledgeTool(),
         WriteKnowledgeTool(),
@@ -570,6 +645,9 @@ def get_data_collection_tools() -> list[BaseTool]:
         HarvestRunningTimersTool(),
         HarvestTodayTrackingTool(),
         HarvestMyTimeTool(),
+        # Transcripts
+        GetAllTranscriptsTool(),
+        GetTranscriptByMeetingIdTool(),
     ]
 
 

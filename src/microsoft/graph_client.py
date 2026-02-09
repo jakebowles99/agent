@@ -353,16 +353,20 @@ class GraphClient:
     # ==================== TEAMS ====================
 
     async def get_teams_chats(self, limit: int = 10, skip: int = 0) -> list[dict]:
-        """Get recent Teams chats."""
+        """Get recent Teams chats with member names for proper identification."""
         params = {
             "$top": limit,
             "$orderby": "lastMessagePreview/createdDateTime desc",
-            "$expand": "lastMessagePreview",
+            "$expand": "lastMessagePreview,members",
         }
         if skip > 0:
             params["$skip"] = skip
 
         result = await self._request("GET", "/me/chats", params=params)
+
+        # Get current user info for filtering out self from 1:1 chat names
+        me = await self.get_me()
+        my_email = (me.get("email") or "").lower()
 
         chats = []
         for chat in result.get("value", []):
@@ -371,10 +375,40 @@ class GraphClient:
             last_msg_from = last_msg.get("from") or {}
             last_msg_user = last_msg_from.get("user") or {}
 
+            # Extract member names (excluding self for 1:1 chats)
+            members = chat.get("members") or []
+            member_names = []
+            for member in members:
+                member_email = (member.get("email") or "").lower()
+                member_name = member.get("displayName") or ""
+                if member_email != my_email and member_name:
+                    member_names.append(member_name)
+
+            # Determine display name for the chat
+            topic = chat.get("topic") or ""
+            chat_type = chat.get("chatType", "")
+
+            if topic:
+                # Use the topic if available
+                display_name = topic
+            elif chat_type == "oneOnOne" and member_names:
+                # For 1:1 chats, use the other person's name
+                display_name = member_names[0]
+            elif member_names:
+                # For group chats without topic, join member names
+                display_name = ", ".join(sorted(member_names)[:4])
+                if len(member_names) > 4:
+                    display_name += f" +{len(member_names) - 4} more"
+            else:
+                # Fallback to chat ID if no other info available
+                display_name = f"Chat {chat['id'][:8]}"
+
             chats.append({
                 "id": chat["id"],
-                "topic": chat.get("topic", ""),
-                "chat_type": chat.get("chatType", ""),
+                "topic": topic,
+                "display_name": display_name,
+                "members": member_names,
+                "chat_type": chat_type,
                 "last_message": last_msg_body.get("content", "")[:100] if last_msg_body else "",
                 "last_message_from": last_msg_user.get("displayName", ""),
                 "last_message_time": last_msg.get("createdDateTime", ""),

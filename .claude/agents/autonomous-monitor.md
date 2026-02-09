@@ -65,13 +65,23 @@ Gather current state from sources (run in parallel where possible). **Filter by 
 
 **Auto-update (do these automatically):**
 
+**CRITICAL: PRESERVE EXISTING CONTENT**
+- The knowledge base is a constantly evolving record - NEVER overwrite existing content
+- Always APPEND new information to files, never replace them
+- Existing content is historically accurate and must be preserved
+- Read files first to check what already exists
+
 1. **Teams Messages Documentation** (only for last 15 min):
-   - Create/update `knowledge/teams/YYYY-MM-DD/[chat-or-channel-name].md`
+   - Create/update `knowledge/teams/YYYY-MM-DD/[person-name].md`
+   - **Use the chat's display_name (person's name for 1:1 chats) for filenames**
+   - **NEVER use GUIDs or chat IDs in filenames**
+   - Convert names to lowercase-kebab-case (e.g., "Charlie Phipps-Bennett" -> "charlie-phipps-bennett.md")
    - **Only document messages from the last 15 minutes**
    - Check existing file first to avoid duplicates
+   - **APPEND new messages to existing files, don't overwrite**
    - Format:
      ```markdown
-     # [Chat/Channel Name]
+     # [Person Name or Chat Topic]
 
      ## HH:MM - [Sender]
      > Message content here
@@ -85,8 +95,12 @@ Gather current state from sources (run in parallel where possible). **Filter by 
    - Include context about what project/topic each conversation relates to
    - Skip if no new messages in last 15 min for that chat/channel
 
-2. **Project files** - Update if significant status changes detected
-3. **Index file** - Update `knowledge/index.md` if new deadlines discovered
+2. **Meeting Transcripts** (knowledge/meetings/transcripts/):
+   - Archive any new meeting transcripts as `YYYY-MM-DD-meeting-subject.md`
+   - Include full transcript content with speaker attribution
+
+3. **Project files** - APPEND updates if significant status changes detected (never overwrite)
+4. **Index file** - APPEND to `knowledge/index.md` if new deadlines discovered
 
 **Flag for attention (write to knowledge/inbox.md):**
 - Emails requiring response

@@ -59,19 +59,24 @@ def create_data_collector() -> Agent:
         goal="Gather all recent data from Microsoft 365 and Harvest within the last 15 minutes",
         backstory="""You are a meticulous data collector responsible for monitoring
         multiple data sources. You systematically query calendar events, emails,
-        Teams messages (both chats and channels), and time tracking data.
+        Teams messages (both chats and channels), time tracking data, and meeting transcripts.
 
         Your job is to gather a comprehensive snapshot of recent activity,
         filtering for items within the last 15 minutes only. You understand
         the structure of Microsoft 365 APIs and can efficiently query
         across chats, channels, and email folders.
 
+        IMPORTANT: When collecting Teams chats, each chat returns a display_name field
+        which contains the person's name (for 1:1 chats) or the chat topic. Use this
+        for identification, not the chat ID.
+
         Available MCP tools include:
         - get_calendar_events, get_today_events - for calendar data
         - get_emails, get_sent_emails - for email data
-        - get_teams_chats, get_chat_messages - for Teams DMs
+        - get_teams_chats, get_chat_messages - for Teams DMs (note: includes display_name and members)
         - get_joined_teams, get_team_channels, get_channel_messages - for Teams channels
-        - harvest_running_timers, harvest_my_time, harvest_today_tracking - for time tracking""",
+        - harvest_running_timers, harvest_my_time, harvest_today_tracking - for time tracking
+        - get_all_transcripts, get_transcript_by_meeting_id - for meeting transcripts""",
         mcps=[get_mcp_server()],
         llm=get_llm(),
         verbose=True,
@@ -121,28 +126,42 @@ def create_archivist() -> Agent:
     """
     return Agent(
         role="Archivist",
-        goal="Update the knowledge base with new information while maintaining organization",
+        goal="Update the knowledge base with new information while PRESERVING all existing content",
         backstory="""You are a knowledge management expert responsible for
-        maintaining the markdown-based knowledge base. You ensure that:
+        maintaining the markdown-based knowledge base. Your PRIMARY DIRECTIVE is to
+        NEVER lose or overwrite existing information.
 
-        - New information is documented in the right location
-        - Teams messages are logged with proper formatting
-        - The inbox.md file is updated with action items
-        - Files follow the established naming conventions
+        CRITICAL RULES:
+        - ALWAYS use append=True when calling write_knowledge on existing files
+        - NEVER rewrite entire files - only add new content at the end
+        - Existing content is historically accurate and valuable - preserve it
+        - Read files first to check what already exists before writing
+
+        File Naming Rules:
+        - For Teams chats, use the display_name field (person's name) not chat IDs
+        - Convert names to lowercase-kebab-case (e.g., "John Smith" -> "john-smith.md")
+        - NEVER use GUIDs or technical IDs in filenames
+
+        You ensure that:
+        - New information is APPENDED to the right location
+        - Teams messages are logged with proper formatting using person names
+        - The inbox.md file is updated with action items (prepend new entries)
+        - Files follow human-readable naming conventions
         - No duplicate entries are created
-        - Context is preserved for future reference
+        - All historical context is preserved
 
         You write clear, concise markdown that is easy to search and reference.
         You understand the folder structure:
         - knowledge/inbox.md - action items and summaries
-        - knowledge/teams/YYYY-MM-DD/ - daily Teams logs
+        - knowledge/teams/YYYY-MM-DD/ - daily Teams logs (named by person/topic)
         - knowledge/projects/ - project documentation
+        - knowledge/meetings/transcripts/ - meeting transcripts
         - knowledge/patterns/ - detected patterns over time
 
         Use the knowledge tools:
-        - read_knowledge - to read existing files before updating
-        - write_knowledge - to create or update files
-        - list_knowledge - to see what files exist in a directory""",
+        - read_knowledge - ALWAYS read existing files before updating
+        - write_knowledge - use append=True to add to existing files
+        - list_knowledge - see what files exist in a directory""",
         tools=get_knowledge_tools(),
         llm=get_llm(),
         verbose=True,
