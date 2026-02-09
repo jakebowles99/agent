@@ -1,41 +1,26 @@
-## 2026-02-09 20:15
+## 2026-02-09 20:30
 
 ### Changes This Window
 - **Emails:** 1 new (Re: Latest quote breakdown)
-- **Teams Chats:** 8 messages across 1 conversation
+- **Teams Chats:** 2 messages across 1 conversation
 - **Teams Channels:** 0 messages in 0 channels
 - **Calendar:** No meetings started/ended in this window
 - **Time Tracking:** No running Harvest timer
 
 ### Action Items Detected
-- [ ] Reply to Andrew Catt with availability + propose time slots for end-of-week call; create calendar hold once confirmed.
-- [ ] Open/review Teams attachment **1770664503470** (Marketing Requests); confirm intended next step and assign owner.
-- [ ] Open/review Teams attachment **1770664385475**; decide if its the chosen option and document decision in the thread.
-- [ ] Confirm which Sean should be credited and decide attribution text/location.
+- [ ] Schedule end-of-week call with Andrew Catt (Vinco Wines): collect James/Grant availability and propose time slots.
+- [ ] Verify whether today’s calendar meetings were attended and ensure Harvest time is allocated appropriately (Jensten/LCP/Euroleague/Synapx).
 
 ### Files Updated
-- emails/2026-02-09.md  archived 1 email from Andrew Catt.
-- teams/2026-02-09/marketing-requests.md  archived 5 additional messages (19:1119:14 UTC) to complete the 8-message window set.
-- projects/marketing-requests-internal.md  added additional notes (visual preference, data dog, variety, voted attachment).
-- people/andrew-catt.md  created new person record from email.
-- inbox.md  prepended 2026-02-09 20:15 entry.
+- emails/2026-02-09.md — archived 1 email from Andrew Catt (20:14 UTC).
+- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md — archived 2 messages (20:23–20:24 UTC).
+- people/jake-bowles.md — created/updated last contact from Teams.
+- people/charlie-phipps-bennett.md — created/updated last contact from Teams.
+- people/james-unknown.md — created placeholder person record (identity TBD).
+- people/grant-unknown.md — created placeholder person record (identity TBD).
+- projects/vinco-wines-quote-commercial.md — created project record for Vinco Wines quote/commercial thread.
+- inbox.md — prepended 2026-02-09 20:30 entry.
 
 ---
 
-## 2026-02-09 19:45
-
-### Changes This Window
-- **Emails:** 0 new
-- **Teams Chats:** 0 messages across 0 conversations
-- **Teams Channels:** 0 messages in 0 channels
-- **Calendar:** No meetings started/ended in this window
-- **Time Tracking:** No running Harvest timer
-
-### Action Items Detected
-- [ ] No new action items detected in this window.
-
-### Files Updated
-- inbox.md  prepended 2026-02-09 19:45 entry (no new activity).
-
----
 
