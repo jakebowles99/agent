@@ -20,6 +20,24 @@ Meeting chat for LCP document extraction product development (Navsheen Koul, Rah
 >
 > Understood, will add "in review"
 
+## 06:46 - Rahul Matta
+> Hi @Navsheen,
+>
+> One small doubt
+>
+> When a user puts a claim into "In Review", it'll be logged as that specific user did that.
+> Should we then restrict approve/reject to the same user, or allow anyone to do it?
+> Asking since it may look odd if different people handle different steps.
+
+## 06:48 - Navsheen Koul
+> good question and this will need to be considered with more feedback from LCP if they go ahead with it as to how do they handle these workflows in their business
+
+## 06:48 - Navsheen Koul
+> for now anybody can do whatever for demo purposes, not priority for now
+
+## 06:48 - Rahul Matta
+> got it, thanks
+
 ---
 
 **Context:** This relates to the LCP Document Extraction product. Navsheen is clarifying the claim review workflow states to Rahul:
