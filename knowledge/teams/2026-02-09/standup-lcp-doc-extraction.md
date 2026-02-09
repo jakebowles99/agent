@@ -16,6 +16,28 @@ Daily standup meeting chat for the LCP (Leadenhall Capital) Document Extraction 
 >
 > (attached screenshot)
 
+## 06:38 - Navsheen Koul
+> Is this the case for email pdfs?
+>
+> (referencing extraction issues)
+
+## 06:40 - Ajay Gannamaneni
+> working to improve this
+>
+> (referencing email PDF extraction)
+
+## 06:40 - Navsheen Koul
+> Not ideal but less on priority than the extraction bit in itself
+
+## 06:41 - Navsheen Koul
+> Work with the email pdf only, it's straight forward than the long pdfs and is in hierarchy too
+
+## 06:42 - Navsheen Koul
+> If we can't pull out from the emails correctly, OCs are illogical to go after
+
+## 06:45 - Navsheen Koul
+> FYI @Jake @Charlie vijay is handing over to Katayani today as he is required on midwich
+
 ---
 
 **Context:** Pre-demo status check for the LCP Document Extraction project. Demo scheduled today at 13:30 UTC (Outlook Plugin + Fraud Prediction Demo with Tayo Eletu-Odibo from Leadenhall).
