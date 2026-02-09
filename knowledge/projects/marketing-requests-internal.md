@@ -15,3 +15,8 @@ Internal marketing request/asset review and coordination via Teams chat "Marketi
 
 ---
 *Last Updated: 2026-02-09*
+
+
+- **19:1119:14 UTC:** Additional inputs in Teams:
+  - Kim Totten: keep variety of metaphors/settings (houses/libraries/kitchens); suggested adding a data dog concept; shared an example image.
+  - Charlie Phipps-Bennett: preference for strong visual representation (ADHD-friendly); voted for attachment id **1770664385475**.

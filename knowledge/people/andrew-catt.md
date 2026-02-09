@@ -1,0 +1,13 @@
+# Andrew Catt
+
+- **Email:** andrew@vincowines.com
+- **Company:** Vinco Wines (assumed  confirm)
+- **Type:** External
+- **Last contact:** 2026-02-09
+
+## Recent interactions
+- **2026-02-09 20:14 UTC:** Email  *Re: Latest quote breakdown*
+  - Suggested having a call at the end of this week.
+
+---
+*Last Updated: 2026-02-09*
