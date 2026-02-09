@@ -38,6 +38,16 @@ Daily standup meeting chat for the LCP (Leadenhall Capital) Document Extraction 
 ## 06:45 - Navsheen Koul
 > FYI @Jake @Charlie vijay is handing over to Katayani today as he is required on midwich
 
+## 06:56 - Katyayani Lal
+> Hey @Ajay, I'll need access to the plugin using my work account.
+>
+> (attached screenshot showing access issue)
+
+## 06:57 - Navsheen Koul
+> @Katyayani here's the sheet with field descriptions [Fields_With_Categories_LCP.xlsx]
+>
+> (shared Excel file with LCP field definitions)
+
 ---
 
 **Context:** Pre-demo status check for the LCP Document Extraction project. Demo scheduled today at 13:30 UTC (Outlook Plugin + Fraud Prediction Demo with Tayo Eletu-Odibo from Leadenhall).
