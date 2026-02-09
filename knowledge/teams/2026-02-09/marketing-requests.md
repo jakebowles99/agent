@@ -9,3 +9,14 @@
 > the content focus on agentic AI in Microsoft ecosystem
 
 **Context:** Marketing team discussion about content direction. Navsheen confirming the focus should be on agentic AI in Microsoft ecosystem. Related to internal marketing deliverables (e.g., templates, design work).
+
+## 19:15 - Kim Totten
+> We can credit Sean for the inspo 🤣
+
+## 19:16 - Sophia Fricker
+> I love these
+
+## 19:16 - Charlie Phipps-Bennett
+> (attachment id: 1770664503470)
+> Should do this
+
