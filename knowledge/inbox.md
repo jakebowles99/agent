@@ -1,3 +1,60 @@
+## 2026-02-09 07:00 (Mon) (15-min window: 06:45 - 07:00 UTC)
+
+### Actions Required
+- [ ] (Carried forward) **Jensten Proposal Feedback (Matt Davies):** Review and address Matt's 3 feedback items on the deck before today's 11:00 UTC meeting
+- [ ] (Carried forward) **RESPOND:** Kristy Lovegrove (Pro-Global CTO) re: Jensten - schedule call for SME support discussion
+- [ ] (Carried forward) **HEADS UP:** Yash Bhatia wants call at 10AM UK time today re: Midwich account setup
+- [ ] (Carried forward) **ACTION:** Vijay G handing over LCP work to Katyayani today - monitor handover progress
+- [ ] **NEW - PM UK Role:** Matt & Bhoomi asking Jake & Charlie to provide requirements for priority PM UK hire. Matt wants technical data background (Databricks/Azure data). Respond in Teams chat.
+
+### Documentation Updated
+- teams/2026-02-09/standup-lcp-doc-extraction.md - Added 2 messages (06:56-06:57): Katyayani requesting plugin access, Navsheen sharing field descriptions file
+- teams/2026-02-09/product-catchup.md - Added 4 messages (06:46-06:48): Rahul's workflow question about approve/reject permissions; Navsheen: "anyone can do anything for demo, not priority"
+- teams/2026-02-09/internal-synapx-recruitment.md - **Created** with 2 messages (06:54-06:56): PM UK role priority discussion
+
+### Summary (last 15 min only)
+- **New emails:** 0
+- **New Teams messages:** 8 across 3 chats (LCP Standup, Product Catchup, Recruitment)
+- **Meetings started/ended:** 0
+- **Time tracking:** No active timer
+
+### Notes
+- **LCP Handover Active:** Katyayani has started handover - requesting plugin access from Ajay, Navsheen shared field descriptions Excel
+- **PM UK Role:** Matt wants technical data background (Databricks/Azure); Bhoomi ready to draft JD - waiting on Jake/Charlie input
+- **Product:** Claim workflow approve/reject permissions deferred - "anyone can do anything for demo purposes"
+- First meeting (Midwich standup) at 08:45 UTC - ~1.75 hours away
+
+### Time Tracking
+- No active timer
+- Yesterday's logged time: 4h (3h Basketball RFP + 1h Jensten deck)
+
+### Today's Schedule (Mon Feb 9) - BUSY DAY
+| Time (UTC) | Meeting | Notes |
+|------------|---------|-------|
+| 08:45 | Midwich Squad daily standup | ~1.75 hours away |
+| 09:30 | Project Status Review (Spring Capital) | **In-person** Basildon House |
+| 09:30 | Data & AI Use Cases for Marketing | Conflicts with above |
+| 09:30 | Standup - LCP Doc Extraction | Conflicts with above |
+| 10:00? | Yash Bhatia call? | Requested in email - Midwich account |
+| 10:30 | Product Catchup | |
+| 10:30 | Euroleague BB RFP checkpoint | Conflicts - RFP due Feb 11! |
+| **11:00** | **Jensten Proposal** | **KEY** - address Matt's feedback |
+| 11:00 | Webinar Recording session | Conflicts with above |
+| 12:00 | Pipeline & Progress Weekly Review | |
+| 13:00 | Weekly Project Sign Off | |
+| 13:00 | Synapx Internal Projects Weekly Status | Conflicts with above |
+| **13:30** | **Outlook Plugin + Fraud Demo (LCP)** | **RISK** - extraction issues; Katyayani handover in progress |
+| **14:30** | **Capital H&B <> Synapx** | **KICKOFF** - SOW signed |
+
+### Key Priorities Today
+1. **Jensten Proposal (11:00)** - Review Matt's feedback before meeting
+2. **LCP Demo (13:30)** - Extraction issues + Katyayani handover active
+3. **Capital H&B Kickoff (14:30)** - First client meeting, SOW signed
+4. **Euroleague RFP** - Due Feb 11, 23:59 CET (2 days)
+5. **PM UK Role** - Provide requirements to Bhoomi
+
+---
+
 ## 2026-02-09 06:45 (Mon) (15-min window: 06:30 - 06:45 UTC)
 
 ### Actions Required
