@@ -589,3 +589,9 @@ Billing access is controlled differently — the Account Administrator has direc
 ## 10:16 - Timon Wan
 > thanks
 
+
+# Teams Chat — Azure Admin
+
+## 10:16 - Timon Wan
+> thanks
+

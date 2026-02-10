@@ -119,3 +119,48 @@
 > 
 > [Image]
 
+
+# Teams Chat — 17C User Accounts
+
+## 10:29 - Gaurav Rauthan
+> same for Kush and Hemanth, they did not receive them.
+> I can't find the email either. I will have them share it directly with these users now.
+
+## 10:28 - Andrew Price
+> <attachment id="1770719269681"></attachment>
+> @Anand does not think the credentials are shared with him
+
+## 10:27 - Gaurav Rauthan
+> <attachment id="1770718589651"></attachment>
+> I found the email but cannot find the email where the credentials were shared.
+> Looking for it
+
+## 10:22 - Avinash Kedar
+> Hi Gaurav,
+> 
+> I have received my 17Capital credentials (synapx.avinash.kedar@17capital.com).
+> The following licenses have been assigned:
+> - Microsoft 365 E5
+> - Power Apps Premium
+
+## 10:21 - Gaurav Rauthan
+> <attachment id="1770718589651"></attachment>
+> can you please share the ticket number if it's there in the email?
+> I will search with that
+
+## 10:20 - Gaurav Rauthan
+> They just shared for Avinash to me as well and CCd Avinash
+
+## 10:20 - Gaurav Rauthan
+> I missed this, they generally share with the individual who will use the account and not anyone else.
+
+## 10:18 - Andrew Price
+> Saturday:
+> 
+> <img src="https://graph.microsoft.com/v1.0/chats/19:ae4fb9ba7705490d82a12909307cb3ae@thread.v2/messages/1770718739819/hostedContents/aWQ9eF8wLXN1ay1kMi00MTYzMmM2MDBjNTJmNTU3MzI2MmZjYzQxOTVhOWNjYSx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMi00MTYzMmM2MDBjNTJmNTU3MzI2MmZjYzQxOTVhOWNjYS92aWV3cy9pbWdv/$value" width="281.4" height="250" alt="image" itemid="0-suk-d2-41632c600c52f5573262fcc4195a9cca">
+
+## 10:16 - Andrew Price
+> @Gaurav This came through 5 days ago:
+> 
+> <img src="https://graph.microsoft.com/v1.0/chats/19:ae4fb9ba7705490d82a12909307cb3ae@thread.v2/messages/1770718589651/hostedContents/aWQ9eF8wLXN1ay1kNC1lZmU0OGYyNWYyYzRjZjUwYTYxMzc2NGI0MmYzOTRmMix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC1lZmU0OGYyNWYyYzRjZjUwYTYxMzc2NGI0MmYzOTRmMi92aWV3cy9pbWdv/$value" width="290.16064257028114" height="250" alt="image" itemid="0-suk-d4-efe48f25f2c4cf50a613764b42f394f2">
+

@@ -69,3 +69,35 @@
 > @Navsheen @Koul/@Ajay @Gannamaneni can you send across the PDFs of the emails please.
 > Or point me to where they are
 
+
+# Teams Chat — LCP Finance Doc Extraction Handover
+
+## 10:27 - Ajay Gannamaneni
+> ignore above i will send again
+
+## 10:27 - Timon Wan
+> thanks
+
+## 10:27 - Ajay Gannamaneni
+> 
+
+## 10:26 - Timon Wan
+> That PDF is then saved somewhere or not
+
+## 10:25 - Ajay Gannamaneni
+> we extract the different fields and create a temporary pdf
+
+## 10:24 - Timon Wan
+> @Ajay @Gannamaneni how does the plugin convert the outlook email to a PDF?
+
+## 10:22 - Timon Wan
+> cheers
+
+## 10:22 - Navsheen Koul
+> <attachment id="1770718867032"></attachment>
+> i have forwarded you the emails - look for outlook attachment type
+
+## 10:21 - Timon Wan
+> @Navsheen @Koul/@Ajay @Gannamaneni can you send across the PDFs of the emails please.
+> Or point me to where they are
+

@@ -1,3 +1,33 @@
+## 2026-02-10 09:30
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 36 messages across 11 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 0
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Capital H&B Handover 09:30–10:00 UTC; LCP Finance Doc Extraction Handover 09:30–10:20 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Review email(s) received in this window and take any required follow-ups.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett-yaz-qaraqesh.md
+- knowledge/teams/2026-02-10/synapx-leadership-team.md
+- knowledge/teams/2026-02-10/capital-hb-handover.md
+- knowledge/teams/2026-02-10/nandan-hegde.md
+- knowledge/teams/2026-02-10/internal-synapx-recruitment.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/timon-wan.md
+- knowledge/teams/2026-02-10/andrew-hutchison.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/teams/2026-02-10/sow-agent.md
+- knowledge/teams/2026-02-10/project-managers.md
+
+---
+
 ## 2026-02-10 09:45
 
 ### Changes This Window

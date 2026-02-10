@@ -148,3 +148,22 @@
 > I forecast Vijay in advance for the next 3 days (Wednesday, Thursday and Friday) on Accent Catering and partially on Nuevo.
 > will put it on the tracker once Tushara's back.
 
+
+# Teams Chat — Project Managers
+
+## 10:28 - Andrew Price
+> @Gaurav @Matt @Navsheen You are the only 3 I think have an invite to Harvest Forecast but have not accessed yet. I have re-sent the email. Any issues let me know and we can raise a support case
+
+## 10:21 - Gaurav Rauthan
+> I do not have access to Harvest forecast so declaring here. Tushara can do it for me when she's back
+
+## 10:19 - Andrew Price
+> <attachment id="1770718522844"></attachment>
+> Forecasted where? Harvest Forecast?
+
+## 10:15 - Gaurav Rauthan
+> <attachment id="1770712317379"></attachment>
+> I've assigned some Nuevo work to Vijay as Accent isn't ready for testing today.
+> I forecast Vijay in advance for the next 3 days (Wednesday, Thursday and Friday) on Accent Catering and partially on Nuevo.
+> will put it on the tracker once Tushara's back.
+

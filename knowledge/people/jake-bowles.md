@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 10:39:** Mentioned as leading CDIAD workshop; also added comment to CapitalHB BRD document and received Delve birthday reminder.
 - **2026-02-10 10:11:** Confirmed he will run the Chat with Your Data in a Day (CDIAD) session; asked if someone else can manage registrations.
 - **2026-02-10 09:20:** Explained docs can’t be sent yet due to architecture changes; offered analyser/response docs; discussed SOW/discounting; replied briefly to Navsheen.
 - **2026-02-10 09:18:** Coordinated catchup with Timon; discussed Jensten proposal work and asked Sophia Fricker to add pages; replied to Joe Thompson about docs/SOW and architecture changes.
