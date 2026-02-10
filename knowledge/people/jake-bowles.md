@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 03:14:** Mentioned using Claude Code with Foundry for POCs and document writing; said will use GPT going forward.
 - **2026-02-10 03:00:** Organizer/attendee across multiple meetings on 2026-02-10 (standups, handovers, proposal, leadership)
 - **2026-02-10 02:33:** Appears across multiple handovers, catchups, and leadership meetings (2026-02-10).
 - **2026-02-10 02:23:** Attendee/organizer in multiple meetings including handovers, product catchup, and leadership calls (2026-02-10).
