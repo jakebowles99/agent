@@ -6,8 +6,16 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 04:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 processed\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n\n## 2026-02-10 03:45\n\n### Changes This Window\n- **Emails:** 0 new",
-        "timestamp": "2026-02-10T04:33:44.872426+00:00"
+        "result_preview": "## 2026-02-10 04:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 processed\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-10 04:00\n\n### Changes This Window\n- **Emails:** 0 new\n",
+        "timestamp": "2026-02-10T04:47:03.065530+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 03:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (1 created, 4 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude v",
+        "timestamp": "2026-02-10T04:07:29.365111+00:00"
       },
       {
         "status": "success",
@@ -72,11 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-10 00:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **Calendar:** Upcoming meetings scheduled (none started/ended in this window)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude vs using GPT/free alternatives; confirm if ongoing charges are acceptable and whether a Microsoft account manager/partner can",
         "timestamp": "2026-02-10T00:46:36.559526+00:00"
-      },
-      {
-        "status": "error",
-        "error": "4 validation errors for Agent\nmcps.0.str\n  Input should be a valid string [type=string_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\nmcps.0.MCPServerStdio\n  Input should be a valid dictionary or instance of MCPServerStdio [type=model_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/model_type\nmcps.0.MCPServerHTTP\n  Input should be a valid dictionary or instance of MCPServerHTTP [type=model_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/model_type\nmcps.0.MCPServerSSE\n  Input should be a valid dictionary or instance of MCPServerSSE [type=model_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/model_type",
-        "timestamp": "2026-02-09T23:54:50.127508+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 47,
+      "total_runs": 48,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -97,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T04:33:44.872443+00:00",
+    "last_updated": "2026-02-10T04:47:03.065540+00:00",
     "version": "1.0"
   }
 }
