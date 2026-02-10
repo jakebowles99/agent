@@ -147,3 +147,36 @@
 
 ## 17:26 - Charlie Phipps-Bennett
 > <p>I agree</p>
+
+
+# Teams Chat — Synapx UK Directors
+
+## 18:48 - Matt Davies
+> good luck
+
+## 18:47 - Charlie Phipps-Bennett
+> I hope I get to say the same about Compass after tonight 🤣
+
+## 18:45 - Matt Davies
+> have him, Pro in hand
+
+## 18:45 - Charlie Phipps-Bennett
+> I need Narayan on Compass at 9
+
+## 18:44 - Charlie Phipps-Bennett
+> Assume meeting is not required?
+
+## 18:32 - Matt Davies
+> lol
+
+## 18:32 - Jake Bowles
+> Shame, could do with an excuse 😉
+
+## 18:31 - Matt Davies
+> No all gd
+
+## 18:31 - Jake Bowles
+> Do you want me on said call?
+
+## 17:26 - Charlie Phipps-Bennett
+> I agree
