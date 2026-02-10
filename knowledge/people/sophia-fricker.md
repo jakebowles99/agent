@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 20:36:** Updated Jake's slides; asked whether to include cost to deliver phases.
 - **2026-02-10 19:06:** Proposed Fabric/Snowflake blog topics for Microsoft submission; followed up with Nandan about deadlines and drafting content.
 - **2026-02-10 17:38:** Updated Jake's slides; asked whether to include delivery phase costs; planned to continue work later.
 - **2026-02-10 17:24:** Updated slides incl. Microsoft E5 promotions and Synapx as a Service pages; offered help and noted leaving for childcare.

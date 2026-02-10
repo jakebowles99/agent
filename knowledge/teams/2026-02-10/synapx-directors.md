@@ -654,3 +654,39 @@ Matt is it possible for him to sign the APS if we update the 6 year term to 1 ye
 ## 19:15 - Matt Davies
 > Leave with us, get some sleep
 
+
+# Teams Chat — Synapx Directors
+
+## 19:15 - Matt Davies
+> Leave with us, get some sleep
+
+## 18:58 - Akshansh Sharma
+> [attachment]
+> 
+> Matt is it possible for him to sign the APS if we update the 6 year term to 1 year and send it back to Narayan’s way?
+
+## 18:53 - Matt Davies
+> well I wouldn't go that far. their legal position on that particular clause is still true, but they were not forthcoming about how flexible we could or should be
+
+## 18:50 - Charlie Phipps-Bennett
+> Absolute morons would be my comment to them
+
+## 18:49 - Matt Davies
+> have shared my dissatisfaction
+
+## 18:46 - Charlie Phipps-Bennett
+> Like cmon
+
+## 18:46 - Charlie Phipps-Bennett
+> Like anyone is going to sign up to 6 years liability
+
+## 18:45 - Charlie Phipps-Bennett
+> ffs
+
+## 18:35 - Matt Davies
+> [attachment]
+>
+> It is, Aerie Law did indeed introduce this point (Maggie got it wrong and said it wasnt them) but now have said it's acceptable to reduce it. I feel with them we set ourselves up for a fall sometimes. Something I need to work on with them.
+
+## 18:08 - Matt Davies
+> Speaking with Maggie now will revert

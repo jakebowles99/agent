@@ -259,3 +259,80 @@
 > 
 > Also, this is helpful for Azure icons, just found it: Official Azure Icon Set (https://code.benco.io/icon-collection/azure-icons/)
 
+
+# Teams Chat — Jensten Proposal
+
+## 19:32 - Fraser Hamilton
+> I've added slide **17** as cloud first adoption strategy, which focuses on removing some 33 of those 64 servers to other workloads
+>
+> 
+>
+> Also, this is helpful for Azure icons, just found it: Official Azure Icon Set (https://code.benco.io/icon-collection/azure-icons/)
+
+## 17:05 - Matt Davies
+> I believe we are covered as much as we can be
+
+## 17:05 - Matt Davies
+> thank you
+
+## 17:05 - Matt Davies
+> Jake is going to review this evening
+
+## 17:03 - Sophia Fricker
+> I've updated jakes slides, I haven't included the cost to deliver the phases FYI - do I need to? I need to go ad collect the children but I can continue work once they have gone down. Just let me know :)
+
+## 16:34 - Matt Davies
+> ok - even a T-shirt size would help but understand if not poss
+
+## 16:28 - Andrew Price
+> Estimate probably not feasible but what a migration could look like is - we have discussed and he is working on slide content
+
+## 16:28 - Matt Davies
+> effort/cost and duration is what I think needs to go into the deck
+
+## 16:28 - Matt Davies
+> Hi Fraser, thanks - sounds good. are you able to provide an estimate of effort to do this?
+
+## 15:56 - Fraser Hamilton
+> [Attachment]
+> I've analysed this and there's possibility to move / consolidate **40** of the **64** servers to SaaS / PaaS / IaaS or decommission entirely, such as moving to Entra / Azure Active Directory native
+>
+> Virtual Machines with purpose 2026.02.xlsx
+
+# Teams Chat — Jensten Proposal
+
+## 19:32 - Fraser Hamilton
+> I've added slide **17** as cloud first adoption strategy, which focuses on removing some 33 of those 64 servers to other workloads
+>
+> Also, this is helpful for Azure icons, just found it: Official Azure Icon Set (https://code.benco.io/icon-collection/azure-icons/)
+
+## 17:05 - Matt Davies
+> I believe we are covered as much as we can be
+
+## 17:05 - Matt Davies
+> thank you
+
+## 17:05 - Matt Davies
+> Jake is going to review this evening
+
+## 17:03 - Sophia Fricker
+> I've updated jakes slides, I haven't included the cost to deliver the phases FYI - do I need to? I need to go ad collect the children but I can continue work once they have gone down. Just let me know :)
+
+## 16:34 - Matt Davies
+> ok - even a T-shirt size would help but understand if not poss
+
+## 16:28 - Andrew Price
+> Estimate probably not feasible but what a migration could look like is - we have discussed and he is working on slide content
+
+## 16:28 - Matt Davies
+> effort/cost and duration is what I think needs to go into the deck
+
+## 16:28 - Matt Davies
+> Hi Fraser, thanks - sounds good. are you able to provide an estimate of effort to do this?
+
+## 15:56 - Fraser Hamilton
+> [attachment]
+>
+> I've analysed this and there's possibility to move / consolidate **40** of the **64** servers to SaaS / PaaS / IaaS or decommission entirely, such as moving to Entra / Azure Active Directory native
+>
+> Virtual Machines with purpose 2026.02.xlsx (SharePoint link)

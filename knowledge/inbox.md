@@ -1,3 +1,23 @@
+## 2026-02-10 20:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 10 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 5 processed (0 created, 5 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jake’s slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
+- [ ] Jensten Proposal: incorporate slide 17 cloud-first adoption strategy update (remove 33 of 64 servers to other workloads); use Official Azure Icon Set for diagrams (https://code.benco.io/icon-collection/azure-icons/).
+
+### Files Updated
+- knowledge/teams/2026-02-10/jensten-proposal.md
+
+---
+
 ## 2026-02-10 20:15
 
 ### Changes This Window
