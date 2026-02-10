@@ -6,24 +6,16 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 14:30\n\n### Changes This Window\n- **Emails:** 2 new (Re: K&S slipstream questionnaire; Signature requested on \"Leadenhall Capital Partners_SOW005_Fabric FX Rates Integration (Graph API)_10 February 2026\")\n- **Teams Chats:** 12 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 processed (1 created, 8 updated)\n- **Calendar:** No upcoming events remaining today after 14:30 UTC (last event ended at 14:30 UTC)",
-        "timestamp": "2026-02-10T14:47:57.755595+00:00"
+        "result_preview": "## 2026-02-10 14:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 46 messages across 7 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 processed (3 created, 14 updated)\n- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Midwich Squad: Investigate 504 Gateway Timeout calling `Query.sp001PaPoGetSearchQ",
+        "timestamp": "2026-02-10T14:48:19.431010+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 14:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 8 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (0 created, 5 updated)\n- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to Charlie Phipps-Bennett: confirm if you have 5 mins.\n- [ ] Reply to Kenny Ba",
-        "timestamp": "2026-02-10T14:22:15.873650+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 13:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 30 messages across 3 conversations\n- **Teams Channels:** 0 messages in 31 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (1 created, 9 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide/confirm approach for SiteOps app changes SOW estim",
-        "timestamp": "2026-02-10T13:58:46.921625+00:00"
+        "result_preview": "## 2026-02-10 13:30\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 19 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 16 processed (2 created, 14 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Respond to Tayo re US Bank files: confirm SFTP access requirements (public endpoint + use",
+        "timestamp": "2026-02-10T14:04:54.752239+00:00"
       },
       {
         "status": "success",
@@ -77,6 +69,14 @@
         "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 07:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 processed (0 created, 9 updated)\n- **Calendar:** Upcoming meetings scheduled (11 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review upcoming meetings: Midwich Squad - daily",
         "timestamp": "2026-02-10T07:37:09.489597+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 07:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 7 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 14 processed (1 created, 13 updated)\n- **Calendar:** Upcoming meetings scheduled (11 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Confirm whether to proceed/sign the Pro contr",
+        "timestamp": "2026-02-10T07:29:40.562691+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +84,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 65,
+      "total_runs": 64,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T14:47:57.755614+00:00",
+    "last_updated": "2026-02-10T14:48:19.431020+00:00",
     "version": "1.0"
   }
 }
