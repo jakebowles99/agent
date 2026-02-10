@@ -241,3 +241,12 @@
 > 
 >
 > Also, this is helpful for Azure icons, just found it: Official Azure Icon Set (https://code.benco.io/icon-collection/azure-icons/)
+
+# Teams Chat — Jensten Proposal
+
+## 19:32 - Fraser Hamilton
+> I've added slide **17** as cloud first adoption strategy, which focuses on removing some 33 of those 64 servers to other workloads
+>
+> 
+>
+> Also, this is helpful for Azure icons, just found it: Official Azure Icon Set (https://code.benco.io/icon-collection/azure-icons/)
