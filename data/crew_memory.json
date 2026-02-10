@@ -2,6 +2,11 @@
   "short_term": {
     "last_runs": [
       {
+        "status": "error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-10T04:03:53.272914+00:00"
+      },
+      {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
@@ -69,11 +74,6 @@
         "status": "error",
         "error": "4 validation errors for Agent\nmcps.0.str\n  Input should be a valid string [type=string_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\nmcps.0.MCPServerStdio\n  Input should be a valid dictionary or instance of MCPServerStdio [type=model_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/model_type\nmcps.0.MCPServerHTTP\n  Input should be a valid dictionary or instance of MCPServerHTTP [type=model_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/model_type\nmcps.0.MCPServerSSE\n  Input should be a valid dictionary or instance of MCPServerSSE [type=model_type, input_value=<crewai_tools.adapters.mc...bject at 0x7772bf1a03d0>, input_type=MCPServerAdapter]\n    For further information visit https://errors.pydantic.dev/2.11/v/model_type",
         "timestamp": "2026-02-09T23:54:50.127508+00:00"
-      },
-      {
-        "status": "error",
-        "error": "MCPServerAdapter.__init__() got an unexpected keyword argument 'command'",
-        "timestamp": "2026-02-09T23:46:04.413321+00:00"
       }
     ],
     "pending_items": []
@@ -81,7 +81,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 46,
+      "total_runs": 47,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -94,7 +94,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T03:25:00.231049+00:00",
+    "last_updated": "2026-02-10T04:03:53.272927+00:00",
     "version": "1.0"
   }
 }

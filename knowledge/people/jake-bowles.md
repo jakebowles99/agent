@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 03:58:** Mentioned using Claude Code hooked up to Foundry for POCs and documents; said he will use GPT/other tools in future.
+- **2026-02-10 03:46:** Organizer for 'Capital H&B Handover' on 2026-02-10.
 - **2026-02-10 03:21:** Mentioned using Claude Code with Foundry for POCs and document writing; said would use GPT/other tools in future.
 - **2026-02-10 03:14:** Mentioned using Claude Code with Foundry for POCs and document writing; said will use GPT going forward.
 - **2026-02-10 03:00:** Organizer/attendee across multiple meetings on 2026-02-10 (standups, handovers, proposal, leadership)
