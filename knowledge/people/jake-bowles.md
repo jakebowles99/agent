@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 13:41:** Discussed SOW request location, SFTP access requirements for US Bank files, and coordinating quick call timing; acknowledged Kenny stopping work on 17c.
 - **2026-02-10 13:25:** Asked where to put SOW requests and requested a decision; was tagged by Matt Davies.
 - **2026-02-10 13:19:** Discussed SOW/budget handling and estimates; acknowledged proposal attachments.
 - **2026-02-10 13:00:** Coordinated project planning/timelines and SOW; agreed meeting time with Tayo; handled Jensten proposal items; discussed slide breakdown and scope dependencies.

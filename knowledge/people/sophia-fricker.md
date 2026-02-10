@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 13:44:** Asked for input on blogging topics for FabCon+SQLCon Atlanta 2026; sent cancellation for Jensten catch up.
 - **2026-02-10 13:27:** Asked for input on potential blog topics for FabCon+SQLCon Atlanta 2026 (Snowflake+OneLake interop, Fabric data agents).
 - **2026-02-10 12:19:** Sent Teams meeting invite for 'Jensten catch up' to Andrew Price, Matt Davies, Jake Bowles, Charlie Phipps-Bennett.
 - **2026-02-10 12:18:** Requested everyone repost/like/comment on Microsoft Fabric Featured Partners post on Synapx LinkedIn.

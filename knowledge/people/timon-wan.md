@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 13:39:** Asked Ajay to add a new analyzer dropdown option and discussed storing scheduled redemption date as string vs date.
 - **2026-02-10 13:21:** Asked about adding another Analyzer selection option in the app; thanked for clarification.
 - **2026-02-10 12:57:** Discussed LCP doc extraction; SQL data model and handling non-fixed dates; focusing on NEW CAT BOND email.
 - **2026-02-10 12:34:** Asked about LCP Teams/channel and which extraction fields are missing; acknowledged updates.

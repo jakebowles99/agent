@@ -23,6 +23,7 @@
 - Email discussions regarding Slipstream project scope and pricing
 
 ## Recent interactions
+- **2026-02-10 13:28:** Sent K&S slipstream questionnaire.
 - **2026-02-10 10:56:** Sent 'K&S slipstream questionnaire' to Andrew Price, Jake Bowles, Charlie Phipps-Bennett.
 - **2026-02-10 09:19:** Asked Jake to send documentation to Jeff; confirmed Charlie said it was FOC.
 - **2026-02-10 09:18:** Requested documentation be sent to Jeff; confirmed Charlie said work was FOC.

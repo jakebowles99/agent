@@ -27,6 +27,8 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-10 13:41:** Referenced in discussion about US Bank files and SFTP access requirements.
+- **2026-02-10 13:27:** Requested adding PriceMarket and PriceProvider fields to custom import template; email thread with Swapna and Nandan.
 - **2026-02-10 13:02:** Provided suggestions on fraud prediction rules; coordinated meeting time (12:30) with Jake.
 - **2026-02-10 12:04:** Requested update ('gentle nudge'); previously escalated Power BI report issue to Lanware per directors chat.
 - **2026-02-10 11:55:** Jake asked for time to discuss; Tayo escalated report issue to Lanware per Directors chat.

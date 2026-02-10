@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 13:44:** Noted Jake Bowles will lead CDIAD Feb 20th workshop; sent agenda for Delivery Leadership Call.
 - **2026-02-10 13:27:** Noted that Jake Bowles will be leading CDIAD workshop and will arrange a call; also sent Delivery Leadership Call agenda.
 - **2026-02-10 12:20:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.
 - **2026-02-10 12:17:** Casual chat about brunch/AI and shared attachments/images.

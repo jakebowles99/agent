@@ -9,6 +9,7 @@
 - **Email**: ajay.gannamaneni@synapx.com
 
 ## Recent interactions
+- **2026-02-10 13:40:** Discussed app changes for analyzer selection and storing extracted date fields as strings.
 - **2026-02-10 13:21:** Discussed app-side changes for LCP doc extraction; estimated 10–15 minutes to insert data; planned to change fields to string.
 - **2026-02-10 12:59:** Discussed using agents in AIFoundry; normalizing extracted values via fuzzy matching; date fields configured as dates.
 - **2026-02-10 12:15:** Acknowledged deployment and said he will investigate long extraction times/incorrect value sourcing; noted issue to fix later.

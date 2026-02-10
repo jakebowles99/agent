@@ -6,6 +6,8 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 13:45:** Mentioned as attending the 12 Feb workshop.
+- **2026-02-10 13:28:** Mentioned as attending the Fabric Deep Dive & BB014 Costing Accuracy workshop.
 - **2026-02-10 12:21:** Mentioned as attending the 12 Feb workshop in person (F&O functional consultant).
 - **2026-02-10 12:00:** Mentioned as F&O functional consultant attending Fabric Deep Dive & BB014 Costing Accuracy workshop.
 

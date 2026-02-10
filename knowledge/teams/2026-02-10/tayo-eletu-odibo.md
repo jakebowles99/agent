@@ -26,3 +26,11 @@
 
 ## 13:10 - Jake Bowles
 > On the SFTP side of things for the US Bank files. What are the access requirements? Is it a public endpoint with username/password or is it something more complex (e.g. certificate)?
+
+# Teams Chat — Tayo Eletu-Odibo
+
+## 13:28 - Tayo Eletu-Odibo
+> One to get lanware involved in as they setup the server
+
+## 13:10 - Jake Bowles
+> On the SFTP side of things for the US Bank files. What are the access requirements? Is it a public endpoint with username/password or is it something more complex (e.g. certificate)?

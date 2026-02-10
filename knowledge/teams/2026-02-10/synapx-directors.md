@@ -280,3 +280,47 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 
 ## 12:41 - Matt Davies
 > <p>he asked to use budget from another SOW which she shot down</p>
+
+# Teams Chat — Synapx Directors
+
+## 13:45 - Jake Bowles
+> So the 17c investor letters stuff has gone away for now?
+
+## 12:48 - Jake Bowles
+> <attachment id="1770727452402"></attachment>
+> 100%
+
+## 12:47 - Akshansh Sharma
+> but they are crying for this SOW estimates for the siteops app changes
+
+## 12:47 - Akshansh Sharma
+> <attachment id="1770727421991"></attachment>
+> We are proposing around 40k SOW so should we wait for that as well?
+
+## 12:44 - Akshansh Sharma
+> <attachment id="1770727297556"></attachment>
+> anyways this shouldn't be the case he needs to run such things with someone
+
+## 12:44 - Nandan Hegde
+> I would suggest we swallow it now and charge it in Fabric project SOW later
+
+## 12:43 - Matt Davies
+> or at least hold back on requesting £ until Aprils SOW kicks in
+
+## 12:42 - Matt Davies
+> up to Jake but i think we swallow it 
+
+## 12:42 - Nandan Hegde
+> for now, the only aspect remaining on data discovery is creating a doc and arch dgm and share it with them and set up a call to walk through the flow. (there are some open questions that we have asked them since last week and awaiting thier reply)
+> 
+> And planning an estimate
+> 
+>  
+> 
+> so should be more 3 days of efforts across Hemanth/Gagan and mine 2-4 hrs
+> 
+> 
+
+## 12:42 - Matt Davies
+> abit wild of him to do that tbh 
+

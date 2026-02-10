@@ -216,3 +216,75 @@
 > Values may look like so in the email:
 >
 > SCHEDULED REDEMPTION DATE: July [•], 2029 (or if such day is not a Business Day, on the next succeeding Business Day)
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 13:23 - Timon Wan
+> @Navsheen @Koul are the PDFs redacted in anyways?
+>
+> $[●] Series 2025-1 Class A Principal At-Risk Variable Rate Notes due July [6], 2029
+>
+> $[●]  <--- Is this a redaction?
+
+## 13:20 - Timon Wan
+> catBondDocumentAnalyzerLatest
+
+## 13:20 - Timon Wan
+> Yes
+
+## 13:20 - Ajay Gannamaneni
+> is this exact name?
+
+## 13:20 - Ajay Gannamaneni
+> catBondDocumentAnalyzerLatest
+
+## 13:20 - Ajay Gannamaneni
+> give me analyserId
+
+## 13:14 - Timon Wan
+> @Ajay @Gannamaneni can you make a new dropdown option in the App for which Analyzer to use?
+>
+> I'm going to deploy a new version called 'catBondDocumentAnalyzerLatest'.
+>
+> This one will be constantly updated version
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 13:44 - Timon Wan
+> Thanks, looks like it to me, but just wanted to make sure
+
+## 13:44 - Navsheen Koul
+> <attachment id="1770729807981"></attachment>
+> have asked
+
+## 13:23 - Timon Wan
+> <at id="0">Navsheen</at> <at id="1">Koul</at> are the PDFs redacted in anyways?
+> 
+> **$[●] Series 2025-1 Class A Principal At-Risk Variable Rate Notes due July [6], 2029**
+> 
+>  
+> **$[●]  **<--- Is this a redaction?
+
+## 13:20 - Timon Wan
+> catBondDocumentAnalyzerLatest
+
+## 13:20 - Timon Wan
+> Yes
+
+## 13:20 - Ajay Gannamaneni
+> is this exact name?
+
+## 13:20 - Ajay Gannamaneni
+> catBondDocumentAnalyzerLatest
+
+## 13:20 - Ajay Gannamaneni
+> give me analyserId
+
+## 13:14 - Timon Wan
+> <at id="0">Ajay</at> <at id="1">Gannamaneni</at> can you make a new dropdown option in the App for which Analyzer to use?
+> I'm going to deploy a new version called 'catBondDocumentAnalyzerLatest'.
+> This one will be constantly updated version
+
+## 12:42 - Ajay Gannamaneni
+> App side is dynamic
+
