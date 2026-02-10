@@ -1,3 +1,24 @@
+## 2026-02-10 07:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 2 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 6 processed (4 created, 2 updated)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to Akshansh: confirm when you can proceed with the Pro contract.
+- [ ] Advise Bhoomi whether to include additional details (salary, years of experience, etc.) for the role so she can draft the JD.
+
+### Files Updated
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/internal-synapx-recruitment.md
+
+---
+
 ## 2026-02-10 06:45
 
 ### Changes This Window
@@ -6,14 +27,14 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 10 processed (0 created, 10 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:4509:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Decide on request to push Thursday client demo by 1.5–2 days.
+- [ ] Decide on request to push Thursday client demo by 1.52 days.
 - [ ] Confirm staffing/forecast: Katyayani on Accent starting tomorrow; whether Vijay can return to LCP; provide estimate of days/hours needed.
 - [ ] Reply to Gaurav: where to see forecast if Tushara is out.
-- [ ] Help unblock Navsheen’s LCP ADO login after password reset (coordinate with Lanware IT to re-enable sign-in).
+- [ ] Help unblock Navsheens LCP ADO login after password reset (coordinate with Lanware IT to re-enable sign-in).
 - [ ] Follow up with Ajay on analyser testing and whether it improved AI extraction; confirm when Katyayani can start testing.
 
 ### Files Updated
@@ -30,13 +51,13 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 18 processed (6 created, 12 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:4509:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Confirm to Gaurav once your 17 Capital account is set up for Copilot training.
 - [ ] Help unblock Navsheen LCP ADO access: coordinate with Lanware IT to re-enable sign-in after password reset.
-- [ ] For tomorrow’s ISV call: align agenda toward fraud prediction AI agent; clarify data hosting (client vs Synapx) and metered billing/marketplace charging approach.
+- [ ] For tomorrows ISV call: align agenda toward fraud prediction AI agent; clarify data hosting (client vs Synapx) and metered billing/marketplace charging approach.
 - [ ] Ensure Midwich app data sources/tables are re-added correctly and consistently pointing to UAT (not Dev), using environment variables.
 - [ ] Investigate reported issue with bids stored procedure.
 

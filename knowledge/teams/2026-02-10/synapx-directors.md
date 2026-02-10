@@ -40,3 +40,11 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 ## 05:47 - Matt Davies
 > worth a conversation as we have on boarded an India contractor who has these skills now. London buses. Would be interested to know Narayans cost.
 
+
+# Teams Chat — Synapx Directors
+
+## 06:58 - Akshansh Sharma
+> <attachment id="1770702500349"></attachment>
+> 
+> <p><at id="0">Charlie</at>&nbsp;when can we proceed with pro contract?</p>
+
