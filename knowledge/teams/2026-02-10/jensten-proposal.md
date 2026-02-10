@@ -232,3 +232,12 @@
 ## 17:03 - Sophia Fricker
 > <p>I've updated jakes slides, I haven't included the cost to deliver the phases FYI - do I need to? I need to go ad collect the children but I can continue work once they have gone down. Just let me know <emoji id="smile" alt="🙂" title="Smile"></emoji></p>
 
+
+# Teams Chat — Jensten Proposal
+
+## 19:32 - Fraser Hamilton
+> I've added slide **17** as cloud first adoption strategy, which focuses on removing some 33 of those 64 servers to other workloads
+>
+> 
+>
+> Also, this is helpful for Azure icons, just found it: Official Azure Icon Set (https://code.benco.io/icon-collection/azure-icons/)
