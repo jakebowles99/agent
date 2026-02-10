@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 22:24:** Discussed Foundry spend vs Claude/GPT costs and partner center qualifying spend.
 - **2026-02-10 22:02:** Discussed whether Claude/Azure costs count toward Foundry spend and partner center qualifying spend; noted need to hit many ACR for AI apps.
 - **2026-02-10 19:39:** Asked whether to join a call; participated in directors chat.
 - **2026-02-10 19:06:** Asked whether to join a call; light logistics chat.

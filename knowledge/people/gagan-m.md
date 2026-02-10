@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 22:25:** Logged 1.5h on Capital H&B kickoff; coordinating to gather activities and reviewing SOW/BRD.
 - **2026-02-10 19:06:** Sent cancellation notice for Seras Fabric Discovery Weekly Catchup (calendar email).
 - **2026-02-10 14:44:** Requested being added to Harvest project; shared that Nandan provided info and would share a high-level project plan/timelines.
 - **2026-02-10 14:16:** Requested to be added to project/presales; mentioned Nandan shared info and project plan coming; discussed Harvest setup and transferring hours.

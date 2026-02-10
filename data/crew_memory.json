@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 22:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 11 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 processed (1 created, 8 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Resend Forecast invite to Matt Davies (Project Managers).\n- [ ] Reply to Azure Admin thread: confirm whet",
+        "timestamp": "2026-02-10T22:27:34.169274+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 22:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 6 messages across 1 conversations\n- **Teams Channels:** 0 messages in 24 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 processed (0 created, 2 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to Jake Bowles (Azure Admin): clarify whether Claude/Azure OpenAI spend in customer tenants counts ",
         "timestamp": "2026-02-10T22:06:11.060525+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 19:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 20 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 6 processed (0 created, 6 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm/update APS liability term change (reduce from 6 years to 1 year) and resend for",
         "timestamp": "2026-02-10T19:43:18.943008+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-10 18:45\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 19 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 14 processed (1 created, 13 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm with Maggie/Aerie Law that liability term can be reduced (update stakeholders / finalize wording).\n- [ ] Syna",
-        "timestamp": "2026-02-10T19:11:04.005177+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 84,
+      "total_runs": 85,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T22:06:11.060535+00:00",
+    "last_updated": "2026-02-10T22:27:34.169299+00:00",
     "version": "1.0"
   }
 }
