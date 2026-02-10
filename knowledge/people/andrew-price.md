@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 23:51:** Discussed certification run, compliance prep, and RFP numbers/feedback; requested password deletion in PM chat.
 - **2026-02-10 23:41:** Reviewed lead weightings and RFP numbers; advised on Harvest Forecast access and password cleanup; requested SOW template updates for Synapx as a Service.
 - **2026-02-10 23:22:** Asked for ETA and discussed Compass call with Charlie; requested assessment of K&S questionnaire and suggested involving Andrew Wingate for Navision knowledge.
 - **2026-02-10 23:06:** Asked for SOW/presentation ETA; discussed Azure profit credit; mentioned as needing help on certs dashboards.

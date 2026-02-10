@@ -1,3 +1,28 @@
+## 2026-02-10 23:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 30 messages across 5 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (3 created, 7 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~£200k & ~£500k vs £250k & £600k) and update team ASAP once feedback received.
+- [ ] Project Managers: delete shared password (per Andrew) now that access is restored.
+- [ ] Synapx UK Directors: be prepared for an ad-hoc phone call tomorrow / share what happened when ready.
+
+### Files Updated
+- knowledge/teams/2026-02-10/synapx-leadership-team.md
+- knowledge/teams/2026-02-10/synapx-uk-directors.md
+- knowledge/teams/2026-02-10/lead-opportunity-requests.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+
+---
+
 ## 2026-02-10 23:30
 
 ### Changes This Window
@@ -190,7 +215,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Reply to James Grant: acknowledge he cant do Thursday and confirm Friday instead.
+- [ ] Reply to James Grant: acknowledge he can’t do Thursday and confirm Friday instead.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/charlie-phipps-bennett-james-grant.md
@@ -209,7 +234,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Reply to James Grant: acknowledge he cant do Thursday and confirm Friday instead.
+- [ ] Reply to James Grant: acknowledge he can’t do Thursday and confirm Friday instead.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/charlie-phipps-bennett-james-grant.md
@@ -248,7 +273,7 @@
 
 ### Action Items Detected
 - [ ] Reply to Charlie Phipps-Bennett: confirm whether Thursday at 2pm works.
-- [ ] Jensten Proposal: confirm whether to include cost to deliver the phases in Jakes slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
+- [ ] Jensten Proposal: confirm whether to include cost to deliver the phases in Jake’s slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
 - [ ] Synapx Directors: confirm/update APS liability term change (reduce from 6 years to 1 year) and resend for signature via Narayan.
 
 ### Files Updated
@@ -270,7 +295,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jakes slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
+- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jake’s slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
 - [ ] Jensten Proposal: incorporate slide 17 cloud-first adoption strategy update (remove 33 of 64 servers to other workloads); use Official Azure Icon Set for diagrams (https://code.benco.io/icon-collection/azure-icons/).
 
 ### Files Updated
@@ -390,7 +415,7 @@
 
 ### Action Items Detected
 - [ ] Synapx Directors: confirm with Maggie/Aerie Law that liability term can be reduced (update stakeholders / finalize wording).
-- [ ] Synapx UK Directors: ensure Narayan is on Compass at 09:00 (Matt: have him, Pro in hand).
+- [ ] Synapx UK Directors: ensure Narayan is on Compass at 09:00 (Matt: “have him, Pro in hand”).
 
 ### Files Updated
 - knowledge/emails/2026-02-10.md
@@ -411,7 +436,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Synapx Directors: Matt is speaking with Maggie nowawait/record confirmation whether APS/MSA terms are standard across Pro vs non-Pro.
+- [ ] Synapx Directors: Matt is speaking with Maggie now—await/record confirmation whether APS/MSA terms are standard across Pro vs non-Pro.
 - [ ] Synapx Directors: Akshansh to check with Ajay tomorrow on model-driven app capability level.
 
 ### Files Updated
@@ -497,7 +522,7 @@
 ### Action Items Detected
 - [ ] Standup - LCP Doc Extraction: Ajay to check/update; Timon to find the request ID; Ajay to debug/fix backend if not working; verify deployment + confirm OffRiskDate confidence/accuracy and percentage logic.
 - [ ] Synapx UK Directors: arrange discussion tonight; call Narayan at 21:00; make a decision tonight to avoid losing project.
-- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jakes slides; Jake to review this evening.
+- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jake’s slides; Jake to review this evening.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
@@ -522,8 +547,8 @@
 
 ### Action Items Detected
 - [ ] Synapx UK Directors: arrange a directors dinner soon.
-- [ ] Synapx UK Directors: discuss tonight due to client risk / pressure; move on Pro deal; decide backup plan if Narayan wont accept liabilities.
-- [ ] Jensten Proposal: prioritise finishing deck today; add Synapx as a Service pages; confirm where Phase 0 architecture (~350k) fits; break out Dave/Luke scope slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation; Jake to review this evening.
+- [ ] Synapx UK Directors: discuss tonight due to client risk / pressure; move on Pro deal; decide backup plan if Narayan won’t accept liabilities.
+- [ ] Jensten Proposal: prioritise finishing deck today; add “Synapx as a Service” pages; confirm where Phase 0 architecture (~“£350k) fits; break out Dave/Luke scope slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation; Jake to review this evening.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/synapx-uk-directors.md
@@ -547,8 +572,8 @@
 - [ ] Synapx UK Directors: arrange a directors dinner soon.
 - [ ] Synapx UK Directors: Jake to complete Jensten deck & SOWs after returning from family commitments.
 - [ ] Internal Synapx Recruitment: provide status of accepted offer candidates (joining dates/locations) to Andrew Price.
-- [ ] Internal Synapx Recruitment: follow up to confirm candidate is dead; remove candidate unlikely to join; confirm whether Rajendra is joining; clarify whether Azarudeen is Nandan Hegdes referral.
-- [ ] Kenny Balogun: respond to Kenny (Hey Jake).
+- [ ] Internal Synapx Recruitment: follow up to confirm candidate is dead; remove candidate unlikely to join; confirm whether Rajendra is joining; clarify whether Azarudeen is Nandan Hegde’s referral.
+- [ ] Kenny Balogun: respond to Kenny (“Hey Jake”).
 
 ### Files Updated
 - knowledge/teams/2026-02-10/sophia-fricker.md

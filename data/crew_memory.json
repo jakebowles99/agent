@@ -6,8 +6,16 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 23:30\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 21 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx UK Directors: decide whether to send Jensten SOWs tomorrow; ensure SOW does not read like Capex; create/obtain \u201cSynapx as a Service\u201d SOW template referencing the m",
-        "timestamp": "2026-02-10T23:50:38.734377+00:00"
+        "result_preview": "## 2026-02-10 23:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 30 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (3 created, 7 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~\u00a3200k & ~\u00a3500k vs \u00a3250k & \u00a3600k) and update ",
+        "timestamp": "2026-02-10T23:54:20.638343+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "## 2026-02-10 23:15\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 10 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 20 processed (0 created, 17 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx UK Directors: respond with ETA/status for the presentation/deck and advise whether Jake should send what he agreed or hold.\n- [ ",
+        "timestamp": "2026-02-10T23:34:01.342159+00:00"
       },
       {
         "status": "success",
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 21:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 7 processed (1 created, 6 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-10 20:45\n\n### Changes This Window\n- **Emails:** 1 new (Re:",
         "timestamp": "2026-02-10T21:08:22.418522+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 20:45\n\n### Changes This Window\n- **Emails:** 1 new (Re: Latest quote breakdown)\n- **Teams Chats:** 20 messages across 2 conversations\n- **Teams Channels:** 0 messages in 74 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 processed (1 created, 8 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to Charlie Phipps-Bennett: confirm whether Thursday at 2pm works.\n- [",
-        "timestamp": "2026-02-10T20:57:19.573407+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 89,
+      "total_runs": 90,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T23:50:38.734387+00:00",
+    "last_updated": "2026-02-10T23:54:20.638358+00:00",
     "version": "1.0"
   }
 }
