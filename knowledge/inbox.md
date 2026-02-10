@@ -1,3 +1,32 @@
+## 2026-02-10 14:45
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 48 messages across 6 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 17 processed (3 created, 14 updated)
+- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Standup - LCP Doc Extraction: confirm whether raw responses are stored anywhere; clarify mandatory fields; provide outcome-based demo-ready update; investigate why only one PDF page is being extracted; validate V1 vs V2 accuracy and V3 backend changes.
+- [ ] Midwich Squad: Investigate 504 Gateway Timeout issue in DEV; check DTU consumption and subnet; confirm environment (DEV/UAT/Prod); consider table-variable workaround; resolve PowerApps output issue.
+- [ ] Charlie Phipps-Bennett / Compass: Answer questions on handwritten notes extraction/validation, handling duplicated records, and AI extraction learning/feedback loop; confirm response timeline.
+- [ ] Synapx Directors / Jake Bowles: Suggest internal workstream(s) to allocate Kenny to until Midwich US element is arranged; coordinate on certs work.
+- [ ] Review SOW effort estimate shared by Nandan (overall ~10 days, no buffer) and confirm assumptions/sources.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/euroleague-bb-rfp-response-checkpoint.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-10/midwich-squad.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/nandan-hegde.md
+
+---
+
 ## 2026-02-10 14:15
 
 ### Changes This Window
@@ -142,7 +171,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Decide where SOW requests should be submitted/recorded (two places currently; confusion raised in Contract Requests - Archive).
+- [ ] Decide where SOW requests should be submitted/recorded (two places currently; confusion raised in Contract Requests - Archive confusion).
 - [ ] Connect with Nandan Hegde now/soon (he offered to move the call; he is calling).
 
 ### Files Updated

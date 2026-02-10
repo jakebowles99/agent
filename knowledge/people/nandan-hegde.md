@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 15:05:** Asked for environment details; provided LCP SOW scope and effort estimates for data sources and GraphQL.
 - **2026-02-10 14:42:** Discussed stored procedure environment question and project timeline inputs.
 - **2026-02-10 14:42:** Shared effort estimates and draft LCP SOW scope for NAV reconciliation automation (LemonEdge production) including sources, Fabric env setup, transformations, and GraphQL enablement.
 - **2026-02-10 13:56:** Advised on handling data discovery effort and charging work in later SOW; noted open questions pending client reply.

@@ -358,3 +358,33 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 
 ## 13:45 - Jake Bowles
 > <p>So the 17c investor letters stuff has gone away for now?</p>
+
+
+## 14:31 - Charlie Phipps-Bennett
+> <p><emoji id="crossedfingers" alt="🤞" title="Crossed fingers"></emoji></p>
+
+## 14:31 - Andrew Price
+> <p>Ok let's hope I am wrong</p>
+
+## 14:22 - Charlie Phipps-Bennett
+> <attachment id="1770733138965"></attachment>
+<p>I disagree, they are just following process. They have to do this for every solution build</p>
+
+## 14:19 - Matt Davies
+> <attachment id="1770732651044"></attachment>
+<p>I will have a think but not sure atm</p>
+
+## 14:18 - Andrew Price
+> <attachment id="1770733112673"></attachment>
+<p>Clearly not hence looks off the shelf</p>
+
+## 14:18 - Andrew Price
+> <attachment id="1770732651044"></attachment>
+<p>Yes - I will get him to work on certs with me</p>
+
+## 14:18 - Akshansh Sharma
+> <attachment id="1770731225000"></attachment>
+<p>true but i think they were fine with the cost and the way we handled the requirement gathering for this project so let's see&nbsp;</p>
+
+## 14:10 - Jake Bowles
+> <p>Guys I have Kenny available and plan to get him on the Midwich US element but I don't have time to arrange for this today - Do you have anything internal you want him on until I get around to sorting that?&nbsp;</p>

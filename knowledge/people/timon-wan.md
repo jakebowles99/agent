@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 15:02:** Asked about storing raw response for doc extraction.
 - **2026-02-10 14:43:** Requested testing with V3 for new CAT bond; discussed PDF redactions and extraction validation.
 - **2026-02-10 14:42:** Asked Katyayani to test using V3 with the NEW CAT BOND; confirmed visibility of results.
 - **2026-02-10 13:56:** Coordinated app changes for selecting analyzer version and asked about PDF redactions.
