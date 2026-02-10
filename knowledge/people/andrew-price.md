@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 18:09:** Suggested assigning Ajay; noted inability to use Narayan anymore and referenced Maggie's assessment.
 - **2026-02-10 17:24:** Worked on licensing and deck content; shared attachments and discussed migration estimate feasibility.
 - **2026-02-10 17:07:** Asked for status of accepted-offer candidates; planned follow-up with a candidate; noted someone only messages on LinkedIn about UK opportunities.
 - **2026-02-10 16:50:** Discussed offer candidates’ status and noted candidate likely not joining; planned follow-up.

@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 18:09:** Discussed delivery risk and whether work can be delivered in-house; referenced lawyers instructions.
 - **2026-02-10 17:57:** Posted attachments in Synapx Directors chat.
 - **2026-02-10 17:38:** Discussed urgent client/project decision; suggested starting with Pro/Compass and calling Narayan at 9pm.
 - **2026-02-10 17:24:** Discussed stressful client situation, liabilities, Compass CR, and resourcing concerns; coordinated on Pro deal.
