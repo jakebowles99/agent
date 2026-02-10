@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 21:04:** Scheduled Teams meeting: Capital H&B Handover (2026-02-10).
 - **2026-02-10 07:35:** Scheduled Teams meeting (handover) on 2026-02-10.
 - **2026-02-10 05:12:** Listed as meeting subject on 2026-02-10.
 - **2026-02-10 02:49:** Scheduled Teams meeting.
