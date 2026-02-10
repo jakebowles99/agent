@@ -178,3 +178,35 @@ Billing access is controlled differently — the Account Administrator has direc
 
 ## 00:18 - Fraser Hamilton
 > Could try, maybe Kim or TD Synnex knows someone, not sure we have a Microsoft account manager though
+
+# Teams Chat — Azure Admin
+
+## 00:23 - Fraser Hamilton
+> The value of GPT (free) over Claude (paid) could be worth exploring for £1,800 - £2,000 per annum though
+
+## 00:22 - Andrew Price
+> But obviously we all thought it was free
+
+## 00:20 - Fraser Hamilton
+> I thought Andrew would say that and agree with him
+
+## 00:20 - Andrew Price
+> Vs other models
+
+## 00:20 - Andrew Price
+> If you think it drives £160 of value then so be it
+
+## 00:20 - Jake Bowles
+> I'll use something else (gpt) in future
+
+## 00:19 - Jake Bowles
+> Claude code hooked up to foundry which I use for everything from POCs to writing my documents for me
+
+## 00:18 - Fraser Hamilton
+> The real concern is ongoing charges, is this something we accept to be valuable for the business, are other free models going to be sufficient?
+
+## 00:18 - Andrew Price
+> Assume this is nothing to do with a client?
+
+## 00:18 - Fraser Hamilton
+> Could try, maybe Kim or TD Synnex knows someone, not sure we have a Microsoft account manager though
