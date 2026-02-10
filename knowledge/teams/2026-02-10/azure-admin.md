@@ -595,3 +595,25 @@ Billing access is controlled differently — the Account Administrator has direc
 ## 10:16 - Timon Wan
 > thanks
 
+
+# Teams Chat — Azure Admin
+
+## 22:00 - Jake Bowles
+> We have to hit quite a large number of ACR for the AI apps one
+
+## 21:59 - Jake Bowles
+> Yes exactly
+
+## 21:59 - Fraser Hamilton
+> Do you mean counting it as qualifying spend in our partner center?
+
+## 21:59 - Fraser Hamilton
+> I'm confused about the customer example specifics, but essentially it's a different charge to foundry
+
+## 21:57 - Jake Bowles
+> The claude cost, I assume that doesn't count for foundry spend?
+>
+> E.g if I had done that in a customer Tenant that doesn't count towards Foundry spend for the AI specialisation?
+
+## 21:56 - Jake Bowles
+> Rando question
