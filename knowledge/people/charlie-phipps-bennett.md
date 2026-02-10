@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 20:52:** Emailed Andrew asking if Thursday at 2pm works for latest quote breakdown follow-up.
 - **2026-02-10 19:39:** Commented on legal/contract terms (6-year liability) and coordinated need for Narayan on Compass call.
 - **2026-02-10 19:21:** Reacted to proposed 6-year liability term; expressed strong dissatisfaction with clause and counterparties.
 - **2026-02-10 19:06:** Reacted to APS 6-year liability term; coordinated needing Narayan on Compass call at 9.

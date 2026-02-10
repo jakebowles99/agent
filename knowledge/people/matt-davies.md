@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 20:52:** Discussed proposal deck requirements (effort/cost/duration) and legal/APS term negotiations; coordinated review and follow-ups.
 - **2026-02-10 20:36:** Discussed proposal deck coverage; requested effort/cost/duration estimate; noted Jake to review.
 - **2026-02-10 20:21:** Advised to rest: 'Leave with us, get some sleep'.
 - **2026-02-10 19:39:** Discussed APS term change (6-year to 1-year), dissatisfaction with legal guidance, and coordinating calls/meetings.

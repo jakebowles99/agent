@@ -1,3 +1,26 @@
+## 2026-02-10 20:45
+
+### Changes This Window
+- **Emails:** 1 new (Re: Latest quote breakdown)
+- **Teams Chats:** 20 messages across 2 conversations
+- **Teams Channels:** 0 messages in 74 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 9 processed (1 created, 8 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to Charlie Phipps-Bennett: confirm whether Thursday at 2pm works.
+- [ ] Jensten Proposal: confirm whether to include cost to deliver the phases in Jake’s slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
+- [ ] Synapx Directors: confirm/update APS liability term change (reduce from 6 years to 1 year) and resend for signature via Narayan.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+
+---
+
 ## 2026-02-10 20:30
 
 ### Changes This Window
@@ -648,4 +671,3 @@
 - knowledge/teams/2026-02-10/nandan-hegde.md
 
 ---
-
