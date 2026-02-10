@@ -18,6 +18,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 02:37:** Attendee across multiple delivery, handover, and code review meetings (2026-02-10).
+- **2026-02-10 02:26:** Attendee across Midwich standup, handovers, Seras catchup, and delivery leadership/standup meetings (2026-02-10).
 - **2026-02-10 02:01:** Scheduled attendee across standups, handovers, leadership call, and other meetings.
 - **2026-02-09:**
   - Teams chat re: resourcing — asked about tasks for **Dhanya** (free from tomorrow); noted only Accent bug cases and no internal Power BI work from Matt.
