@@ -1,3 +1,23 @@
+## 2026-02-10 20:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 2 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 2 processed (0 created, 2 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Jensten Proposal: incorporate slide 17 cloud-first adoption strategy update (remove 33 of 64 servers to other workloads); use Official Azure Icon Set for diagrams (https://code.benco.io/icon-collection/azure-icons/).
+
+### Files Updated
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+
+---
+
 ## 2026-02-10 20:00
 
 ### Changes This Window

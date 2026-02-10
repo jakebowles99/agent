@@ -648,3 +648,9 @@ Matt is it possible for him to sign the APS if we update the 6 year term to 1 ye
 
 ## 18:08 - Matt Davies
 > Speaking with Maggie now will revert
+
+# Teams Chat — Synapx Directors
+
+## 19:15 - Matt Davies
+> Leave with us, get some sleep
+
