@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 18:36:** Asked whether issue was Pro-related; expressed concern if not; aligned understanding about APS/MSA terms.
 - **2026-02-10 18:22:** Discussed whether APS is Pro-related; shared attachment; reacted to MSA terms discussion.
 - **2026-02-10 18:09:** Discussed delivery risk and whether work can be delivered in-house; referenced lawyers instructions.
 - **2026-02-10 17:57:** Posted attachments in Synapx Directors chat.

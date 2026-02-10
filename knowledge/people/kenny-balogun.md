@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 18:36:** Shared Credly badge link in Copilot Jumpstart chat.
 - **2026-02-10 17:07:** Sent a greeting message: "Hey Jake".
 - **2026-02-10 16:50:** Messaged Jake Bowles: 'Hey Jake'.
 - **2026-02-10 15:32:** Chatted about potential Midwich work; interested in Foundry/Azure Functions exposure; availability discussed.

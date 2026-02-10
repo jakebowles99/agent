@@ -472,3 +472,40 @@ I don’t think Ajay knows model driven at that level but let me check with him 
 
 ## 17:59 - Andrew Price
 > Not just for Pro
+
+
+# Teams Chat — Synapx Directors
+
+## 17:59 - Andrew Price
+> Not just for Pro
+
+## 17:59 - Andrew Price
+> If we are certain Maggie is right
+
+## 18:00 - Akshansh Sharma
+> <attachment id="1770746299355"></attachment>
+> I don’t think Ajay knows model driven at that level but let me check with him tomorrow
+
+## 18:00 - Charlie Phipps-Bennett
+> <attachment id="1770746381875"></attachment>
+> Is this not just a Pro related thing?
+
+## 18:01 - Charlie Phipps-Bennett
+> If not then we are truly fucked
+
+## 18:02 - Andrew Price
+> APS is standard across all
+
+## 18:04 - Akshansh Sharma
+> <attachment id="1770746528617"></attachment>
+> I thought we made this APS based on Pro MSA terms no?
+
+## 18:07 - Charlie Phipps-Bennett
+> <attachment id="1770746684486"></attachment>
+> That was my understanding to
+
+## 18:07 - Matt Davies
+> It's standard in our MSA
+
+## 18:08 - Matt Davies
+> Speaking with Maggie now will revert
