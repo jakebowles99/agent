@@ -1,3 +1,22 @@
+## 2026-02-10 07:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 0 messages across 0 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 9 processed (0 created, 9 updated)
+- **Calendar:** Upcoming meetings scheduled (11 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Review upcoming meetings: Midwich Squad - daily standup (08:45–09:00 UTC), SOW Agent (09:00–09:30 UTC), Capital H&B Handover (09:30–10:00 UTC).
+
+### Files Updated
+- none
+
+---
+
 ## 2026-02-10 07:15
 
 ### Changes This Window
