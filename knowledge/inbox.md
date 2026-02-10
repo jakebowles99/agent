@@ -1,3 +1,33 @@
+## 2026-02-10 11:45
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 30 messages across 3 conversations
+- **Teams Channels:** 1 messages in 1 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 14 processed (0 created, 14 updated)
+- **Calendar:** 10 events on calendar; next: Delivery Weekly Standup 12:30–12:55 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Ajay: investigate/fix very long extraction when only email body is provided; ensure email-body values populate before PDF/other sources.
+- [ ] Ajay: fix missing attached-document count display.
+- [ ] Navsheen/Katyayani/Ajay: confirm expected behavior when extraction finds multiple values for same field; show hamburger menu with other values + precision score.
+- [ ] Navsheen/Koul: clarify whether mandatory fields are expected to be present in email.
+- [ ] Navsheen/Koul/Ajay: decide handling when email contains Class A + Class B notes; analyzer currently seems to expect one.
+- [ ] Matt/Jake: send Jensten proposal today.
+- [ ] Sophia: (All) re-post/like/comment on Microsoft Fabric Featured Partners post on Synapx LinkedIn page.
+- [ ] (All): submit timesheets by COB; include notes in Harvest.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/ba-time-planning.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/channels/2026-02-10/Synapx | Everyone-Genuinely.md
+
+---
+
 ## 2026-02-10 11:15
 
 ### Changes This Window
