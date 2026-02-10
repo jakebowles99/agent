@@ -107,14 +107,65 @@ Cristian raised interest in understanding how to manage growing number of report
 
 ---
 
-## 2026-02-09 Updates
+## 2026-02-10 Handover Meeting
 
-### Meeting Today
-- **Capital H&B <> Synapx** (14:30-15:00) - Jake Bowles organizing
+### Team Assignments
 
-### Status
-- Kickoff confirmed for Monday 2:30 PM (Feb 10)
-- Pre-kickoff sync completed today
+| Resource | Role | Delivery Model | Notes |
+|----------|------|----------------|-------|
+| **Saumya** | Backend data ingestion | Fixed price (~25 days) | Metadata-driven framework, reference Glass Moon for SQL ingestion |
+| **Danya Kumar** | Power BI report development | TNM | Flexible for evolving requirements |
+| **Nandan Hegde** | Code review (backend) | - | Also providing Fabric guidance |
+| **Gagan M** | Project management | Fixed (~3-4 days) | First Fabric project |
+
+### Technical Setup
+
+**Service Accounts Created:**
+- Admin, Dev, Prod accounts ready
+- **BLOCKER**: Conditional access policies must be removed by Matt before Andy can set up Azure subscription
+
+**Initial Tasks (Saumya):**
+1. Set up Fabric capacity
+2. Create workspaces
+3. Implement metadata-driven framework for data pipelines
+4. Reference Glass Moon project for SQL-based ingestion
+
+**Capacity Management:**
+- Azure Data Factory will manage Fabric capacity (resume/pause)
+- Event-driven approach to control costs
+- X Scale NOT part of implementation
+
+### Delivery Model
+
+- **Data Ingestion**: Fixed price (backend work)
+- **Visualisation/Reporting**: TNM (client requirements evolving)
+- Charge codes to be split between fixed and TNM elements
+
+### Documentation & Tracking
+
+- BRD is primary reference for report requirements
+- Data flow references in BRD = interpret as Fabric processes
+- All client changes must be documented (frequent changes expected)
+- Work items tracked in client's ADO tenant
+
+### Meeting Cadence
+- Daily meetings during initial setup and data integration phase
+- Will reassess after first week (potentially switch to weekly)
+
+### Pending Actions (from Handover)
+- [ ] **Nandan**: Obtain iTrent documentation from client
+- [ ] **Nandan**: Coordinate with Matt re: conditional access removal
+- [ ] **Andy**: Set up Azure subscription (blocked by conditional access)
+- [ ] **Jake**: Clarify Power BI Pro licence availability
+- [ ] **Nandan**: Provide timeline breakdown for data ingestion
+- [ ] **Jake**: Clarify charge code splitting with Charlotte
+- [ ] **Nandan**: Confirm ADO environment (prod vs dev)
+
+### Client Characteristics (from Jake)
+- Not data-driven organization
+- CEO Harry prefers traditional methods (printed Excel spreadsheets)
+- Expect frequent requirement changes - document everything
+- Preference for simplicity and cost-effectiveness
 
 ---
-*Last Updated: February 9, 2026*
+*Last Updated: February 10, 2026*
