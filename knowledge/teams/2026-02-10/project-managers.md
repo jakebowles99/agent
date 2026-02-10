@@ -119,3 +119,8 @@
 
 ## 05:50 - Gaurav Rauthan
 > <p>Our devs should complete unit testing from their end today.</p>
+
+
+## 08:28 - Yaz Qaraqesh
+> (attachment)
+> You can utilise Vijay ASAP as he finished what I needed from him sooner than expected

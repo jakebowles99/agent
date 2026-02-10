@@ -40,3 +40,22 @@
 > <attachment id="1770662364137"></attachment>
 <p>Some of the tables are still pointing to Dev while others are pointing to UAT, so it doesnt look like everything was re-added correctly.</p>
 <p>Since the app was opened in Studio, Id asked him to re-add <strong>all</strong> data sources (including all tables) back into the app. It looks like only a few of them have been re-added so far.</p>
+
+
+## 08:29 - Yaz Qaraqesh
+> (attachment)
+> Well done Vijay - good work. Happy for you to work with Gaurav today as you are desperately needed on another project
+
+## 08:26 - Yaz Qaraqesh
+> (attachment)
+> Well done V
+
+## 08:18 - Vijay G
+> Hi @Yaz
+>
+> End-to-end testing has been completed for the SO app in the QA environment. The issues identified during testing have been resolved and retested.
+>
+> FYR:
+> https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/207
+> https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/206
+> https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/205

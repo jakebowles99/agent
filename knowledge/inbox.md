@@ -1,3 +1,22 @@
+## 2026-02-10 08:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 1 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 3 processed (1 created, 2 updated)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Send documentation to Jeff (requested by Joe Thompson).
+
+### Files Updated
+- knowledge/teams/2026-02-10/joe-thompson.md
+
+---
+
 ## 2026-02-10 08:00
 
 ### Changes This Window
