@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 07:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 19 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 12 processed (0 created, 12 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether Thursday client demo can be pushed by 1.5\u20132 days.\n- [ ] Confi",
-        "timestamp": "2026-02-10T08:03:52.787234+00:00"
+        "result_preview": "## 2026-02-10 08:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 23 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 13 processed (2 created, 11 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Confirm LCP vs Accent resourcing: whether Kat can be released 1 day early fo",
+        "timestamp": "2026-02-10T08:28:40.363912+00:00"
       },
       {
         "status": "success",
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T08:03:52.787245+00:00",
+    "last_updated": "2026-02-10T08:28:40.363929+00:00",
     "version": "1.0"
   }
 }

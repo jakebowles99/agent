@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 08:23:** Requested handover to be scheduled for Tim; edited proposal deck to remove mention of F64 due to risk of exceeding limits.
 - **2026-02-10 07:57:** Mentioned in context of who would manage SalesIQ/Zoho solution discussion; deferred to Charlie to manage.
 - **2026-02-10 07:26:** Mentioned in Directors chat about managing item solo; referenced in recruitment chat as reviewer for assignments for a role.
 - **2026-02-10 06:44:** Listed in 17 Capital account status update as created/set up; mentioned in Product Catchup FYI re upcoming ISV call and fraud prediction agent.

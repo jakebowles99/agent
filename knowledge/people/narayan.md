@@ -5,6 +5,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 08:23:** Discussed Customer Service install and Azure B2C setup; lawyer reviewing terms; needs to confirm acceptance of Synapx terms before contract signing; cost/availability discussed.
 - **2026-02-10 07:56:** Discussed setting up Customer Service install and Azure B2C; contract/legal terms and cost considerations; internal demo planned.
 - **2026-02-10 07:26:** Discussed as external party for Customer Service install and Azure B2C setup; awaiting response from Narayan’s lawyer regarding Pro contract; cost comparison mentioned.
 - **2026-02-10 06:11:** Mentioned regarding cost for skills/contracting.

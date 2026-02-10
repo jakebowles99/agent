@@ -1,3 +1,29 @@
+## 2026-02-10 08:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 23 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 13 processed (2 created, 11 updated)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Confirm LCP vs Accent resourcing: whether Kat can be released 1 day early for Accent; get Vijay back on LCP; check Vijay availability.
+- [ ] Tell Gaurav where to view the forecast if Tushara is out.
+- [ ] Decide whether to proceed/sign the Pro contract (pending Narayan confirming acceptance of terms; Charlie has call at 10).
+- [ ] Jensten proposal deck: add commercial proposition and transition into “Synapx as a Service”; confirm dependencies; Andrew to complete deck content.
+- [ ] Schedule handover for Tim.
+
+### Files Updated
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/navsheen-koul.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+
+---
+
 ## 2026-02-10 07:45
 
 ### Changes This Window
@@ -6,16 +32,16 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 12 processed (0 created, 12 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:4509:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Decide whether Thursday client demo can be pushed by 1.5–2 days.
+- [ ] Decide whether Thursday client demo can be pushed by 1.52 days.
 - [ ] Confirm staffing/priority: Katyayani stays on LCP (priority) vs Accent; check whether LCP can release her 1 day early; check Vijay availability.
 - [ ] Point Gaurav to where to view the forecast if Tushara is out.
 - [ ] Respond to Matt/Charlie/Akshansh on whether/when to proceed/sign the Pro contract (pending Narayan confirming acceptance of terms; Charlie has call at 10).
-- [ ] Respond in Jensten Proposal: confirm dependencies and add commercial proposition/transition to Synapx as a Service; incorporate Andrew’s licensing work and finish deck content.
-- [ ] Provide thoughts on Narayan’s proposed internal Customer Service install weekend (Feb 21–22) and required Azure/Power Platform/Dynamics admin access.
+- [ ] Respond in Jensten Proposal: confirm dependencies and add commercial proposition/transition to Synapx as a Service; incorporate Andrews licensing work and finish deck content.
+- [ ] Provide thoughts on Narayans proposed internal Customer Service install weekend (Feb 2122) and required Azure/Power Platform/Dynamics admin access.
 - [ ] Ensure Nandan receives the meeting invite.
 
 ### Files Updated
