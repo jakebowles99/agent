@@ -1,3 +1,27 @@
+## 2026-02-10 06:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 8 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (0 created, 10 updated)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Decide on request to push Thursday client demo by 1.5–2 days.
+- [ ] Confirm staffing/forecast: Katyayani on Accent starting tomorrow; whether Vijay can return to LCP; provide estimate of days/hours needed.
+- [ ] Reply to Gaurav: where to see forecast if Tushara is out.
+- [ ] Help unblock Navsheen’s LCP ADO login after password reset (coordinate with Lanware IT to re-enable sign-in).
+- [ ] Follow up with Ajay on analyser testing and whether it improved AI extraction; confirm when Katyayani can start testing.
+
+### Files Updated
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+
+---
+
 ## 2026-02-10 06:30
 
 ### Changes This Window

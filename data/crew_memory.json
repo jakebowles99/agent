@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 06:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 6 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 18 processed (6 created, 12 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Confirm to Gaurav once your 17 Capital account is set up for Copilot training",
-        "timestamp": "2026-02-10T06:49:02.802871+00:00"
+        "result_preview": "## 2026-02-10 06:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 8 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (0 created, 10 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide on request to push Thursday client demo by 1.5\u20132 days.\n- [ ] Confirm s",
+        "timestamp": "2026-02-10T06:58:42.903255+00:00"
       },
       {
         "status": "success",
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T06:49:02.802884+00:00",
+    "last_updated": "2026-02-10T06:58:42.903274+00:00",
     "version": "1.0"
   }
 }
