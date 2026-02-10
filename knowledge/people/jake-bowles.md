@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:19:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.
+- **2026-02-10 12:17:** Casual chat about making brunch; light banter.
 - **2026-02-10 12:02:** Recipient of Delivery Leadership Call invite.
 - **2026-02-10 11:53:** Discussed sending Jensten proposal, coordinating meeting timing, and asked Tayo for 5 mins to discuss.
 - **2026-02-10 11:38:** Mentioned in receipts request email (missing receipts) and in Synapx Directors chat re: managing contract work.

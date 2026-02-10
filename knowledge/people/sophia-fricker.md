@@ -4,6 +4,9 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:19:** Sent Teams meeting invite for 'Jensten catch up' to Andrew Price, Matt Davies, Jake Bowles, Charlie Phipps-Bennett.
+- **2026-02-10 12:18:** Requested everyone repost/like/comment on Microsoft Fabric Featured Partners post on Synapx LinkedIn.
+- **2026-02-10 12:17:** Added 'Synapx as a Service' pages to proposal deck; offered further help; noted she will chase FH.
 - **2026-02-10 11:41:** Asked everyone to repost/like/comment Microsoft Fabric Featured Partners post on Synapx LinkedIn.
 - **2026-02-10 10:39:** Asked for input on potential Microsoft blog topics (Snowflake+OneLake interop, Fabric data agents).
 - **2026-02-10 09:18:** Asked to start adding 'Synapx as a Service' pages into proposal.

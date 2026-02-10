@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:20:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.
+- **2026-02-10 12:17:** Casual chat about brunch/AI and shared attachments/images.
 - **2026-02-10 12:01:** Shared agenda for Delivery Leadership Call; also posted CDIAD trial info in leadership chat and discussed project timing/escalations in directors chat.
 - **2026-02-10 11:55:** Chatted about meeting timing and imagery; rescheduled Delivery Leadership call and asked others to take forward email; discussed project/compliance updates in Directors chat.
 - **2026-02-10 11:36:** Discussed Pro contract timing/terms with Narayan; raised concerns about Ajay; coordinated project resourcing and meeting time change with Anand.

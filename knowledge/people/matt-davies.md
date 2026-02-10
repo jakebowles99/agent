@@ -9,6 +9,9 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 12:19:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.
+- **2026-02-10 12:18:** Posted reminders about Harvest timesheets in February and adding notes.
+- **2026-02-10 12:17:** Coordinated Jensten proposal deck; aimed to send today; discussed structure and dependencies.
 - **2026-02-10 12:05:** Asked for a quick chat ('2 mins?'); also referenced in project managers chat re getting something working.
 - **2026-02-10 11:52:** Mentioned speaking with Jensten; planning to send proposal today with Jake.
 - **2026-02-10 11:38:** Discussed Pro contract readiness and terms with Charlie/Narayan; addressed Harvest Forecast access and resourcing.

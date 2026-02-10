@@ -2,41 +2,38 @@
   "short_term": {
     "last_runs": [
       {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-10 11:15\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 18 messages across 8 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 21 processed (6 created, 15 updated)\n- **Calendar:** 10 events on calendar; current/next: FW: Euroleague BB - RFP response checkpoint 11:00\u201311:15 UTC; next: Delivery Weekly Standup 12:30\u201312:55 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: investigate/",
-        "timestamp": "2026-02-10T12:16:48.074585+00:00"
+        "status": "error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-10T12:20:30.040765+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 10:30\n\n### Changes This Window\n- **Emails:** 4 new\n- **Teams Chats:** 31 messages across 8 conversations\n- **Teams Channels:** 0 messages in 74 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 15 processed (2 created, 13 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:00\u201311:00 UTC; Canceled: Product Catchup 10:30\u201310:55 UTC)\n- **Time Tracking:** none\n\n### ",
-        "timestamp": "2026-02-10T11:11:13.590611+00:00"
+        "result_preview": "## 2026-02-10 10:45\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 34 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 14 processed (2 created, 12 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder - (will record and send in advance) 10:00\u201311:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Gaurav/Andre",
+        "timestamp": "2026-02-10T11:15:14.053881+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "## 2026-02-10 09:30\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 36 messages across 11 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Capital H&B Handover 09:30\u201310:00 UTC; LCP Finance Doc Extraction Handover 09:30\u201310:20 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review email(s) received in this window and take any requi",
+        "timestamp": "2026-02-10T10:41:24.424734+00:00"
       },
       {
         "status": "error",
-        "error": "Invalid response from LLM call - None or empty.",
-        "timestamp": "2026-02-10T09:58:22.184932+00:00"
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-10T09:15:54.802664+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 08:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 3 processed (1 created, 2 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Send documentation to Jeff (requested by Joe Thompson).\n\n### Files Updated\n- kn",
-        "timestamp": "2026-02-10T08:37:30.501866+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-10 07:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 19 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 12 processed (0 created, 12 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether Thursday client demo can be pushed by 1.5\u20132 days.\n- [ ] Confi",
-        "timestamp": "2026-02-10T08:03:52.787234+00:00"
+        "result_preview": "## 2026-02-10 08:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 23 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 13 processed (2 created, 11 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Confirm LCP vs Accent resourcing: whether Kat can be released 1 day early fo",
+        "timestamp": "2026-02-10T08:28:40.363912+00:00"
       },
       {
         "status": "success",
@@ -97,7 +94,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T12:16:48.074598+00:00",
+    "last_updated": "2026-02-10T12:20:30.040778+00:00",
     "version": "1.0"
   }
 }
