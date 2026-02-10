@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:50:** Commented that a candidate won’t be joining and Bhoomi can remove name from list.
 - **2026-02-10 15:31:** Commented that client seemed fine with cost/requirement gathering; awaiting next steps.
 - **2026-02-10 15:06:** Commented they were fine with cost and requirements gathering; shared attachment.
 - **2026-02-10 14:43:** Asked clarifying questions about client situation; shared attachment and updates from Simon.

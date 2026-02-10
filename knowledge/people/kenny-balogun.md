@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 16:50:** Messaged Jake Bowles: 'Hey Jake'.
 - **2026-02-10 15:32:** Chatted about potential Midwich work; interested in Foundry/Azure Functions exposure; availability discussed.
 - **2026-02-10 14:44:** Discussed being staffed onto Midwich/Azure project; interest in Foundry/Azure Functions exposure; asked about Midwich account/work.
 - **2026-02-10 14:15:** Discussed MW account; brief reply about anything being good.
