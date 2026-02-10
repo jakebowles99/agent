@@ -187,3 +187,72 @@ Configure data extraction and ingestion pipelines based on the source systems id
 <p>&nbsp;</p>
 <p>Design and configure GraphQL endpoints for all required entities supporting the NAV reconciliation process.</p>
 <p>&nbsp;</p>
+
+# Teams Chat — Nandan Hegde
+
+## 16:42 - Jake Bowles
+> B) We said we'd increase the estimates
+
+## 16:42 - Jake Bowles
+> Bearing in mind we A) have gone over on every LCP project so far
+
+## 16:38 - Nandan Hegde
+> sure, if the LCP team dont have an issue but 2 days (16 hrs) ismore than swhat would be needed .
+> 
+> 1 day would be sufficient
+
+## 16:37 - Jake Bowles
+> More the better 🙂
+
+## 16:37 - Nandan Hegde
+> werent we planning ANand for Midwich?
+
+## 16:37 - Jake Bowles
+> My thinking is that Anand is just around the corner and would be useful
+
+## 16:36 - Nandan Hegde
+> would be my thgt
+
+## 16:36 - Nandan Hegde
+> BA is not needed as of now as the scope is very little
+
+## 16:35 - Jake Bowles
+> Efforts :
+> 
+> 1) Data discovery : 5 days + 1 day BA
+> 
+> 2) Assuming below are the sources :
+> 
+> a) Chrysalis database >> 2 days to map over from POC to Prod env
+> 
+> b) Email >> 1 day (taken from POC)
+> 
+> c) Sharepoint files >> assuming no new sharepoint location and access is already available for the service principle, then 1 day effort
+> 
+> d) SFTP >> 2 day effort assuming gateway is already available for accessibility
+> 
+> 3) Data transformation (if any) >> 5 days
+> 
+> 4) Graph QL >> 1 day ( creation of views as source to filter data and have specific logics for Graph QL reqs)
+> 
+> 5) E2E: 3 days including handover to Tayo and LCP
+> 
+> 6) Reporting and lineage (per POC): 5 days
+> 
+> So overall:
+> 
+> India Senior Engineer: 21 days = 12600
+> 
+> PM: 2 = 900
+> 
+> BA: 2 = 2400
+> 
+> SME: 2 = 1400
+> 
+> Director: 1 = 1750
+> 
+> == £19,050
+
+## 16:34 - Nandan Hegde
+> #6
+

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 16:44:** Referenced as Jensten Head of Data; discussed scope items and reporting line with Luke (IT Director).
 - **2026-02-10 13:03:** Mentioned as Head of Data; noted Luke (IT director) reports to Dave; Dave to speak to Luke about scope.
 - **2026-02-10 12:35:** Mentioned as Head of Data; said he would speak to Luke about scope; noted Luke reports to him.
 

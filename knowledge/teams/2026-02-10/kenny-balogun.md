@@ -59,3 +59,9 @@
 
 ## 13:04 - Kenny Balogun
 > <p><img src="https://graph.microsoft.com/v1.0/chats/19:1a6d572a-e552-4a0e-9cef-3865b056b734_4260f6a8-1c91-4928-a81e-c8025b63f509@unq.gbl.spaces/messages/1770728642637/hostedContents/aWQ9eF8wLXd1ay1kMS05YTRkMzg4OTY2NmY3OTA0OWJlNzIzYmUzMzc3MWFjYix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMS05YTRkMzg4OTY2NmY3OTA0OWJlNzIzYmUzMzc3MWFjYi92aWV3cy9pbWdv/$value" width="569.2118226600985" height="250" alt="image" itemid="0-wuk-d1-9a4d3889666f79049be723be33771acb"></p>
+
+# Teams Chat — Kenny Balogun
+
+## 16:32 - Kenny Balogun
+> Hey Jake
+

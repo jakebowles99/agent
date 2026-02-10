@@ -6,40 +6,48 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 16:15\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 11 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 15 processed (6 created, 9 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Clarify to Charlie Phipps-Bennett whether \u201cpre-trained\u201d means off-the-shelf for the AI Extraction Module",
-        "timestamp": "2026-02-10T16:36:57.969135+00:00"
+        "result_preview": "## 2026-02-10 16:30\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 23 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 processed (4 created, 13 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Internal Synapx Recruitment: confirm offer details (30 lakhs fixed + pay review in November) and provide status of accepted offer candi",
+        "timestamp": "2026-02-10T16:48:06.421992+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 15:45\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 8 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 16 processed (0 created, 15 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests: confirm/send effort numbers for RFP response (~\u00a3200k and ~\u00a3500k vs 250k & 600k), whether to round, and whet",
-        "timestamp": "2026-02-10T16:03:52.945953+00:00"
+        "result_preview": "## 2026-02-10 16:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 5 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 8 processed (2 created, 6 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review Jake Bowles request for thoughts/updates on HS/UW SOW docs (links in Matt Davies chat) before he lifts details into slides.\n\n### Fi",
+        "timestamp": "2026-02-10T16:15:25.111986+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 15:00\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 48 messages across 6 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 processed (0 created, 17 updated)\n- **Calendar:** 10 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Midwich Squad: confirm intermittent DEV issue with MSFT/product ",
-        "timestamp": "2026-02-10T15:38:37.113479+00:00"
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 15:30\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 2 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (0 created, 10 updated)\n- **Calendar:** 9 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review Midwich Squad note: PowerAp",
+        "timestamp": "2026-02-10T15:51:27.137905+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 14:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 46 messages across 7 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 processed (3 created, 14 updated)\n- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Midwich Squad: Investigate 504 Gateway Timeout calling `Query.sp001PaPoGetSearchQ",
-        "timestamp": "2026-02-10T14:48:19.431010+00:00"
+        "result_preview": "## 2026-02-10 14:45\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 48 messages across 6 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 processed (3 created, 14 updated)\n- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Standup - LCP Doc Extraction: confirm whether raw responses are stored anywhere; ",
+        "timestamp": "2026-02-10T15:11:06.306833+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 13:30\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 19 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 16 processed (2 created, 14 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Respond to Tayo re US Bank files: confirm SFTP access requirements (public endpoint + use",
-        "timestamp": "2026-02-10T14:04:54.752239+00:00"
+        "result_preview": "## 2026-02-10 14:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 8 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (0 created, 5 updated)\n- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to Charlie Phipps-Bennett: confirm if you have 5 mins.\n- [ ] Reply to Kenny Ba",
+        "timestamp": "2026-02-10T14:22:15.873650+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 13:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 30 messages across 3 conversations\n- **Teams Channels:** 0 messages in 31 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (1 created, 9 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide/confirm approach for SiteOps app changes SOW estim",
+        "timestamp": "2026-02-10T13:58:46.921625+00:00"
       },
       {
         "status": "success",
@@ -72,11 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-10 09:30\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 36 messages across 11 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Capital H&B Handover 09:30\u201310:00 UTC; LCP Finance Doc Extraction Handover 09:30\u201310:20 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review email(s) received in this window and take any requi",
         "timestamp": "2026-02-10T10:41:24.424734+00:00"
-      },
-      {
-        "status": "error",
-        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "timestamp": "2026-02-10T09:15:54.802664+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 67,
+      "total_runs": 68,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -97,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T16:36:57.969148+00:00",
+    "last_updated": "2026-02-10T16:48:06.422015+00:00",
     "version": "1.0"
   }
 }

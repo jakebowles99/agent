@@ -1,3 +1,30 @@
+## 2026-02-10 16:30
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 23 messages across 5 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 17 processed (4 created, 13 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Internal Synapx Recruitment: confirm offer details (30 lakhs fixed + pay review in November) and provide status of accepted offer candidates (joining dates/locations) to Andrew Price.
+- [ ] Jensten Proposal: help finalise deck structure/content; add Synapx as a Service pages; incorporate Phase 0 architecture (~£50k) placement; provide effort/cost/duration for VM consolidation/migration; aim to send today.
+- [ ] Compass questions (via Charlie Phipps-Bennett): respond on handwritten notes validation, duplicate record handling, and AI extraction module learning/training expectations.
+- [ ] Provide Jake Bowles two Jensten SOWs content to Sophia Fricker to be added into slides (HS as 1 slide; Underwriting as Phase 0 + Phases 14).
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/internal-synapx-recruitment.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/teams/2026-02-10/sophia-fricker.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-10/andrew-price.md
+
+---
+
 ## 2026-02-10 16:15
 
 ### Changes This Window
@@ -10,8 +37,8 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Clarify to Charlie Phipps-Bennett whether “pre-trained” means off-the-shelf for the AI Extraction Module requirement; confirm risk/concern about the requirement.
-- [ ] Respond in Midwich Squad chat (Charlie: “Playing catchup what is happening”).
+- [ ] Clarify to Charlie Phipps-Bennett whether pre-trained means off-the-shelf for the AI Extraction Module requirement; confirm risk/concern about the requirement.
+- [ ] Respond in Midwich Squad chat (Charlie: Playing catchup what is happening).
 
 ### Files Updated
 - knowledge/emails/2026-02-10.md
