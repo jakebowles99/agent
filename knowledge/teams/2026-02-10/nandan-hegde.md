@@ -256,3 +256,11 @@ Configure data extraction and ingestion pipelines based on the source systems id
 ## 16:34 - Nandan Hegde
 > #6
 
+
+
+# Teams Chat — Nandan Hegde
+
+## 17:29 - Nandan Hegde
+> <p>buffer!! got it</p>
+<p>but that shouldnt back fire is my thgt</p>
+

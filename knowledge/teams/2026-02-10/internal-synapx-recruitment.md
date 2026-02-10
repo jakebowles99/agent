@@ -161,3 +161,11 @@
 ## 16:26 - Andrew Price
 > Bhoomi what is the status of the accepted offer candidates please? Joining dates and locations please
 
+
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 17:27 - Nandan Hegde
+> <attachment id="1770741804757"></attachment>
+<p>Having thgts on the hike aspect</p>
+

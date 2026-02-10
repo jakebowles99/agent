@@ -419,3 +419,41 @@
 ## 15:59 - Navsheen Koul
 > not a redaction, it's a placeholder for data that the counterparty may fill in if they reissue the document
 
+
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 17:30 - Ajay Gannamaneni
+> <div>
+<attachment id="1770744570956"></attachment>
+I will check and update</div>
+
+## 17:30 - Timon Wan
+> <p>I'll find the request Id for you</p>
+
+## 17:29 - Timon Wan
+> <p>I think it's not 5% atm</p>
+
+## 17:27 - Ajay Gannamaneni
+> Back end change if it’s not working I will debug and fix it
+
+## 17:26 - Timon Wan
+> <attachment id="1770744365018"></attachment>
+<p>has it been deployed?</p>
+
+## 17:26 - Timon Wan
+> <p>i.e. these are (I think) correct, but just low confidence on the OffRiskDate&nbsp;</p><attachment id="2525162e-517b-43a8-8ed6-da0137321ed6"></attachment>
+
+## 17:26 - Ajay Gannamaneni
+> <div>
+<attachment id="1770744365018"></attachment>
+Zero</div>
+
+## 17:26 - Ajay Gannamaneni
+> <div>
+<attachment id="1770744247423"></attachment>
+Updated Tim <br>
+This is also dynamic from SQL itself <br>
+Right now it may be 5%<br>
+I will Change it to leer</div>
+

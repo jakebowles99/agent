@@ -216,3 +216,19 @@
 ## 15:56 - Fraser Hamilton
 > I've analysed this and there's possibility to move / consolidate 40 of the 64 servers to SaaS / PaaS / IaaS or decommission entirely, such as moving to Entra / Azure Active Directory native
 
+
+
+# Teams Chat — Jensten Proposal
+
+## 17:05 - Matt Davies
+> <p>I believe we are covered as much as we can be</p>
+
+## 17:05 - Matt Davies
+> <p>thank you&nbsp;</p>
+
+## 17:05 - Matt Davies
+> <p>Jake is going to review this evening&nbsp;</p>
+
+## 17:03 - Sophia Fricker
+> <p>I've updated jakes slides, I haven't included the cost to deliver the phases FYI - do I need to? I need to go ad collect the children but I can continue work once they have gone down. Just let me know <emoji id="smile" alt="🙂" title="Smile"></emoji></p>
+

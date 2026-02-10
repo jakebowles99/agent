@@ -52,3 +52,37 @@
 ## 16:56 - Matt Davies
 > honestly you think kristy is a dragon....
 
+
+
+# Teams Chat — Synapx UK Directors
+
+## 17:26 - Charlie Phipps-Bennett
+> <p>I agree</p>
+
+## 17:23 - Matt Davies
+> <p>we keep saying we dont want to treat them any differently but we really are pushing it with this</p>
+
+## 17:22 - Matt Davies
+> <p>we need to make a call tonight, else we will lose the project anyway</p>
+
+## 17:22 - Matt Davies
+> <p>has to</p>
+
+## 17:21 - Charlie Phipps-Bennett
+> <p>But can start with Pro if you like</p>
+
+## 17:21 - Charlie Phipps-Bennett
+> <p>Compass</p>
+
+## 17:21 - Matt Davies
+> <p>about Pro ?</p>
+
+## 17:20 - Charlie Phipps-Bennett
+> <p>Yes but need to call Narayan at 9pm</p>
+
+## 17:16 - Matt Davies
+> <p>are you both around tonight ?</p>
+
+## 17:09 - Matt Davies
+> <p>we might genuinely lose the client -think we need a discussion between us tonight</p>
+
