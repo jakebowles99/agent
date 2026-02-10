@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 23:43:** Flagged leave not showing in forecast for Anand and Timon.
 - **2026-02-10 23:06:** Shared link to Contracts Requests channel in Teams.
 - **2026-02-10 13:51:** Mentioned Synapx | contracts created and folder move pending; referenced as person to add an additional PMO tag under Data and AI.
 - **2026-02-10 13:41:** Noted Fraser created 'synapx | contracts' and awaiting folder moves.

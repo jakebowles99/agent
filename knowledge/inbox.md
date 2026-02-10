@@ -1,3 +1,29 @@
+## 2026-02-10 23:30
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 21 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 0
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx UK Directors: decide whether to send Jensten SOWs tomorrow; ensure SOW does not read like Capex; create/obtain “Synapx as a Service” SOW template referencing the master template.
+- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~£200k & ~£500k vs £250k & £600k) and update team ASAP once feedback received.
+- [ ] Project Managers: ensure all users have Harvest Forecast access; follow up on request to delete any temporary stored password (1Password) after account access is restored.
+- [ ] Compass: respond to Compass questions on AI extraction/handwritten notes/duplicates; confirm phrasing that module is pre-trained and not self-learning; agree any training of real cases is out of scope.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/synapx-uk-directors.md
+- knowledge/teams/2026-02-10/lead-opportunity-requests.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+
+---
+
 ## 2026-02-10 23:15
 
 ### Changes This Window

@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 23:40:** Discussed client risk, Jensten deck/SOW timing, and Harvest Forecast access/issues.
 - **2026-02-10 23:22:** Discussed presentation readiness/ETA in directors chat; requested signature via Adobe Acrobat Sign; involved in document comment notification.
 - **2026-02-10 23:06:** Chatted about Compass/SOW deck readiness; asked Andrew Price for ETA; discussed Azure credit counting.
 - **2026-02-10 22:35:** Asked for a resend of a Forecast invite.

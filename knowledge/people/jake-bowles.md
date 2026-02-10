@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 23:41:** Discussed Jensten SOW/deck timing, Compass questions, and RFP pricing discussion.
 - **2026-02-10 23:22:** Led/mentioned across multiple threads (workshop lead, questionnaire review, Teams director chats); requested/received feedback and comments on documents.
 - **2026-02-10 23:06:** Discussed Jensten SOWs/deck readiness; Azure partner center qualifying spend; progressed account creation for Kenny on MW; requested Kenny account from Yaz.
 - **2026-02-10 22:49:** Asked about sending Jensten SOWs without a deck; commented about Sophia; asked about missing end-of-day update.

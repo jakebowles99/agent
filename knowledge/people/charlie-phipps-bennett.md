@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 23:41:** Discussed Compass liabilities and call with Narayan; lead/RFP numbers; resourcing priority LCP vs Accent; drafted response about Azure AI Foundry content understanding (not self-learning).
 - **2026-02-10 23:21:** Noted Jake Bowles will lead CDIAD workshop; shared delivery leadership agenda; arranged scheduling for quote breakdown; mentioned call about Compass.
 - **2026-02-10 23:05:** Discussed needing Narayan on Compass at 9; general chat with directors.
 - **2026-02-10 21:34:** Mentioned by James Grant regarding rescheduling from Thursday to Friday.

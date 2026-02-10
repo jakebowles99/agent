@@ -5,6 +5,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 23:42:** Mentioned as counterparty on Compass call regarding liabilities and project decision.
 - **2026-02-10 23:06:** Mentioned as needed on Compass at 9.
 - **2026-02-10 20:53:** Mentioned as the route/point of contact for sending updated APS terms.
 - **2026-02-10 19:39:** Referenced as recipient/route for sending updated APS and needed on Compass call at 9.
