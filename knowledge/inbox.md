@@ -1,3 +1,22 @@
+## 2026-02-10 15:30
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 2 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (0 created, 10 updated)
+- **Calendar:** 9 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Review Midwich Squad note: PowerApps SQL connector limitation in edit mode (uses `sp_describe_first_result_set`); consider workaround and implications for temp tables/dynamic SQL.
+
+### Files Updated
+- knowledge/teams/2026-02-10/midwich-squad.md
+
+---
+
 ## 2026-02-10 15:00
 
 ### Changes This Window

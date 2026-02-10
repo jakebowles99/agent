@@ -302,3 +302,22 @@
 > <p>&nbsp;</p>
 > <p>&nbsp;</p>
 > <p>Why table variable works but not temp table. Is a question which can be related to execution order.</p>
+
+# Teams Chat — Midwich Squad
+
+## 15:31 - Hemanth Kotha
+> View results in SQL Server - Power Apps | Microsoft Learn - This can be workaround for this limitation.
+
+## 15:27 - Hemanth Kotha
+> Based on the research + AI.
+> 
+> PowerApps + SQL
+> 
+> In dev/edit mode PA doesn't call the sproc via api's It calls "sp_describe_first_result_set" to just fetch the metadata here it fails - * Temp tables and dynamic sql is not yet executed
+> 
+> Play mode (runtime)
+> 
+> Now power apps actually runs the api call with the actual sproc to fetch the data and now it doesn't throw error because it's executing the sproc and it returns the temp table along with metadata + data.
+> 
+> Why table variable works but not temp table. Is a question which can be related to execution order.
+
