@@ -79,3 +79,43 @@
 
 ## 07:07 - Charlie Phipps-Bennett
 > Ok. Well you will need to check Vijays availability but unfortunately Kat is on LCP and this takes priority over Accent
+
+
+## 07:37 - Akshansh Sharma
+> <attachment id="1770707236953"></attachment>
+> <p>Agree LCP takes priority but I am close to wrapping the Accent project for which i need a Tester I can afford a day's delay can LCP release her a day prior <at id="0">Navsheen</at>?</p>
+
+# Teams Chat — Project Managers
+
+## 07:46 - Navsheen Koul
+> <attachment id="1770709038398"></attachment>
+> <p>Thursday mid day, not before that</p>
+
+## 07:37 - Akshansh Sharma
+> <attachment id="1770707236953"></attachment>
+> <p>Agree LCP takes priority but I am close to wrapping the Accent project for which i need a Tester I can afford a day's delay can LCP release her a day prior <at id="0">Navsheen</at>?</p>
+
+## 07:07 - Charlie Phipps-Bennett
+> Ok. Well you will need to check Vijays availability but unfortunately Kat is on LCP and this takes priority over Accent
+
+## 06:41 - Gaurav Rauthan
+> <p>where can I see the forecast if Tushara is not there today?</p>
+
+## 06:40 - Gaurav Rauthan
+> <p>I didn't know she wasn't scheduled. Akshansh and I both missed this.</p>
+
+## 06:38 - Charlie Phipps-Bennett
+> <div><at id="0">Gaurav Rauthan</at> why scheduling this late?</div>
+
+## 06:34 - Navsheen Koul
+> <p>we are quite delayed already on lcp&nbsp;</p>
+> <p>fyi <at id="0">Charlie</at></p>
+
+## 06:34 - Navsheen Koul
+> <p>one of 2 has to happen</p>
+
+## 06:34 - Navsheen Koul
+> <p>need to get me vijay back on lcp if you want kat / manage 1.5 days delay on accent</p>
+
+## 05:50 - Gaurav Rauthan
+> <p>Our devs should complete unit testing from their end today.</p>

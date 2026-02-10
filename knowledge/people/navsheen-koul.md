@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 07:55:** Discussed resourcing/scheduling for LCP and Accent testing/UAT; asked about Vijay/Katyayani availability; approved notes/velocity update.
 - **2026-02-10 07:26:** Coordinated client demo timing; asked about required days/hours for Vijay/Katyayani; discussed LCP testing delays and options impacting Accent; looped in Charlie.
 - **2026-02-10 06:54:** Discussed scheduling/forecasting for LCP testing, client demo timing, resource needs (Vijay/Katyani), and ADO sign-in issue needing Lanware IT help.
 - **2026-02-10 06:46:** Raised issue signing into LCP ADO after password change; noted Tarun suggested Lanware IT must re-enable sign-in. Discussed focusing ISV call on fraud prediction AI agent and marketplace metered billing; mentioned pitching to Jenston.
