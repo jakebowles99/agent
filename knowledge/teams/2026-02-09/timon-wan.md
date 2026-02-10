@@ -1,4 +1,10 @@
-# Teams DM — oneOnOne (chat_id: 19:3c25c96e-5c6f-4c30-9b4c-d1fa616abf4b_4260f6a8-1c91-4928-a81e-c8025b63f509@unq.gbl.spaces)
+# Teams Chat — Timon Wan
+
+## 13:43 - Jake Bowles
+> Need your help again please
+
+## 13:43 - Jake Bowles
+> Not quite as bad this time
 
 ## 18:39 - Jake Bowles
 > Ah fuck I never rung you
