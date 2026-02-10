@@ -59,3 +59,25 @@
 > https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/207
 > https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/206
 > https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/205
+
+
+## 08:18 - Vijay G
+> Hi @Yaz
+> 
+> End-to-end testing has been completed for the SO app in the QA environment. The issues identified during testing have been resolved and retested.
+> 
+> FYR:
+> https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/207
+> https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/206
+> https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/205
+
+## 08:26 - Yaz Qaraqesh
+> Well done V
+
+## 08:29 - Yaz Qaraqesh
+> Well done Vijay - good work. Happy for you to work with Gaurav today as you are desperately needed on another project
+
+# Teams Chat — Midwich Squad
+
+## 08:48 - Timon Wan
+> Thanks, issue is that I don't think he has access to teh env vars?

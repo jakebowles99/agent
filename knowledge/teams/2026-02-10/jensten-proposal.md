@@ -42,3 +42,19 @@
 
 ## 15:17 - Kim Totten
 > <p>She is a superstar 😉 </p>
+
+# Teams Chat — Jensten Proposal
+
+## 08:53 - Jake Bowles
+> Just ourselves. I put some work into the data one yesterday evening but currently have a free afternoon so can prioritise getting this in good shape then.
+> 
+> I don't see any reason we cant get this done today.
+> 
+> @Sophia Fricker  can you pls start to add the Synapx as a Service pages in?
+
+## 08:54 - Jake Bowles
+> From pro:
+> 
+> Senior technician (full understanding of end to end) £850 a day
+> Mid Tier : £450 a day – can process map and advise from above
+> Junior (good at error handling in BPO - £270 a day

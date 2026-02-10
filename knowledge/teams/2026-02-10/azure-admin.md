@@ -563,3 +563,8 @@ Billing access is controlled differently — the Account Administrator has direc
 
 ## 00:18 - Fraser Hamilton
 > Could try, maybe Kim or TD Synnex knows someone, not sure we have a Microsoft account manager though
+
+# Teams Chat — Azure Admin
+
+## 08:47 - Timon Wan
+> Is it possible to remove my card/billing account?

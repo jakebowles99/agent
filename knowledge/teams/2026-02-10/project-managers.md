@@ -124,3 +124,11 @@
 ## 08:28 - Yaz Qaraqesh
 > (attachment)
 > You can utilise Vijay ASAP as he finished what I needed from him sooner than expected
+
+
+## 08:28 - Yaz Qaraqesh
+> You can utilise Vijay ASAP as he finished what I needed from him sooner than expected
+
+## 08:31 - Charlie Phipps-Bennett
+> <attachment id="1770712129019"></attachment>
+> <at id="0">Akshansh Sharma</at> <at id="1">Gaurav Rauthan</at>

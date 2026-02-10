@@ -43,3 +43,7 @@
 
 ## 11:41 - Navsheen Koul
 > <p>select an email pdf which pulls most data first and get that perfected</p>
+
+
+## 08:38 - Jake Bowles
+> Yeah they make senss
