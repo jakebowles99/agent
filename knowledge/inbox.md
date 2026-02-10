@@ -1,26 +1,19 @@
-## 2026-02-10 05:30
+## 2026-02-10 05:15
 
 ### Changes This Window
 - **Emails:** 0 new
-- **Teams Chats:** 6 messages across 4 conversations
+- **Teams Chats:** 0 messages across 0 conversations
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
-- **People Profiles:** 8 processed (5 created, 3 updated)
+- **People Profiles:** 0 processed
 - **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Respond to Navsheen: confirm whether Thursday client demo can be pushed by 1.5–2 days.
-- [ ] Resource request: arrange Katyani/Katyayani on Accent starting tomorrow; confirm clashes with other projects.
-- [ ] Update ADO this morning: spend ~1 hour adding tasks under an appropriate feature.
-- [ ] Reply to Matt (Jensten Proposal): confirm dependencies/owners and add commercial proposition + transition into “Synapx as a Service”; unblock deck progress.
-- [ ] Respond in LCP Doc Extraction standup: provide status update (“how are we looking?”).
+- [ ] None
 
 ### Files Updated
-- knowledge/teams/2026-02-10/project-managers.md
-- knowledge/teams/2026-02-10/product-catchup.md
-- knowledge/teams/2026-02-10/jensten-proposal.md
-- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- None
 
 ---
 
@@ -33,7 +26,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 10 processed (2 created, 8 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -53,7 +46,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 4 processed (0 created, 4 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -73,7 +66,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0 processed
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -93,7 +86,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0 processed
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -113,7 +106,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 5 processed (1 created, 4 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -133,7 +126,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 11 processed (2 created, 9 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -153,7 +146,7 @@
 - **Teams Channels:** 0 messages in 72 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 4 processed (0 created, 4 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -173,7 +166,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 4 processed (0 created, 4 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -193,7 +186,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0 processed
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -213,7 +206,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 9 processed (9 created, 0 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -233,7 +226,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0 processed
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -253,7 +246,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0 processed
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -273,7 +266,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0 processed
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -293,7 +286,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 5 processed (0 created, 5 updated)
-- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -313,7 +306,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 4 processed (0 created, 4 updated)
-- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -333,7 +326,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 4 processed
-- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -353,7 +346,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 5 processed (2 created, 3 updated)
-- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:458:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:455:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -417,7 +410,7 @@
 - [ ] Decide/confirm whether Fraser should move VM OS to native Ubuntu (Canonical) to use Azure credits; clarify billing scope/marketplace OS charges for NAT gateway VM.
 - [ ] Reply to James Grant: confirm Wednesday works and propose times (he is at a conference all day tomorrow).
 - [ ] Align with Charlie on project scope/budget: if Phase 0 is 20k leaving 20k, decide whether to do Liv-ex only vs adding Bordeaux City Bond API; push for 50k budget if needed.
-- [ ] Respond to Charlie re: weekend (Feb 2142) internal Customer Service install: provide Azure subscription + assign Power Platform/Dynamics admin roles for Azure B2C setup.
+- [ ] Respond to Charlie re: weekend (Feb 212) internal Customer Service install: provide Azure subscription + assign Power Platform/Dynamics admin roles for Azure B2C setup.
 - [ ] Confirm attendee registration details: provide requested email address to Kim for event registration; confirm if Graeme needs a +1 and whether Joe/Phil registered successfully.
 - [ ] Internal alignment before proposing SalesIQ to Compass; await internal demo next week and Narayan response before signing Adobe Pro.
 - [ ] Ensure meet invite is sent to Nandan (if still outstanding).
@@ -445,9 +438,9 @@
 - [ ] Reply to James Grant to confirm Wednesday works and propose times.
 
 ### Files Updated
-- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md  archived 1 message (21:13 UTC) from James Grant.
-- people/james-grant.md  created person record; set last contact and added interaction summary.
-- inbox.md  prepended 2026-02-09 21:45 entry.
+- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md 0 archived 1 message (21:13 UTC) from James Grant.
+- people/james-grant.md 0 created person record; set last contact and added interaction summary.
+- inbox.md 0 prepended 2026-02-09 21:45 entry.
 
 ---
 
@@ -462,17 +455,17 @@
 - **Time Tracking:** No running Harvest timer
 
 ### Action Items Detected
-- [ ] Respond to Charlie with decision/next steps on proceeding with weekend internal Customer Service install (Feb 2142).
+- [ ] Respond to Charlie with decision/next steps on proceeding with weekend internal Customer Service install (Feb 212).
 - [ ] Confirm who can provide: Azure subscription + Azure B2C prerequisites.
 - [ ] Identify/assign Power Platform Admin + Dynamics Admin for required access/roles.
 - [ ] Nominate internal owner for portal customisations (branding/logos/etc) post-handover.
 
 ### Files Updated
-- teams/2026-02-09/synapx-directors.md  archived 1 message (20:59 UTC) about internal Customer Service install prerequisites and weekend plan.
-- people/narayan.md  created new person record referenced in Teams message.
-- people/charlie-phipps-bennett.md  updated last contact + added interaction summary.
-- projects/synapx-directors-zoho-salesiq-whatsapp.md  appended update + action items re: internal Customer Service install.
-- inbox.md  prepended 2026-02-09 21:00 entry.
+- teams/2026-02-09/synapx-directors.md 0 archived 1 message (20:59 UTC) about internal Customer Service install prerequisites and weekend plan.
+- people/narayan.md 0 created new person record referenced in Teams message.
+- people/charlie-phipps-bennett.md 0 updated last contact + added interaction summary.
+- projects/synapx-directors-zoho-salesiq-whatsapp.md 0 appended update + action items re: internal Customer Service install.
+- inbox.md 0 prepended 2026-02-09 21:00 entry.
 
 ---
 
@@ -491,7 +484,7 @@
 - [ ] Confirm owners/status for pending Power Platform Timesheet Solution items (Relief Timesheet Approvers pending records insert; Workday pattern insert; line manager approval adjustment/cascade sprocs).
 
 ### Files Updated
-- inbox.md  prepended 2026-02-09 20:45 entry (no new activity in window; logged outstanding actions).
+- inbox.md 0 prepended 2026-02-09 20:45 entry (no new activity in window; logged outstanding actions).
 
 ---
 
@@ -507,17 +500,17 @@
 
 ### Action Items Detected
 - [ ] Schedule end-of-week call with Andrew Catt (Vinco Wines): collect James/Grant availability and propose time slots.
-- [ ] Verify whether todays calendar meetings were attended and ensure Harvest time is allocated appropriately (Jensten/LCP/Euroleague/Synapx).
+- [ ] Verify whether todays calendar meetings were attended and ensure Harvest time is allocated appropriately (Jensten/LCP/Euroleague/Synapx).
 
 ### Files Updated
-- emails/2026-02-09.md  archived 1 email from Andrew Catt (20:14 UTC).
-- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md  archived 2 messages (20:2320:24 UTC).
-- people/jake-bowles.md  created/updated last contact from Teams.
-- people/charlie-phipps-bennett.md  created/updated last contact from Teams.
-- people/james-unknown.md  created placeholder person record (identity TBD).
-- people/grant-unknown.md  created placeholder person record (identity TBD).
-- projects/vinco-wines-quote-commercial.md  created project record for Vinco Wines quote/commercial thread.
-- inbox.md  prepended 2026-02-09 20:30 entry.
+- emails/2026-02-09.md 0 archived 1 email from Andrew Catt (20:14 UTC).
+- teams/2026-02-09/chat-19_b8f772f76c9b43c29a26c5f0695b1055.md 0 archived 2 messages (20:2320:24 UTC).
+- people/jake-bowles.md 0 created/updated last contact from Teams.
+- people/charlie-phipps-bennett.md 0 created/updated last contact from Teams.
+- people/james-unknown.md 0 created placeholder person record (identity TBD).
+- people/grant-unknown.md 0 created placeholder person record (identity TBD).
+- projects/vinco-wines-quote-commercial.md 0 created project record for Vinco Wines quote/commercial thread.
+- inbox.md 0 prepended 2026-02-09 20:30 entry.
 
 ---
 

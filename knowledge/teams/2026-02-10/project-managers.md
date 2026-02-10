@@ -13,3 +13,15 @@
 > <p>&nbsp;</p>
 > <p>one for tomm for your visibility, we've started testing on LCP yesterday so forecasting Katyayani till Thursday mid day. Please let me know if there's a clash with other projects..</p>
 
+
+## 05:36 - Navsheen Koul
+> <p>how many days/ hours do you need of vijay / katyayani?</p>
+
+## 05:35 - Navsheen Koul
+> <attachment id="1770701595026"></attachment>
+> <p>last i checked he was on midwich</p>
+
+## 05:33 - Gaurav Rauthan
+> <p>If Vijay is available then we can get him to test.</p>
+> <p>Akshansh can tell better</p>
+
