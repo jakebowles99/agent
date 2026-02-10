@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:14:** Discussed email/doc extraction behavior for Class A/B notes and mandatory fields; noted analyzer expectations.
 - **2026-02-10 12:05:** Asked whether mandatory fields are expected to be present in email (Standup - LCP Doc Extraction chat).
 - **2026-02-10 11:58:** Asked Ajay Gannamaneni, Navsheen Koul about handling emails containing two classes (A and B) in Lion Re DAC email.
 - **2026-02-10 11:11:** Asked about Outlook email to PDF conversion and where PDFs are saved; leave mentioned for March.

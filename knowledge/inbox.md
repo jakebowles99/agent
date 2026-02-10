@@ -1,3 +1,36 @@
+## 2026-02-10 11:15
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 18 messages across 8 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 21 processed (6 created, 15 updated)
+- **Calendar:** 10 events on calendar; current/next: FW: Euroleague BB - RFP response checkpoint 11:00–11:15 UTC; next: Delivery Weekly Standup 12:30–12:55 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx Directors: investigate/fix Power BI report not working (Tayo escalated to Lanware); don’t commit timeline to client; share details in LCP ID Teams.
+- [ ] Harvest Projects: open Rahul’s 26 Jan timesheet / grant access to edit; correct mistakenly approved 8 hours on national holiday.
+- [ ] Project Managers: delete the suggested Harvest password stored in 1Password once access confirmed.
+- [ ] Matt Davies: respond to “2 mins?” request.
+- [ ] Standup - LCP Doc Extraction: confirm whether all mandatory fields are expected to be present in Email.
+- [ ] Tayo Eletu-Odibo: provide update (gentle nudge).
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/17c-user-accounts.md
+- knowledge/teams/2026-02-10/harvest-projects.md
+- knowledge/teams/2026-02-10/synapx-leadership-team.md
+- knowledge/teams/2026-02-10/andrew-hutchison.md
+- knowledge/teams/2026-02-10/matt-davies.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/tayo-eletu-odibo.md
+
+---
+
 ## 2026-02-10 11:30
 
 ### Changes This Window

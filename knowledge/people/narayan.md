@@ -5,6 +5,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:06:** Mentioned in directors chat as external party with compliance/contract review needs.
 - **2026-02-10 11:57:** Referenced as an external whose compliance/contract changes require review with lawyer and Charlotte.
 - **2026-02-10 11:39:** Discussed as external party for Customer Service install and Pro contract; awaiting lawyer review and response on terms.
 - **2026-02-10 08:23:** Discussed Customer Service install and Azure B2C setup; lawyer reviewing terms; needs to confirm acceptance of Synapx terms before contract signing; cost/availability discussed.

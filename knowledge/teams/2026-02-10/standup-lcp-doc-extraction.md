@@ -98,3 +98,55 @@
 >
 > However, when the email body + PDF are provided together, extraction completes, but the values are picked only from the PDF, not from the email body.
 > [image]
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 12:14 - Navsheen Koul
+> yes, Jake can add you
+
+## 12:08 - Timon Wan
+> Navsheen Koul Do we have a LCP Teams?
+> 
+> Would be nice to have all the test documents and such in a folder somewhere
+
+## 12:03 - Navsheen Koul
+> Ajay, Timon if you have questions for tayo please lmk
+
+## 12:01 - Navsheen Koul
+> Issuance Date - is it 'subject to completion'? page 2
+> 
+> Maturity Date - should be pulling 'redemption date' but not working. page 27.
+> 
+> Scheduled Maturity Date - should be 'scheduled redemption date' or 'final extended redemption date'. page 27
+> 
+> On Risk Date - cant find in pdf
+> 
+> Off Risk Date - cant find in pdf
+> 
+> Total Issue Size - laptop is slow, cant find
+> 
+> Amount Outstanding - cant find; but can find the term original principal amount
+> 
+> Per Occurrence Limit - retrieves 'initial exhaustion point'; confirm whether this is right ; page 48
+> 
+> Per Occurrence Attachment - tested and worked fine
+> 
+> the above is what i found when testing on 1886 pdf
+
+## 11:59 - Katyayani Lal
+> It Took a little longer, however now its extracted. Count is less than 18.
+
+## 11:57 - Timon Wan
+> Thanks
+
+## 11:57 - Katyayani Lal
+> Above fields are missing
+
+## 11:56 - Navsheen Koul
+> waiting for his response
+
+## 11:53 - Timon Wan
+> Which fields are still missing please
+
+## 11:53 - Katyayani Lal
+> Meanwhile, Ajay same issue when used NEW 144A email body with pdf
