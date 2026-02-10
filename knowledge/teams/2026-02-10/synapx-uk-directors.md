@@ -194,3 +194,35 @@
 
 ## 22:22 - Jake Bowles
 > Honestly does Sophia read a word of what she writes
+
+# Teams Chat — Synapx UK Directors
+
+## 18:45 - Charlie Phipps-Bennett
+> I need Narayan on Compass at 9
+
+## 18:45 - Matt Davies
+> have him, Pro in hand
+
+## 18:47 - Charlie Phipps-Bennett
+> I hope I get to say the same about Compass after tonight 🤣
+
+## 18:48 - Matt Davies
+> good luck
+
+## 22:22 - Jake Bowles
+> Honestly does Sophia read a word of what she writes
+
+## 22:39 - Jake Bowles
+> I'm happy with my Jensten SOWs. How far off do we reckon the deck is or shall I just send them w/o deck?
+
+## 22:50 - Matt Davies
+> Andrew Price are you happy
+
+## 22:55 - Matt Davies
+> I dont think the presentation is ready tbh Jake
+
+## 22:56 - Jake Bowles
+> Yeah I meant more are we thinking tomorrow and shall I hold on to mine or just send to stick to what I agreed with them
+
+## 22:58 - Matt Davies
+> Andrew Price ETA?

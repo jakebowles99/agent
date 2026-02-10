@@ -1,3 +1,30 @@
+## 2026-02-10 23:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 26 messages across 5 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (0 created, 10 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx UK Directors: reply with ETA/status for the deck and whether Jake should send Jensten SOWs without the deck.
+- [ ] Yaz Qaraqesh: request/create an account for Kenny.
+- [ ] Kenny Balogun: confirm account creation progress on MW and coordinate help for certs dashboards.
+- [ ] Contract Requests: review the Requests channel link posted by Charlotte Price.
+- [ ] Azure Admin: pull a report/confirm whether GPT/3rd-party model spend counts toward ACR and which category it appears under (not Foundry).
+
+### Files Updated
+- knowledge/teams/2026-02-10/synapx-uk-directors.md
+- knowledge/teams/2026-02-10/azure-admin.md
+- knowledge/teams/2026-02-10/contract-requests-archive.md
+- knowledge/teams/2026-02-10/kenny-balogun.md
+- knowledge/teams/2026-02-10/yaz-qaraqesh.md
+
+---
+
 ## 2026-02-10 22:45
 
 ### Changes This Window

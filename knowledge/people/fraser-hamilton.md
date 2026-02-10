@@ -9,6 +9,7 @@
 - Teams DM available
 
 ## Recent interactions
+- **2026-02-10 23:06:** Discussed customer example specifics and whether spend counts as qualifying in Partner Center; noted credit likely not under Foundry category.
 - **2026-02-10 22:35:** Commented on reporting/qualifying spend and Azure marketplace vs Foundry charges.
 - **2026-02-10 22:24:** Discussed reporting/charge classification (3rd party/Azure marketplace) and qualifying spend in partner center.
 - **2026-02-10 22:02:** Asked whether spend should be counted as qualifying spend in partner center; clarified customer example vs Foundry charges.

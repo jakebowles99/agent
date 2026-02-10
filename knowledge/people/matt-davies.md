@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 23:06:** Chatted about Compass/SOW deck readiness; asked Andrew Price for ETA; discussed Azure credit counting.
 - **2026-02-10 22:35:** Asked for a resend of a Forecast invite.
 - **2026-02-10 22:24:** Asked to resend a recent Forecast invite.
 - **2026-02-10 21:51:** Posted message tagging Akshansh Sharma regarding forecast (FYI).

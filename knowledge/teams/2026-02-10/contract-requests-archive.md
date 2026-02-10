@@ -46,3 +46,8 @@
 
 ## 13:01 - Matt Davies
 > will kill this chat soon
+
+# Teams Chat — Contract Requests - Archive 
+
+## 22:48 - Charlotte Price
+> Requests | Synapx | Contracts | Microsoft Teams — https://teams.microsoft.com/l/channel/19%3A6477d0db79f1475db8f06258fa9db015%40thread.tacv2/Requests?groupId=7e3ea0c9-02b6-4a58-87ff-47eecd5a2fa0&tenantId=d5d1d1c4-9781-4d58-996e-546512bf6dd1&ngc=true
