@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 03:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (1 created, 4 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude v",
-        "timestamp": "2026-02-10T04:07:29.365111+00:00"
+        "result_preview": "## 2026-02-10 04:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 processed\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n\n## 2026-02-10 03:45\n\n### Changes This Window\n- **Emails:** 0 new",
+        "timestamp": "2026-02-10T04:33:44.872426+00:00"
       },
       {
         "status": "success",
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T04:07:29.365142+00:00",
+    "last_updated": "2026-02-10T04:33:44.872443+00:00",
     "version": "1.0"
   }
 }
