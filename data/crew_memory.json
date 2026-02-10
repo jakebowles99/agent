@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 10:00\n\n### Changes This Window\n- **Emails:** 1 new (subjects: unknown)\n- **Teams Chats:** 32 messages across 8 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:00\u201311:00 UTC; Product Catchup 10:30\u201310:55 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Confirm/notify once the projec",
-        "timestamp": "2026-02-10T10:59:54.463716+00:00"
+        "result_preview": "## 2026-02-10 10:15\n\n### Changes This Window\n- **Emails:** 4 new\n- **Teams Chats:** 18 messages across 7 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:00\u201311:00 UTC; Product Catchup 10:30\u201310:55 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review the 4 new emails and action any requests.\n\n",
+        "timestamp": "2026-02-10T11:05:03.532528+00:00"
       },
       {
         "status": "error",
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T10:59:54.463726+00:00",
+    "last_updated": "2026-02-10T11:05:03.532546+00:00",
     "version": "1.0"
   }
 }

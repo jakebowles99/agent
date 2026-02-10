@@ -32,7 +32,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:00–11:00 UTC; Product Catchup 10:30–10:55 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:008:00 UTC; Product Catchup 10:308:55 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
