@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:57:** Discussed LCP doc extraction; SQL data model and handling non-fixed dates; focusing on NEW CAT BOND email.
 - **2026-02-10 12:34:** Asked about LCP Teams/channel and which extraction fields are missing; acknowledged updates.
 - **2026-02-10 12:14:** Discussed email/doc extraction behavior for Class A/B notes and mandatory fields; noted analyzer expectations.
 - **2026-02-10 12:05:** Asked whether mandatory fields are expected to be present in email (Standup - LCP Doc Extraction chat).

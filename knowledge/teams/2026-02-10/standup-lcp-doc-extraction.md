@@ -150,3 +150,23 @@
 
 ## 11:53 - Katyayani Lal
 > Meanwhile, Ajay same issue when used NEW 144A email body with pdf
+
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 12:42 - Ajay Gannamaneni
+> <p>App side is dynamic</p>
+
+## 12:41 - Ajay Gannamaneni
+> <p>10-15mins to insert data</p>
+
+## 12:41 - Ajay Gannamaneni
+> <p>not a big change</p>
+
+## 12:41 - Timon Wan
+> <p>Thanks.</p>
+> <p>Regarding the App, how hard is it to add another option to select Analyzer? Quick change?</p>
+
+## 12:40 - Ajay Gannamaneni
+> <p>for now i will change all fields to string</p>
+

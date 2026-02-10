@@ -9,6 +9,7 @@
 - **Email**: ajay.gannamaneni@synapx.com
 
 ## Recent interactions
+- **2026-02-10 12:59:** Discussed using agents in AIFoundry; normalizing extracted values via fuzzy matching; date fields configured as dates.
 - **2026-02-10 12:15:** Acknowledged deployment and said he will investigate long extraction times/incorrect value sourcing; noted issue to fix later.
 - **2026-02-10 11:58:** Tagged by Timon Wan regarding handling two classes in Lion Re DAC email.
 - **2026-02-10 11:11:** Explained doc extraction plugin process and resent attachments.

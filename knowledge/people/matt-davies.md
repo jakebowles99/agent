@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 13:02:** Discussed proposal slide breakdown, Phase 0 architecture cost positioning (~£50k), and scope/organizational reporting considerations.
 - **2026-02-10 12:35:** Discussed proposal slide breakdown and Phase 0 architecture cost positioning; noted Dave speaking to Luke about scope.
 - **2026-02-10 12:19:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.
 - **2026-02-10 12:18:** Posted reminders about Harvest timesheets in February and adding notes.

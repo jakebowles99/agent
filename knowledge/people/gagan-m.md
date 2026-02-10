@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 13:00:** Discussed creating a project plan/Gantt chart; requested activity list, effort, dates, dependencies, risks; coordinating timelines and updates.
 - **2026-02-10 12:31:** Jake Bowles asked when they can have a project plan together for CAP.
 - **2026-02-10 10:46:** Requested project be created in Harvest.
 - **2026-02-10 10:39:** Sent cancellation notice for Seras Fabric Discovery Weekly Catchup.
