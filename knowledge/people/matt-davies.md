@@ -9,6 +9,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 13:25:** Posted about killing the chat soon and shared an attachment, asking Jake Bowles to use it.
+- **2026-02-10 13:20:** Commented on SOW budget timing and holding back requests until April; reacted to budget reallocations.
 - **2026-02-10 13:02:** Discussed proposal slide breakdown, Phase 0 architecture cost positioning (~£50k), and scope/organizational reporting considerations.
 - **2026-02-10 12:35:** Discussed proposal slide breakdown and Phase 0 architecture cost positioning; noted Dave speaking to Luke about scope.
 - **2026-02-10 12:19:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.

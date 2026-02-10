@@ -50,3 +50,28 @@
 ## 12:54 - Jake Bowles
 > When have you got 10 mins?
 
+
+# Teams Chat — Nandan Hegde
+
+## 13:00 - Nandan Hegde
+> calling you
+
+## 13:00 - Jake Bowles
+> Yeah pls
+
+## 13:00 - Nandan Hegde
+> do you want to connect now?
+>
+> I can ask Gagan to move the call
+
+## 12:59 - Jake Bowles
+> LCP, I just spoke with Tayo
+
+## 12:57 - Nandan Hegde
+> is anything urgent?
+
+## 12:57 - Nandan Hegde
+> in 30 mins
+
+## 12:54 - Jake Bowles
+> When have you got 10 mins?

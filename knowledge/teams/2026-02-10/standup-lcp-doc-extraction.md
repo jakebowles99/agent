@@ -170,3 +170,49 @@
 ## 12:40 - Ajay Gannamaneni
 > <p>for now i will change all fields to string</p>
 
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 13:14 - Timon Wan
+> Ajay Gannamaneni can you make a new dropdown option in the App for which Analyzer to use?
+>
+> I'm going to deploy a new version called 'catBondDocumentAnalyzerLatest'.
+>
+> This one will be constantly updated version
+
+## 12:42 - Ajay Gannamaneni
+> App side is dynamic
+
+## 12:41 - Ajay Gannamaneni
+> 10-15mins to insert data
+
+## 12:41 - Ajay Gannamaneni
+> not a big change
+
+## 12:41 - Timon Wan
+> Thanks.
+>
+> Regarding the App, how hard is it to add another option to select Analyzer? Quick change?
+
+## 12:40 - Ajay Gannamaneni
+> for now i will change all fields to string
+
+## 12:40 - Ajay Gannamaneni
+> [Attachment: 1770726776210]
+>
+> it stores as string
+
+## 12:32 - Timon Wan
+> Think it's a wider convo of how we go about it, but for time being, if the model returns back "July [•], 2029 (or if such day is not a Business Day, on the next succeeding Business Day)", does that get stored in the DB or breaks things since it was expected Date type but now is a String type
+
+## 12:31 - Ajay Gannamaneni
+> [Attachment: 1770726600438]
+>
+> i can use AI agent but result may not be accurate in this case since no date mentioned we can store it as first day of month
+
+## 12:30 - Timon Wan
+> [Attachment: 1770726507104]
+>
+> Values may look like so in the email:
+>
+> SCHEDULED REDEMPTION DATE: July [•], 2029 (or if such day is not a Business Day, on the next succeeding Business Day)

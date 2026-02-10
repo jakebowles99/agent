@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 13:25:** Asked where to put SOW requests and requested a decision; was tagged by Matt Davies.
+- **2026-02-10 13:19:** Discussed SOW/budget handling and estimates; acknowledged proposal attachments.
 - **2026-02-10 13:00:** Coordinated project planning/timelines and SOW; agreed meeting time with Tayo; handled Jensten proposal items; discussed slide breakdown and scope dependencies.
 - **2026-02-10 12:32:** Chatted about project plan for CAP; updates on Jensten proposal content and handling.
 - **2026-02-10 12:19:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.

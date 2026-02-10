@@ -21,3 +21,8 @@
 
 ## 12:15 - Tayo Eletu-Odibo
 > 12.30 work? i have about 10 minutes then
+
+# Teams Chat — Tayo Eletu-Odibo
+
+## 13:10 - Jake Bowles
+> On the SFTP side of things for the US Bank files. What are the access requirements? Is it a public endpoint with username/password or is it something more complex (e.g. certificate)?

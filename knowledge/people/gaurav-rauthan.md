@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 13:20:** Gave SOW003 status update; noted Tarun helped with estimations and emergency leave caused minor schedule slip.
 - **2026-02-10 12:04:** Discussed deployment/user access concerns and Harvest account/password reset steps with team.
 - **2026-02-10 11:40:** Coordinated testing/UAT and resourcing (Vijay/Katyayani); troubleshot Harvest Forecast access and scheduling updates with team.
 - **2026-02-10 11:09:** Discussed Harvest Forecast access, resource scheduling approvals, and 17Capital licensing/credentials.

@@ -1,3 +1,27 @@
+## 2026-02-10 12:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 20 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (1 created, 9 updated)
+- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx Directors: decide whether to swallow data discovery “Phase 0” cost now and recover in later Fabric project SOW; and whether to wait for ~40k SiteOps app change SOW estimate.
+- [ ] Synapx Directors: create/share data discovery doc + architecture diagram; set up a walkthrough call; follow up on open questions awaiting client reply; produce estimate (c. 3 days effort).
+- [ ] Delivery Weekly Standup: update project plans to include sick/planned leave to avoid schedule slips (SOW003 note).
+- [ ] Standup - LCP Doc Extraction: confirm effort/approach for adding another “Analyzer” selection option; implement quick change (all fields to string noted).
+
+### Files Updated
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/delivery-weekly-standup.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+
+---
+
 ## 2026-02-10 12:15
 
 ### Changes This Window
