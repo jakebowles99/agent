@@ -35,3 +35,17 @@
 
 ## 12:15 - Jake Bowles
 > When do you reckon you can have a project plan together for cap?
+
+# Teams Chat — Gagan M
+
+## 14:00 - Gagan M
+> Can you please add me on that project?
+
+## 13:59 - Jake Bowles
+> harvest exists already
+
+## 13:52 - Gagan M
+> I have received information from Nandan. I will share the Project Plan Tomorrow(High level)
+
+## 13:51 - Gagan M
+> Can you please add me on Data and AI presales for time being. until Harvest is setup. then we can transfer the hours.

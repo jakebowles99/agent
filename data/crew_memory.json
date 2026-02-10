@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 13:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 30 messages across 3 conversations\n- **Teams Channels:** 0 messages in 31 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (1 created, 9 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide/confirm approach for SiteOps app changes SOW estim",
-        "timestamp": "2026-02-10T13:58:46.921625+00:00"
+        "result_preview": "## 2026-02-10 13:30\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 19 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 16 processed (2 created, 14 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Respond to Tayo re US Bank files: confirm SFTP access requirements (public endpoint + use",
+        "timestamp": "2026-02-10T14:04:54.752239+00:00"
       },
       {
         "status": "success",
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T13:58:46.921639+00:00",
+    "last_updated": "2026-02-10T14:04:54.752251+00:00",
     "version": "1.0"
   }
 }

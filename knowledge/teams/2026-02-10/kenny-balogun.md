@@ -19,3 +19,11 @@
 
 ## 13:03 - Kenny Balogun
 > Hi Jake, how are you doing
+
+# Teams Chat — Kenny Balogun
+
+## 14:00 - Jake Bowles
+> okay, guessing you haven't got a MW account?
+
+## 13:53 - Kenny Balogun
+> Anything’s good
