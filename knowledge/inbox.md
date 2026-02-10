@@ -1,3 +1,23 @@
+## 2026-02-10 00:46
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 10 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 5 processed (2 created, 3 updated)
+- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Decide whether to continue paying for Claude vs using GPT/free alternatives; confirm if ongoing charges are acceptable and whether a Microsoft account manager/partner can advise.
+
+### Files Updated
+- knowledge/teams/2026-02-10/azure-admin.md
+
+---
+
+
 ## 2026-02-10 00:30
 
 ### Changes This Window
