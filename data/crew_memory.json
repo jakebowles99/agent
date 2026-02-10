@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-10 18:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 6 processed (0 created, 6 updated)\n- **Calendar:** No upcoming events (not in a meeting)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm whether APS/MSA terms are standard across Pro vs non-Pro; Matt to confirm with Maggie.\n- [ ] Synapx Directors: A",
+        "timestamp": "2026-02-10T18:26:06.097294+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 18:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 8 processed (1 created, 7 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm whether Synapx can deliver the fixed-price model-driven app in-house; check wit",
         "timestamp": "2026-02-10T18:13:45.222381+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-10 14:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 46 messages across 7 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 processed (3 created, 14 updated)\n- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Midwich Squad: Investigate 504 Gateway Timeout calling `Query.sp001PaPoGetSearchQ",
         "timestamp": "2026-02-10T14:48:19.431010+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-10 13:30\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 19 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 16 processed (2 created, 14 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Respond to Tayo re US Bank files: confirm SFTP access requirements (public endpoint + use",
-        "timestamp": "2026-02-10T14:04:54.752239+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 72,
+      "total_runs": 73,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T18:13:45.222395+00:00",
+    "last_updated": "2026-02-10T18:26:06.097308+00:00",
     "version": "1.0"
   }
 }

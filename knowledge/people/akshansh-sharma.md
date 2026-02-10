@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 18:22:** Asked whether APS is based on Pro MSA terms; mentioned checking with Ajay about model-driven.
 - **2026-02-10 18:09:** Discussed vendor commitment, fixed price model-driven app skill gap; considering onboarding external dev/architect; will check Ajay's skills.
 - **2026-02-10 17:07:** Stated a candidate won’t be joining; suggested removing name from list; commented on a frequently asked question.
 - **2026-02-10 16:50:** Commented that a candidate won’t be joining and Bhoomi can remove name from list.
