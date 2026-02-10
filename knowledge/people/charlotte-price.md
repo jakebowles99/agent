@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 13:51:** Mentioned Synapx | contracts created and folder move pending; referenced as person to add an additional PMO tag under Data and AI.
 - **2026-02-10 13:41:** Noted Fraser created 'synapx | contracts' and awaiting folder moves.
 - **2026-02-10 11:40:** Flagged leave not visible in forecast (Anand and Timon dates) and referenced contract change discussion with Narayan.
 - **2026-02-10 11:08:** Flagged leave visibility for Timon and Anand in Forecast.

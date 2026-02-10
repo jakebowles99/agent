@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 13:56:** Recipient on project update email about LCP Finance Document Extraction status and risks.
+- **2026-02-10 13:55:** Discussed SOW estimates for siteops app changes and remaining data discovery work.
 - **2026-02-10 13:20:** Discussed SOW estimates and siteops app changes; noted adding planned/sick leave to project plans.
 - **2026-02-10 12:02:** Discussed investigating Power BI report/service account access and user/account licensing guidance; recipient of Delivery Leadership Call invite.
 - **2026-02-10 11:56:** Tagged to take forward Shelly's email; offered to investigate report/service account access and advised not committing timelines to client.

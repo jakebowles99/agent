@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 13:54:** Discussed investor letters/SOW estimates and project scoping in directors chat.
+- **2026-02-10 13:49:** Coordinated with Tayo on SFTP access; responded in LCP doc extraction standup thread; discussed contract request channel decisions; coordinated call with Nandan; replied to Kenny re work stop; referenced ability to add to LCP Teams.
 - **2026-02-10 13:41:** Discussed SOW request location, SFTP access requirements for US Bank files, and coordinating quick call timing; acknowledged Kenny stopping work on 17c.
 - **2026-02-10 13:25:** Asked where to put SOW requests and requested a decision; was tagged by Matt Davies.
 - **2026-02-10 13:19:** Discussed SOW/budget handling and estimates; acknowledged proposal attachments.

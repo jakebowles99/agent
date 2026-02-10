@@ -22,6 +22,9 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 13:56:** Responded to question about whether PDFs are redacted; shared an attachment.
+- **2026-02-10 13:55:** Sent LCP Finance Document Extraction project update with budget/utilization, risks/issues, and ETA; noted onboarding Tim alongside Ajay and Katyayani; mentioned Gaurav and Charlie.
+- **2026-02-10 13:49:** Discussed AI extraction behavior and field population priorities; raised ADO sign-in issue after password reset; asked about mandatory fields in email and testing findings.
 - **2026-02-10 13:44:** Provided feedback on Doc Extraction Webpage Requirements; shared LCP Finance Document Extraction project update (budget/utilization and ETA).
 - **2026-02-10 13:27:** Commented on Doc Extraction Webpage Requirements; later provided LCP Finance Document Extraction project update and edits.
 - **2026-02-10 13:00:** Raised requirements for accepting multiple field entries; discussed need for LCP Teams folder; shared notes about fraud prediction rules discussion.

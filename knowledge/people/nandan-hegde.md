@@ -18,6 +18,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 13:56:** Advised on handling data discovery effort and charging work in later SOW; noted open questions pending client reply.
+- **2026-02-10 13:52:** Asked about adding PMO tag under Data and AI (via Charlotte); coordinated a call and suggested asking Gagan to move it.
 - **2026-02-10 13:42:** Coordinated a quick call with Jake; offered to ask Gagan to move another call.
 - **2026-02-10 13:26:** Coordinated a quick call; asked if anything urgent and suggested moving a call with Gagan.
 - **2026-02-10 13:20:** Suggested swallowing cost now and charging later; outlined remaining data discovery tasks and effort estimates.
