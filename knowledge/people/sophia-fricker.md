@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:27:** Asked Nandan if an existing blog can be reused; offered to write and have it fact-checked for FabCon/SQLCon blogging.
+- **2026-02-10 16:26:** Included on NoReadAI/doc extraction webpage requirements and review thread.
 - **2026-02-10 16:00:** Discussed blogging topics for FabCon+SQLCon Atlanta 2026; asked about reusing an existing blog and offered to draft.
 - **2026-02-10 15:47:** Recipient/mentioned regarding availability for catchup and kept informed on doc extraction webpage work.
 - **2026-02-10 15:32:** Offered support with the Jensten proposal deck.

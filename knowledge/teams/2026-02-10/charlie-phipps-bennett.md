@@ -116,3 +116,52 @@
 ## 15:10 - Jake Bowles
 > <ol>
 <li>Possible with little additional work from what I can tell</li><li>Can't confirm this, would like to think not?</li><li>It is not self learning but it can be trained but requires a shit load of effort from their side</li></ol>
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 16:15 - Jake Bowles
+> nah pre-trained means off the shelf
+
+## 16:10 - Charlie Phipps-Bennett
+> pre-trained
+
+## 16:10 - Charlie Phipps-Bennett
+> Does this req put us in the shit?
+
+## 16:10 - Charlie Phipps-Bennett
+> AI Extraction Module: Extracts key clinical and administrative data using pre-trained models and rule-based tagging (FR-011, USTR-017).
+
+
+
+## 16:24 - Jake Bowles
+> <p>Add a note that in our experience context engineering can help to a good level&nbsp;</p>
+
+## 16:21 - Charlie Phipps-Bennett
+> <p>Think I am going to say this</p>
+
+## 16:21 - Charlie Phipps-Bennett
+> <p><strong>AI Extraction Module  Learning &amp; Training</strong><br>
+> Per the SoW, the module uses:<br>
+> <i>pretrained models and rulebased tagging (FR011, USTR017)</i></p>
+> <p>We are using Azure AI Foundrys Content Understanding model.<br>
+> Important notes:</p>
+> <ul>
+> <li><span style="font-size:inherit">It is not selflearning.</span></li>
+> <li><span style="font-size:inherit">It canbe trained but only through a structured training process requiring a lot of effort from your side.</span></li>
+> <li><span style="font-size:inherit">If you wish to improve accuracy further, we can work with you to train it using real DST cases, but this effort would sit outside the current scope.</span></li>
+> </ul>
+
+## 16:15 - Charlie Phipps-Bennett
+> <p>Perfect, glad I worded it like that</p>
+
+## 16:15 - Jake Bowles
+> <p>nah pre-trained means off the shelf</p>
+
+## 16:10 - Charlie Phipps-Bennett
+> <p>pre-trained</p>
+
+## 16:10 - Charlie Phipps-Bennett
+> <p>Does this req put us in the shit?</p>
+
+## 16:10 - Charlie Phipps-Bennett
+> <p>AI Extraction Module: Extracts key clinical and administrative data using pre-trained models and rule-based tagging (FR-011, USTR-017).</p>

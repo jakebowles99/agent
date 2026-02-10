@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:31:** Recipient on K&S slipstream questionnaire email; active in Teams chats about requirements language and team discussions.
+- **2026-02-10 16:26:** CC'd on doc extraction webpage email; discussed pre-trained model wording and gave feedback in Teams chats.
 - **2026-02-10 16:10:** Shared SharePoint links to Jensten SOW docs and said he will lift and shift details into slides; asked for thoughts on updates.
 - **2026-02-10 16:00:** Mentioned as workshop lead; received document comment notification; involved in K&S slipstream questionnaire review and missing receipts request.
 - **2026-02-10 15:47:** CC'd on doc extraction webpage requirements thread between Synapx and Adstract.

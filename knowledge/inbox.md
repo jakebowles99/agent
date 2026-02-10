@@ -1,3 +1,27 @@
+## 2026-02-10 16:15
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 11 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 15 processed (6 created, 9 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Clarify to Charlie Phipps-Bennett whether “pre-trained” means off-the-shelf for the AI Extraction Module requirement; confirm risk/concern about the requirement.
+- [ ] Respond in Midwich Squad chat (Charlie: “Playing catchup what is happening”).
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-10/andrew-price.md
+- knowledge/teams/2026-02-10/midwich-squad.md
+- knowledge/teams/2026-02-10/sophia-fricker.md
+
+---
+
 ## 2026-02-10 16:00
 
 ### Changes This Window

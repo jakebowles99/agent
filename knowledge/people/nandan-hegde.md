@@ -18,6 +18,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 16:31:** Asked to assess K&S slipstream questionnaire and integration options ahead of Feb 25 visit.
+- **2026-02-10 16:28:** Discussed potential blog topics for FabCon/SQLCon and timeline/ownership.
 - **2026-02-10 15:59:** Included in custom import/auth discussion and blog topic planning; asked about blog deadline and author.
 - **2026-02-10 15:34:** Recipient on K&S slipstream questionnaire thread; asked to assess integration options before 25 Feb visit.
 - **2026-02-10 15:27:** Discussed intermittent DEV stored procedure/table variable issue; asked to confirm scope/RCA with Microsoft product/MVP side.

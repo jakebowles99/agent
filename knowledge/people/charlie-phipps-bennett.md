@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:31:** Included on K&S slipstream questionnaire thread; discussed AI extraction module wording in Teams.
 - **2026-02-10 16:00:** Coordinated CDIAD workshop lead; discussed RFP response numbers and breakdown in Lead/Opportunity Requests chat.
 - **2026-02-10 15:48:** Included as recipient for Euroleague final reviews meeting (licencing costs and response sheet validation).
 - **2026-02-10 15:33:** Recipient of 'Euroleague - final reviews' email about pre-submission reviews/validation.

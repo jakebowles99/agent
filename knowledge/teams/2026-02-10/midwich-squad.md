@@ -321,3 +321,9 @@
 > 
 > Why table variable works but not temp table. Is a question which can be related to execution order.
 
+
+# Teams Chat — Midwich Squad
+
+## 16:13 - Charlie Phipps-Bennett
+> Playing catchup what is happeneing
+

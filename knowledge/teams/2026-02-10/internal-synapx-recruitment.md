@@ -42,3 +42,62 @@
 ## 09:28 - Charlie Phipps-Bennett
 > <attachment id="1770707029028"></attachment>
 > just to be clear. I am looking for someone mid level. I want someone ideally Rahul mindset but slightly more experienced
+
+
+## 16:29 - Bhoomi Dasa
+> <attachment id="1770740777233"></attachment>
+> <p>&nbsp;</p>
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <p><strong>Sr no.</strong></p>
+> </td>
+> <td><strong>Name</strong></td>
+> <td><strong>Role</strong></td>
+> <td><strong>DOJ</strong></td>
+> <td><strong>Work Mode</strong></td>
+> <td><strong>Column1</strong></td>
+> </tr>
+> <tr>
+> <td>1</td>
+> <td>Rajendra Ongole</td>
+> <td>Data Architect</td>
+> <td>02/03/2026</td>
+> <td>WFO</td>
+> <td>Hyderabad</td>
+> </tr>
+> <tr>
+> <td>2</td>
+> <td>Mohamed Azarudeen Z</td>
+> <td>Data &amp; AI Senior Engineer</td>
+> <td>16/03/2026</td>
+> <td>WFO</td>
+> <td>Bangalore</td>
+> </tr>
+> <tr>
+> <td>3</td>
+> <td>Bharath Kumar</td>
+> <td>Data &amp; AI Senior Engineer</td>
+> <td>05/04/2026</td>
+> <td>WFO</td>
+> <td>Bangalore</td>
+> </tr>
+> <tr>
+> <td>4</td>
+> <td>Riya Ann Joseph</td>
+> <td>Project Manager</td>
+> <td>23/02/2026</td>
+> <td>WFO</td>
+> <td>Bangalore</td>
+> </tr>
+> </tbody>
+> </table>
+> <p>&nbsp;</p>
+
+## 16:26 - Andrew Price
+> <p><at id="0">Bhoomi</at>&nbsp;what is the status of the accepted offer candidates please? Joining dates and locations please</p>
+
+## 16:25 - Andrew Price
+> <attachment id="1770300881763"></attachment>
+> <p>Jake and I like. Please offer 30 lakhs fixed and a pay review in November</p>

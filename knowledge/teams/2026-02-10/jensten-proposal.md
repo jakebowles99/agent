@@ -178,3 +178,13 @@
 > 
 > https://synapxltd-my.sharepoint.com/:x:/g/personal/fraser_hamilton_synapx_com/IQDFpsrQqWmHSY1Sjssw-6QgAUnhNpitEz5GBIRGOEIK7HY?e=eVpBCl (Virtual Machines with purpose 2026.02.xlsx)
 
+
+
+## 16:28 - Andrew Price
+> <p>Estimate probably not feasible but what a migration could look like is - we have discussed and he is working on slide content</p>
+
+## 16:28 - Matt Davies
+> <p>effort/cost and duration is what I think needs to go into the deck</p>
+
+## 16:28 - Matt Davies
+> <p>Hi Fraser, thanks - sounds good. are you able to provide an estimate of effort to do this?&nbsp;</p>
