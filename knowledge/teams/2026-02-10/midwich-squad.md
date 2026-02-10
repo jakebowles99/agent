@@ -267,3 +267,18 @@
 <p>&nbsp; <span style="color:#B6424C">"responseType"</span>: <span style="color:#1E53A3">"text"</span></p>
 <p>}</p>
 <p>&nbsp;</p>
+
+
+## 15:07 - Hemanth Kotha
+> <attachment id="1770732633422"></attachment>
+> <p>Can  you try to re add the connection. I don't think it would be the case. Else the same would have issues across all upper env's</p>
+
+## 15:05 - Hemanth Kotha
+> <p>This query wouldn't even consume 2% since we are passing the filters</p>
+
+## 15:05 - Hemanth Kotha
+> <attachment id="1770732154213"></attachment>
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:438220475ac84c8e92ef0a36e2ae8b0a@thread.v2/messages/1770735924770/hostedContents/aWQ9eF8wLXN1ay1kNC1mNWU3ZDlmYmNhZmE2NzljMGM1MmEzYjVmYzY5ZmEyMyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC1mNWU3ZDlmYmNhZmE2NzljMGM1MmEzYjVmYzY5ZmEyMy92aWV3cy9pbWdv/$value" width="396.18055555555554" height="250" alt="image" itemid="0-suk-d4-f5e7d9fbcafa679c0c52a3b5fc69fa23"></p>
+> <p> </p>
+> <p>I don't see any issues for this and there is no DTU spike as well. Max utilised is 70%.</p>
+

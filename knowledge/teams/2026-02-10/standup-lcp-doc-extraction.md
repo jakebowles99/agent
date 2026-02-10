@@ -370,3 +370,42 @@
 ## 14:12 - Katyayani Lal
 > <p>I can see data only from one page of the PDF, so it looks like the extraction happened from just a single page.</p>
 <p><img alt="image" src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770732726686/hostedContents/aWQ9eF8wLXN1ay1kNC00NDM2NDg5ODU1YmM1MmYyMWM2OWI4NjEyMWZiNmRlMyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC00NDM2NDg5ODU1YmM1MmYyMWM2OWI4NjEyMWZiNmRlMy92aWV3cy9pbWdv/$value" itemid="0-suk-d4-4436489855bc52f21c69b86121fb6de3" width="800" height="238"></p>
+
+
+## 15:03 - Ajay Gannamaneni
+> <p>SELECT  [analysis_run_id]<br>
+      ,[analysis_run_source_type]<br>
+      ,[analysis_run_source_id]<br>
+      ,[analysis_run_document_version_id]<br>
+      ,[analysis_run_analyzer_id]<br>
+      ,[analysis_run_status]<br>
+      ,[analysis_run_payload]<br>
+      ,[analysis_run_is_chunked]<br>
+      ,[analysis_run_chunk_count]<br>
+      ,[analysis_run_payload_size_bytes]<br>
+      ,[analysis_run_error_message]<br>
+      ,[analysis_run_triggered_by]<br>
+      ,[analysis_run_started_at]<br>
+      ,[analysis_run_completed_at]<br>
+      ,[analysis_run_created_at]<br>
+      ,[analysis_run_modified_at]<br>
+  FROM [dbo].[analysis_runs]</p>
+> <p> </p>
+
+## 15:02 - Ajay Gannamaneni
+> <p>you can use MFA</p>
+
+## 15:02 - Ajay Gannamaneni
+> <p>doc-extract.database.windows.net</p>
+
+## 14:57 - Timon Wan
+> <attachment id="1770735223499"></attachment>
+> <p>where is analysis_runs ?</p>
+
+## 14:53 - Ajay Gannamaneni
+> <p>however it is not populating for few requests</p>
+
+## 14:53 - Ajay Gannamaneni
+> <attachment id="1770734470689"></attachment>
+> <p>as of now yes check analysis_runs</p>
+

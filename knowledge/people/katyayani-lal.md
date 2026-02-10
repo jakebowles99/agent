@@ -9,6 +9,7 @@
 - **Email**: katyayani.lal@synapx.com
 
 ## Recent interactions
+- **2026-02-10 15:31:** Shared testing results for email+PDF extraction (up to 18 fields) and noted mandatory fields/UI issues.
 - **2026-02-10 15:05:** Shared testing results for email+PDF extraction; reported UI issues and page-limited extraction.
 - **2026-02-10 14:43:** Tested V3 extraction; reported only one PDF page extracted and listed extracted fields.
 - **2026-02-10 14:42:** Reported doc extraction testing results (V3, PDF page limitation, field counts) and logged UI issues in sheet.

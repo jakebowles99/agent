@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 15:33:** Recipient of 'Euroleague - final reviews' email about licensing cost and response sheet validation.
+- **2026-02-10 15:32:** Coordinated Kenny resourcing for Midwich US; discussed being unavailable and timing for responses; mentioned needing to finish Jensten.
 - **2026-02-10 15:05:** Chatted about response timing and internal availability (Kenny) plus status updates.
 - **2026-02-10 14:43:** Discussed resourcing Kenny onto Midwich/Azure/Foundry work; managed Harvest project access; coordinated RFP/Compass questions with Charlie.
 - **2026-02-10 14:41:** Replied to Andrew Price re: K&S slipstream questionnaire; acknowledged reading and negative assessment.

@@ -21,6 +21,7 @@
 - Technical estimation
 
 ## Recent interactions
+- **2026-02-10 15:33:** Sent 'Euroleague - final reviews' invite/info for pre-submission reviews of licensing costs and validating response sheets.
 - **2026-02-10 14:39:** Coordinated moving 11am checkpoint to 2pm; quick check-in.
 - **2026-02-10 13:45:** Organized Euroleague BB RFP response checkpoint; requested review of near-final response.
 - **2026-02-10 13:28:** Scheduled Euroleague BB RFP response checkpoint meeting; wanted to review final/near-final response.

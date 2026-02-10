@@ -111,3 +111,8 @@
 
 ## 14:00 - Jake Bowles
 > <p>i do now</p>
+
+
+## 15:10 - Jake Bowles
+> <ol>
+<li>Possible with little additional work from what I can tell</li><li>Can't confirm this, would like to think not?</li><li>It is not self learning but it can be trained but requires a shit load of effort from their side</li></ol>

@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 15:31:** Discussed project approach/certs; asked Akshansh for thoughts; asked to review lead weighting with Anand.
 - **2026-02-10 15:06:** Commented on solution looking off-the-shelf; planning cert work; general discussion.
 - **2026-02-10 14:43:** Discussed client payment/budget overruns and issues with prior app delivery.
 - **2026-02-10 14:41:** Re: K&S slipstream questionnaire—asked Jake/Nandan to assess integration options ahead of 25 Feb visit; suggested involving Andrew Wingate for Navision knowledge.

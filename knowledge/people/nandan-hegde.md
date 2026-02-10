@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 15:27:** Discussed intermittent DEV stored procedure/table variable issue; asked to confirm scope/RCA with Microsoft product/MVP side.
 - **2026-02-10 15:05:** Asked for environment details; provided LCP SOW scope and effort estimates for data sources and GraphQL.
 - **2026-02-10 14:42:** Discussed stored procedure environment question and project timeline inputs.
 - **2026-02-10 14:42:** Shared effort estimates and draft LCP SOW scope for NAV reconciliation automation (LemonEdge production) including sources, Fabric env setup, transformations, and GraphQL enablement.
