@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:09:** Asked whether PDFs used are templates with placeholder values (e.g., AmountOutstanding).
 - **2026-02-10 15:30:** Asked about where analysis_runs lives and whether raw responses are stored for doc extraction.
 - **2026-02-10 15:02:** Asked about storing raw response for doc extraction.
 - **2026-02-10 14:43:** Requested testing with V3 for new CAT bond; discussed PDF redactions and extraction validation.

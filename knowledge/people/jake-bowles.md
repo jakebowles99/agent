@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:10:** Shared SharePoint links to Jensten SOW docs and said he will lift and shift details into slides; asked for thoughts on updates.
 - **2026-02-10 16:00:** Mentioned as workshop lead; received document comment notification; involved in K&S slipstream questionnaire review and missing receipts request.
 - **2026-02-10 15:47:** CC'd on doc extraction webpage requirements thread between Synapx and Adstract.
 - **2026-02-10 15:33:** Recipient of 'Euroleague - final reviews' email about licensing cost and response sheet validation.

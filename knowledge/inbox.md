@@ -1,3 +1,24 @@
+## 2026-02-10 16:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 5 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 8 processed (2 created, 6 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Review Jake Bowles request for thoughts/updates on HS/UW SOW docs (links in Matt Davies chat) before he lifts details into slides.
+
+### Files Updated
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/matt-davies.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+
+---
+
 ## 2026-02-10 15:45
 
 ### Changes This Window
@@ -10,7 +31,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Lead / Opportunity Requests: confirm/send effort numbers for RFP response (~£200k and ~£500k vs 250k & 600k), whether to round, and whether response is being sent tomorrow.
+- [ ] Lead / Opportunity Requests: confirm/send effort numbers for RFP response (~200k and ~500k vs 250k & 600k), whether to round, and whether response is being sent tomorrow.
 - [ ] Midwich Squad: consider workaround for PowerApps + SQL sproc metadata issue in edit mode (`sp_describe_first_result_set`) esp. with temp tables/dynamic SQL.
 
 ### Files Updated
@@ -29,7 +50,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 10 processed (0 created, 10 updated)
-- **Calendar:** 9 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Calendar:** 9 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:0014:30 UTC
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -48,7 +69,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 17 processed (0 created, 17 updated)
-- **Calendar:** 10 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Calendar:** 10 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:0014:30 UTC
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -79,14 +100,14 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 17 processed (3 created, 14 updated)
-- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:0014:30 UTC
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Standup - LCP Doc Extraction: confirm whether raw responses are stored anywhere; clarify mandatory fields; provide outcome-based demo-ready update; investigate why only one PDF page is being extracted; validate V1 vs V2 accuracy and V3 backend changes.
 - [ ] Midwich Squad: Investigate 504 Gateway Timeout issue in DEV; check DTU consumption and subnet; confirm environment (DEV/UAT/Prod); consider table-variable workaround; resolve PowerApps output issue.
 - [ ] Charlie Phipps-Bennett / Compass: Answer questions on handwritten notes extraction/validation, handling duplicated records, and AI extraction learning/feedback loop; confirm response timeline.
-- [ ] Synapx Directors / Jake Bowles: Suggest internal workstream(s) to allocate Kenny to until Midwich US element is arranged; coordinate on certs work.
+- [ ] Synapx Directors / Jake Bowles: Suggest internal workstream(s) to allocate Kenny to until Midwich US work is arranged; coordinate on certs work.
 - [ ] Review SOW effort estimate shared by Nandan (overall ~10 days, no buffer) and confirm assumptions/sources.
 
 ### Files Updated
@@ -108,15 +129,15 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 17 processed (3 created, 14 updated)
-- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:0014:30 UTC
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Midwich Squad: Investigate 504 Gateway Timeout calling `Query.sp001PaPoGetSearchQueries` in DEV; check DTU consumption and subnet; confirm whether stored procedure works in other environments; consider table-variable workaround for PowerApps output.
-- [ ] Standup - LCP Doc Extraction: Test document extraction using V3 on “The NEW CAT BOND”; investigate why only one PDF page is extracted; confirm the 8 extracted fields list with team.
+- [ ] Standup - LCP Doc Extraction: Test document extraction using V3 on The NEW CAT BOND; investigate why only one PDF page is extracted; confirm the 8 extracted fields list with team.
 - [ ] Synapx Directors: Advise Jake Bowles on any internal work to assign Kenny Balogun until Midwich US work is arranged.
 - [ ] Kenny Balogun: Confirm assignment scope (Foundry + Azure Function) and MW account status.
-- [ ] Gagan M: Add Gagan to the Harvest project (or “Data and AI presales” temporarily) so time can be tracked; confirm access.
+- [ ] Gagan M: Add Gagan to the Harvest project (or Data and AI presales temporarily) so time can be tracked; confirm access.
 - [ ] Charlie Phipps-Bennett: Provide answers to Compass questions (handwritten notes validation, duplicate record handling, AI extraction learning/feedback loop) and confirm response deadline.
 
 ### Files Updated

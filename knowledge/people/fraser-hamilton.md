@@ -9,6 +9,8 @@
 - Teams DM available
 
 ## Recent interactions
+- **2026-02-10 16:10:** SharePoint link indicates Synapx email for Fraser Hamilton.
+- **2026-02-10 16:10:** Analyzed server estate; suggested consolidating ~40/64 servers to SaaS/PaaS/IaaS or decommission; referenced Entra/Azure AD native; shared VM spreadsheet link.
 - **2026-02-10 12:18:** Mentioned as potentially working on VM-related items for Jensten proposal.
 - **2026-02-10 04:38:** Discussed value/cost of GPT vs Claude and ongoing charges; mentioned exploring contacts via Kim/TD Synnex/Microsoft account manager.
 - **2026-02-10 03:58:** Discussed GPT vs Claude pricing/value and ongoing charges; mentioned possibly contacting Microsoft account manager via Kim/TD Synnex.
