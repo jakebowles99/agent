@@ -165,3 +165,15 @@
 
 ## 16:10 - Charlie Phipps-Bennett
 > <p>AI Extraction Module: Extracts key clinical and administrative data using pre-trained models and rule-based tagging (FR-011, USTR-017).</p>
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 23:01 - Jake Bowles
+> What fires are you fighting atm?
+
+
+## 23:01 - Jake Bowles
+> What fires are you fighting atm?
+
+## 23:21 - Charlie Phipps-Bennett
+> Compass CMS but its out the door

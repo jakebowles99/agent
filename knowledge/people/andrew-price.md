@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 23:22:** Asked for ETA and discussed Compass call with Charlie; requested assessment of K&S questionnaire and suggested involving Andrew Wingate for Navision knowledge.
 - **2026-02-10 23:06:** Asked for SOW/presentation ETA; discussed Azure profit credit; mentioned as needing help on certs dashboards.
 - **2026-02-10 22:35:** Discussed monitoring and whether third-party models count as Microsoft profit.
 - **2026-02-10 22:24:** Commented on monitoring and whether something counts as Microsoft profit.

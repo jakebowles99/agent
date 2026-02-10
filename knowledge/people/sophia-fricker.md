@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 23:22:** Discussed potential Microsoft blog topics for FabCon/SQLCon; asked Nandan about deadline and offered to draft for fact-checking; sent cancellation notice for Jensten catch up.
 - **2026-02-10 20:53:** Updated Jake's slides; asked whether to include phase delivery costs; noted availability constraints due to childcare.
 - **2026-02-10 20:36:** Updated Jake's slides; asked whether to include cost to deliver phases.
 - **2026-02-10 19:06:** Proposed Fabric/Snowflake blog topics for Microsoft submission; followed up with Nandan about deadlines and drafting content.

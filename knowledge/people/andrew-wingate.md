@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 23:22:** Mentioned by Andrew Price as someone to bring in for Navision knowledge on integration options.
 - **2026-02-10 19:07:** Mentioned by Andrew Price as someone to bring in for Navision knowledge for Midwich integration options.
 - **2026-02-10 16:30:** Potential Navision SME to bring into K&S slipstream integration discussion.
 - **2026-02-10 16:01:** Mentioned by Andrew Price as Navision SME to bring into K&S slipstream integration discussion if needed.

@@ -1,3 +1,28 @@
+## 2026-02-10 23:15
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 10 messages across 5 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 20 processed (0 created, 17 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx UK Directors: respond with ETA/status for the presentation/deck and advise whether Jake should send what he agreed or hold.
+- [ ] Jensten Proposal: confirm slide 16 update is incorporated / review updated deck.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/synapx-uk-directors.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-10/azure-admin.md
+
+---
+
 ## 2026-02-10 23:00
 
 ### Changes This Window

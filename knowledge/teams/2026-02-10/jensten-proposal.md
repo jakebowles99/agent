@@ -336,3 +336,8 @@
 > I've analysed this and there's possibility to move / consolidate **40** of the **64** servers to SaaS / PaaS / IaaS or decommission entirely, such as moving to Entra / Azure Active Directory native
 >
 > Virtual Machines with purpose 2026.02.xlsx (SharePoint link)
+
+# Teams Chat — Jensten Proposal
+
+## 23:02 - Fraser Hamilton
+> Updated slide 16 too

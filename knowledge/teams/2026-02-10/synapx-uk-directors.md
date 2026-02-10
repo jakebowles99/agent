@@ -226,3 +226,55 @@
 
 ## 22:58 - Matt Davies
 > Andrew Price ETA?
+
+# Teams Chat — Synapx UK Directors
+
+## 23:06 - Jake Bowles
+> this
+
+## 23:06 - Andrew Price
+> ETA for what sorry?
+
+## 23:06 - Andrew Price
+> Just got off the call with Charlie on Compass
+
+## 22:58 - Matt Davies
+> @Andrew Price ETA?
+
+## 22:56 - Jake Bowles
+> Yeah I meant more are we thinking tomorrow and shall I hold on to mine or just send to stick to what I agreed with them
+
+## 22:55 - Matt Davies
+> I dont think the presentation is ready tbh Jake
+
+
+## 23:06 - Andrew Price
+> Just got off the call with Charlie on Compass
+
+## 23:06 - Andrew Price
+> ETA for what sorry?
+
+## 23:06 - Jake Bowles
+> this
+
+## 23:21 - Charlie Phipps-Bennett
+> Sorry Compass, Midwich and Basketball has consumed me. Anything needed from me for Jensten?
+
+## 23:28 - Andrew Price
+> <attachment id="1770764816220"></attachment>
+> Please send as long as the SOW does not sound like Capex
+
+## 23:28 - Jake Bowles
+> It most definitely does
+
+## 23:29 - Jake Bowles
+> Its just a normal SOW
+
+## 23:29 - Andrew Price
+> We need a Synapx as a Service SOW template (where the SOW references the Synapx as a Service master template)
+
+## 23:29 - Jake Bowles
+> I'll hold off until tomorrow. Bed time for me
+
+## 23:29 - Andrew Price
+> I will prepare Compliance

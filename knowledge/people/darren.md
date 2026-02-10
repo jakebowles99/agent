@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 23:22:** Mentioned by Seun Gray as attending Feb 12 workshop at Byworth office.
 - **2026-02-10 19:07:** Mentioned by Seun Gray as attending Byworth workshop (Fabric Deep Dive & BB014 Costing Accuracy) on 12 Feb.
 - **2026-02-10 16:01:** Mentioned by Seun Gray as attending the 12 Feb workshop (Fabric Deep Dive & BB014 Costing Accuracy).
 - **2026-02-10 13:45:** Mentioned as attending the 12 Feb workshop.
