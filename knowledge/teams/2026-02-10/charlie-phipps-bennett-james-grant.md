@@ -50,3 +50,8 @@ Jake Bowles what ideas do you have?
 ## 21:07 - James Grant
 > <at id="0">Charlie Phipps-Bennett</at> I’m not back that time on Thursday. I’d like to do fri please.
 
+
+# Teams Chat — Charlie Phipps-Bennett, James Grant
+
+## 21:07 - James Grant
+> <div><at id="0">Charlie Phipps-Bennett</at> I’m not back that time on Thursday. I’d like to do fri please.</div>
