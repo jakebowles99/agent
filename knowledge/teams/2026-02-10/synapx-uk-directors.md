@@ -187,3 +187,10 @@
 
 ## 22:22 - Jake Bowles
 > Honestly does Sophia read a word of what she writes
+
+
+## 22:39 - Jake Bowles
+> I'm happy with my Jensten SOWs. How far off do we reckon the deck is or shall I just send them w/o deck?
+
+## 22:22 - Jake Bowles
+> Honestly does Sophia read a word of what she writes

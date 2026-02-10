@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 22:49:** Asked about sending Jensten SOWs without a deck; commented about Sophia; asked about missing end-of-day update.
 - **2026-02-10 22:35:** Posted comments in Teams chats; discussed AI/Foundry spend and made a remark referencing Sophia.
 - **2026-02-10 22:24:** Discussed Foundry spend vs Claude/GPT costs and partner center qualifying spend.
 - **2026-02-10 22:02:** Discussed whether Claude/Azure costs count toward Foundry spend and partner center qualifying spend; noted need to hit many ACR for AI apps.

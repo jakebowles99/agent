@@ -1,3 +1,24 @@
+## 2026-02-10 22:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 3 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 1 processed (0 created, 1 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to Jake Bowles: confirm whether to send Jensten SOWs without the deck or wait; provide ETA for deck.
+- [ ] Reply to SOW Agent chat: provide end-of-day update.
+
+### Files Updated
+- knowledge/teams/2026-02-10/synapx-uk-directors.md
+- knowledge/teams/2026-02-10/sow-agent.md
+
+---
+
 ## 2026-02-10 22:30
 
 ### Changes This Window
