@@ -1,0 +1,15 @@
+# Divya Sharma
+
+## Basic Info
+- **Role**: Unknown
+- **Company**: Synapx
+- **Type**: Internal - Colleague
+
+## Contact
+- **Email**: divya.sharma@synapx.com
+
+## Recent interactions
+- **2026-02-10 02:02:** Scheduled attendee for LCP doc extraction standup and Euroleague RFP checkpoint on 2026-02-10.
+
+---
+*Last Updated: 2026-02-10*

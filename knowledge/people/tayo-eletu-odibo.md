@@ -27,6 +27,7 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-10 02:02:** Included as attendee for (canceled) LCP doc extraction standup on 2026-02-10.
 - **2026-02-09:** Asked if Nandan has received LemonEdge custom import templates (only FX rates template received so far). Confirmed next stage is pulling **ScheduledHoldingsValuation** from the **LCP Chrysalis Reporting DB** via Fabric to LemonEdge; said he’ll have LemonEdge send the remaining templates.
 
 ## Last contact
@@ -37,4 +38,4 @@
 - Nandan Hegde (Synapx - implementing changes)
 
 ---
-*Last Updated: 2026-02-09*
+*Last Updated: 2026-02-10*

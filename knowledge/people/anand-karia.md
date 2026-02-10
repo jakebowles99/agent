@@ -20,5 +20,8 @@
 - Development
 - Technical estimation
 
+## Recent interactions
+- **2026-02-10 02:03:** Organized Euroleague RFP response checkpoint; attendee on Seras weekly catchup 2026-02-10.
+
 ---
 *Last Updated: February 2026*
