@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 12:35:** Discussed proposal slide breakdown and Phase 0 architecture cost positioning; noted Dave speaking to Luke about scope.
 - **2026-02-10 12:19:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.
 - **2026-02-10 12:18:** Posted reminders about Harvest timesheets in February and adding notes.
 - **2026-02-10 12:17:** Coordinated Jensten proposal deck; aimed to send today; discussed structure and dependencies.

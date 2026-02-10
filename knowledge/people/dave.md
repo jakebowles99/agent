@@ -1,0 +1,12 @@
+# Dave
+
+## Basic Info
+- **Role**: Head of Data
+- **Company**: Unknown
+- **Type**: Unknown
+
+## Recent interactions
+- **2026-02-10 12:35:** Mentioned as Head of Data; said he would speak to Luke about scope; noted Luke reports to him.
+
+---
+*Last Updated: 2026-02-10*

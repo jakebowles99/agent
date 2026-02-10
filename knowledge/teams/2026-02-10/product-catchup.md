@@ -32,3 +32,10 @@
 
 ## 10:38 - Navsheen Koul
 > <p><at id="0">Rahul</at>&nbsp;anything burning you want to catchup on? if not i will cancel today's call</p>
+
+
+
+## 12:20 - Navsheen Koul
+> Tayo has suggestions on the rules for fraud prediction. Let me understand this better and lets discuss in sometime / tomm morning @Rahul
+> 
+> "This is really useful, thanks for sending on. The rules don’t appear to account for unusual pricing  - for example a broker/third party shifting from covering £100 policies to £10,000 policies in a short period. I’d also like to understand the behaviour aspect, as frequency of claims / expenses can be dependant on the type of coverage offered"

@@ -1,3 +1,26 @@
+## 2026-02-10 12:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 18 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (4 created, 6 updated)
+- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Gagan M: confirm when you can have a project plan together for CAP.
+- [ ] Matt Davies/Jake Bowles: clarify where the “Phase 0 architecture” (c. £50k) fits in the Jensten proposal; consider breaking Dave’s single slide into multiple slides; send proposal today.
+- [ ] Standup - LCP Doc Extraction: confirm missing/ambiguous fields found in 1886 PDF (issuance/maturity/scheduled maturity/on-risk/off-risk/issue size/amount outstanding/per occurrence limit) and confirm whether “initial exhaustion point” is correct for Per Occurrence Limit; set up/confirm LCP Teams and shared folder for test documents.
+
+### Files Updated
+- knowledge/teams/2026-02-10/gagan-m.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+
+---
+
 ## 2026-02-10 11:45
 
 ### Changes This Window

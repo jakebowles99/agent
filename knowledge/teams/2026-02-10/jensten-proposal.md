@@ -150,3 +150,23 @@
 
 ## 11:29 - Matt Davies
 > after speaking with Jensten - Jake and I want to send this today
+
+
+
+## 12:15 - Jake Bowles
+> I will handle it
+
+## 12:13 - Matt Davies
+> forgive me I know ive asked before - the Phase 0 architecture bit we told Graeme is c£50k on the call - where does that fit in pls?
+
+## 12:12 - Matt Davies
+> e.g. 5 slides - HS POC, 1-4 UW workstreams
+
+## 12:12 - Matt Davies
+> @Jake Bowles - given what we heard today I think we break out the current single slide on Daves stuff into their own slides - I dont see much of this on you as we will have the content but I think it deserves more than 1 slide
+
+## 12:02 - Matt Davies
+> Dave told us he would speak to Luke about his scope
+
+## 12:01 - Matt Davies
+> it was a surprise to me that Luke (IT director) reports to Dave (Head of Data) - something to be mindful of
