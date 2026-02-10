@@ -9,3 +9,8 @@
 ## 09:13 - Andrew Hutchison
 > Morning, which country you in today? Apologies been a bit quiet and thanks for sending the proposals over, hoping this lands good today and we can get the ball rolling
 
+
+# Teams Chat — Andrew Hutchison
+
+## 11:02 - Andrew Hutchison
+> <p>good work, was a good session!</p>

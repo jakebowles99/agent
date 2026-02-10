@@ -248,3 +248,50 @@
 > <attachment id="1770720467935"></attachment>
 > 
 > <p>i will come help you out wait</p>
+
+# Teams Chat — Project Managers
+
+## 11:00 - Andrew Price
+> <attachment id="1770721192227"></attachment>
+> 
+> <p>Just <at id="0">Matt</at>&nbsp;now who needs to get this working</p>
+
+## 10:59 - Gaurav Rauthan
+> <p>Step 1 - Forget password</p>
+> <p>Step 2 - Save suggested password in 1pass</p>
+> <p>Step 3 - Delete when you can see 2 accounts here <a href="https://id.getharvest.com/accounts" rel="noreferrer noopener" title="https://id.getharvest.com/accounts" target="_blank">https://id.getharvest.com/accounts</a>??</p>
+
+## 10:58 - Gaurav Rauthan
+> <p>done</p>
+
+## 10:57 - Andrew Price
+> <p>Great. Please delete the password you stored in 1Password as you do not require that anymore</p>
+
+## 10:56 - Navsheen Koul
+> <attachment id="1770720955634"></attachment>
+> 
+> <p>now i can, never could before&nbsp;</p>
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:04fb55e5ebfb47689d2e23b75befa51c@thread.v2/messages/1770720985002/hostedContents/aWQ9eF8wLXN1ay1kMS05NGIzMjE5ODdmNGE2ODk5MzY3MzI2Mzk2NTkxZjI1ZCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMS05NGIzMjE5ODdmNGE2ODk5MzY3MzI2Mzk2NTkxZjI1ZC92aWV3cy9pbWdv/$value" width="372.8693181818182" height="250" alt="image" itemid="0-suk-d1-94b321987f4a6899367326396591f25d"></p>
+
+## 10:56 - Gaurav Rauthan
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:04fb55e5ebfb47689d2e23b75befa51c@thread.v2/messages/1770720981493/hostedContents/aWQ9eF8wLXd1ay1kMi1jMzVkODU2OTJiMjZmOWRlMGVmMTlmYTcyNWE3OWY4Yyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMi1jMzVkODU2OTJiMjZmOWRlMGVmMTlmYTcyNWE3OWY4Yy92aWV3cy9pbWdv/$value" width="439.3776824034335" height="250" alt="image" itemid="0-wuk-d2-c35d85692b26f9de0ef19fa725a79f8c"></p>
+> <p>yes</p>
+
+## 10:56 - Andrew Price
+> <attachment id="1770720531368"></attachment>
+> 
+> <p><at id="0">Matt</at>&nbsp;try this please</p>
+
+## 10:55 - Andrew Price
+> <p><at id="0">Gaurav</at>&nbsp;<at id="1">Navsheen</at>&nbsp;Do you see 2 accounts here please:</p>
+> <p><a href="https://id.getharvest.com/accounts" rel="noreferrer noopener" title="https://id.getharvest.com/accounts" target="_blank">https://id.getharvest.com/accounts</a></p>
+
+## 10:51 - Navsheen Koul
+> <attachment id="1770720579244"></attachment>
+> 
+> <p>worked</p>
+
+## 10:51 - Akshansh Sharma
+> <attachment id="1770720467935"></attachment>
+> 
+> <p>i will come help you out wait</p>

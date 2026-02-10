@@ -76,3 +76,54 @@
 ## 09:06 - Matt Davies
 > I think I can help with the overall structure Sophia Fricker . Is Fraser Hamilton looking at the VM stuff?
 
+
+# Teams Chat — Jensten Proposal
+
+## 11:29 - Matt Davies
+> <p>after speaking with Jensten - Jake and I want to send this today</p>
+
+
+# Teams Chat — Jensten Proposal
+
+## 11:29 - Matt Davies
+> after speaking with Jensten - Jake and I want to send this today
+
+## 10:11 - Andrew Price
+> [attachment: 1770714400024]
+> Will discuss with him once he reaches office
+
+## 10:05 - Sophia Fricker
+> added, anything else I can do to help?
+
+## 09:10 - Sophia Fricker
+> Just adding the Synapx as  a Sevice pages in, will chase FH
+
+## 09:06 - Matt Davies
+> I think I can help with the overall structure @Sophia Fricker . Is @Fraser Hamilton looking at the VM stuff?
+
+## 08:54 - Jake Bowles
+> From pro:
+>
+> Senior technician (full understanding of end to end) £850 a day
+>
+> Mid Tier : £450 a day – can process map and advise from above
+>
+> Junior (good at error handling in BPO - £270 a day
+
+## 08:53 - Jake Bowles
+> [attachment: 1770700789119]
+> Just ourselves. I put some work into the data one yesterday evening but currently have a free afternoon so can prioritise getting this in good shape then.
+>
+> I don't see any reason we cant get this done today.
+>
+> @Sophia Fricker  can you pls start to add the Synapx as a Service pages in?
+
+## 07:23 - Andrew Price
+> [attachment: 1770700789119]
+> I did my licensing work last night - just need to do deck content now
+
+## 05:19 - Matt Davies
+> Morning @Everyone, the deck appears to have stalled (assuming the link above is still the most relevant one) and it's still a long way from being ready. The journey still feels fragmented to me and there is still no commercial proposition or transition into Synapx as a Service. are we dependent on anyone/anything else than ourselves at this stage?
+
+## 15:46 - Andrew Price
+> [image]

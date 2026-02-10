@@ -1,3 +1,62 @@
+## 2026-02-10 11:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 14 messages across 6 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 15 processed (5 created, 10 updated)
+- **Calendar:** 10 events on calendar (several canceled); next: Delivery Weekly Standup 12:30–12:55 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Jensten: Matt/Jake want to send proposal today.
+- [ ] BA time planning: meet in channel at 11:30; ensure changes are in before afternoon review.
+- [ ] Tayo Eletu-Odibo: schedule 5 mins to discuss today; provide update ASAP.
+- [ ] Delivery Leadership Call: see Shelly’s email and take actions forward (Nandan/Akshansh/others mentioned).
+- [ ] Synapx Directors: investigate/fix Power BI report not working (Tayo escalated to Lanware); don’t commit timeline to client; share details in LCP ID Teams.
+- [ ] Standup - LCP Doc Extraction: clarify handling when email contains two classes (Class A and Class B).
+
+### Files Updated
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/teams/2026-02-10/ba-time-planning.md
+- knowledge/teams/2026-02-10/tayo-eletu-odibo.md
+- knowledge/teams/2026-02-10/delivery-leadership-call.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+
+---
+
+## 2026-02-10 11:00
+
+### Changes This Window
+- **Emails:** 3 new (Canceled: Product Catchup; Re: January - February Missing Receipts; Euroleague BB - RFP response checkpoint)
+- **Teams Chats:** 17 messages across 4 conversations
+- **Teams Channels:** 1 messages in 1 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 19 processed (5 created, 14 updated)
+- **Calendar:** 11 events on calendar; current/next: FW: Euroleague BB - RFP response checkpoint 11:00–11:15 UTC; next Delivery Leadership Call 11:30–12:15 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Provide missing receipts for January–February (Finance request from Nishanth Ballal).
+- [ ] Review final/near-final Euroleague BB RFP response with Anand Karia (checkpoint moved to 2pm; 11am optional).
+- [ ] Advise Pro that contract signing is delayed pending Narayan compliance/legal changes (Charlie note).
+- [ ] Investigate/fix: Power BI report link not working (Andrew: Tayo escalated to Lanware).
+- [ ] Respond to Tayo Eletu-Odibo with an update (gentle nudge).
+- [ ] Ensure Harvest Forecast access + update resourcing (Vijay/Katyayani) and fix leave visibility (Timon 2–20 Mar; Anand 16/19/20/23 Feb).
+- [ ] Re-post/like/comment on Microsoft Fabric Featured Partners post on Synapx LinkedIn page (Sophia request).
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/tayo-eletu-odibo.md
+- knowledge/teams/2026-02-10/euroleague-bb---rfp-response-checkpoint.md
+- knowledge/channels/2026-02-10/Synapx | Everyone-Genuinely.md
+
+---
+
 ## 2026-02-10 10:45
 
 ### Changes This Window
@@ -91,7 +150,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:008:00 UTC; Product Catchup 10:308:55 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:00–8:00 UTC; Product Catchup 10:30–8:55 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -125,7 +184,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 0
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Capital H&B Handover 09:308:00 UTC; LCP Finance Doc Extraction Handover 09:308:20 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Capital H&B Handover 09:30–8:00 UTC; LCP Finance Doc Extraction Handover 09:30–8:20 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -155,11 +214,11 @@
 - **Teams Channels:** 0 messages in 0 channels (Intuit channels retrieval failed: Graph API 429)
 - **Transcripts:** 0 new
 - **People Profiles:** 7 processed (2 created, 5 updated)
-- **Calendar:** Upcoming meetings scheduled (9 on calendar; current/next: Capital H&B Handover 09:308:00 UTC; LCP Finance Doc Extraction Handover 09:308:20 UTC)
+- **Calendar:** Upcoming meetings scheduled (9 on calendar; current/next: Capital H&B Handover 09:30–8:00 UTC; LCP Finance Doc Extraction Handover 09:30–8:20 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Find/assign someone other than Jake to manage registrations for Chat with Your Data in a Day (CDIAD).
+- [ ] Find/assign someone other than Jake to manage registrations for ’Chat with Your Data in a Day (CDIAD)’.
 - [ ] Andrew to speak to Fraser today re: what to do with paid Azure resources.
 - [ ] Review/add LCP finance doc extraction bugs in the shared bug sheet; note large PDFs causing crashes/long runtimes.
 

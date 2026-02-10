@@ -210,3 +210,45 @@
 
 ## 10:20 - Gaurav Rauthan
 > <p>They just shared for Avinash to me as well and CCd Avinash</p>
+
+# Teams Chat — 17C User Accounts
+
+## 11:08 - Akshansh Sharma
+> <attachment id="1770721597647"></attachment>
+> 
+> <p>sorry separate discussions respond what andy mentioned Named accounts don't need automate premium license</p>
+
+## 11:06 - Gaurav Rauthan
+> <p>I am confused now on what should I reply to them.</p>
+
+## 11:06 - Andrew Price
+> <attachment id="1770721550696"></attachment>
+> 
+> <p>Well that is your deployment process. Too many users have access to prod and admin account</p>
+
+## 11:05 - Akshansh Sharma
+> <p>because of the recent events on Seras where prod changes keeps happening from service account and we don't know who made those changes</p>
+
+## 11:05 - Andrew Price
+> <p>That is fine - no license implications</p>
+
+## 11:05 - Akshansh Sharma
+> <attachment id="1770721490043"></attachment>
+> 
+> <p>not from power apps side, from sql and azure side of things&nbsp;</p>
+
+## 11:04 - Andrew Price
+> <attachment id="1770721410224"></attachment>
+> 
+> <p>Use version notes to say who it was. The license costs add up</p>
+
+## 11:03 - Akshansh Sharma
+> <attachment id="1770721312644"></attachment>
+> 
+> <p>well this is debatable with nandan because he thinks it should be our named accounts who should do the dev for tracking purpose</p>
+
+## 11:01 - Andrew Price
+> <p>I do not think users need the license either as we should be developing on the service account</p>
+
+## 11:01 - Andrew Price
+> <p>Service Accounts may need it, depending on the use case</p>

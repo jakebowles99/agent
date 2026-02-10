@@ -4,3 +4,27 @@
 
 ## 06:50 - Matt Davies > 
 
+
+## 11:03 - [Sophia Fricker] > Hi Synapx | Everyone,
+
+Please all re-post and like and comment on the Microsoft Fabric Featured Partners post on the Synapx LinkedIn page.
+
+Thank you in advance
+
+Sophia
+
+## 11:03 - Sophia Fricker > Hi @Synapx | Everyone,
+
+Please all re-post and like and comment on the Microsoft Fabric Featured Partners post on the Synapx LinkedIn page.
+
+Thank you in advance 🙂
+
+Sophia
+
+## 11:03 - Sophia Fricker > Hi Synapx | Everyone,
+
+Please all re-post and like and comment on the Microsoft Fabric Featured Partners post on the Synapx LinkedIn page.
+
+Thank you in advance
+
+Sophia

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 11:41:** Discussed availability and forecasting for testing on Accent/Nuevo; moved from Midwich with Yaz approval.
 - **2026-02-10 11:11:** Resource whose end date on Midwich was adjusted/moved with approval.
 - **2026-02-10 11:08:** Assigned Nuevo work and forecasted for Accent Catering/Nuevo over next 3 days.
 - **2026-02-10 08:23:** Mentioned as needed back on LCP; availability to be checked for resourcing.

@@ -4,6 +4,9 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:02:** Recipient of Delivery Leadership Call invite.
+- **2026-02-10 11:53:** Discussed sending Jensten proposal, coordinating meeting timing, and asked Tayo for 5 mins to discuss.
+- **2026-02-10 11:38:** Mentioned in receipts request email (missing receipts) and in Synapx Directors chat re: managing contract work.
 - **2026-02-10 11:08:** Suggested adding 'Pro' into the next one (discussion with Matt Davies).
 - **2026-02-10 10:56:** Mentioned as leading CDIAD workshop; participated in Azure Admin cost discussion and chat with Matt Davies.
 - **2026-02-10 10:45:** Discussed Capital H&B SOW separation; registrations for CDIAD; tag request with Nandan.

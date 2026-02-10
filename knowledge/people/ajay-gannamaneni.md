@@ -9,6 +9,7 @@
 - **Email**: ajay.gannamaneni@synapx.com
 
 ## Recent interactions
+- **2026-02-10 11:58:** Tagged by Timon Wan regarding handling two classes in Lion Re DAC email.
 - **2026-02-10 11:11:** Explained doc extraction plugin process and resent attachments.
 - **2026-02-10 11:02:** Investigating extraction performance/field selection issues; requested time to look into.
 - **2026-02-10 10:57:** Provided LCP finance doc extraction breakdown/performance notes; worked on analyzer version and ADO sign-in issue; discussed email-to-PDF conversion.

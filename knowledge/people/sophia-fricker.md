@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 11:41:** Asked everyone to repost/like/comment Microsoft Fabric Featured Partners post on Synapx LinkedIn.
 - **2026-02-10 10:39:** Asked for input on potential Microsoft blog topics (Snowflake+OneLake interop, Fabric data agents).
 - **2026-02-10 09:18:** Asked to start adding 'Synapx as a Service' pages into proposal.
 - **2026-02-10 08:24:** Updated proposal deck (added Microsoft E5 promotions slide); offered help on slides; received positive feedback from Matt.

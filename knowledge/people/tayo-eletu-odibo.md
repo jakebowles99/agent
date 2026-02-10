@@ -27,6 +27,9 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-10 12:04:** Requested update ('gentle nudge'); previously escalated Power BI report issue to Lanware per directors chat.
+- **2026-02-10 11:55:** Jake asked for time to discuss; Tayo escalated report issue to Lanware per Directors chat.
+- **2026-02-10 11:40:** Sent a gentle nudge for an update; escalated to Lanware that a PowerBI report is not working.
 - **2026-02-10 10:56:** Requested adding PriceMarket and PriceProvider fields to the import template for FX rate determination.
 - **2026-02-10 10:37:** Requested adding PriceMarket and PriceProvider fields to import for future FX rate determination.
 - **2026-02-10 05:33:** Attendee for canceled LCP doc extraction standup (2026-02-10).

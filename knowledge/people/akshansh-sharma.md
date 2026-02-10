@@ -4,6 +4,10 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:02:** Discussed investigating Power BI report/service account access and user/account licensing guidance; recipient of Delivery Leadership Call invite.
+- **2026-02-10 11:56:** Tagged to take forward Shelly's email; offered to investigate report/service account access and advised not committing timelines to client.
+- **2026-02-10 11:42:** Mentioned by Andrew Price as recipient for PowerBI report issue escalation.
+- **2026-02-10 11:38:** Asked about Pro contract and Seras contract; coordinated testing/resource allocation (Vijay/Katyayani) and offered help with Harvest access.
 - **2026-02-10 09:37:** Tagged by Charlie Phipps-Bennett in Project Managers chat (attachment shared).
 - **2026-02-10 09:02:** Advised on testing resourcing; said LCP priority but requested releasing tester for Accent with acceptable delay.
 - **2026-02-10 08:21:** Raised priority of LCP, requested tester allocation for Accent; asked when to proceed with Pro contract.

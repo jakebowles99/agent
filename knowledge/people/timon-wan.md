@@ -3,6 +3,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:05:** Asked whether mandatory fields are expected to be present in email (Standup - LCP Doc Extraction chat).
+- **2026-02-10 11:58:** Asked Ajay Gannamaneni, Navsheen Koul about handling emails containing two classes (A and B) in Lion Re DAC email.
 - **2026-02-10 11:11:** Asked about Outlook email to PDF conversion and where PDFs are saved; leave mentioned for March.
 - **2026-02-10 11:08:** Asked how plugin converts Outlook email to PDF and where saved; requested PDFs; acknowledged in Azure Admin chat.
 - **2026-02-10 10:57:** Asked about Outlook email to PDF conversion and where PDFs are saved; raised question about removing card/billing account for Azure.

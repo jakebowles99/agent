@@ -4,6 +4,9 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:03:** Coordinated investigation of Power BI report issue; advised on licensing/service accounts and Harvest account access troubleshooting; asked colleagues for updates.
+- **2026-02-10 11:57:** Discussed caution about sharing documents, confirmed items, and requested Akshansh/Nandan to investigate Power BI report issue escalated by Tayo to Lanware.
+- **2026-02-10 11:39:** Requested team troubleshoot/resolve PowerBI report issue escalated by Tayo; managed Harvest Forecast access and scheduling rules.
 - **2026-02-10 11:10:** Advised on Harvest Forecast access and resource scheduling rules; discussed Microsoft licensing needs for users.
 - **2026-02-10 11:07:** Coordinated credential sharing, Harvest Forecast access reminders, and project attendance decisions.
 - **2026-02-10 10:56:** Discussed project coordination with Charlie/Yaz; handled 17C account email evidence; discussed Azure paid resources and Harvest Forecast access.

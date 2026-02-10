@@ -4,6 +4,9 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 12:01:** Shared agenda for Delivery Leadership Call; also posted CDIAD trial info in leadership chat and discussed project timing/escalations in directors chat.
+- **2026-02-10 11:55:** Chatted about meeting timing and imagery; rescheduled Delivery Leadership call and asked others to take forward email; discussed project/compliance updates in Directors chat.
+- **2026-02-10 11:36:** Discussed Pro contract timing/terms with Narayan; raised concerns about Ajay; coordinated project resourcing and meeting time change with Anand.
 - **2026-02-10 11:08:** Offered to manage Nimens while focus remains on Midwich Limited; indicated small scope.
 - **2026-02-10 10:56:** Stated Jake Bowles will lead CDIAD Feb 20 workshop; discussed resourcing priorities in Project Managers chat.
 - **2026-02-10 10:48:** Coordinated CDIAD ownership/registrations; discussed recruitment needs (mid-level, 'Rahul mindset'); reviewed deployment/code review scheduling with Yaz.

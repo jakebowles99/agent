@@ -18,6 +18,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 12:02:** Mentioned in directors chat re licensing approach and asked to help with Power BI report issue; recipient of Delivery Leadership Call invite.
+- **2026-02-10 11:56:** Tagged to take forward Shelly's email / address escalated Power BI report issue.
 - **2026-02-10 11:09:** Suggested skipping today's call.
 - **2026-02-10 10:56:** Involved in custom import template/auth email thread; referenced in 17C user accounts setup list.
 - **2026-02-10 10:48:** Discussed adding an additional PMO tag under Data and AI; referenced as possible CDIAD owner.
