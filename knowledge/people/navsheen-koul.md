@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 15:57:** Reviewed doc extraction webpage requirements; preferred second option and raised concern about image placement.
 - **2026-02-10 15:46:** Coordinated doc extraction product webpage requirements and review with Adstract; discussed naming (NoRead AI) and video readiness/costs.
 - **2026-02-10 15:31:** Asked for outcome-based updates for Thursday demo; queried accuracy and mandatory field counts.
 - **2026-02-10 15:05:** Requested outcome-based updates and asked about mandatory fields; asked Ajay/Katyayani for EOD update.

@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:01:** Discussed K&S slipstream questionnaire and suggested involving Andrew Wingate for Navision knowledge; shared RFP response number guidance in Lead/Opportunity Requests chat.
 - **2026-02-10 15:34:** Requested Jake/Nandan assess K&S slipstream questionnaire ahead of 25 Feb visit; offered to involve Andrew Wingate for Navision knowledge.
 - **2026-02-10 15:31:** Discussed project approach/certs; asked Akshansh for thoughts; asked to review lead weighting with Anand.
 - **2026-02-10 15:06:** Commented on solution looking off-the-shelf; planning cert work; general discussion.

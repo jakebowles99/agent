@@ -170,3 +170,11 @@
 
 ## 12:01 - Matt Davies
 > it was a surprise to me that Luke (IT director) reports to Dave (Head of Data) - something to be mindful of
+
+# Teams Chat — Jensten Proposal
+
+## 15:56 - Fraser Hamilton
+> I've analysed this and there's possibility to move / consolidate 40 of the 64 servers to SaaS / PaaS / IaaS or decommission entirely, such as moving to Entra / Azure Active Directory native
+> 
+> https://synapxltd-my.sharepoint.com/:x:/g/personal/fraser_hamilton_synapx_com/IQDFpsrQqWmHSY1Sjssw-6QgAUnhNpitEz5GBIRGOEIK7HY?e=eVpBCl (Virtual Machines with purpose 2026.02.xlsx)
+

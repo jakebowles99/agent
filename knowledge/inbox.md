@@ -1,3 +1,26 @@
+## 2026-02-10 15:45
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 8 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 16 processed (0 created, 15 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Lead / Opportunity Requests: confirm/send effort numbers for RFP response (~£200k and ~£500k vs 250k & 600k), whether to round, and whether response is being sent tomorrow.
+- [ ] Midwich Squad: consider workaround for PowerApps + SQL sproc metadata issue in edit mode (`sp_describe_first_result_set`) esp. with temp tables/dynamic SQL.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/lead-opportunity-requests.md
+- knowledge/teams/2026-02-10/midwich-squad.md
+
+---
+
 ## 2026-02-10 15:30
 
 ### Changes This Window

@@ -409,3 +409,13 @@
 > <attachment id="1770734470689"></attachment>
 > <p>as of now yes check analysis_runs</p>
 
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 16:00 - Timon Wan
+> So the PDFs we are using are kind of like templates then?
+> i.e. would value such as AmountOutstanding be in there if it's a placeholder value
+
+## 15:59 - Navsheen Koul
+> not a redaction, it's a placeholder for data that the counterparty may fill in if they reissue the document
+

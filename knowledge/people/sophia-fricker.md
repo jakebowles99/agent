@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 16:00:** Discussed blogging topics for FabCon+SQLCon Atlanta 2026; asked about reusing an existing blog and offered to draft.
 - **2026-02-10 15:47:** Recipient/mentioned regarding availability for catchup and kept informed on doc extraction webpage work.
 - **2026-02-10 15:32:** Offered support with the Jensten proposal deck.
 - **2026-02-10 13:57:** Sent calendar cancellation email: 'Jensten catch up'.
