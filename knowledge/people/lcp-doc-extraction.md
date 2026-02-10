@@ -1,4 +1,4 @@
-# Product Catchup
+# LCP Doc Extraction
 
 ## Basic Info
 - **Role**: Unknown
@@ -6,8 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
-- **2026-02-10 05:13:** Listed as meeting subject on 2026-02-10.
-- **2026-02-10 02:49:** Scheduled Teams meeting.
+- **2026-02-10 05:13:** Listed in canceled meeting subject on 2026-02-10 (standup).
 
 ---
 *Last Updated: 2026-02-10*

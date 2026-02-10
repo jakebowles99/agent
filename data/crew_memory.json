@@ -2,17 +2,28 @@
   "short_term": {
     "last_runs": [
       {
-        "status": "error",
-        "error": "Invalid response from LLM call - None or empty.",
-        "timestamp": "2026-02-10T05:00:16.309480+00:00"
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "## 2026-02-10 05:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (2 created, 8 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-10 04:30\n\n### Changes This Win",
+        "timestamp": "2026-02-10T05:21:16.688612+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 04:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 processed\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n\n## 2026-02-10 03:45\n\n### Changes This Window\n- **Emails:** 0 new",
-        "timestamp": "2026-02-10T04:33:44.872426+00:00"
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 04:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 4 processed (0 created, 4 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude v",
+        "timestamp": "2026-02-10T04:48:38.598941+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 03:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (1 created, 4 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude v",
+        "timestamp": "2026-02-10T04:07:29.365111+00:00"
       },
       {
         "status": "success",
@@ -69,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-10 00:46\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (2 created, 3 updated)\n- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude vs using GPT/free alternatives; confirm if ongoin",
         "timestamp": "2026-02-10T00:56:29.574340+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-10 00:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **Calendar:** Upcoming meetings scheduled (none started/ended in this window)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude vs using GPT/free alternatives; confirm if ongoing charges are acceptable and whether a Microsoft account manager/partner can",
-        "timestamp": "2026-02-10T00:46:36.559526+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 48,
+      "total_runs": 49,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -97,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T05:00:16.309490+00:00",
+    "last_updated": "2026-02-10T05:21:16.688634+00:00",
     "version": "1.0"
   }
 }
