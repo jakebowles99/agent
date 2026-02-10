@@ -180,3 +180,10 @@
 
 ## 17:26 - Charlie Phipps-Bennett
 > I agree
+
+
+
+# Teams Chat — Synapx UK Directors
+
+## 22:22 - Jake Bowles
+> Honestly does Sophia read a word of what she writes

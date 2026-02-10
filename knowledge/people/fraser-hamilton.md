@@ -9,6 +9,7 @@
 - Teams DM available
 
 ## Recent interactions
+- **2026-02-10 22:35:** Commented on reporting/qualifying spend and Azure marketplace vs Foundry charges.
 - **2026-02-10 22:24:** Discussed reporting/charge classification (3rd party/Azure marketplace) and qualifying spend in partner center.
 - **2026-02-10 22:02:** Asked whether spend should be counted as qualifying spend in partner center; clarified customer example vs Foundry charges.
 - **2026-02-10 20:52:** Added slide 17 cloud-first adoption strategy; analysed 64 servers and suggested consolidation/migration; shared Azure icon set link.

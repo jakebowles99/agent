@@ -1,3 +1,25 @@
+## 2026-02-10 22:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 12 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 5 processed (1 created, 4 updated)
+- **Calendar:** 10 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Resend Forecast invite to Matt Davies (Project Managers).
+- [ ] Reply to Azure Admin thread: confirm whether Claude/3rd-party model spend counts toward Foundry/AI specialisation qualifying spend (partner center) and whether it is treated as 3rd party / Azure marketplace.
+
+### Files Updated
+- knowledge/teams/2026-02-10/synapx-uk-directors.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/azure-admin.md
+
+---
+
 ## 2026-02-10 22:15
 
 ### Changes This Window

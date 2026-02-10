@@ -651,3 +651,39 @@ Billing access is controlled differently — the Account Administrator has direc
 > The claude cost, I assume that doesn't count for foundry spend?
 > 
 > E.g if I had done that in a customer Tenant that doesn't count towards Foundry spend for the AI specialisation?
+
+
+
+# Teams Chat — Azure Admin
+
+## 22:07 - Jake Bowles
+> Unless they don't because its a 3rd party model
+
+## 22:05 - Andrew Price
+> Need to monitor it, but cannot see why it would not count as Microsoft profit from that
+
+## 22:01 - Jake Bowles
+> So thats a sneaky reason people would choose GPT over Claude for AI solutions
+
+## 22:00 - Jake Bowles
+> I agree, interesting
+
+## 22:00 - Fraser Hamilton
+> We'd need to pull a report out to be certain, but I imagine it counts as 3rd party / azure marketplace
+
+## 22:00 - Jake Bowles
+> We have to hit quite a large number of ACR for the AI apps one
+
+## 21:59 - Jake Bowles
+> Yes exactly
+
+## 21:59 - Fraser Hamilton
+> Do you mean counting it as qualifying spend in our partner center?
+
+## 21:59 - Fraser Hamilton
+> I'm confused about the customer example specifics, but essentially it's a different charge to foundry
+
+## 21:57 - Jake Bowles
+> The claude cost, I assume that doesn't count for foundry spend?
+> 
+> E.g if I had done that in a customer Tenant that doesn't count towards Foundry spend for the AI specialisation?
