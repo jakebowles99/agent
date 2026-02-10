@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 01:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (0 created, 5 updated)\n- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude vs using GPT/free",
+        "timestamp": "2026-02-10T01:53:42.047016+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "## 2026-02-10 01:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 4 processed (0 created, 4 updated)\n- **Calendar:** Upcoming meetings scheduled (next: Midwich Squad - daily standup 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Decide whether to continue paying for Claude vs using GPT/free alternatives; confirm if ongoin",
         "timestamp": "2026-02-10T01:27:38.274147+00:00"
       },
@@ -57,11 +65,6 @@
         "status": "error",
         "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
         "timestamp": "2026-02-09T23:01:30.670753+00:00"
-      },
-      {
-        "status": "error",
-        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "timestamp": "2026-02-09T22:15:36.590951+00:00"
       }
     ],
     "pending_items": []
@@ -69,7 +72,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 42,
+      "total_runs": 43,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -82,7 +85,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T01:27:38.274159+00:00",
+    "last_updated": "2026-02-10T01:53:42.047024+00:00",
     "version": "1.0"
   }
 }
