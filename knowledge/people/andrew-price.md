@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 14:43:** Discussed client payment/budget overruns and issues with prior app delivery.
+- **2026-02-10 14:41:** Re: K&S slipstream questionnaire—asked Jake/Nandan to assess integration options ahead of 25 Feb visit; suggested involving Andrew Wingate for Navision knowledge.
 - **2026-02-10 12:19:** Included as recipient on Teams meeting invite 'Jensten catch up' from Sophia Fricker.
 - **2026-02-10 12:17:** Worked on licensing and deck content; planned to discuss with a colleague once he reaches office; shared attachments/images.
 - **2026-02-10 12:03:** Coordinated investigation of Power BI report issue; advised on licensing/service accounts and Harvest account access troubleshooting; asked colleagues for updates.

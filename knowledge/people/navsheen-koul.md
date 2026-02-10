@@ -22,6 +22,8 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 14:43:** Responded to query about PDF redactions; shared attachment and noted they had asked.
+- **2026-02-10 14:42:** Asked for outcome-based updates for demo; queried which fields are mandatory; requested updates before team logged off.
 - **2026-02-10 13:56:** Responded to question about whether PDFs are redacted; shared an attachment.
 - **2026-02-10 13:55:** Sent LCP Finance Document Extraction project update with budget/utilization, risks/issues, and ETA; noted onboarding Tim alongside Ajay and Katyayani; mentioned Gaurav and Charlie.
 - **2026-02-10 13:49:** Discussed AI extraction behavior and field population priorities; raised ADO sign-in issue after password reset; asked about mandatory fields in email and testing findings.

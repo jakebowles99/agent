@@ -9,6 +9,8 @@
 - **Email**: katyayani.lal@synapx.com
 
 ## Recent interactions
+- **2026-02-10 14:43:** Tested V3 extraction; reported only one PDF page extracted and listed extracted fields.
+- **2026-02-10 14:42:** Reported doc extraction testing results (V3, PDF page limitation, field counts) and logged UI issues in sheet.
 - **2026-02-10 13:51:** Reported extraction taking too long when only email body provided; noted values pulled only from PDF when PDF attached; flagged missing fields and document count display issue.
 - **2026-02-10 12:34:** Reported extraction completed but with missing fields and count less than expected; noted similar issue with NEW 144A email body + PDF.
 - **2026-02-10 12:16:** Reported testing issues: extraction very slow with email body only; when email+PDF provided, values pulled only from PDF; attachment count not displayed.

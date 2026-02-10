@@ -288,3 +288,44 @@
 ## 12:42 - Ajay Gannamaneni
 > App side is dynamic
 
+
+
+## 14:31 - Navsheen Koul
+> <p>how many of these are mandatory fields?</p>
+
+## 14:30 - Katyayani Lal
+> <p>I have tested the combination of Email and docs for extraction,</p>
+> <p>&nbsp;the highest count we have got so far is for the <strong>NEW CAT BOND email body + Preliminary pdf </strong>which is 18 fields. Other than that I have updated the sheet regarding the UI issues that were found while testing.</p>
+
+## 14:26 - Navsheen Koul
+> <p>sorry should have mentioned before, could you give me more outcome based updates i.e. what is better and works now for the demo on thursday</p>
+
+## 14:25 - Ajay Gannamaneni
+> <attachment id="1770733073767"></attachment>
+> <p>initial i was working to create finalV2 version analyser.</p>
+> <p>issue reported by Katyayani no attachment one</p>
+> <p>created V3 version in backend</p>
+> <p>now i am working on breaking the pdf into chunks</p>
+
+## 14:17 - Navsheen Koul
+> <p><at id="0">Ajay</at>, <at id="1">Katyayani</at>&nbsp;before you log off for the day could you add an update here please.</p>
+
+## 14:12 - Katyayani Lal
+> <p>I can see data only from one page of the PDF, so it looks like the extraction happened from just a single page.</p>
+> <p><img alt="image" src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770732726686/hostedContents/aWQ9eF8wLXN1ay1kNC00NDM2NDg5ODU1YmM1MmYyMWM2OWI4NjEyMWZiNmRlMyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC00NDM2NDg5ODU1YmM1MmYyMWM2OWI4NjEyMWZiNmRlMy92aWV3cy9pbWdv/$value" itemid="0-suk-d4-4436489855bc52f21c69b86121fb6de3" width="800" height="238"></p>
+
+## 14:10 - Katyayani Lal
+> <attachment id="1770724315144"></attachment>
+> <p>Used the same combination to test with V3. 8 fields listed below are extracted:</p>
+> <ul>
+> <li>Issuance Date</li><li>Maturity Date</li><li>SPV</li><li>Bond Series</li><li>Trigger Type</li><li>Sponsors</li><li>Lead Managers</li><li>Structures</li></ul>
+
+## 14:02 - Timon Wan
+> <p><at id="0">Katyayani</at>&nbsp;<at id="1">Lal</at>&nbsp;can you test using this V3&nbsp;</p>
+> <p>The NEW CAT BOND please</p>
+
+## 13:59 - Timon Wan
+> <p>Yup, can see</p>
+
+## 13:58 - Ajay Gannamaneni
+> <p>in APP in dropdown we will see it as V3</p>

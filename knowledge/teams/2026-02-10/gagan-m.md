@@ -49,3 +49,39 @@
 
 ## 13:51 - Gagan M
 > Can you please add me on Data and AI presales for time being. until Harvest is setup. then we can transfer the hours.
+
+# Teams Chat — Gagan M
+
+## 14:08 - Jake Bowles
+> <p>I haven't added rates or anything</p>
+
+## 14:08 - Jake Bowles
+> <p>Done</p>
+
+## 14:07 - Gagan M
+> <p>I don't see that project on Harvest for me. I refreshed.</p>
+
+## 14:06 - Jake Bowles
+> <p>I could have sworn I added you&nbsp;</p>
+
+## 14:06 - Jake Bowles
+> <p>Sure you're not already?</p>
+
+## 14:00 - Gagan M
+> <attachment id="1770731994798"></attachment>
+<p>Can you please add me on that project?</p>
+
+## 13:59 - Jake Bowles
+> <p>harvest exists already</p>
+
+## 13:52 - Gagan M
+> <p>I have received information from Nandan. I will share the Project Plan Tomorrow(High level)</p>
+
+## 13:51 - Gagan M
+> <p>Can you please add me on Data and AI presales for time being. until Harvest is setup. then we can transfer the hours.</p>
+
+## 12:28 - Gagan M
+> <attachment id="1770726417529"></attachment>
+<p>If only this, then I can check with nandan and get the timelines share with you.</p>
+<p>&nbsp;</p>
+<p><img src="https://graph.microsoft.com/v1.0/chats/19:4260f6a8-1c91-4928-a81e-c8025b63f509_5bc2e823-930d-4ca3-b4a4-2491ce8a76b7@unq.gbl.spaces/messages/1770726528338/hostedContents/aWQ9eF8wLXd1ay1kMy1hZGJkZjlhNTQzMjE3OGFhYzkyMWRmODQyMDNhMzY5NCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMy1hZGJkZjlhNTQzMjE3OGFhYzkyMWRmODQyMDNhMzY5NC92aWV3cy9pbWdv/$value" width="435.0165562913907" height="250" alt="image" itemid="0-wuk-d3-adbdf9a5432178aac921df84203a3694"></p>

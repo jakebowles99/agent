@@ -9,6 +9,8 @@
 - **Email**: ajay.gannamaneni@synapx.com
 
 ## Recent interactions
+- **2026-02-10 14:43:** Confirmed V3 appears in app dropdown and that changes were in place; shared attachment.
+- **2026-02-10 14:42:** Provided update on analyser versions (finalV2/V3), backend changes, and work to chunk PDFs; responded to issue raised by Katyayani.
 - **2026-02-10 13:56:** Discussed analyzer naming/analyserId and making a new dropdown option in the app; noted app side is dynamic.
 - **2026-02-10 13:50:** Updated analyzer version; investigated extraction/test issues; discussed storing fields as string and adding analyzer dropdown option; requested analyzerId.
 - **2026-02-10 13:40:** Discussed app changes for analyzer selection and storing extracted date fields as strings.

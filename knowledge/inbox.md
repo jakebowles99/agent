@@ -1,3 +1,56 @@
+## 2026-02-10 14:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 46 messages across 7 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 17 processed (3 created, 14 updated)
+- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Midwich Squad: Investigate 504 Gateway Timeout calling `Query.sp001PaPoGetSearchQueries` in DEV; check DTU consumption and subnet; confirm whether stored procedure works in other environments; consider table-variable workaround for PowerApps output.
+- [ ] Standup - LCP Doc Extraction: Test document extraction using V3 on “The NEW CAT BOND”; investigate why only one PDF page is extracted; confirm the 8 extracted fields list with team.
+- [ ] Synapx Directors: Advise Jake Bowles on any internal work to assign Kenny Balogun until Midwich US work is arranged.
+- [ ] Kenny Balogun: Confirm assignment scope (Foundry + Azure Function) and MW account status.
+- [ ] Gagan M: Add Gagan to the Harvest project (or “Data and AI presales” temporarily) so time can be tracked; confirm access.
+- [ ] Charlie Phipps-Bennett: Provide answers to Compass questions (handwritten notes validation, duplicate record handling, AI extraction learning/feedback loop) and confirm response deadline.
+
+### Files Updated
+- knowledge/teams/2026-02-10/euroleague-bb---rfp-response-checkpoint.md
+- knowledge/teams/2026-02-10/midwich-squad.md
+- knowledge/teams/2026-02-10/standup---lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/kenny-balogun.md
+- knowledge/teams/2026-02-10/gagan-m.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+
+---
+
+## 2026-02-10 14:30
+
+### Changes This Window
+- **Emails:** 2 new (Re: K&S slipstream questionnaire; Signature requested on "Leadenhall Capital Partners_SOW005_Fabric FX Rates Integration (Graph API)_10 February 2026")
+- **Teams Chats:** 12 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 9 processed (1 created, 8 updated)
+- **Calendar:** No upcoming events remaining today after 14:30 UTC (last event ended at 14:30 UTC).
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Review/sign: "Leadenhall Capital Partners_SOW005_Fabric FX Rates Integration (Graph API)_10 February 2026" (Adobe Sign).
+- [ ] Assess K&S slipstream questionnaire ahead of 25 Feb visit; consider integration options; loop in Andrew Wingate if Navision expertise needed.
+- [ ] Provide outcome-based demo-ready update in Standup - LCP Doc Extraction; clarify which fields are mandatory; investigate PDF multi-page extraction (only one page extracted) and address UI issues.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/nandan-hegde.md
+
+---
+
 ## 2026-02-10 14:00
 
 ### Changes This Window
@@ -6,13 +59,13 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 5 processed (0 created, 5 updated)
-- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:0014:30 UTC
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Reply to Charlie Phipps-Bennett: confirm if you have 5 mins.
 - [ ] Reply to Kenny Balogun/Jake Bowles re MW account status.
-- [ ] Add Gagan M to the project / add to “Data and AI presales” (until Harvest is set up), then transfer hours.
+- [ ] Add Gagan M to the project / add to Data and AI presales (until Harvest is set up), then transfer hours.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/kenny-balogun.md
@@ -29,14 +82,14 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 16 processed (2 created, 14 updated)
-- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:0014:30 UTC
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Respond to Tayo re US Bank files: confirm SFTP access requirements (public endpoint + username/password vs certificate/other); involve Lanware if needed.
 - [ ] Address LCP extraction issues raised in standup chat: email-body-only extraction hanging; email body values should populate first; handle multiple classes; missing fields; add analyzer dropdown option and provide analyzerId for `catBondDocumentAnalyzerLatest`.
 - [ ] Decide/confirm where SOW requests should be submitted (Contract Requests - Archive confusion).
-- [ ] Reply to Kenny Balogun: he’s been told to stop work on 17c and needs a new task.
+- [ ] Reply to Kenny Balogun: hes been told to stop work on 17c and needs a new task.
 - [ ] Connect with Nandan Hegde (he initiated a call).
 
 ### Files Updated

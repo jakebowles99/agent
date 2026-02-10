@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 14:43:** Discussed resourcing Kenny onto Midwich/Azure/Foundry work; managed Harvest project access; coordinated RFP/Compass questions with Charlie.
+- **2026-02-10 14:41:** Replied to Andrew Price re: K&S slipstream questionnaire; acknowledged reading and negative assessment.
 - **2026-02-10 14:16:** Discussed MW account, quick check-in, and Harvest/project setup in chats.
 - **2026-02-10 13:54:** Discussed investor letters/SOW estimates and project scoping in directors chat.
 - **2026-02-10 13:49:** Coordinated with Tayo on SFTP access; responded in LCP doc extraction standup thread; discussed contract request channel decisions; coordinated call with Nandan; replied to Kenny re work stop; referenced ability to add to LCP Teams.

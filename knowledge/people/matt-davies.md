@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 14:42:** Requested signature via Adobe Acrobat Sign for Leadenhall Capital Partners SOW005 (Fabric FX Rates Integration - Graph API) dated 10 Feb 2026.
 - **2026-02-10 13:56:** Commented on SOW timing and whether to hold back requesting funds until April SOW.
 - **2026-02-10 13:51:** Shared attachment for SOW requests; noted chat will be closed soon.
 - **2026-02-10 13:41:** Shared attachment and indicated the chat would be ended soon.

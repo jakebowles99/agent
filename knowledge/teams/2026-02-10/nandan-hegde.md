@@ -91,3 +91,51 @@
 
 ## 12:59 - Jake Bowles
 > LCP, I just spoke with Tayo
+
+
+## 14:28 - Nandan Hegde
+> <p>Efforts :</p>
+> <p>1) Data discovery : 3 days</p>
+> <p>2) Assuming below are the sources :</p>
+> <p>a) Chrysalis database &gt;&gt; 1 day effort</p>
+> <p>b) Email &gt;&gt; POC would be established as part of SOW. reuse the logic so 4 hrs of effort</p>
+> <p>c) Sharepoint files &gt;&gt; assuming no new sharepoint location and access is already available for the service principle, then 1 day effort</p>
+> <p>d) SFTP &gt;&gt; 2 day effort assuming gateway is already available for accessibility</p>
+> <p>&nbsp;</p>
+> <p>3) Data transformation (if any) &gt;&gt; 2 days</p>
+> <p>4) Graph QL &gt;&gt; 1 day ( creation of views as source to filter data and have specific logics for Graph QL reqs)</p>
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>So overall 10 days ( with no buffer included)</p>
+
+## 14:16 - Nandan Hegde
+> <p>LCP SOW &nbsp;:</p>
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>Scope of Work: <strong>NAV Reconciliation Automation (LemonEdge  Production)</strong></p>
+> <p>&nbsp;</p>
+> <p>As part of automating the NAV reconciliation process in LemonEdge for production deployment, the following scope of work will be executed:</p>
+> <p>&nbsp;</p>
+> <p>1. Data Discovery &amp; Source Analysis</p>
+> <p>&nbsp;</p>
+> <p>Perform detailed data discovery for eight (8) NAV reconciliation template files, excluding the FX Rate file (as it is email-driven).<br>
+> Identify and validate the upstream data sources for each template.<br>
+> Understand&nbsp; data availability, refresh frequency, and dependencies.<br>
+> Create end-to-end architecture design based on identified sources.</p>
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>2. Environment Setup (Microsoft Fabric)</p>
+> <p>&nbsp;</p>
+> <p>Set up Development and Production environments within Microsoft Fabric.<br>
+> Configure data extraction and ingestion pipelines based on the source systems identified during data discovery.</p>
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>3. Business Logic &amp; Transformation Definition</p>
+> <p>&nbsp;</p>
+> <p>Analyze and understand the NAV reconciliation logic and required data transformations (if any)</p>
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>4. GraphQL API Enablement</p>
+> <p>&nbsp;</p>
+> <p>Design and configure GraphQL endpoints for all required entities supporting the NAV reconciliation process.</p>
+> <p>&nbsp;</p>

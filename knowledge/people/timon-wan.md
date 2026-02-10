@@ -3,6 +3,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 14:43:** Requested testing with V3 for new CAT bond; discussed PDF redactions and extraction validation.
+- **2026-02-10 14:42:** Asked Katyayani to test using V3 with the NEW CAT BOND; confirmed visibility of results.
 - **2026-02-10 13:56:** Coordinated app changes for selecting analyzer version and asked about PDF redactions.
 - **2026-02-10 13:51:** Asked about mandatory fields presence in email and multi-class scenarios; discussed date string storage; requested new analyzer dropdown option and planned deployment of 'catBondDocumentAnalyzerLatest'; asked about redactions in PDFs.
 - **2026-02-10 13:39:** Asked Ajay to add a new analyzer dropdown option and discussed storing scheduled redemption date as string vs date.
