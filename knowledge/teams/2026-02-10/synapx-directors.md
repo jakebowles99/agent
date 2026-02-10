@@ -31,3 +31,12 @@ Going to explain I want more from him in order for him to grow. I think some of 
 Sounds like a more viable solution for customer. Getting a demo internally next week and then will arrange external client facing demo.
 ## 16:18 - [Matt Davies] > sent
 ## 16:13 - [Nandan Hegde] > I am yet to receive the meet invite
+
+# Teams Chat — Synapx Directors
+
+## 05:48 - Matt Davies
+> can we now proceed with the Pro contract?
+
+## 05:47 - Matt Davies
+> worth a conversation as we have on boarded an India contractor who has these skills now. London buses. Would be interested to know Narayans cost.
+
