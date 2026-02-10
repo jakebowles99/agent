@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 06:46:** Raised issue signing into LCP ADO after password change; noted Tarun suggested Lanware IT must re-enable sign-in. Discussed focusing ISV call on fraud prediction AI agent and marketplace metered billing; mentioned pitching to Jenston.
 - **2026-02-10 06:10:** Coordinated testing resources and schedule; wished Tushara happy birthday; asked about Vijay/Katyayani availability and client demo timing.
 - **2026-02-10 06:09:** Provided feedback on doc extraction product page designs and asked about costs; mentioned product name 'NoRead AI' and video link timing.
 - **2026-02-10 05:47:** Asked about pushing client demo, resourcing (Katyayani/Vijay) and status updates for testing/LCP.

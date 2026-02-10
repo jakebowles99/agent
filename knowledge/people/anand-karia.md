@@ -21,6 +21,7 @@
 - Technical estimation
 
 ## Recent interactions
+- **2026-02-10 06:45:** Listed in 17 Capital account status update; access requested via RFA ticket.
 - **2026-02-10 05:33:** Organizer/attendee for Seras Fabric Discovery weekly catchup and Euroleague BB RFP checkpoint (2026-02-10).
 - **2026-02-10 04:22:** Organizer/attendee for Euroleague RFP checkpoint; attendee in Seras catchup.
 - **2026-02-10 03:46:** Organizer listed for 'FW: Euroleague BB - RFP response checkpoint' on 2026-02-10.

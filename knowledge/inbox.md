@@ -1,3 +1,30 @@
+## 2026-02-10 06:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 6 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 18 processed (6 created, 12 updated)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Confirm to Gaurav once your 17 Capital account is set up for Copilot training.
+- [ ] Help unblock Navsheen LCP ADO access: coordinate with Lanware IT to re-enable sign-in after password reset.
+- [ ] For tomorrow’s ISV call: align agenda toward fraud prediction AI agent; clarify data hosting (client vs Synapx) and metered billing/marketplace charging approach.
+- [ ] Ensure Midwich app data sources/tables are re-added correctly and consistently pointing to UAT (not Dev), using environment variables.
+- [ ] Investigate reported issue with bids stored procedure.
+
+### Files Updated
+- knowledge/teams/2026-02-10/17c-user-accounts.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/product-catchup.md
+- knowledge/teams/2026-02-10/midwich-squad.md
+
+---
+
+
 ## 2026-02-10 06:15
 
 ### Changes This Window
@@ -6,7 +33,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 2 processed (0 created, 2 updated)
-- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:45–09:00 UTC)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; next: Midwich Squad - daily standup 08:4509:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected

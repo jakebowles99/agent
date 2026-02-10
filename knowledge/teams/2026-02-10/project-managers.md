@@ -55,3 +55,23 @@
 > Tushara happy birthday!
 > one for tomm for your visibility, we've started testing on LCP yesterday so forecasting Katyayani till Thursday mid day. Please let me know if there's a clash with other projects..
 
+
+## 06:41 - Gaurav Rauthan
+> <p>where can I see the forecast if Tushara is not there today?</p>
+
+## 06:40 - Gaurav Rauthan
+> <p>I didn't know she wasn't scheduled. Akshansh and I both missed this.</p>
+
+## 06:38 - Charlie Phipps-Bennett
+> <div><at id="0">Gaurav Rauthan</at> why scheduling this late?</div>
+
+## 06:34 - Navsheen Koul
+> <p>we are quite delayed already on lcp&nbsp;</p>
+> <p>fyi <at id="0">Charlie</at></p>
+
+## 06:34 - Navsheen Koul
+> <p>one of 2 has to happen</p>
+
+## 06:34 - Navsheen Koul
+> <p>need to get me vijay back on lcp if you want kat / manage 1.5 days delay on accent</p>
+

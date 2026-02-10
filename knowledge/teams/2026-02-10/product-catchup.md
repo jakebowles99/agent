@@ -15,3 +15,13 @@
 ## 05:59 - Rahul Matta
 > Will do
 
+
+# Teams Chat — Product Catchup
+
+## 06:22 - Navsheen Koul
+> <p>We have the ISV call tomm. I want that to be for fraud prediction ai agent related.</p>
+<p>I think we are faster to push that on marketplace than doc extraction. Fraud prediction will be pitched to jenston as well so would be nice if we're able to find a way to charge them through marketplace directly.&nbsp;</p>
+<p>&nbsp;</p>
+<p>The main point of discussion is hosting of data - client or our side. Billing will be metered billing based on the number of claims being analysed.&nbsp;</p>
+<p>&nbsp;</p>
+<p>FYI <at id="0">Jake</at></p>
