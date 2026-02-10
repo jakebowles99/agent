@@ -324,3 +324,37 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 ## 12:42 - Matt Davies
 > abit wild of him to do that tbh 
 
+
+# Teams Chat — Synapx Directors
+
+## 14:10 - Jake Bowles
+> <p>Guys I have Kenny available and plan to get him on the Midwich US element but I don't have time to arrange for this today - Do you have anything internal you want him on until I get around to sorting that?&nbsp;</p>
+
+## 13:47 - Andrew Price
+> While they havent paid, Simon knows it has gone twice over budget
+
+## 13:47 - Andrew Price
+> Quote was high and we have fucked the last app (Investor Commitments)
+
+## 13:47 - Akshansh Sharma
+> <p>did something happen when you were in person?</p>
+
+## 13:46 - Akshansh Sharma
+> <attachment id="1770731197776"></attachment>
+<p>why?</p>
+
+## 13:46 - Akshansh Sharma
+> <p>but hopefully we will get this back&nbsp;</p>
+
+## 13:46 - Andrew Price
+> Not surprised
+
+## 13:46 - Akshansh Sharma
+> <p>this is what we got from simon today hopefully just evaluating off the shelf&nbsp;</p>
+
+## 13:45 - Akshansh Sharma
+> <attachment id="1770731123978"></attachment>
+<p><img src="https://graph.microsoft.com/v1.0/chats/19:585b7c7238364c9eb7c30ba39150016d@thread.v2/messages/1770731156914/hostedContents/aWQ9eF8wLXd1ay1kMi00NGE1ZTIyZDllNmM2ZDE4ZTFkMWYxY2VjN2E5ZjdmZix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMi00NGE1ZTIyZDllNmM2ZDE4ZTFkMWYxY2VjN2E5ZjdmZi92aWV3cy9pbWdv/$value" width="1418.0584551148224" height="250" alt="image" itemid="0-wuk-d2-44a5e22d9e6c6d18e1d1f1cec7a9f7ff"></p>
+
+## 13:45 - Jake Bowles
+> <p>So the 17c investor letters stuff has gone away for now?</p>

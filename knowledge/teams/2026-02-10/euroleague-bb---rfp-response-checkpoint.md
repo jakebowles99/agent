@@ -11,3 +11,14 @@
 
 ## 10:56 - Charlie Phipps-Bennett
 > <p><at id="0">Anand</at>&nbsp;<at id="1">Karia</at>&nbsp;push to 2pm please gives us time to get this where it is required</p>
+
+
+## 14:13 - Tarun Reddy
+> <p>brb in 1 min guys.</p>
+
+## 14:03 - Divya Sharma
+> <attachment id="1770732109731"></attachment>
+<p>Thank you</p>
+
+## 14:01 - Charlie Phipps-Bennett
+> <p>Love it</p>

@@ -1,3 +1,26 @@
+## 2026-02-10 14:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 8 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 5 processed (0 created, 5 updated)
+- **Calendar:** 10 events on calendar; current/next: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to Charlie Phipps-Bennett: confirm if you have 5 mins.
+- [ ] Reply to Kenny Balogun/Jake Bowles re MW account status.
+- [ ] Add Gagan M to the project / add to “Data and AI presales” (until Harvest is set up), then transfer hours.
+
+### Files Updated
+- knowledge/teams/2026-02-10/kenny-balogun.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-10/gagan-m.md
+
+---
+
 ## 2026-02-10 13:30
 
 ### Changes This Window

@@ -75,3 +75,45 @@
 > @Navsheen Koul Do we have a LCP Teams?
 > 
 > Would be nice to have all the test documents and such in a folder somewhere
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 14:12 - Katyayani Lal
+> <p>I can see data only from one page of the PDF, so it looks like the extraction happened from just a single page.</p>
+<p><img alt="image" src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770732726686/hostedContents/aWQ9eF8wLXN1ay1kNC00NDM2NDg5ODU1YmM1MmYyMWM2OWI4NjEyMWZiNmRlMyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC00NDM2NDg5ODU1YmM1MmYyMWM2OWI4NjEyMWZiNmRlMy92aWV3cy9pbWdv/$value" itemid="0-suk-d4-4436489855bc52f21c69b86121fb6de3" width="800" height="238"></p>
+
+## 14:10 - Katyayani Lal
+> <attachment id="1770724315144"></attachment>
+<p>Used the same combination to test with V3. 8 fields listed below are extracted:</p>
+<ul>
+<li>Issuance Date</li><li>Maturity Date</li><li>SPV</li><li>Bond Series</li><li>Trigger Type</li><li>Sponsors</li><li>Lead Managers</li><li>Structures</li></ul>
+
+## 14:02 - Timon Wan
+> <p><at id="0">Katyayani</at>&nbsp;<at id="1">Lal</at>&nbsp;can you test using this V3&nbsp;</p>
+<p>The NEW CAT BOND please</p>
+
+## 13:59 - Timon Wan
+> <p>Yup, can see</p>
+
+## 13:58 - Ajay Gannamaneni
+> <p>in APP in dropdown we will see it as V3</p>
+
+## 13:58 - Timon Wan
+> <p>Thanks</p>
+
+## 13:58 - Ajay Gannamaneni
+> <attachment id="1770729646474"></attachment>
+<p>This is in Place</p>
+
+## 13:44 - Timon Wan
+> <p>Thanks, looks like it to me, but just wanted to make sure</p>
+
+## 13:44 - Navsheen Koul
+> <attachment id="1770729807981"></attachment>
+<p>have asked</p>
+
+## 13:23 - Timon Wan
+> <p><at id="0">Navsheen</at>&nbsp;<at id="1">Koul</at>&nbsp;are the PDFs redacted in anyways?&nbsp;</p>
+<p><strong>$[cf] Series 2025-1 Class A Principal At-Risk Variable Rate Notes due July [6], 2029</strong></p>
+<p>&nbsp;</p>
+<p><strong>$[cf] &nbsp;</strong>&lt;--- Is this a redaction?</p>
