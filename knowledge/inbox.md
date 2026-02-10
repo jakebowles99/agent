@@ -1,3 +1,32 @@
+## 2026-02-10 00:08
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 40 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **Calendar:** Upcoming meetings scheduled (none started/ended in this window)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Decide/confirm whether Fraser should move VM OS to native Ubuntu (Canonical) to use Azure credits; clarify billing scope/marketplace OS charges for NAT gateway VM.
+- [ ] Reply to James Grant: confirm Wednesday works and propose times (he is at a conference all day tomorrow).
+- [ ] Align with Charlie on project scope/budget: if Phase 0 is 20k leaving 20k, decide whether to do Liv-ex only vs adding Bordeaux City Bond API; push for 50k budget if needed.
+- [ ] Respond to Charlie re: weekend (Feb 21–22) internal Customer Service install: provide Azure subscription + assign Power Platform/Dynamics admin roles for Azure B2C setup.
+- [ ] Confirm attendee registration details: provide requested email address to Kim for event registration; confirm if Graeme needs a +1 and whether Joe/Phil registered successfully.
+- [ ] Internal alignment before proposing SalesIQ to Compass; await internal demo next week and Narayan response before signing Adobe Pro.
+- [ ] Ensure meet invite is sent to Nandan (if still outstanding).
+
+### Files Updated
+- knowledge/teams/2026-02-10/azure-admin.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett-james-grant.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/andrew-price-charlie-phipps-bennett-kim-totten-matt-davies.md
+- knowledge/inbox.md
+
+---
+
+
 ## 2026-02-09 21:45
 
 ### Changes This Window
