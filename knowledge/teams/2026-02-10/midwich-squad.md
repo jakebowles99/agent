@@ -282,3 +282,23 @@
 > <p> </p>
 > <p>I don't see any issues for this and there is no DTU spike as well. Max utilised is 70%.</p>
 
+
+# Teams Chat — Midwich Squad
+
+## 15:31 - Hemanth Kotha
+> <p><a href="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/connections/sql-connection-view-results" rel="noreferrer noopener" title="https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/connections/sql-connection-view-results" target="_blank">View results in SQL Server - Power Apps | Microsoft Learn</a> - This can be workaround for this limitation.</p>
+
+## 15:27 - Hemanth Kotha
+> <p>Based on the research + AI.&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>PowerApps + SQL&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>In dev/edit mode PA doesn't call the sproc via api's It calls "sp_describe_first_result_set" to just fetch the metadata here it fails - * Temp tables and dynamic sql is not yet executed</p>
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:438220475ac84c8e92ef0a36e2ae8b0a@thread.v2/messages/1770737246132/hostedContents/aWQ9eF8wLXd1ay1kMy05ZjkwY2MzNjQyZjFlZmE0MzJhYjFlNWYxOTI3ZDgyZCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMy05ZjkwY2MzNjQyZjFlZmE0MzJhYjFlNWYxOTI3ZDgyZC92aWV3cy9pbWdv/$value" width="860.5610561056105" height="250" alt="image" itemid="0-wuk-d3-9f90cc3642f1efa432ab1e5f1927d82d"></p>
+> <p>&nbsp;</p>
+> <p>Play mode (runtime)&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>Now power apps actually runs the api call with the actual sproc to fetch the data and now it doesn't throw error because it's executing the sproc and it returns the temp table along with metadata + data.</p>
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
+> <p>Why table variable works but not temp table. Is a question which can be related to execution order.</p>

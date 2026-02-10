@@ -1,3 +1,34 @@
+## 2026-02-10 15:00
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 48 messages across 6 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 17 processed (0 created, 17 updated)
+- **Calendar:** 10 events on calendar (incl. canceled); latest shown: Euroleague BB - RFP response checkpoint 14:00–14:30 UTC
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Midwich Squad: confirm intermittent DEV issue with MSFT/product team/MVP (table variable/performance) and identify RCA; investigate PowerApps no-output and SP behavior differences across envs.
+- [ ] Standup - LCP Doc Extraction: provide outcome-based demo-ready update; confirm where `analysis_runs` is and whether raw responses are stored; clarify mandatory fields and accuracy checks.
+- [ ] Synapx Directors: advise on internal work for Kenny until Midwich US arranged; coordinate certs work.
+- [ ] Lead / Opportunity Requests: review request to change weightage to 10% with Anand before sending.
+- [ ] Jensten Proposal: respond whether deck support is needed.
+- [ ] Charlie/Compass: answer questions on handwritten notes validation, duplicate record handling, and AI extraction learning/feedback.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/midwich-squad.md
+- knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/synapx-directors.md
+- knowledge/teams/2026-02-10/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-10/kenny-balogun.md
+- knowledge/teams/2026-02-10/jensten-proposal.md
+- knowledge/teams/2026-02-10/lead-opportunity-requests.md
+
+---
+
 ## 2026-02-10 14:45
 
 ### Changes This Window
