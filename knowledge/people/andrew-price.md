@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 11:10:** Advised on Harvest Forecast access and resource scheduling rules; discussed Microsoft licensing needs for users.
+- **2026-02-10 11:07:** Coordinated credential sharing, Harvest Forecast access reminders, and project attendance decisions.
 - **2026-02-10 10:56:** Discussed project coordination with Charlie/Yaz; handled 17C account email evidence; discussed Azure paid resources and Harvest Forecast access.
 - **2026-02-10 10:51:** Responded about removing billing account; planned to speak to Fraser about paid Azure resources; noted unavailability for prior Harvest call.
 - **2026-02-10 10:13:** Said he's not aware of the issue; will speak to Fraser about what to do with paid Azure resources.

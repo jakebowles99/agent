@@ -140,3 +140,16 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 ## 09:17 - Akshansh Sharma
 > Matt have we signed the Synapx as a service contract with Seras?
 
+
+
+## 11:00 - Charlie Phipps-Bennett
+> <attachment id="1770708773510"></attachment>
+> 
+> <p>Might be worth us mentioning to Pro that contract is not ready due to compliance with Narayan as an external. He needs to go back to his Lawyer after discussing with Charlotte on one of the suggested changes from Lawyer</p>
+
+## 11:00 - Andrew Price
+> <p><at id="0">Akshansh</at>&nbsp;<at id="1">Nandan</at>&nbsp;Tayo has escalated to Lanware that this report is not working:</p>
+> <p>&nbsp;</p>
+> <p><a href="https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2Ff99c1e35-e0ee-42ae-8b40-7d8db81afacd%2FReportSection23ad7576037e52259309%3Fexperience%3Dpower-bi&amp;data=05%7C02%7Candrew.price%40synapx.com%7Cd2de2c878d8244184f3c08de68908f24%7Cd5d1d1c497814d58996e546512bf6dd1%7C0%7C0%7C639063167263888269%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=t2BC5uaoFSmFrpQo1OT7gKqYHSqpKL2mmmaiKfPBsS0%3D&amp;reserved=0" itemtype="filesHyperlink" rel="noreferrer noopener" title="https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2Ff99c1e35-e0ee-42ae-8b40-7d8db81afacd%2FReportSection23ad7576037e52259309%3Fexperience%3Dpower-bi&amp;data=05%7C02%7Candrew.price%40synapx.com%7Cd2de2c878d8244184f3c08de68908f24%7Cd5d1d1c497814d58996e546512bf6dd1%7C0%7C0%7C639063167263888269%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=t2BC5uaoFSmFrpQo1OT7gKqYHSqpKL2mmmaiKfPBsS0%3D&amp;reserved=0" target="_blank" itemid="default">https://app.powerbi.com/groups/me/reports/f99c1e35-e0ee-42ae-8b40-7d8db81afacd/ReportSection23ad757</a></p>
+> <p>&nbsp;</p>
+> <p>Not sure which report it is, but would appreciate you getting on top of this please to keep in his good books</p>

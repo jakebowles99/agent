@@ -3,6 +3,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 11:11:** Asked about Outlook email to PDF conversion and where PDFs are saved; leave mentioned for March.
+- **2026-02-10 11:08:** Asked how plugin converts Outlook email to PDF and where saved; requested PDFs; acknowledged in Azure Admin chat.
 - **2026-02-10 10:57:** Asked about Outlook email to PDF conversion and where PDFs are saved; raised question about removing card/billing account for Azure.
 - **2026-02-10 10:52:** Asked if it is possible to remove card/billing account.
 - **2026-02-10 09:17:** Asked to catch up and mentioned LCP handover; also raised env vars access and Azure billing/card removal.

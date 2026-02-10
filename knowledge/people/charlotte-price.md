@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 11:08:** Flagged leave visibility for Timon and Anand in Forecast.
 - **2026-02-10 10:47:** Discussed Harvest setup for Capital H&B SOW separation; asked about adding PMO tag.
 
 ---

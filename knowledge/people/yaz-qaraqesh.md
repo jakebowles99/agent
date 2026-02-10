@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 11:10:** Approved moving Vijay off Midwich; referenced in scheduling discussion.
+- **2026-02-10 11:08:** Asked whether to join meeting/project; confirmed receipt of response.
 - **2026-02-10 10:57:** Asked about meeting participation in Andy/Charlie/Yaz chat; confirmed Vijay availability for testing in Project Managers chat.
 - **2026-02-10 10:53:** Provided deployment/testing status updates for PO/SO apps; coordinated code review timing; referenced issues seen by Umar and work by Vaishnavi/Dhanush/Tim; mentioned meeting Midwich F2F.
 - **2026-02-10 09:35:** Advised utilizing Vijay ASAP; praised Vijay’s testing work; directed Vijay to work with Gaurav.

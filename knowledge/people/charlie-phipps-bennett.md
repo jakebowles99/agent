@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 11:08:** Offered to manage Nimens while focus remains on Midwich Limited; indicated small scope.
 - **2026-02-10 10:56:** Stated Jake Bowles will lead CDIAD Feb 20 workshop; discussed resourcing priorities in Project Managers chat.
 - **2026-02-10 10:48:** Coordinated CDIAD ownership/registrations; discussed recruitment needs (mid-level, 'Rahul mindset'); reviewed deployment/code review scheduling with Yaz.
 - **2026-02-10 10:38:** Noted that Jake Bowles will lead the CDIAD workshop and will arrange a call.

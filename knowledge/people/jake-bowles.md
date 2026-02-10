@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 11:08:** Suggested adding 'Pro' into the next one (discussion with Matt Davies).
 - **2026-02-10 10:56:** Mentioned as leading CDIAD workshop; participated in Azure Admin cost discussion and chat with Matt Davies.
 - **2026-02-10 10:45:** Discussed Capital H&B SOW separation; registrations for CDIAD; tag request with Nandan.
 - **2026-02-10 10:39:** Mentioned as leading CDIAD workshop; also added comment to CapitalHB BRD document and received Delve birthday reminder.

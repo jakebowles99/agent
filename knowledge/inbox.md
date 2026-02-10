@@ -1,3 +1,35 @@
+## 2026-02-10 10:30
+
+### Changes This Window
+- **Emails:** 4 new
+- **Teams Chats:** 31 messages across 8 conversations
+- **Teams Channels:** 0 messages in 74 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 15 processed (2 created, 13 updated)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder 10:00–11:00 UTC; Canceled: Product Catchup 10:30–10:55 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Ajay: investigate slow/never-completing extraction when only email body provided; and issue where body+PDF uses only PDF values.
+- [ ] Ajay: check/fix missing attachment count display.
+- [ ] Gaurav: locate and share 17Capital credentials emails (esp. Anand/Kush/Hemanth) / ticket number if present.
+- [ ] Gaurav/Andrew/Matt/Navsheen: confirm access to Harvest Forecast; raise support case if issues.
+- [ ] Navsheen/Ajay: send Timon PDFs of the relevant Outlook emails or point to where they are saved.
+- [ ] Yaz: confirm whether she should join the Nimens/Midwich discussion (if needed, block calendar).
+- [ ] Nandan: skip today’s Seras Fabric Discovery Weekly Catchup (notify attendees if not already).
+
+### Files Updated
+- knowledge/teams/2026-02-10/standup---lcp-doc-extraction.md
+- knowledge/teams/2026-02-10/17c-user-accounts.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/lcp-finance-doc-extraction-handover.md
+- knowledge/teams/2026-02-10/andy-charlie-&-yaz.md
+- knowledge/teams/2026-02-10/matt-davies.md
+- knowledge/teams/2026-02-10/azure-admin.md
+- knowledge/teams/2026-02-10/seras-fabric-discovery-weekly-catchup.md
+
+---
+
 ## 2026-02-10 10:15
 
 ### Changes This Window

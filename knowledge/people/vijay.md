@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 11:08:** Assigned Nuevo work and forecasted for Accent Catering/Nuevo over next 3 days.
 - **2026-02-10 08:23:** Mentioned as needed back on LCP; availability to be checked for resourcing.
 - **2026-02-10 07:56:** Mentioned as potential available tester; need to check availability and possibly move back onto LCP.
 - **2026-02-10 07:26:** Discussed as potential tester for LCP; availability needed; could be reassigned from Midwich.

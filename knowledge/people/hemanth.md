@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 11:07:** Mentioned as not receiving credentials email.
 - **2026-02-10 10:54:** Mentioned as having limited work available; could cover something else.
 - **2026-02-09 (Teams | Midwich Squad):** Mentioned by Yaz Qaraqesh as someone to confirm environment/DB status tomorrow.
 

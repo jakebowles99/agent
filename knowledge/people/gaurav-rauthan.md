@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 11:09:** Discussed Harvest Forecast access, resource scheduling approvals, and 17Capital licensing/credentials.
 - **2026-02-10 11:03:** Discussed missing credential emails and Harvest Forecast access; coordinating account/license setup and invites.
 - **2026-02-10 10:57:** Coordinated 17C user account setups and credential follow-ups; managed resourcing/forecast discussions in Project Managers chat.
 - **2026-02-10 09:37:** Tagged by Charlie in Project Managers chat; mentioned by Yaz as someone Vijay should work with.
