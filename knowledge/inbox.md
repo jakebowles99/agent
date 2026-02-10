@@ -1,3 +1,30 @@
+## 2026-02-10 10:45
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 34 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 14 processed (2 created, 12 updated)
+- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder - (will record and send in advance) 10:00–11:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Gaurav/Andrew: confirm correct license guidance for 17Capital users (E5 + Power Apps Premium only) and tell 17Capital whether to align all users; resolve missing credentials email for Anand/Kush/Hemanth.
+- [ ] Andrew/Gaurav/Matt/Navsheen: confirm access to Harvest Forecast; raise support case if invite/access issues.
+- [ ] Charlotte/PMO: check and update Forecast for Timon’s leave (2–20 Mar) and Anand’s leave (16, 19, 20, 23 Feb).
+- [ ] Navsheen: decide whether to cancel today’s Product Catchup (no burning items reported).
+- [ ] Ajay/Timon: clarify Outlook-email-to-PDF conversion flow and where generated PDFs are saved.
+
+### Files Updated
+- knowledge/emails/2026-02-10.md
+- knowledge/teams/2026-02-10/project-managers.md
+- knowledge/teams/2026-02-10/lcp-finance-doc-extraction-handover.md
+- knowledge/teams/2026-02-10/product-catchup.md
+- knowledge/teams/2026-02-10/17c-user-accounts.md
+
+---
+
 ## 2026-02-10 10:30
 
 ### Changes This Window
