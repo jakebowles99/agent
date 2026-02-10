@@ -1,22 +1,28 @@
 # Prathap Reddy
 
 ## Basic Info
-- **Role**: (not captured)
+- **Role**: Developer
 - **Company**: Synapx
 - **Type**: Internal - Colleague
+- **Current Focus**: SOW Agent automated document generation tool
+
+## Current Work
+
+### SOW Agent Tool (Feb 2026)
+Building automated Statement of Work document generator:
+- Generates SOW documents in 15-20 seconds
+- Auto-populates fields from uploaded documents using document intelligence
+- Provides SharePoint share path upon completion
+- Currently refining: background, scope, deliverables, out-of-scope, rate cut sections
+
+**Status (2026-02-10):** Updating document sections, deployment planned for Thursday/Friday
 
 ## Last contact
-- **2026-02-09**
+- **2026-02-10** - SOW Agent demo meeting
 
 ## Recent interactions
-- **2026-02-10 05:33:** Organizer/attendee for 'SOW Agent' meeting (2026-02-10).
-- **2026-02-10 04:21:** Organized SOW Agent meeting.
-- **2026-02-10 03:45:** Organizer listed for 'SOW Agent' on 2026-02-10.
-- **2026-02-10 03:04:** Organizer/attendee for SOW Agent meeting on 2026-02-10
-- **2026-02-10 02:38:** Organized SOW Agent meeting (2026-02-10).
-- **2026-02-10 02:27:** Organizer/attendee for SOW Agent meeting (2026-02-10).
-- **2026-02-10 02:01:** Organized SOW Agent meeting on 2026-02-10.
-- **2026-02-09:** Acknowledged receipt (“Thanks”) after Jake shared a SharePoint link to a SOW document (`sow_20260209_102321.docx`). Project/client not identified in the message.
+- **2026-02-10:** Demoed SOW Agent tool to Jake. Action items: update document sections, notify Jake when complete, deploy Thu/Fri.
+- **2026-02-09:** Acknowledged receipt of SOW document (`sow_20260209_102321.docx`).
 
 ---
 *Last Updated: 2026-02-10*
