@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 19:39:** Discussed APS term change (6-year to 1-year), dissatisfaction with legal guidance, and coordinating calls/meetings.
 - **2026-02-10 19:21:** Discussed contract/AP S liability term; dissatisfaction with Aerie Law guidance; asked to reduce 6-year term and send back via Narayan.
 - **2026-02-10 19:06:** Discussed legal clause/term flexibility with Aerie Law; coordinated Compass call logistics.
 - **2026-02-10 18:36:** Confirmed APS is standard in Synapx MSA; said he was speaking with Maggie and would revert.
