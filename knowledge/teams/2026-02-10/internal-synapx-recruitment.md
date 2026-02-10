@@ -22,3 +22,13 @@
 > I’ve shared the assignments to review with Jake for the same role.
 > 
 > I’ve shared the same assignment that Navs created for hiring freshers for the Product team.
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 09:39 - Bhoomi Dasa
+> There are a few profiles with little experience, if they perform well in the assignment, we can consider them as well. I’ll also continue sourcing for the role.
+
+## 09:28 - Charlie Phipps-Bennett
+> [Attachment: 1770707029028]
+> Bhoomi Dasa just to be clear. I am looking for someone mid level. I want someone ideally Rahul mindset but slightly more experienced
+

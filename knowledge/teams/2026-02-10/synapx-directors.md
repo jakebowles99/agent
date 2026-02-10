@@ -121,3 +121,22 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 
 ## 18:46 - Matt Davies
 > <p>sending Pro on Adobe <at id="0">Charlie</at>&nbsp;<at id="1">Phipps-Bennett</at>&nbsp;but dont sign until we are happy with Narayans response please</p>
+
+# Teams Chat — Synapx Directors
+
+## 09:23 - Akshansh Sharma
+> [Attachment: 1770715260487]
+> thanks for clarifying!
+
+## 09:21 - Matt Davies
+> it's something we said to her actually
+
+## 09:18 - Akshansh Sharma
+> and service desk/customer insight is a pre req added in the contract or it's just something Lacey mentioned to us?
+
+## 09:17 - Matt Davies
+> Not signed, being drafted
+
+## 09:17 - Akshansh Sharma
+> Matt have we signed the Synapx as a service contract with Seras?
+

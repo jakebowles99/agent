@@ -67,3 +67,12 @@
 ## 09:06 - Matt Davies
 > I think I can help with the overall structure Sophia Fricker . Is Fraser Hamilton looking at the VM stuff?
 
+
+# Teams Chat — Jensten Proposal
+
+## 09:10 - Sophia Fricker
+> Just adding the Synapx as  a Sevice pages in, will chase FH
+
+## 09:06 - Matt Davies
+> I think I can help with the overall structure Sophia Fricker . Is Fraser Hamilton looking at the VM stuff?
+

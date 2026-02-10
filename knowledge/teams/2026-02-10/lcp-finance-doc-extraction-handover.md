@@ -1,0 +1,23 @@
+# Teams Chat — LCP Finance Doc Extraction Handover
+
+## 09:38 - Navsheen Koul
+> <attachment id="218111a8-0c17-4056-96e7-ff5725bf9d9a"></attachment>
+
+## 09:39 - Navsheen Koul
+> Sheet to add bugs - https://synapxltd-my.sharepoint.com/:x:/g/personal/ajay_gannamaneni_synapx_com/IQDbrR2pZFK3TpNUdEWRLqqEAfqoGdWUDxWc7xSipgcaT-o?e=6oG9b7
+
+## 09:42 - Ajay Gannamaneni
+> Breakdown:
+> Document 1: Email_2026-02-06.pdf
+> - Time taken: 9.45 seconds
+> - Total fields: 29; extracted: 7; pending: 22; confidence issue: MaturityDate
+> Document 2: Lion Re DAC 2025-1 Investor Presentation.pdf
+> - Time taken: 25.02 seconds
+> - Total fields: 29; extracted: 7; pending: 22; confidence issue: MaturityDate
+> Document 3: Lion Re DAC - Series 2025-1 - Merged Preliminary Offering Document.pdf
+> - Time taken: 326.90 seconds (5+ minutes)
+> - Total fields: 29; extracted: 29; pending: 0
+> Summary: issue is doc 3 can take very long, may break for some requests. Changed logic to extract/store per document and update when new fields extracted.
+
+## 09:50 - Navsheen Koul
+> these were my notes from friday on testing. tbh the system was crashing bad so weren't able to test the large PDfs
