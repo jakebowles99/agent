@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 19:07:** Discussed Midwich K&S questionnaire integration assessment; flagged need for Navision knowledge (Andrew Wingate). In Directors chat, relayed Tayo escalation about broken Power BI report and discussed Pro contract/liability concerns.
 - **2026-02-10 18:35:** Discussed APS/MSA terms; noted APS is standard across all; questioned Pro-related scope.
 - **2026-02-10 18:22:** Stated APS is standard across all; weighed in on whether Maggie is right.
 - **2026-02-10 18:09:** Suggested assigning Ajay; noted inability to use Narayan anymore and referenced Maggie's assessment.

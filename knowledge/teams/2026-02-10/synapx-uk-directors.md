@@ -86,3 +86,64 @@
 ## 17:09 - Matt Davies
 > <p>we might genuinely lose the client -think we need a discussion between us tonight</p>
 
+
+# Teams Chat — Synapx UK Directors
+
+## 18:31 - Jake Bowles
+> Do you want me on said call?
+
+## 18:31 - Matt Davies
+> No all gd
+
+## 18:32 - Jake Bowles
+> Shame, could do with an excuse 😉
+
+## 18:32 - Matt Davies
+> lol
+
+## 18:44 - Charlie Phipps-Bennett
+> Assume meeting is not required?
+
+## 18:45 - Charlie Phipps-Bennett
+> I need Narayan on Compass at 9
+
+## 18:45 - Matt Davies
+> have him, Pro in hand
+
+## 18:47 - Charlie Phipps-Bennett
+> I hope I get to say the same about Compass after tonight 🤣
+
+## 18:48 - Matt Davies
+> good luck
+
+# Teams Chat — Synapx UK Directors
+
+## 18:48 - Matt Davies
+> <p>good luck</p>
+
+## 18:47 - Charlie Phipps-Bennett
+> <p>I hope I get to say the same about Compass after tonight&nbsp;<emoji id="rofl" alt="🤣" title="Rolling on the floor laughing"></emoji></p>
+
+## 18:45 - Matt Davies
+> <p>have him, Pro in hand </p>
+
+## 18:45 - Charlie Phipps-Bennett
+> <p>I need Narayan on Compass at 9</p>
+
+## 18:44 - Charlie Phipps-Bennett
+> <p>Assume meeting is not required?</p>
+
+## 18:32 - Matt Davies
+> <p>lol</p>
+
+## 18:32 - Jake Bowles
+> <p>Shame, could do with an excuse <emoji id="wink" alt="😉" title="Wink"></emoji>&nbsp;</p>
+
+## 18:31 - Matt Davies
+> <p>No all gd</p>
+
+## 18:31 - Jake Bowles
+> <p>Do you want me on said call?</p>
+
+## 17:26 - Charlie Phipps-Bennett
+> <p>I agree</p>

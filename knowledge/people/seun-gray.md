@@ -9,6 +9,7 @@
 - **Email**: seun.gray@venturesystemsgroup.com
 
 ## Recent interactions
+- **2026-02-10 19:07:** Confirmed Fabric Deep Dive & BB014 Costing Accuracy workshop; mentioned Darren (F&O functional consultant) and Jake (Fabric consultant) attending at Byworth office.
 - **2026-02-10 16:00:** Coordinated Fabric Deep Dive & BB014 Costing Accuracy workshop; noted Darren and Jake attending at Byworth office.
 - **2026-02-10 13:45:** Confirmed Darren and Jake will attend Fabric Deep Dive & costing accuracy workshop at Byworth office on 12 Feb.
 - **2026-02-10 13:28:** Confirmed Darren (F&O functional consultant) and Jake (Fabric Consultant) attending Fabric Deep Dive & BB014 Costing Accuracy workshop at Byworth office.

@@ -5,6 +5,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 19:06:** Mentioned as recipient for updated APS and needed on Compass call at 9.
 - **2026-02-10 18:10:** Mentioned as someone Synapx cannot use anymore (not just for Pro).
 - **2026-02-10 17:38:** Mentioned as needing a call at 9pm regarding Pro/Compass and project/client decision.
 - **2026-02-10 17:24:** Discussed whether Narayan would accept proposed liabilities; potential impact on deal.

@@ -509,3 +509,71 @@ I don’t think Ajay knows model driven at that level but let me check with him 
 
 ## 18:08 - Matt Davies
 > Speaking with Maggie now will revert
+
+# Teams Chat — Synapx Directors
+
+## 18:04 - Akshansh Sharma
+> I thought we made this APS based on Pro MSA terms no?
+
+## 18:07 - Charlie Phipps-Bennett
+> That was my understanding to
+
+## 18:07 - Matt Davies
+> It's standard in our MSA
+
+## 18:08 - Matt Davies
+> Speaking with Maggie now will revert
+
+## 18:35 - Matt Davies
+> <attachment id="1770746528617"></attachment>
+> It is, Aerie Law did indeed introduce this point (Maggie got it wrong and said it wasnt them) but now have said it's acceptable to reduce it. I feel with them we set ourselves up for a fall sometimes. Something I need to work on with them.
+
+## 18:45 - Charlie Phipps-Bennett
+> ffs
+
+## 18:46 - Charlie Phipps-Bennett
+> Like anyone is going to sign up to 6 years liability
+
+## 18:46 - Charlie Phipps-Bennett
+> Like cmon
+
+## 18:49 - Matt Davies
+> have shared my dissatisfaction
+
+## 18:50 - Charlie Phipps-Bennett
+> Absolute morons would be my comment to them
+
+# Teams Chat — Synapx Directors
+
+## 18:58 - Akshansh Sharma
+> <div>
+<attachment id="1770749590879"></attachment>
+Matt is it possible for him to sign the APS if we update the 6 year term to 1 year and send it back to Narayan’s way?</div>
+
+## 18:53 - Matt Davies
+> <p>well I wouldn't go that far. their legal position on that particular clause is still true, but they were not forthcoming about how flexible we could or should be</p>
+
+## 18:50 - Charlie Phipps-Bennett
+> <p>Absolute morons would be my comment to them</p>
+
+## 18:49 - Matt Davies
+> <p>have shared my dissatisfaction</p>
+
+## 18:46 - Charlie Phipps-Bennett
+> <p>Like cmon</p>
+
+## 18:46 - Charlie Phipps-Bennett
+> <p>Like anyone is going to sign up to 6 years liability</p>
+
+## 18:45 - Charlie Phipps-Bennett
+> <p>ffs</p>
+
+## 18:35 - Matt Davies
+> <attachment id="1770746528617"></attachment>
+<p>It is, Aerie Law did indeed introduce this point (Maggie got it wrong and said it wasnt them) but now have said it's acceptable to reduce it. I feel with them we set ourselves up for a fall sometimes. Something I need to work on with them.</p>
+
+## 18:08 - Matt Davies
+> <p>Speaking with Maggie now will revert</p>
+
+## 18:07 - Matt Davies
+> <p>It's standard in our MSA </p>

@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 19:06:** Discussed updating APS term from 6 years to 1 year and sending back to Narayan.
 - **2026-02-10 18:36:** Discussed APS being based on Pro MSA terms; said he'd check with Ajay about model-driven knowledge.
 - **2026-02-10 18:22:** Asked whether APS is based on Pro MSA terms; mentioned checking with Ajay about model-driven.
 - **2026-02-10 18:09:** Discussed vendor commitment, fixed price model-driven app skill gap; considering onboarding external dev/architect; will check Ajay's skills.

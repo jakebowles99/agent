@@ -27,6 +27,7 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-10 19:05:** Requested adding PriceMarket and PriceProvider fields to import for FX rate determination; also escalated a Power BI report issue per Teams chat.
 - **2026-02-10 15:59:** Requested adding PriceMarket and PriceProvider fields to import for FX rate determination.
 - **2026-02-10 13:54:** Recipient on Lanware ticket update email about shared mailbox setup in LCP tenant.
 - **2026-02-10 13:47:** Nudged for update; discussed SFTP access requirements for US Bank files; suggested involving Lanware to set up server.

@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 19:06:** Asked whether to join a call; light logistics chat.
+- **2026-02-10 19:06:** Led discussions in Synapx Directors/UK Directors chats about Pro contract, Compass call, and resourcing (Kenny). Mentioned as leading CDIAD workshop; requested missing receipts follow-up.
 - **2026-02-10 17:24:** Chatted with directors about dinner/family commitments and Jensten deck & SOWs; participated in client risk discussion.
 - **2026-02-10 17:07:** Discussed family commitments and completing Jensten deck & SOWs; joined in banter about dinner.
 - **2026-02-10 16:50:** Discussed candidate offer guidance with Andrew Price.

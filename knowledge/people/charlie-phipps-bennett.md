@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 19:06:** Reacted to APS 6-year liability term; coordinated needing Narayan on Compass call at 9.
+- **2026-02-10 19:05:** Coordinated CDIAD workshop lead (Jake); discussed Pro contract liabilities/APS terms; coordinated Compass call with Narayan; discussed customer service install and performance expectations with Ajay.
 - **2026-02-10 18:36:** Asked whether issue was Pro-related; expressed concern if not; aligned understanding about APS/MSA terms.
 - **2026-02-10 18:22:** Discussed whether APS is Pro-related; shared attachment; reacted to MSA terms discussion.
 - **2026-02-10 18:09:** Discussed delivery risk and whether work can be delivered in-house; referenced lawyers instructions.
