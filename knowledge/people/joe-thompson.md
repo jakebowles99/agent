@@ -23,6 +23,8 @@
 - Email discussions regarding Slipstream project scope and pricing
 
 ## Recent interactions
+- **2026-02-10 09:19:** Asked Jake to send documentation to Jeff; confirmed Charlie said it was FOC.
+- **2026-02-10 09:18:** Requested documentation be sent to Jeff; confirmed Charlie said work was FOC.
 - **2026-02-10 08:33:** Asked Jake to send documentation to Jeff.
 
 ---

@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 09:20:** Explained docs can’t be sent yet due to architecture changes; offered analyser/response docs; discussed SOW/discounting; replied briefly to Navsheen.
+- **2026-02-10 09:18:** Coordinated catchup with Timon; discussed Jensten proposal work and asked Sophia Fricker to add pages; replied to Joe Thompson about docs/SOW and architecture changes.
 - **2026-02-10 08:23:** Requested handover to be scheduled for Tim; edited proposal deck to remove mention of F64 due to risk of exceeding limits.
 - **2026-02-10 07:57:** Mentioned in context of who would manage SalesIQ/Zoho solution discussion; deferred to Charlie to manage.
 - **2026-02-10 07:26:** Mentioned in Directors chat about managing item solo; referenced in recruitment chat as reviewer for assignments for a role.

@@ -58,3 +58,12 @@
 > Senior technician (full understanding of end to end) £850 a day
 > Mid Tier : £450 a day – can process map and advise from above
 > Junior (good at error handling in BPO - £270 a day
+
+# Teams Chat — Jensten Proposal
+
+## 09:10 - Sophia Fricker
+> Just adding the Synapx as  a Sevice pages in, will chase FH
+
+## 09:06 - Matt Davies
+> I think I can help with the overall structure Sophia Fricker . Is Fraser Hamilton looking at the VM stuff?
+
