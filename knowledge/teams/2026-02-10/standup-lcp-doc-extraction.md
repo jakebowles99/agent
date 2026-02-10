@@ -457,3 +457,51 @@ This is also dynamic from SQL itself <br>
 Right now it may be 5%<br>
 I will Change it to leer</div>
 
+
+
+## 17:42 - Ajay Gannamaneni
+> <p>for all</p>
+
+## 17:42 - Ajay Gannamaneni
+> <p>i will update to 0.001</p>
+
+## 17:42 - Ajay Gannamaneni
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770745320755/hostedContents/aWQ9eF8wLXd1ay1kMS02NzQ3ZjFjODcxMzQzYWE4YzMxNDA5MmQwNDVkOGVjMyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMS02NzQ3ZjFjODcxMzQzYWE4YzMxNDA5MmQwNDVkOGVjMy92aWV3cy9pbWdv/$value" width="331.74386920980925" height="250" alt="image" itemid="0-wuk-d1-6747f1c871343aa8c314092d045d8ec3"></p>
+
+## 17:41 - Ajay Gannamaneni
+> <attachment id="1770744622402"></attachment>
+> <p>my bad template 3 when i created i was using 60percentage</p>
+
+## 17:37 - Timon Wan
+> <p>For the large PDF files, I think it the analyzer response does get truncated.</p>
+> <p>See below:</p>
+> <p>&nbsp;</p>
+> <p></p>
+> 
+> <codeblock class="Sql"><code><span class="hljs-keyword">SELECT</span>&nbsp; <br> &nbsp;&nbsp;&nbsp;[analysis_run_id]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_payload]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_is_chunked]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_chunk_count]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_payload_size_bytes]<br>  <span class="hljs-keyword">FROM</span>&nbsp;[dbo].[analysis_runs]<br>  <span class="hljs-keyword">WHERE</span>&nbsp;analysis_run_id&nbsp;=&nbsp;172</code></codeblock>
+> <p></p>
+> <p>analysis_run_payload is not a complete JSON. Not sure if it's just how SQL displays it for larger block of text or if it actually hasn't saved hte full response.</p>
+
+## 17:34 - Timon Wan
+> <p>I believe that's the correct run_id tied to that request</p>
+
+## 17:33 - Timon Wan
+> <p>For the Payload:</p>
+> <p>&nbsp;</p>
+> <p></p>
+> 
+> <codeblock class="Sql"><code><span class="hljs-keyword">SELECT</span>&nbsp; <br> &nbsp;&nbsp;&nbsp;[analysis_run_id]<br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_source_type]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_source_id]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_document_version_id]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_analyzer_id]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_status]</span><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_payload]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_is_chunked]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_chunk_count]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[analysis_run_payload_size_bytes]<br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_error_message]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_triggered_by]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_started_at]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_completed_at]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_created_at]</span><br> &nbsp;&nbsp; <span class="hljs-comment">--&nbsp;&nbsp;&nbsp;,[analysis_run_modified_at]</span><br>  <span class="hljs-keyword">FROM</span>&nbsp;[dbo].[analysis_runs]<br>  <span class="hljs-keyword">WHERE</span>&nbsp;analysis_run_id&nbsp;=&nbsp;171</code></codeblock>
+
+## 17:33 - Timon Wan
+> <p>&nbsp;</p>
+> 
+> <codeblock class="Sql"><code><span class="hljs-keyword">SELECT</span>&nbsp;TOP&nbsp;(1000)&nbsp;[requestfield_id]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_request_id]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_request_version_id]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_template_field_id]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_field_name]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_field_value]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_extracted_value]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_normalized_value]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_precision]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_confidence]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_source_document_id]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_source_type]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_source_location]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_is_active]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_is_selected]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_is_manually_edited]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_original_value]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_edited_by]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_edited_at]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_created_at]<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,[requestfield_modified_at]<br>  <span class="hljs-keyword">FROM</span>&nbsp;[dbo].[requestfields]<br>  <span class="hljs-keyword">WHERE</span>&nbsp;requestfield_request_id&nbsp;=&nbsp;146<br><br> </code></codeblock>
+> <p>&nbsp;</p>
+
+## 17:30 - Ajay Gannamaneni
+> <div>
+> <attachment id="1770744570956"></attachment>
+> I will check and update</div>
+
+## 17:30 - Timon Wan
+> <p>I'll find the request Id for you</p>

@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-10 17:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 12 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 3 processed (0 created, 3 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Standup - LCP Doc Extraction: verify whether analyzer responses are being truncated/not fully saved (check `analysis_run_payload` for run",
+        "timestamp": "2026-02-10T18:00:39.692723+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n```md\n## 2026-02-10 17:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 23 messages across 5 conversations\n- **Teams Channels:** 0 messages in 1 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 processed (0 created, 8 updated, 1 skipped)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Standup - LCP Doc Extraction: Ajay to check/update; Timon to find the request ID; Ajay t",
         "timestamp": "2026-02-10T17:40:40.991469+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-10 13:30\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 19 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 16 processed (2 created, 14 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Respond to Tayo re US Bank files: confirm SFTP access requirements (public endpoint + use",
         "timestamp": "2026-02-10T14:04:54.752239+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-10 12:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 20 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (1 created, 9 updated)\n- **Calendar:** 10 events on calendar; next: Euroleague BB - RFP response checkpoint 14:00\u201314:30 UTC\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: decide whether to swallow data discovery \u201cPhase 0\u201d cost now and recover ",
-        "timestamp": "2026-02-10T13:27:48.086507+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 71,
+      "total_runs": 72,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T17:40:40.991486+00:00",
+    "last_updated": "2026-02-10T18:00:39.692734+00:00",
     "version": "1.0"
   }
 }

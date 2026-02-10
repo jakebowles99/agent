@@ -388,3 +388,51 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 
 ## 14:10 - Jake Bowles
 > <p>Guys I have Kenny available and plan to get him on the Midwich US element but I don't have time to arrange for this today - Do you have anything internal you want him on until I get around to sorting that?&nbsp;</p>
+
+
+## 17:42 - Charlie Phipps-Bennett
+> <attachment id="1770745326239"></attachment>
+
+## 17:41 - Charlie Phipps-Bennett
+> <attachment id="1770745272597"></attachment>
+
+# Teams Chat — Synapx Directors
+
+## 17:55 - Charlie Phipps-Bennett
+> <attachment id="1770745895043"></attachment>
+<p>He is aware why because Charlotte shared but doesn't want to take on the risk especially against the small profit he is making.</p>
+<p>&nbsp;</p>
+<p>This leaves us pretty screwed</p>
+
+## 17:55 - Charlie Phipps-Bennett
+> <p><at id="0">Akshansh</at>&nbsp;<at id="1">Sharma</at>&nbsp;we got anyway to deliver this in-house?</p>
+
+## 17:55 - Akshansh Sharma
+> <attachment id="1770745317411"></attachment>
+What I don’t understand is why did he commit verbally then and he could have read the damn doc before committing
+
+## 17:56 - Charlie Phipps-Bennett
+> <attachment id="1770746141381"></attachment>
+<p>Not sure... from what he has told me. He has to follow lawyers instructions</p>
+
+## 17:58 - Andrew Price
+> Stick Ajay on it - only can see him in Power Apps now
+
+## 17:59 - Akshansh Sharma
+> <attachment id="1770746135968"></attachment>
+The problem is fixed price and model driven app for which we don’t have the required skill set 
+
+I suggested onboard his dev and architect and ask them to aps with us but matt said thats a decision we need to make at directors level because we will be taking the liability on this
+
+## 17:59 - Andrew Price
+> This does mean we cannot use Narayan anymore
+
+## 17:59 - Andrew Price
+> Not just for Pro
+
+## 17:59 - Andrew Price
+> If we are certain Maggie is right
+
+## 18:00 - Akshansh Sharma
+> <attachment id="1770746299355"></attachment>
+I don’t think Ajay knows model driven at that level but let me check with him tomorrow
