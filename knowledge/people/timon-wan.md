@@ -3,6 +3,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 10:57:** Asked about Outlook email to PDF conversion and where PDFs are saved; raised question about removing card/billing account for Azure.
+- **2026-02-10 10:52:** Asked if it is possible to remove card/billing account.
 - **2026-02-10 09:17:** Asked to catch up and mentioned LCP handover; also raised env vars access and Azure billing/card removal.
 - **2026-02-10 05:32:** Attendee for multiple doc extraction/standup related meetings (2026-02-10).
 - **2026-02-10 04:20:** Attendee in LCP handover/standup and Midwich standup.

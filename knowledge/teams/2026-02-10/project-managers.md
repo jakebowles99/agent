@@ -167,3 +167,38 @@
 > I forecast Vijay in advance for the next 3 days (Wednesday, Thursday and Friday) on Accent Catering and partially on Nuevo.
 > will put it on the tracker once Tushara's back.
 
+
+
+## 10:46 - Charlotte Price
+> <p>i also cannot see timons leave - he is off for 3 WEEKS FYI monday 2nd march to friday 20th march&nbsp;</p>
+
+## 10:42 - Charlotte Price
+> <p>i cannot see on forecast that anands leave is showing - just FYI he is off 16th, 19th, 20th, 23rd&nbsp;</p>
+
+## 10:37 - Gaurav Rauthan
+> <p><at id="0">Yaz</at>&nbsp;<at id="1">Qaraqesh</at>&nbsp;I have changed the end date for Vijay on Midwich based on your confirmation.</p>
+> <p>Hope that is fine.</p>
+
+## 10:35 - Gaurav Rauthan
+> <attachment id="1770719685799"></attachment>
+> <p>I am taking Vijay from Midwich (Yaz). Yaz has approved.</p>
+
+## 10:34 - Andrew Price
+> <p>Basically the rule is you can schedule as long as you are not taking a resource from another PM without their approval</p>
+
+## 10:34 - Andrew Price
+> <attachment id="1770719605024"></attachment>
+> <p>Please have a go at updating</p>
+
+## 10:33 - Gaurav Rauthan
+> <p>Received it, I can access it.</p>
+
+## 10:28 - Andrew Price
+> <p><at id="0">Gaurav</at>&nbsp;<at id="1">Matt</at>&nbsp;<at id="2">Navsheen</at>&nbsp;You are the only 3 I think have an invite to Harvest Forecast but have not accessed yet. I have re-sent the email. Any issues let me know and we can raise a support case</p>
+
+## 10:21 - Gaurav Rauthan
+> <p>I do not have access to Harvest forecast so declaring here. Tushara can do it for me when she's back</p>
+
+## 10:19 - Andrew Price
+> <attachment id="1770718522844"></attachment>
+> <p>Forecasted where? Harvest Forecast?</p>

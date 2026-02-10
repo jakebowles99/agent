@@ -164,3 +164,49 @@
 > 
 > <img src="https://graph.microsoft.com/v1.0/chats/19:ae4fb9ba7705490d82a12909307cb3ae@thread.v2/messages/1770718589651/hostedContents/aWQ9eF8wLXN1ay1kNC1lZmU0OGYyNWYyYzRjZjUwYTYxMzc2NGI0MmYzOTRmMix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC1lZmU0OGYyNWYyYzRjZjUwYTYxMzc2NGI0MmYzOTRmMi92aWV3cy9pbWdv/$value" width="290.16064257028114" height="250" alt="image" itemid="0-suk-d4-efe48f25f2c4cf50a613764b42f394f2">
 
+
+
+## 10:47 - Gaurav Rauthan
+> <p>For now, do you want me to confirm it can be same as other users or let them know only E5 and power apps required??</p>
+
+## 10:47 - Andrew Price
+> <p>This is why we should sell licenses - they do not understand</p>
+
+## 10:46 - Andrew Price
+> <attachment id="1770719941950"></attachment>
+> <p>Yes, idiots</p>
+
+## 10:39 - Gaurav Rauthan
+> <p style="margin-left:0">Hi <at id="0">Andrew</at></p>
+> <p style="margin-left:0">Your email - "No Synapx user requires Power Automate Premium. E5 and Power Apps Premium only."</p>
+> <p style="margin-left:0">They have given this Power Automate premium license to Avinash, Kush, Anand and Hemanth and I think Akshansh too.</p>
+
+## 10:29 - Gaurav Rauthan
+> <p>same for Kush and Hemanth, they did not receive them.</p>
+> <p>I can't find the email either. I will have them share it directly with these users now.</p>
+
+## 10:28 - Andrew Price
+> <attachment id="1770719269681"></attachment>
+> <p><at id="0">Anand</at>&nbsp;does not think the credentials are shared with him</p>
+
+## 10:27 - Gaurav Rauthan
+> <attachment id="1770718589651"></attachment>
+> <p>I found the email but cannot find the email where the credentials were shared.</p>
+> <p>Looking for it</p>
+
+## 10:22 - Avinash Kedar
+> <p>Hi Gaurav,</p>
+> <p>&nbsp;</p>
+> <p>I have received my 17Capital credentials (<a href="mailto:synapx.avinash.kedar@17capital.com" rel="noreferrer noopener" title="mailto:synapx.avinash.kedar@17capital.com" target="_blank">synapx.avinash.kedar@17capital.com</a>).</p>
+> <p>The following licenses have been assigned:</p>
+> <ul>
+> <li>Microsoft 365 E5</li><li>Power Apps Premium</li></ul>
+> <p>&nbsp;</p>
+
+## 10:21 - Gaurav Rauthan
+> <attachment id="1770718589651"></attachment>
+> <p>can you please share the ticket number if it's there in the email?</p>
+> <p>I will search with that</p>
+
+## 10:20 - Gaurav Rauthan
+> <p>They just shared for Avinash to me as well and CCd Avinash</p>

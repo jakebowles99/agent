@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 10:56:** Stated Jake Bowles will lead CDIAD Feb 20 workshop; discussed resourcing priorities in Project Managers chat.
+- **2026-02-10 10:48:** Coordinated CDIAD ownership/registrations; discussed recruitment needs (mid-level, 'Rahul mindset'); reviewed deployment/code review scheduling with Yaz.
 - **2026-02-10 10:38:** Noted that Jake Bowles will lead the CDIAD workshop and will arrange a call.
 - **2026-02-10 10:09:** Asked who is doing Chat with Your Data in a Day (CDIAD) and whether Jake or Nandan; noted email sent to Jake and asked someone else to manage registrations.
 - **2026-02-10 09:22:** Posted attachment and tagged Akshansh Sharma and Gaurav Rauthan in Project Managers chat; mentioned as saying work was FOC.

@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 10:56:** Discussed project coordination with Charlie/Yaz; handled 17C account email evidence; discussed Azure paid resources and Harvest Forecast access.
+- **2026-02-10 10:51:** Responded about removing billing account; planned to speak to Fraser about paid Azure resources; noted unavailability for prior Harvest call.
 - **2026-02-10 10:13:** Said he's not aware of the issue; will speak to Fraser about what to do with paid Azure resources.
 - **2026-02-10 08:24:** Worked on licensing content for proposal deck; needs to complete deck content.
 - **2026-02-10 07:57:** Reported completing licensing work and needing to finish proposal deck content.

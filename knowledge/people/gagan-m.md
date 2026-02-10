@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 10:46:** Requested project be created in Harvest.
 - **2026-02-10 10:39:** Sent cancellation notice for Seras Fabric Discovery Weekly Catchup.
 - **2026-02-10 05:33:** Organizer/attendee across multiple delivery and handover meetings (2026-02-10).
 - **2026-02-10 04:21:** Organizer/attendee in handover, Seras catchup, and delivery meetings.

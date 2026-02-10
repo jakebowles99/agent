@@ -9,6 +9,7 @@
 - **Email**: owais@adstract.co.uk
 
 ## Recent interactions
+- **2026-02-10 10:56:** Aligned on choosing 2nd option for doc extraction webpage requirements; discussed 'How it Works' image section.
 - **2026-02-10 06:09:** Shared product page designs/quote for doc extraction webpage; discussed dependencies, video placeholder, and development start.
 
 ---

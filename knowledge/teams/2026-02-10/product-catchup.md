@@ -25,3 +25,10 @@
 <p>The main point of discussion is hosting of data - client or our side. Billing will be metered billing based on the number of claims being analysed.&nbsp;</p>
 <p>&nbsp;</p>
 <p>FYI <at id="0">Jake</at></p>
+
+
+## 10:39 - Rahul Matta
+> Nothing on my end
+
+## 10:38 - Navsheen Koul
+> <p><at id="0">Rahul</at>&nbsp;anything burning you want to catchup on? if not i will cancel today's call</p>

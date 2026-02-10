@@ -101,3 +101,35 @@
 > @Navsheen @Koul/@Ajay @Gannamaneni can you send across the PDFs of the emails please.
 > Or point me to where they are
 
+
+
+## 10:40 - Timon Wan
+> <p>thanks</p>
+
+## 10:38 - Ajay Gannamaneni
+> <attachment id="535ee06e-af5b-4f8d-b52d-4617bdc9078f"></attachment><attachment id="9ecd2cfc-9f80-4558-986b-2be8d308c8d3"></attachment>
+
+## 10:27 - Ajay Gannamaneni
+> <p>ignore above i will send again</p>
+
+## 10:27 - Timon Wan
+> <p>thanks</p>
+
+## 10:27 - Ajay Gannamaneni
+> 
+
+## 10:26 - Timon Wan
+> <p>That PDF is then saved somewhere or not</p>
+
+## 10:25 - Ajay Gannamaneni
+> <p>we extract the different fields and create a temporary pdf</p>
+
+## 10:24 - Timon Wan
+> <p><at id="0">Ajay</at>&nbsp;<at id="1">Gannamaneni</at>&nbsp;how does the plugin convert the outlook email to a PDF?</p>
+
+## 10:22 - Timon Wan
+> <p>cheers</p>
+
+## 10:22 - Navsheen Koul
+> <attachment id="1770718867032"></attachment>
+> <p>i have forwarded you the emails - look for outlook attachment type&nbsp;</p>
