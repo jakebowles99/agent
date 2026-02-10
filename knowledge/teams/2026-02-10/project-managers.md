@@ -75,3 +75,7 @@
 ## 06:34 - Navsheen Koul
 > <p>need to get me vijay back on lcp if you want kat / manage 1.5 days delay on accent</p>
 
+
+
+## 07:07 - Charlie Phipps-Bennett
+> Ok. Well you will need to check Vijays availability but unfortunately Kat is on LCP and this takes priority over Accent

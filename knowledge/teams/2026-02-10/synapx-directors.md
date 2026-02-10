@@ -48,3 +48,9 @@ Sounds like a more viable solution for customer. Getting a demo internally next 
 > 
 > <p><at id="0">Charlie</at>&nbsp;when can we proceed with pro contract?</p>
 
+
+
+## 07:09 - Charlie Phipps-Bennett
+> Narayan’s lawyer was reviewing yesterday. Waiting to hear back.
+> 
+> Want me to sign?
