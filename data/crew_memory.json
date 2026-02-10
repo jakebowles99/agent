@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 21:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 processed (0 created, 2 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to James Grant: acknowledge he can\u2019t do Thursday and confirm Friday instead.\n\n### Files Updated\n- knowledge/teams/2026-02-10/charlie",
-        "timestamp": "2026-02-10T21:45:06.504860+00:00"
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 21:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 74 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 processed (0 created, 2 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review FYI forecast from Matt Davies in Project Managers chat (see attached image).\n\n### Files Updated\n- ",
+        "timestamp": "2026-02-10T21:54:46.510422+00:00"
       },
       {
         "status": "success",
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T21:45:06.504870+00:00",
+    "last_updated": "2026-02-10T21:54:46.510442+00:00",
     "version": "1.0"
   }
 }
