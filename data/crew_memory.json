@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-10 19:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 20 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 created (9 updated; 9 processed)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx UK Directors: confirm whether meeting/call is required; Charlie needs Narayan on Compass at 21:00.\n- [ ] Synapx Directors: confirm",
-        "timestamp": "2026-02-10T19:10:41.224339+00:00"
+        "result_preview": "## 2026-02-10 18:45\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 19 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 14 processed (1 created, 13 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm with Maggie/Aerie Law that liability term can be reduced (update stakeholders / finalize wording).\n- [ ] Syna",
+        "timestamp": "2026-02-10T19:11:04.005177+00:00"
       },
       {
         "status": "success",
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T19:10:41.224359+00:00",
+    "last_updated": "2026-02-10T19:11:04.005194+00:00",
     "version": "1.0"
   }
 }
