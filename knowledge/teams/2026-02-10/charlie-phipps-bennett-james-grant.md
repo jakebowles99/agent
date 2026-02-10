@@ -44,3 +44,9 @@ Jake Bowles what ideas do you have?
 > Phase 0 is 20k so that leaves 20k budget. Liv-ex and Bordeaux City Bond API Integrations is not possible with 20k budget.
 > 
 > Jake Bowles what ideas do you have?
+
+# Teams Chat — Charlie Phipps-Bennett, James Grant
+
+## 21:07 - James Grant
+> <at id="0">Charlie Phipps-Bennett</at> I’m not back that time on Thursday. I’d like to do fri please.
+

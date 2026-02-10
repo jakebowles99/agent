@@ -1,3 +1,22 @@
+## 2026-02-10 21:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 1 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 2 processed (0 created, 2 updated)
+- **Calendar:** 9 events on calendar (incl. canceled)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to James Grant: acknowledge he can’t do Thursday and confirm Friday instead.
+
+### Files Updated
+- knowledge/teams/2026-02-10/charlie-phipps-bennett-james-grant.md
+
+---
+
 ## 2026-02-10 21:00
 
 ### Changes This Window
