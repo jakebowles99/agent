@@ -26,3 +26,18 @@
 ## 06:40 - Ajay Gannamaneni
 > <p>No idea</p>
 
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 10:17 - Ajay Gannamaneni
+> [Attachment: 1770718577362]
+> Will look into it
+> I remember fixing it but will let you know in 10mins
+
+## 10:16 - Katyayani Lal
+> @Ajay, While testing, when only the email body is provided (no PDF), the extraction takes a very long time, it's been ~30 minutes and is still not completed.
+> [Image]
+> 
+> However, when the email body + PDF are provided together, extraction completes, but the values are picked only from the PDF, not from the email body.
+> [Image]
+

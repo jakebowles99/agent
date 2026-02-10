@@ -87,3 +87,35 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+
+# Teams Chat — 17C User Accounts
+
+## 10:22 - Avinash Kedar
+> Hi Gaurav,
+> 
+> I have received my 17Capital credentials (synapx.avinash.kedar@17capital.com).
+> The following licenses have been assigned:
+> - Microsoft 365 E5
+> - Power Apps Premium
+
+## 10:21 - Gaurav Rauthan
+> [Attachment: 1770718589651]
+> can you please share the ticket number if it's there in the email?
+> I will search with that
+
+## 10:20 - Gaurav Rauthan
+> They just shared for Avinash to me as well and CCd Avinash
+
+## 10:20 - Gaurav Rauthan
+> I missed this, they generally share with the individual who will use the account and not anyone else.
+
+## 10:18 - Andrew Price
+> Saturday:
+> 
+> [Image]
+
+## 10:16 - Andrew Price
+> @Gaurav This came through 5 days ago:
+> 
+> [Image]
+

@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-10 10:13:** Said he's not aware of the issue; will speak to Fraser about what to do with paid Azure resources.
 - **2026-02-10 08:24:** Worked on licensing content for proposal deck; needs to complete deck content.
 - **2026-02-10 07:57:** Reported completing licensing work and needing to finish proposal deck content.
 - **2026-02-10 06:44:** Listed in 17 Capital account status update; account created and set up.

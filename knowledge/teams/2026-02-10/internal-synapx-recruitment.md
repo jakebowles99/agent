@@ -32,3 +32,13 @@
 > [Attachment: 1770707029028]
 > Bhoomi Dasa just to be clear. I am looking for someone mid level. I want someone ideally Rahul mindset but slightly more experienced
 
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 09:39 - Bhoomi Dasa
+> <attachment id="1770715718120"></attachment>
+> There are a few profiles with little experience, if they perform well in the assignment, we can consider them as well. I’ll also continue sourcing for the role.
+
+## 09:28 - Charlie Phipps-Bennett
+> <attachment id="1770707029028"></attachment>
+> just to be clear. I am looking for someone mid level. I want someone ideally Rahul mindset but slightly more experienced

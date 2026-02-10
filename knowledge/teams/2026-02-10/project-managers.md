@@ -132,3 +132,19 @@
 ## 08:31 - Charlie Phipps-Bennett
 > <attachment id="1770712129019"></attachment>
 > <at id="0">Akshansh Sharma</at> <at id="1">Gaurav Rauthan</at>
+
+# Teams Chat — Project Managers
+
+## 10:21 - Gaurav Rauthan
+> I do not have access to Harvest forecast so declaring here. Tushara can do it for me when she's back
+
+## 10:19 - Andrew Price
+> [Attachment: 1770718522844]
+> Forecasted where? Harvest Forecast?
+
+## 10:15 - Gaurav Rauthan
+> [Attachment: 1770712317379]
+> I've assigned some Nuevo work to Vijay as Accent isn't ready for testing today.
+> I forecast Vijay in advance for the next 3 days (Wednesday, Thursday and Friday) on Accent Catering and partially on Nuevo.
+> will put it on the tracker once Tushara's back.
+

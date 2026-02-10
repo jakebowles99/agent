@@ -22,6 +22,8 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-10 10:33:** Commented on Doc Extraction Webpage Requirements; preferred option 2 and noted concern about image next to 'How it Works' section.
+- **2026-02-10 10:15:** Shared attachment and bug sheet link; provided testing notes from Friday and mentioned system crashes prevented testing large PDFs.
 - **2026-02-10 09:28:** Chat where Jake replied confirming something 'makes sense'.
 - **2026-02-10 09:00:** Discussed client demo timing, testing/forecasting, and resource availability for Vijay/Katyani across LCP and Accent.
 - **2026-02-10 08:20:** Discussed LCP vs Accent resourcing/scheduling; reviewed Ajay’s timesheet notes/velocity and testing approach; okayed approval and asked to schedule handover for Tim.

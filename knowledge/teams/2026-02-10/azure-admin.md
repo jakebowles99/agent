@@ -574,3 +574,18 @@ Billing access is controlled differently — the Account Administrator has direc
 ## 09:43 - Andrew Price
 > <attachment id="1770713228764"></attachment>
 > Not that I am aware of. Will speak to Fraser today about what to do with these paid resources
+
+# Teams Chat — Azure Admin
+
+## 09:43 - Andrew Price
+> <attachment id="1770713228764"></attachment>
+> Not that I am aware of. Will speak to Fraser today about what to do with these paid resources
+
+## 08:47 - Timon Wan
+> Is it possible to remove my card/billing account?
+
+# Teams Chat — Azure Admin
+
+## 10:16 - Timon Wan
+> thanks
+
