@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-10 17:07:** Mentioned as a candidate; asked whether he is joining.
 - **2026-02-10 16:50:** Mentioned as a potential joiner in recruitment discussion.
 
 ---

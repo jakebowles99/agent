@@ -9,6 +9,7 @@
 - **Email**: bhoomi.dasa@synapx.com
 
 ## Recent interactions
+- **2026-02-10 17:07:** Shared a table/list of candidates; asked to provide joining dates and locations for accepted offers.
 - **2026-02-10 16:50:** Shared candidate status table in recruitment chat.
 - **2026-02-10 16:42:** Coordinated recruitment details, shared assignments, and provided accepted-offer candidate joining dates/locations.
 - **2026-02-10 10:53:** Shared candidate profiles and sourcing update; suggested considering low-experience profiles if assignment performance is strong.

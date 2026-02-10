@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-10 17:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 27 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 11 processed (1 created, 10 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx UK Directors: arrange a directors dinner soon.\n- [ ] Synapx UK Directors: Jake to complete Jensten deck & SOWs after returning f",
+        "timestamp": "2026-02-10T17:10:35.757651+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "## 2026-02-10 16:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 20 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 11 processed (2 created, 9 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Internal Synapx Recruitment: provide status of accepted offer candidates (joining dates/locations) to Andrew Price.\n- [ ] Internal Synap",
         "timestamp": "2026-02-10T16:53:34.305646+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-10 10:45\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 34 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 14 processed (2 created, 12 updated)\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Synapx Data & Underwriting Proposal - Placeholder - (will record and send in advance) 10:00\u201311:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Gaurav/Andre",
         "timestamp": "2026-02-10T11:15:14.053881+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-10 09:30\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 36 messages across 11 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** Upcoming meetings scheduled (10 on calendar; current/next: Capital H&B Handover 09:30\u201310:00 UTC; LCP Finance Doc Extraction Handover 09:30\u201310:20 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review email(s) received in this window and take any requi",
-        "timestamp": "2026-02-10T10:41:24.424734+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 68,
+      "total_runs": 69,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T16:53:34.305668+00:00",
+    "last_updated": "2026-02-10T17:10:35.757674+00:00",
     "version": "1.0"
   }
 }

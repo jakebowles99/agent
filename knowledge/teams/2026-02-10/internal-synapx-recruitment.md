@@ -131,3 +131,33 @@
 ## 16:25 - Andrew Price
 > Jake and I like. Please offer 30 lakhs fixed and a pay review in November
 
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 16:51 - Jake Bowles
+> Yes, we are less confident on this one but he has accepted
+
+## 16:43 - Matt Davies
+> is Azarudeen your referral too Nandan Hegde ?
+
+## 16:40 - Andrew Price
+> I will follow-up with him to confirm this is dead
+
+## 16:40 - Akshansh Sharma
+> Safe to say he won’t be joining, so i think bhoomi can remove his name from the list
+
+## 16:40 - Akshansh Sharma
+> Thats the 1 question everyone keep asking
+
+## 16:40 - Andrew Price
+> Haha, think probably not. He only messages me on LinkedIn about UK opportunities
+
+## 16:39 - Nandan Hegde
+> Is Rajendra joining ? 🙂
+
+## 16:29 - Bhoomi Dasa
+> [table]
+
+## 16:26 - Andrew Price
+> Bhoomi what is the status of the accepted offer candidates please? Joining dates and locations please
+
