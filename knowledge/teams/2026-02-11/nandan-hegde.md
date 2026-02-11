@@ -206,3 +206,12 @@
 > Have a connect with Tayo tomm at 10 AM
 > ~30 min
 > for now have told to suds to do the POC and timebound to max 1 day
+
+# Teams Chat — Nandan Hegde
+
+## 17:29 - Jake Bowles
+> <p>Yes I agree</p>
+
+## 17:29 - Nandan Hegde
+> <p>considering the criticality of Seras, and based on current scope.</p>
+> <p>we need to follow similar stds as Jensten in seras data discovery doc</p>

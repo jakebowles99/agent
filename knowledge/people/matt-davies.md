@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 17:35:** Raised concerns about very poor quality material sent to a client and escalation; emphasized keeping Lacey on side for Synapx as a Service.
 - **2026-02-11 17:21:** Discussed BI/Apps proposal quality, SOW backlog context, and requested P1 assistance.
 - **2026-02-11 17:03:** Messaged asking Tushara and Udata to do P1 tomorrow morning.
 - **2026-02-11 16:36:** Referenced in Teams notification; also sent 'Directors Meeting' Teams invite and accepted Jensten SOW/proposal walkthrough.

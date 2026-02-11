@@ -441,3 +441,40 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 > <p>I understand all is cleared now but please tell me if not</p>
 > <p><img src="https://graph.microsoft.com/v1.0/chats/19:585b7c7238364c9eb7c30ba39150016d@thread.v2/messages/1770829576050/hostedContents/aWQ9eF8wLXd1ay1kMS0yNmJjZGM3MjdkOWQzYzJjNGI2MDU4NTEzZGFiZTJmNyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMS0yNmJjZGM3MjdkOWQzYzJjNGI2MDU4NTEzZGFiZTJmNy92aWV3cy9pbWdv/$value" width="524.3095512082854" height="250" alt="image" itemid="0-wuk-d1-26bcdc727d9d3c2c4b6058513dabe2f7"></p>
 > <p>&nbsp;</p>
+
+# Teams Chat — Synapx Directors
+
+## 17:29 - Charlie Phipps-Bennett
+> <attachment id="1770830619259"></attachment>
+> <p><at id="0">Andrew</at>&nbsp;<at id="1">Price</at>&nbsp;you got the material and want to join the call to present to client?</p>
+
+## 17:26 - Jake Bowles
+> <attachment id="1770830692506"></attachment>
+> <p>Might be the nicest thing I've seen you write </p>
+
+## 17:24 - Charlie Phipps-Bennett
+> <p><at id="0">Andrew</at>&nbsp;<at id="1">Price</at>&nbsp;thanks for guidance on how to handle client yesterday. It went to plan, credit to you sir. Those grey hairs of yours come in handy!</p>
+
+## 17:23 - Charlie Phipps-Bennett
+> <p>Ok good call with Compass. No challenge on the spend to date and the need for more budget. Claire and Rachel want to review the work remaining then have a workshop with Narayan and myself to agree the steps but they certainly want it. At this stage they are more worried about timelines than budget because they need it ASAP.</p>
+> <p>&nbsp;</p>
+> <p>I pitched to them Synapx as a service based on future spend and they are very interested. Can someone share material link with me? Who can support me presenting this service offering to them next week?</p>
+
+## 17:20 - Jake Bowles
+> <p>I don't actually think I have the energy to open that email </p>
+
+## 17:18 - Jake Bowles
+> <p>Sigh</p>
+
+## 17:17 - Matt Davies
+> <p>this is probably the worst example I have seen thats been shared with a client actually - will forward to us all but no sales involvement, assuming no peer review - timing couldn't be worse, we need to keep Lacey extremely on side as shes about to sign Synapx as a Service - how could it happen?&nbsp;</p>
+
+## 17:11 - Jake Bowles
+> <p>I have no idea what you're talking about either </p>
+
+## 17:10 - Matt Davies
+> <p>he cannot have looked at what he sent</p>
+
+## 17:09 - Matt Davies
+> <attachment id="1770829753152"></attachment>
+> <p>the quality of what was sent is unbelievably poor - she has escalated to Andy and myself</p>
