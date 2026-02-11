@@ -1,3 +1,33 @@
+## 2026-02-11 00:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 2 messages across 11 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 12 processed (1 created, 11 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx Directors: confirm whether "he" is still available and let Matt know (needed for Finance Ops reports tomorrow).
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/synapx-leadership-team.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/lead-opportunity-requests.md
+- knowledge/teams/2026-02-11/project-managers.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-11/jensten-proposal.md
+- knowledge/teams/2026-02-11/azure-admin.md
+- knowledge/teams/2026-02-11/contract-requests-archive.md
+- knowledge/teams/2026-02-11/kenny-balogun.md
+- knowledge/teams/2026-02-11/yaz-qaraqesh.md
+- knowledge/teams/2026-02-11/sow-agent.md
+
+---
+
 ## 2026-02-11 00:15
 
 ### Changes This Window

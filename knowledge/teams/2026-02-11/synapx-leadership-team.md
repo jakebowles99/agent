@@ -29,3 +29,7 @@
 
 ## 23:40 - Jake Bowles
 > After the hole he dug me out of last week I definitely would
+
+# Teams Chat — Synapx Leadership Team
+
+0 messages
