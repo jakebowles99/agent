@@ -1,3 +1,27 @@
+## 2026-02-11 14:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 14 messages across 4 conversations
+- **Teams Channels:** 0 messages in 80 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 updated (0 created)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Joe Thompson: respond to “nudge please”.
+- [ ] Kim Totten: align leadership-led standard for internal dry runs/training to improve consultancy skills; agree who delivers and how to cascade.
+- [ ] Sophia Fricker: confirm whether Ankita can help with slides.
+
+### Files Updated
+- knowledge/teams/2026-02-11/joe-thompson.md
+- knowledge/teams/2026-02-11/kim-totten.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/sophia-fricker.md
+
+---
+
 ## 2026-02-11 14:30
 
 ### Changes This Window

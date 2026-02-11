@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 14:50:** Discussed addressing consultancy skills and implementing training/dry runs with Jake Bowles; mentioned Charlie, Nandan, Saumya.
 - **2026-02-11 14:45:** Asked about who is delivering Friday’s Fabric in a Day workshop and discussed creating a UK-standard session and shadowing plan to build delivery capability.
 - **2026-02-11 14:24:** Asked to confirm who is delivering Friday's Fabric in a Day workshop and suggested having a scheduled shadow to skill the team.
 - **2026-02-11 12:36:** Advised questions are delivery-led; suggested aligning team and offered support via call.

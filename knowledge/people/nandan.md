@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 14:51:** Mentioned in discussion about delivering internal dry runs/leadership messaging and feedback quality.
 - **2026-02-11 14:25:** Mentioned as potential presenter for Friday's Fabric in a Day workshop; need for shadow/backup discussed.
 - **2026-02-10 22:25:** Mentioned by Gagan M as someone being coordinated with to gather activities.
 - **2026-02-10 14:17:** Mentioned as having provided information to Gagan regarding project; no direct interaction.
