@@ -9,6 +9,7 @@
 - **Email**: tushara.udata@synapx.com
 
 ## Recent interactions
+- **2026-02-11 08:29:** Shared resource availability and asked about Harvest project/forecasting and 17C assignment.
 - **2026-02-11 08:25:** Shared resource availability; asked about Kenny assignment to 17C and Harvest forecasting/project setup; followed up on forecast updates.
 - **2026-02-10 12:18:** Posted reminder to submit timesheets by COB.
 - **2026-02-10 05:33:** Attendee for 'SOW Agent' meeting (2026-02-10).

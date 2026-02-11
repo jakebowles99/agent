@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 08:30:** Noted 17C no longer in scope for Kenny/Hemanth; commented on Jensten sign-off affecting Kenny billability.
 - **2026-02-11 08:25:** Noted that 17C is no longer in scope for Kenny or Hemanth.
 - **2026-02-11 07:39:** Asked to connect to discuss work for Suds, Ken, Dhanya, Hemanth; POC work; LCP scope proceeding till SOW.
 - **2026-02-10 23:21:** Involved in blogging topic discussion with Sophia; included on K&S slipstream questionnaire thread with Jake/Andrew.

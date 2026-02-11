@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 08:31:** Requested a runthrough demo in standup; checked status with Ajay; thanked Kat.
 - **2026-02-11 08:25:** Requested run-through demo in standup and asked status update; thanked Kat.
 - **2026-02-11 07:53:** Asked Ajay in standup how things are looking.
 - **2026-02-11 07:40:** Provided guidance for demo video: keep field names same with dummy data; show webapp for whole video.

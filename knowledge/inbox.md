@@ -1,3 +1,30 @@
+## 2026-02-11 08:15
+
+### Changes This Window
+- **Emails:** 0
+- **Teams Chats:** 34 messages across 5 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 21 processed (1 created, 20 updated)
+- **Calendar:** 9 events on calendar (next: "Ooo" 08:00–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Project Managers: update Harvest Forecast for Synapx non-working time; respond re H&B project in Harvest/enable Forecast; coordinate Tejashwini with Tushara; confirm Kenny assignment for 17C vs internal.
+- [ ] Synapx Directors: confirm whether there is billable work for available UK resources (Kenny & Fraser) this week.
+- [ ] Standup - LCP Doc Extraction: give Navsheen a runthrough demo in standup; investigate missing PDF extraction when Email Body (144A)+Preliminary PDF+V3.
+- [ ] Internal Synapx Recruitment: reply to Andrew/Jake with view on offer fairness / possible revised range.
+- [ ] Jensten Proposal: reply to Sophia on whether anything is needed for the proposal.
+
+### Files Updated
+- knowledge/teams/2026-02-11/project-managers.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/internal-synapx-recruitment.md
+- knowledge/teams/2026-02-11/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-11/jensten-proposal.md
+
+---
+
 ## 2026-02-11 08:00
 
 ### Changes This Window
@@ -46,4 +73,3 @@
 - knowledge/teams/2026-02-11/standup-lcp-doc-extraction.md
 
 ---
-
