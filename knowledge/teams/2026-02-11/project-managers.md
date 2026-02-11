@@ -27,3 +27,11 @@
 > <div>
 <attachment id="1770759755091"></attachment>
 I will update and remove investor letters for now and wait until simon comes back</div>
+
+# Teams Chat — Project Managers
+
+## 01:58 - Akshansh Sharma
+> <div>
+<attachment id="1770759755091"></attachment>
+I will update and remove investor letters for now and wait until simon comes back</div>
+
