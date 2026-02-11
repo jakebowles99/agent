@@ -1,3 +1,24 @@
+## 2026-02-11 06:15
+
+### Changes This Window
+- **Emails:** 0
+- **Teams Chats:** 4 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 3 processed (0 created, 3 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Prathap Reddy: check the draft that was just sent (was previously in personal chat).
+
+### Files Updated
+- knowledge/teams/2026-02-11/prathap-reddy.md
+- knowledge/teams/2026-02-11/sow-agent.md
+- knowledge/teams/2026-02-11/project-managers.md
+
+---
+
 ## 2026-02-11 06:00
 
 ### Changes This Window
@@ -10,7 +31,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Prathap Reddy: continue/complete wiring SOW fields (incl. multi-file uploads) into the Logic App “Populate a Microsoft Word template” action for end-to-end SOW generation.
+- [ ] Prathap Reddy: continue/complete wiring SOW fields (incl. multi-file uploads) into the Logic App Populate a Microsoft Word template action for end-to-end SOW generation.
 
 ### Files Updated
 - knowledge/teams/2026-02-11/prathap-reddy.md
