@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 01:36:** Discussed sales/certification run; prepared compliance; shared numbers for RFPs and awaited feedback from PNY via referral.
 - **2026-02-11 01:22:** Discussed certification plans contingent on having a salesperson; advised preparing for ad-hoc call and preparing compliance.
 - **2026-02-11 01:06:** Commented on certification run once sales person hired; warned of ad-hoc phone call; said he will prepare Compliance.
 - **2026-02-11 00:37:** Discussed considering certification once there is a salesperson; banter about paying for a $99 exam.

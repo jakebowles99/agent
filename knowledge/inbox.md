@@ -1,3 +1,29 @@
+## 2026-02-11 01:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 40 messages across 4 conversations
+- **Teams Channels:** 0 messages in 78 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (0 created, 10 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Lead / Opportunity Requests: confirm headline numbers for both RFP excel submissions tomorrow once PNY feedback arrives; Anand to prep per Andrew’s direction; update team ASAP.
+- [ ] Synapx UK Directors: be prepared for an ad-hoc phone call tomorrow.
+- [ ] Synapx UK Directors: prepare Compliance.
+- [ ] Synapx Directors: confirm whether APS can be signed if 6-year term is updated to 1 year and resent.
+- [ ] Synapx Directors: confirm whether he is still available and let Matt know (needed for Finance Ops reports tomorrow).
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/synapx-leadership-team.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/lead-opportunity-requests.md
+
+---
+
 ## 2026-02-11 01:15
 
 ### Changes This Window

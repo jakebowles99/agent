@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 01:36:** Mentioned as having asked Graham for an answer related to RFPs/opportunity request.
 - **2026-02-11 00:37:** Mentioned as having asked Graham for an answer regarding numbers/feedback.
 - **2026-02-11 00:20:** Noted that Jon asked Graham for feedback on numbers for upcoming submissions.
 - **2026-02-11 00:10:** Mentioned as having asked Graham for feedback on RFP numbers.
