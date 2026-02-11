@@ -1,3 +1,22 @@
+## 2026-02-11 02:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 1 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 1 processed (0 created, 0 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Project Managers: update/remove investor letters for now; wait until Simon returns before proceeding.
+
+### Files Updated
+- knowledge/teams/2026-02-11/project-managers.md
+
+---
+
 ## 2026-02-11 02:15
 
 ### Changes This Window
