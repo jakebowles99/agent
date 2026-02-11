@@ -1,3 +1,27 @@
+## 2026-02-11 16:30
+
+### Changes This Window
+- **Emails:** 3 new (subjects: not provided)
+- **Teams Chats:** 5 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 0
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Assign a GitHub Copilot licence to Vaishnavi and invite her to the GitHub org.
+- [ ] Nominate a small group for Agentic Coding lessons; make Charlie optional.
+- [ ] Advise Joe Thompson on process to hook Content Understanding up with the SDQ/bid module Umar built (Jake to ask Charlie and get back).
+- [ ] Provide Charlie Phipps-Bennett recommendations for a 3D/body map library to replace existing body map (Incitrak).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-11/joe-thompson.md
+
+---
+
 ## 2026-02-11 16:15
 
 ### Changes This Window
@@ -19,6 +43,7 @@
 - knowledge/emails/2026-02-11.md
 - knowledge/teams/2026-02-11/andrew-hutchison-dave-jackson-matt-davies.md
 - knowledge/teams/2026-02-11/prathap-reddy.md
+- knowledge/teams/2026-02-11/joe-thompson.md
 - knowledge/teams/2026-02-11/nandan-hegde.md
 - knowledge/teams/2026-02-11/sophia-fricker.md
 

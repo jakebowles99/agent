@@ -27,6 +27,7 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-11 16:38:** Asked about exchange rates being pushed via API to LemonEdge; looped in Nandan/Swapna.
 - **2026-02-11 16:23:** Asked about Chrysalis ExchangeRate table rates being pushed via API; not seeing them in LemonEdge.
 - **2026-02-11 15:55:** Asked whether Chrysalis exchange rates are being pushed via API to LemonEdge.
 - **2026-02-11 14:08:** Asked about exchange rates being pushed via API; referenced in Teams chat as point of contact for scope/approvals.

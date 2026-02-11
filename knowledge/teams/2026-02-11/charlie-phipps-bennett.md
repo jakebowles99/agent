@@ -126,3 +126,18 @@
 ## 15:32 - Jake Bowles
 > Oh haha I saw Divya's name at the top that's why I asked
 
+
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 16:27 - Charlie Phipps-Bennett
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:4260f6a8-1c91-4928-a81e-c8025b63f509_a5ba7771-ad8f-432b-ab07-5c500af3dd48@unq.gbl.spaces/messages/1770827256106/hostedContents/aWQ9eF8wLXN1ay1kMS04MDAwNzI4ZjVjM2YxNDg5MTIzOTE3YjllOTlkODdiNCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMS04MDAwNzI4ZjVjM2YxNDg5MTIzOTE3YjllOTlkODdiNC92aWV3cy9pbWdv/$value" width="367.8343949044586" height="250" alt="image" itemid="0-suk-d1-8000728f5c3f1489123917b9e99d87b4"></p>
+<p>&nbsp;</p>
+<p>getting rude to see if this works</p>
+
+## 16:27 - Charlie Phipps-Bennett
+> <attachment id="1770826861455"></attachment>
+<p>We have a support contract</p>
+
+## 16:21 - Unknown Sender
+> <attachment id="1770826722570"></attachment>

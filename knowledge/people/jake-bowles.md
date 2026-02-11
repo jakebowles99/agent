@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 16:38:** Added user to Synapx | Delivery team (Teams email); chatted with Charlie and Joe; replied about legal/pricing and process questions.
 - **2026-02-11 16:23:** Chatted about invites and Jensten deck; sent/received emails about FabCon and added user to Synapx | Delivery team.
 - **2026-02-11 16:05:** Discussed needing help with a deck; working on design in Canva while traveling; noted someone offline.
 - **2026-02-11 15:53:** Discussed Canva slides, project forecasting updates, 17C account access, and SOW run-through scheduling.

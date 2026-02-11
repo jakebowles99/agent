@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-11 16:30\n\n### Changes This Window\n- **Emails:** 3 new (subjects: not provided)\n- **Teams Chats:** 5 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Assign a GitHub Copilot licence to Vaishnavi and invite her to the GitHub org.\n- [ ] Nominate a small group for Agenti",
+        "timestamp": "2026-02-11T16:40:06.137158+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "## 2026-02-11 16:15\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 15 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 20 processed (2 created, 18 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Dave Jackson / Jake Bowles: confirm and schedule 12:00\u201313:00 slot (invite sent).\n- [ ] Prathap Reddy: deplo",
         "timestamp": "2026-02-11T16:25:36.913252+00:00"
       },
@@ -66,14 +74,6 @@
         "status": "error",
         "error": "Invalid response from LLM call - None or empty.",
         "timestamp": "2026-02-11T13:56:13.897115+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 13:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 26 messages across 6 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 14 processed (1 created, 13 updated)\n- **Calendar:** 10 events on calendar (next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] 17C User Accounts: raise RFA ASAP; investigate AD/AVD password sync issue and recom",
-        "timestamp": "2026-02-11T13:44:37.077472+00:00"
       }
     ],
     "pending_items": []
@@ -81,7 +81,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 139,
+      "total_runs": 140,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -94,7 +94,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T16:25:36.913263+00:00",
+    "last_updated": "2026-02-11T16:40:06.137179+00:00",
     "version": "1.0"
   }
 }
