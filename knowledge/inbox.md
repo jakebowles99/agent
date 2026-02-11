@@ -1,3 +1,25 @@
+## 2026-02-11 20:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 8 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 8 processed (2 created, 6 updated)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Advise on integrating bids app work with Foundry/analyzer; align next steps (similar to PO app).
+- [ ] Review/consider performance issues on SO app (indexing/filtering) as user/site count increases.
+- [ ] Follow up next week with Claire & Rachel on process-map homework and scope for this release vs later.
+
+### Files Updated
+- knowledge/teams/2026-02-11/iwantmore-ai-synapx.md
+- knowledge/teams/2026-02-11/joe-synapx-delivery.md
+
+---
+
 ## 2026-02-11 20:30
 
 ### Changes This Window
