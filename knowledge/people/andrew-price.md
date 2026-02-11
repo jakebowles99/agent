@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 08:22:** Shared details on certifications dashboard/voucher requests; discussed internal project backlog and resourcing; asked Jake for view on offer.
 - **2026-02-11 07:53:** Asked Jake for thoughts on an offer; replied to Sophia about proposal work.
 - **2026-02-11 04:28:** Asked if access works now; requested deleting a password.
 - **2026-02-11 01:51:** Discussed certification/sales staffing; advised being prepared for ad-hoc compliance call; shared he floated numbers to PNY and awaited feedback; requested password deletion.

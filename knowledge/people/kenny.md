@@ -6,7 +6,8 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 08:23:** Referenced regarding UK resource availability, time logging plan, and assignment/forecasting for 17C vs internal projects.
 - **2026-02-10 15:06:** Mentioned by Jake as available resource for Midwich US element/internal work.
 
 ---
-*Last Updated: 2026-02-10*
+*Last Updated: 2026-02-11*

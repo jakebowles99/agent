@@ -22,3 +22,16 @@ I think the offer is fair, but what do you think <at id="0">Jake</at>?</div>
 
 ## 07:45 - Andrew Price
 > I think the offer is fair, but what do you think Jake?
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 07:57 - Bhoomi Dasa
+> <p>If you want, I think I can try to convince him for 311.5.</p>
+
+## 07:50 - Bhoomi Dasa
+> <p>I tried my best but he is said with 10 years of experience he will expect 30% hike at least and what we are offering he will get that in his upcoming appraisal + he is getting variable pay of 17 - 18% every year</p>
+
+## 07:45 - Andrew Price
+> <div>
+<attachment id="1770794438864"></attachment>
+I think the offer is fair, but what do you think <at id="0">Jake</at>?</div>

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 08:25:** Asked for opinion on fairness of offer in recruitment discussion.
 - **2026-02-11 07:53:** Mentioned by Andrew Price for opinion on recruitment offer.
 - **2026-02-11 00:20:** Mentioned alongside Tim as a candidate for a certification.
 - **2026-02-10 23:22:** Mentioned by Seun Gray as Fabric consultant attending Feb 12 workshop at Byworth office (not necessarily Jake Bowles).

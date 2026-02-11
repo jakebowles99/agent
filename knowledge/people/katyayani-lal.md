@@ -9,6 +9,7 @@
 - **Email**: katyayani.lal@synapx.com
 
 ## Recent interactions
+- **2026-02-11 08:25:** Reported V3 extraction testing results; issue with PDF fields not extracting in Email Body+Preliminary PDF+V3 combination; preliminary PDF+V3 extracts 21 fields.
 - **2026-02-10 15:31:** Shared testing results for email+PDF extraction (up to 18 fields) and noted mandatory fields/UI issues.
 - **2026-02-10 15:05:** Shared testing results for email+PDF extraction; reported UI issues and page-limited extraction.
 - **2026-02-10 14:43:** Tested V3 extraction; reported only one PDF page extracted and listed extracted fields.
@@ -20,4 +21,4 @@
 - **2026-02-10 10:58:** Testing LCP doc extraction; reported long extraction when only email body provided and PDF vs email-body value sourcing issue; listed in 17C accounts.
 
 ---
-*Last Updated: 2026-02-10*
+*Last Updated: 2026-02-11*

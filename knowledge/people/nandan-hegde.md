@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 08:25:** Noted that 17C is no longer in scope for Kenny or Hemanth.
 - **2026-02-11 07:39:** Asked to connect to discuss work for Suds, Ken, Dhanya, Hemanth; POC work; LCP scope proceeding till SOW.
 - **2026-02-10 23:21:** Involved in blogging topic discussion with Sophia; included on K&S slipstream questionnaire thread with Jake/Andrew.
 - **2026-02-10 19:05:** Discussed blogging topics with Sophia; involved in Synapx Directors chat on SOWs, LCP report issue, and project planning.
