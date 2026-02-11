@@ -14,3 +14,8 @@
 
 ## 23:21 - Charlie Phipps-Bennett
 > Compass CMS but its out the door
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 09:27 - Charlie Phipps-Bennett
+> Vaishnavi wants to code app can you assign github copilot licence and invite her to org

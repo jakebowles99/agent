@@ -1,3 +1,25 @@
+## 2026-02-11 09:15
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 20 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 11 processed (2 created, 9 updated)
+- **Calendar:** 10 events on calendar (current: "SOW Agent" 09:00–09:30 UTC; next: "Ooo" 09:30–10:30 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] SOW Agent: update the SOW using Jake Bowles’ notes (see attachments) and reference the “OLD SOW” attachment as needed.
+- [ ] Product Catchup: provide Navsheen screenshots of the requested page (including version with all checkboxes selected) and ensure copyright shows 2026.
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/sow-agent.md
+- knowledge/teams/2026-02-11/product-catchup.md
+
+---
+
 ## 2026-02-11 09:00
 
 ### Changes This Window

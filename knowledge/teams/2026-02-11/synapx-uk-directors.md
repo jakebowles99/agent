@@ -179,3 +179,10 @@
 
 ## 23:29 - Andrew Price
 > I will prepare Compliance
+
+# Teams Chat — Synapx UK Directors
+
+## 09:19 - Jake Bowles
+> I don't actually think we're that far off this you know
+> 
+> [image]

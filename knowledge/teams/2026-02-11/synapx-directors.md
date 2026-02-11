@@ -283,3 +283,14 @@ Yes actually, I could use him on Finance Ops reports tomorrow
 > So nice to see someone else get it! The possibilities are limitless
 > <attachment id="1770790782921"></attachment>
 
+
+# Teams Chat — Synapx Directors
+
+## 09:30 - Jake Bowles
+> Friday works for me
+
+## 09:30 - Matt Davies
+> we do need to discuss pipeline vs capacity with a focus on UK resources yes. Jake cannot make Thursdays meeting, I could move it to Friday? naturally a good opportunity to discuss individuals
+
+## 09:19 - Charlie Phipps-Bennett
+> I ask because they are benched so probably a great time to accelerate the conversation

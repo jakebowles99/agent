@@ -22,6 +22,8 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 09:41:** Mentioned/tagged regarding whether 'ContractType' should be a fixed category from Excel dropdown values.
+- **2026-02-11 09:35:** Requested page screenshots; noted missing success state and copyright year; asked about not uploading email to GPT.
 - **2026-02-11 09:18:** Requested screenshots and noted copyright year; asked about uploading email into GPT.
 - **2026-02-11 08:57:** Requested Synapx-branded screenshots/videos; provided detailed feedback on dummy data, branding text, and IP wording.
 - **2026-02-11 08:31:** Requested a runthrough demo in standup; checked status with Ajay; thanked Kat.

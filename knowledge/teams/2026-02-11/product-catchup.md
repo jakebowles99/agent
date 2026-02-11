@@ -195,3 +195,8 @@ Check which attachments to process and click 'Submit'."</li></ul>
 
 ## 08:46 - Navsheen Koul
 > <p>just want to make sure you didn't upload the email into gpt directly&nbsp;<emoji id="sweatgrinning" alt="😅" title="Sweat grinning"></emoji></p>
+
+# Teams Chat — Product Catchup
+
+## 09:10 - Rahul Matta
+> [image]

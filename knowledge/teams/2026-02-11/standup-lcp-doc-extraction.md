@@ -47,3 +47,8 @@
 
 ## 07:43 - Navsheen Koul
 > <p>Morning, how are we looking <at id="0">Ajay</at>?</p>
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 09:08 - Timon Wan
+> @Navsheen Koul, for 'ContractType' I see in the excel dropdown values. Does this mean it's got fixed category that it should be in?

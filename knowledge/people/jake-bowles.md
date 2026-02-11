@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 09:40:** Discussed moving directors meeting to Friday; suggested outreach targets (Stagecoach, Arriva, Metrolink) and shared potential lead via Beard Construction; shared image in UK directors chat.
+- **2026-02-11 09:35:** Shared old SOW and noted SOW needs updating; said he would be 5 minutes late.
 - **2026-02-11 09:15:** Messaged that he would be 5 minutes late.
 - **2026-02-11 08:57:** Discussed AVD usage and tooling; gave view on recruitment offer; agreed to call Nandan to discuss resourcing and scope.
 - **2026-02-11 06:53:** Was addressed by Prathap Reddy regarding SOW generation updates and asked to check a message.
