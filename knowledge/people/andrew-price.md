@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 00:19:** Chatted about certification run, compliance prep, RFP number estimates/feedback from PNY, and project admin request (delete password).
 - **2026-02-11 00:09:** Chatted about certifications, compliance preparation, RFP pricing numbers awaiting PNY feedback, and PM admin tasks (password deletion).
 - **2026-02-10 23:51:** Discussed certification run, compliance prep, and RFP numbers/feedback; requested password deletion in PM chat.
 - **2026-02-10 23:41:** Reviewed lead weightings and RFP numbers; advised on Harvest Forecast access and password cleanup; requested SOW template updates for Synapx as a Service.

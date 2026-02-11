@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 00:19:** Participated in chats about certifications, director updates, RFP submissions, checking in on issues, and account requests for Kenny.
 - **2026-02-11 00:09:** Asked about certification value and UK directors update; discussed RFP admin; checked in on workload; progressed account creation for Kenny on MW and requested an account from Yaz; asked for EOD update from SOW Agent.
 - **2026-02-10 23:51:** Discussed certification value/cost, UK directors updates, and RFP submission prep.
 - **2026-02-10 23:41:** Discussed Jensten SOW/deck timing, Compass questions, and RFP pricing discussion.

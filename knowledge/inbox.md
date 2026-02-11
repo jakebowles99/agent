@@ -1,3 +1,35 @@
+## 2026-02-11 00:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 50 messages across 10 conversations
+- **Teams Channels:** 0 messages in 29 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 13 processed (0 created, 13 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Lead / Opportunity Requests: confirm headline numbers for both RFP excel submissions (awaiting PNY feedback tomorrow); Anand to prep per Andrews direction; update team ASAP.
+- [ ] Project Managers: delete password now that issue is resolved.
+- [ ] Yaz Qaraqesh: create/provide an account for Kenny.
+- [ ] Kenny Balogun: confirm MW account creation progress; coordinate helping Andy on certs dashboards.
+- [ ] Jensten Proposal: review that slide 16 update is incorporated.
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-leadership-team.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/lead-opportunity-requests.md
+- knowledge/teams/2026-02-11/project-managers.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-11/jensten-proposal.md
+- knowledge/teams/2026-02-11/azure-admin.md
+- knowledge/teams/2026-02-11/contract-requests-archive.md
+- knowledge/teams/2026-02-11/kenny-balogun.md
+- knowledge/teams/2026-02-11/yaz-qaraqesh.md
+
+---
+
 ## 2026-02-11 00:00
 
 ### Changes This Window
@@ -10,7 +42,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Lead / Opportunity Requests (PNY RFPs): confirm headline numbers to submit (e.g., ~£200k & ~£500k vs £250k & £600k) and update team ASAP once PNY feedback arrives tomorrow; Anand to prep per Andrew’s direction.
+- [ ] Lead / Opportunity Requests (PNY RFPs): confirm headline numbers to submit (e.g., ~200k & ~2500k vs 250k & 2600k) and update team ASAP once PNY feedback arrives tomorrow; Anand to prep per Andrews direction.
 - [ ] Project Managers: delete shared password now that access is restored.
 - [ ] Yaz Qaraqesh: create/provide an account for Kenny.
 - [ ] Kenny Balogun: confirm MW account creation progress; coordinate helping Andy on certs dashboards.
@@ -43,7 +75,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~£200k & ~£500k vs £250k & £600k) and update team ASAP once feedback received.
+- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~200k & ~2500k vs 250k & 2600k) and update team ASAP once feedback received.
 - [ ] Project Managers: delete shared password (per Andrew) now that access is restored.
 - [ ] Synapx UK Directors: be prepared for an ad-hoc phone call tomorrow / share what happened when ready.
 
@@ -68,8 +100,8 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Synapx UK Directors: decide whether to send Jensten SOWs tomorrow; ensure SOW does not read like Capex; create/obtain “Synapx as a Service” SOW template referencing the master template.
-- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~£200k & ~£500k vs £250k & £600k) and update team ASAP once feedback received.
+- [ ] Synapx UK Directors: decide whether to send Jensten SOWs tomorrow; ensure SOW does not read like Capex; create/obtain Synapx as a Service SOW template referencing the master template.
+- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~200k & ~2500k vs 250k & 2600k) and update team ASAP once feedback received.
 - [ ] Project Managers: ensure all users have Harvest Forecast access; follow up on request to delete any temporary stored password (1Password) after account access is restored.
 - [ ] Compass: respond to Compass questions on AI extraction/handwritten notes/duplicates; confirm phrasing that module is pre-trained and not self-learning; agree any training of real cases is out of scope.
 
@@ -248,7 +280,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Reply to James Grant: acknowledge he can’t do Thursday and confirm Friday instead.
+- [ ] Reply to James Grant: acknowledge he cant do Thursday and confirm Friday instead.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/charlie-phipps-bennett-james-grant.md
@@ -267,7 +299,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Reply to James Grant: acknowledge he can’t do Thursday and confirm Friday instead.
+- [ ] Reply to James Grant: acknowledge he cant do Thursday and confirm Friday instead.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/charlie-phipps-bennett-james-grant.md
@@ -306,7 +338,7 @@
 
 ### Action Items Detected
 - [ ] Reply to Charlie Phipps-Bennett: confirm whether Thursday at 2pm works.
-- [ ] Jensten Proposal: confirm whether to include cost to deliver the phases in Jake’s slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
+- [ ] Jensten Proposal: confirm whether to include cost to deliver the phases in Jakes slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
 - [ ] Synapx Directors: confirm/update APS liability term change (reduce from 6 years to 1 year) and resend for signature via Narayan.
 
 ### Files Updated
@@ -328,7 +360,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jake’s slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
+- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jakes slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation if possible.
 - [ ] Jensten Proposal: incorporate slide 17 cloud-first adoption strategy update (remove 33 of 64 servers to other workloads); use Official Azure Icon Set for diagrams (https://code.benco.io/icon-collection/azure-icons/).
 
 ### Files Updated
@@ -448,7 +480,7 @@
 
 ### Action Items Detected
 - [ ] Synapx Directors: confirm with Maggie/Aerie Law that liability term can be reduced (update stakeholders / finalize wording).
-- [ ] Synapx UK Directors: ensure Narayan is on Compass at 09:00 (Matt: “have him, Pro in hand”).
+- [ ] Synapx UK Directors: ensure Narayan is on Compass at 09:00 (Matt: have him, Pro in hand).
 
 ### Files Updated
 - knowledge/emails/2026-02-10.md
@@ -469,7 +501,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Synapx Directors: Matt is speaking with Maggie now—await/record confirmation whether APS/MSA terms are standard across Pro vs non-Pro.
+- [ ] Synapx Directors: Matt is speaking with Maggie nowawait/record confirmation whether APS/MSA terms are standard across Pro vs non-Pro.
 - [ ] Synapx Directors: Akshansh to check with Ajay tomorrow on model-driven app capability level.
 
 ### Files Updated
@@ -555,7 +587,7 @@
 ### Action Items Detected
 - [ ] Standup - LCP Doc Extraction: Ajay to check/update; Timon to find the request ID; Ajay to debug/fix backend if not working; verify deployment + confirm OffRiskDate confidence/accuracy and percentage logic.
 - [ ] Synapx UK Directors: arrange discussion tonight; call Narayan at 21:00; make a decision tonight to avoid losing project.
-- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jake’s slides; Jake to review this evening.
+- [ ] Jensten Proposal: confirm whether to include cost to deliver phases in Jakes slides; Jake to review this evening.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/standup-lcp-doc-extraction.md
@@ -580,8 +612,8 @@
 
 ### Action Items Detected
 - [ ] Synapx UK Directors: arrange a directors dinner soon.
-- [ ] Synapx UK Directors: discuss tonight due to client risk / pressure; move on Pro deal; decide backup plan if Narayan won’t accept liabilities.
-- [ ] Jensten Proposal: prioritise finishing deck today; add “Synapx as a Service” pages; confirm where Phase 0 architecture (~“£350k) fits; break out Dave/Luke scope slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation; Jake to review this evening.
+- [ ] Synapx UK Directors: discuss tonight due to client risk / pressure; move on Pro deal; decide backup plan if Narayan wont accept liabilities.
+- [ ] Jensten Proposal: prioritise finishing deck today; add Synapx as a Service pages; confirm where Phase 0 architecture (~2350k) fits; break out Dave/Luke scope slides; provide effort/cost/duration (or T-shirt size) for VM migration/consolidation; Jake to review this evening.
 
 ### Files Updated
 - knowledge/teams/2026-02-10/synapx-uk-directors.md
@@ -605,8 +637,8 @@
 - [ ] Synapx UK Directors: arrange a directors dinner soon.
 - [ ] Synapx UK Directors: Jake to complete Jensten deck & SOWs after returning from family commitments.
 - [ ] Internal Synapx Recruitment: provide status of accepted offer candidates (joining dates/locations) to Andrew Price.
-- [ ] Internal Synapx Recruitment: follow up to confirm candidate is dead; remove candidate unlikely to join; confirm whether Rajendra is joining; clarify whether Azarudeen is Nandan Hegde’s referral.
-- [ ] Kenny Balogun: respond to Kenny (“Hey Jake”).
+- [ ] Internal Synapx Recruitment: follow up to confirm candidate is dead; remove candidate unlikely to join; confirm whether Rajendra is joining; clarify whether Azarudeen is Nandan Hegdes referral.
+- [ ] Kenny Balogun: respond to Kenny (Hey Jake).
 
 ### Files Updated
 - knowledge/teams/2026-02-10/sophia-fricker.md
