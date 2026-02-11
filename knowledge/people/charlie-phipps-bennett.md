@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 04:28:** Commented on 6-year liability clause; expressed dissatisfaction with counterpart/legal position.
 - **2026-02-11 01:51:** Discussed certification suggestion; UK Directors discussion incl. email drafting and preparedness; requested direction on RFP numbers and noted Compass CMS is 'out the door'.
 - **2026-02-11 01:36:** Participated across director/leadership chats; discussed contract liability term, certification value, compliance prep, RFP submissions and pricing.
 - **2026-02-11 01:22:** Commented on APS liability term issue, discussed certification value, and UK directors chat about compliance and email response.

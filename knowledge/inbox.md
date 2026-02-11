@@ -1,3 +1,25 @@
+## 2026-02-11 04:15
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 3 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 6 processed (0 created, 6 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Project Managers: update/remove investor letters for now; wait until Simon comes back.
+- [ ] Synapx Directors: confirm whether he is still available; let Matt know (needed for Finance Ops reports tomorrow).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/project-managers.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+
+---
+
 ## 2026-02-11 04:00
 
 ### Changes This Window
