@@ -6,24 +6,40 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 04:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 3 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 updated (0 created)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update and remove investor letters for now; wait until Simon comes back.\n- [ ] Synapx Directors: confirm whether he is still available; let Matt know (",
-        "timestamp": "2026-02-11T05:05:22.356163+00:00"
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 05:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 updated (0 created)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-11 04:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 3 messages acros",
+        "timestamp": "2026-02-11T05:11:00.688412+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 04:15\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 3 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 6 processed (0 created, 6 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update/remove investor letters for now; wait until Simon comes back.\n- [ ] Synapx Directors: confirm whether he is still available; let Ma",
-        "timestamp": "2026-02-11T04:43:52.407189+00:00"
+        "result_preview": "## 2026-02-11 04:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 7 processed (7 created, 0 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-11 04:15\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 3 messages across 2 conversations\n-",
+        "timestamp": "2026-02-11T04:45:51.088261+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 03:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 3 messages across 2 conversations\n- **Teams Channels:** 0 messages in 78 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 updated (0 created)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update/remove investor letters for now; wait until Simon comes back.\n- [ ] Synapx Directors: confirm whether he is still available; let Matt know (nee",
-        "timestamp": "2026-02-11T04:02:43.716579+00:00"
+        "result_preview": "## 2026-02-11 04:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 78 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 1 processed (1 created, 0 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-11 03:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 3 messages across 2 conversations\n",
+        "timestamp": "2026-02-11T04:19:21.280085+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 03:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 processed (0 created, 1 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update/remove investor letters for now; wait until Simon returns before proceeding.\n\n### Files Updated\n- k",
+        "timestamp": "2026-02-11T03:57:25.143782+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "## 2026-02-11 03:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 3 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 3 processed (0 created, 3 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update/remove investor letters for now; wait until Simon returns before proceeding.\n- [ ] Synapx Directors: confirm whether he is still av",
+        "timestamp": "2026-02-11T03:36:39.736748+00:00"
       },
       {
         "status": "success",
@@ -64,22 +80,6 @@
         "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 01:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 25 messages across 6 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (0 created, 10 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests: confirm what headline numbers to submit for both RFPs (due tomorrow) once PNY feedback lands",
         "timestamp": "2026-02-11T01:58:09.439502+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 01:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 40 messages across 4 conversations\n- **Teams Channels:** 0 messages in 78 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (0 created, 10 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests: confirm headline numbers for both RFP excel submissions tomorrow once PNY feedback arrives; Anand to prep per Andrew\u2019s dire",
-        "timestamp": "2026-02-11T01:40:35.888191+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 01:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 30 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 7 processed (0 created, 6 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm whether he is still available and let Matt know (needed for Finance Ops reports tomorrow).\n- [ ] ",
-        "timestamp": "2026-02-11T01:25:28.410888+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 104,
+      "total_runs": 106,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T05:05:22.356177+00:00",
+    "last_updated": "2026-02-11T05:11:00.688426+00:00",
     "version": "1.0"
   }
 }
