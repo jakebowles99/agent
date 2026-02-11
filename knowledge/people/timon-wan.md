@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 11:16:** Discussed LCP doc extraction work: extracting more fields for demo; ensuring values returned as strings; improving confidence.
 - **2026-02-11 10:42:** Asked about ContractType dropdown categories and suggested UI contrast improvement for highlighted selections.
 - **2026-02-11 10:28:** Suggested UI quick win: adjust selected/highlighted font color for contrast; noted for design team.
 - **2026-02-11 10:14:** Asked about stability/behavior of the proposed workaround post-deployment.

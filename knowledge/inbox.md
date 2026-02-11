@@ -1,3 +1,27 @@
+## 2026-02-11 11:00
+
+### Changes This Window
+- **Emails:** 3 new
+- **Teams Chats:** 14 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 1 processed
+- **Calendar:** 10 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Kushagra Shukla: arrange a session tailored to moving from Power Automate toward more code-based approaches (Python/Java/React).
+- [ ] Timon Wan: support improving confidence/field extraction for the LCP demo (ensure values returned as strings).
+- [ ] Ankita Kajal: align on requirements and implement a Copilot prompt section on website Copilot landing page, similar to https://www.ans.co.uk/insights/how-to-ai-prompt-effectively-with-copilot-365/.
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/kushagra-shukla.md
+- knowledge/teams/2026-02-11/timon-wan.md
+- knowledge/teams/2026-02-11/ankita-kajal.md
+
+---
+
 ## 2026-02-11 10:30
 
 ### Changes This Window
