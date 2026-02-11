@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 10:13:** Listed as urgent contact while Saumya was on personal time off.
 - **2026-02-11 09:40:** Discussed moving directors meeting to Friday; suggested outreach targets (Stagecoach, Arriva, Metrolink) and shared potential lead via Beard Construction; shared image in UK directors chat.
 - **2026-02-11 09:35:** Shared old SOW and noted SOW needs updating; said he would be 5 minutes late.
 - **2026-02-11 09:15:** Messaged that he would be 5 minutes late.

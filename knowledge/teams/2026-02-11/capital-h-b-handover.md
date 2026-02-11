@@ -42,3 +42,19 @@
 > That is what I meant, AVDs from our end
 > Not thier side
 
+
+# Teams Chat — Capital H&B Handover
+
+## 10:12 - Nandan Hegde
+> as of now the conditional access policy is for thier device nly.
+> he was supp[osed to remove it for any device within UK which he is yet to do
+> Post that we can access from AVD or UK IPs.
+> So even Andy is stuck for the subscription and 1password set up
+
+## 10:11 - Jake Bowles
+> And we can't use the AVDs?
+
+## 10:10 - Nandan Hegde
+> FYI :
+> [image]
+> Not sure, we would be able to start till Monday

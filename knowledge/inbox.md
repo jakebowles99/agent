@@ -1,3 +1,28 @@
+## 2026-02-11 10:00
+
+### Changes This Window
+- **Emails:** 3 new (BRD weekly standup > UPDATE: Moved this week’s call to give us space for responses today.; Directors Meeting; Automatic reply: You have been added to a team in Microsoft Teams)
+- **Teams Chats:** 25 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 18 processed (2 created, 16 updated)
+- **Calendar:** 10 events on calendar (current: "Ooo" 09:30–10:30 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Assist Dhanush Pamarthi (high priority) with Apps-side work for the new approval flow so it can be shipped ASAP.
+- [ ] Nominate attendees for Jake Bowles’ Agentic Coding lessons; make Charlie Phipps-Bennett optional.
+- [ ] Keep UK salaries discussion within the Synapx UK Directors chat.
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+
+---
+
 ## 2026-02-11 09:30
 
 ### Changes This Window

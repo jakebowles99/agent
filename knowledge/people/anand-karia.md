@@ -21,6 +21,7 @@
 - Technical estimation
 
 ## Recent interactions
+- **2026-02-11 10:08:** Sent update moving BRD weekly standup call to allow time for responses.
 - **2026-02-11 05:39:** Organizer for 'BRD weekly standup' on 2026-02-11.
 - **2026-02-11 01:51:** Asked to prep Excel submissions for RFPs per Andrew's direction.
 - **2026-02-11 01:37:** Tagged to prep final Excel submissions for RFPs per Andrew's direction.

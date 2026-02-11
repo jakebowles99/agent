@@ -31,3 +31,15 @@
 ## 09:23 - Charlie Phipps-Bennett
 > <attachment id="1770798758906"></attachment>
 > Nope
+
+# Teams Chat — 17C User Accounts
+
+## 10:10 - Anand Karia
+> I have (finally) gotten a password reset to my Synapx account
+
+## 10:09 - Charlie Phipps-Bennett
+> Imagine if that was the process
+
+## 10:06 - Hemanth Kotha
+> [image]
+> Gaurav I don't see any email to my synapx account. Do they send the email to 17c account? If that's the case how do we access it without creds.

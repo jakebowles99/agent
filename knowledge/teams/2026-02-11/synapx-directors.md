@@ -330,3 +330,55 @@ Yes actually, I could use him on Finance Ops reports tomorrow
 
 ## 09:42 - Matt Davies
 > yeah agree - yesterday Anuj and Charlotte were off so I was even writing them
+
+# Teams Chat — Synapx Directors
+
+## 09:55 - Andrew Price
+> <div>
+<attachment id="1770802512772"></attachment>
+We do not do hikes in March. Not sure what he thinks industry standard is, but we need to land some things or he needs to backfill Yaz to make the finances work</div>
+
+## 09:45 - Jake Bowles
+> <p>Just sent everything to the requests channel as well</p>
+
+## 09:45 - Matt Davies
+> <p>this clears the backlog I believe?</p>
+
+## 09:45 - Jake Bowles
+> <p>Sorry yeah I just meant Midwich Slipstream doesn't make sense without the US in the title&nbsp;</p>
+
+## 09:45 - Charlie Phipps-Bennett
+> <p>LCP can be P2 and Nimans P3</p>
+
+## 09:44 - Matt Davies
+> <p>yeah thats P1</p>
+
+## 09:44 - Jake Bowles
+> <p>Slipstream US</p>
+
+## 09:44 - Matt Davies
+> <p>Anuj will have these three ready this morning&nbsp;</p>
+<ol>
+<li>Midwich Slipstream (Jake)</li><li>Midwich Nimans (Charlie)</li><li>LCP Nav Reconciliation</li></ol>
+
+## 09:43 - Charlie Phipps-Bennett
+> <attachment id="1770802840568"></attachment>
+<p>I wasn't surprised and kind of expected it. He is under paid. Wouldn't find someone with his skillset at that price on the market. Jake and I did raise that last week</p>
+
+## 09:43 - Jake Bowles
+> <p>I am going to send to Tayo along with the other one as a nudge towards SPXaaS</p>
+
+# Teams Chat — Synapx Directors
+
+## 10:11 - Jake Bowles
+> ahh makes sense
+
+## 10:11 - Matt Davies
+> thats the 5 days free unless you buy one
+
+## 10:10 - Jake Bowles
+> Duplicate for Jensten underwriting I believe
+
+## 10:09 - Matt Davies
+> [image]
+> backlog will be cleared today - hopefully no surprises from this list

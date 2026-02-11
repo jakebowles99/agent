@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 10:15:** Named as potential nominee for Agentic Coding lessons.
 - **2026-02-11 08:58:** Discussed as a recruitment candidate; salary expectations and negotiation range noted.
 - **2026-02-11 07:40:** Discussed as a recruitment candidate with salary hike expectations (30%+).
 - **2026-02-11 06:37:** Was asked by Navsheen Koul to provide Synapx-branded screenshots for Outlook plugin and web app pages.

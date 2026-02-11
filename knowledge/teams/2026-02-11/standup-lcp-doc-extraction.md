@@ -52,3 +52,9 @@
 
 ## 09:08 - Timon Wan
 > @Navsheen Koul, for 'ContractType' I see in the excel dropdown values. Does this mean it's got fixed category that it should be in?
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 10:14 - Timon Wan
+> One thing to update if it's a quick win, is to change the font colour when selected/highlighted to contrast the background colour to make it easier to see.
+> Navsheen Koul A point for the design team to incorporate

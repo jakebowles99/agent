@@ -9,6 +9,7 @@
 - **Email**: hemanth.kotha@synapx.com
 
 ## Recent interactions
+- **2026-02-11 10:14:** Discussed app-side workaround for dynamic SQL sproc results; shared attachments/result sets.
 - **2026-02-11 09:18:** Shared Microsoft Learn link about viewing results in SQL Server connection in Power Apps.
 - **2026-02-10 16:01:** Shared workaround/analysis for Power Apps SQL Server stored procedure metadata issue (sp_describe_first_result_set; temp tables vs table variables).
 - **2026-02-10 15:45:** Shared research on PowerApps + SQL stored procedure metadata limitation (sp_describe_first_result_set), temp tables vs table variables; provided workaround link.

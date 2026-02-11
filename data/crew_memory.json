@@ -2,6 +2,14 @@
   "short_term": {
     "last_runs": [
       {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "## 2026-02-11 10:00\n\n### Changes This Window\n- **Emails:** 3 new (BRD weekly standup > UPDATE: Moved this week\u2019s call to give us space for responses today.; Directors Meeting; Automatic reply: You have been added to a team in Microsoft Teams)\n- **Teams Chats:** 25 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 18 processed (2 created, 16 updated)\n- **Calendar:** 10 events on calendar (current: \"Ooo\" 09:30\u201310:30 UTC)\n",
+        "timestamp": "2026-02-11T10:20:49.690048+00:00"
+      },
+      {
         "status": "error",
         "error": "Invalid response from LLM call - None or empty.",
         "timestamp": "2026-02-11T09:51:05.693734+00:00"
@@ -60,14 +68,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 06:15\n\n### Changes This Window\n- **Emails:** 0\n- **Teams Chats:** 4 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 3 processed (0 created, 3 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Prathap Reddy: check the draft that was just sent (was previously in personal chat).\n\n### Files Updated\n- knowledge/teams/2026-02-11/prathap-reddy.md\n- knowledg",
         "timestamp": "2026-02-11T06:28:03.285689+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 06:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 2 messages across 2 conversations\n- **Teams Channels:** 0 messages in 79 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 3 processed (0 created, 3 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Prathap Reddy: continue/complete wiring SOW fields (incl. multi-file uploads) into the Logic App \u201cPopulate a Microsoft Word template\u201d action for end-to-end",
-        "timestamp": "2026-02-11T06:07:58.937737+00:00"
       }
     ],
     "pending_items": []
@@ -75,7 +75,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 119,
+      "total_runs": 120,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -88,7 +88,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T09:51:05.693745+00:00",
+    "last_updated": "2026-02-11T10:20:49.690057+00:00",
     "version": "1.0"
   }
 }

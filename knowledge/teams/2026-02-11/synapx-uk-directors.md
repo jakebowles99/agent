@@ -186,3 +186,34 @@
 > I don't actually think we're that far off this you know
 > 
 > [image]
+
+# Teams Chat — Synapx UK Directors
+
+## 09:55 - Andrew Price
+> Let’s keep UK salaries to this forum please
+
+# Teams Chat — Synapx UK Directors
+
+## 10:16 - Charlie Phipps-Bennett
+> I thought it was much lower, ok thanks
+
+## 10:15 - Matt Davies
+> £60k salary
+
+## 10:15 - Charlie Phipps-Bennett
+> So his salary is 60k?
+
+## 10:15 - Matt Davies
+> what?
+
+## 10:15 - Matt Davies
+> erm
+
+## 10:14 - Charlie Phipps-Bennett
+> That is what he is paid or cost to us?
+
+## 10:14 - Matt Davies
+> 60
+
+## 10:08 - Charlie Phipps-Bennett
+> What is Anand paid?

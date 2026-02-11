@@ -36,3 +36,23 @@
 
 ## 09:27 - Charlie Phipps-Bennett
 > Vaishnavi wants to code app can you assign github copilot licence and invite her to org
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 09:55 - Charlie Phipps-Bennett
+> <attachment id="1770803263849"></attachment>
+<p>Vaishnavi, Ajay, Akshansh, Sudarshan, Kenny, Rahul, Navya</p>
+<p>&nbsp;</p>
+<p>Make me optional please</p>
+
+## 09:48 - Jake Bowles
+> <p>Vaishnavi, Sudarshan, Kenny, Rahul, ?, ?</p>
+
+## 09:48 - Jake Bowles
+> <p>Want people who will actually be interested&nbsp;</p>
+
+## 09:47 - Jake Bowles
+> <p>Don't want to do company wide because then they won't be engaging&nbsp;</p>
+
+## 09:47 - Jake Bowles
+> <p>Pls nominate some people for Agentic Coding lessons with me</p>
