@@ -123,3 +123,13 @@
 
 ## 00:16 - Matt Davies
 > Yes actually, I could use him on Finance Ops reports tomorrow
+
+# Teams Chat — Synapx Directors
+
+## 00:17 - Matt Davies
+> if he is still available. let me know
+
+## 00:16 - Matt Davies
+> <attachment id="1770732651044"></attachment>
+Yes actually, I could use him on Finance Ops reports tomorrow
+
