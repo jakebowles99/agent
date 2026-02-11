@@ -9,6 +9,7 @@
 - **Email**: Swapna@lemonedge.com
 
 ## Recent interactions
+- **2026-02-11 11:55:** Explained LemonEdge change needed to support expired-token workflow; blocked scheduled FX rate task.
 - **2026-02-10 23:21:** Shared CITs used for NAV reconciliation functionality for custom import template/auth discussion.
 - **2026-02-10 19:05:** Sent CITs used for NAV reconciliation for custom import template/auth discussion.
 - **2026-02-10 15:59:** Shared CITs used for NAV reconciliation; discussed custom import template and auth.
@@ -18,4 +19,4 @@
 - **2026-02-10 10:37:** Sent CITs used for NAV reconciliation functionality (Custom Import Template and Auth thread).
 
 ---
-*Last Updated: 2026-02-10*
+*Last Updated: 2026-02-11*

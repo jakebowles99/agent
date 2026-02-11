@@ -66,3 +66,25 @@
 
 ## 11:17 - Jake Bowles
 > Okay no probs
+
+# Teams Chat — Kushagra Shukla
+
+## 11:28 - Kushagra Shukla
+> Thanks
+
+## 11:17 - Jake Bowles
+> I will assign you a GitHub copilot license and then arrange a session
+
+## 11:17 - Jake Bowles
+> Okay no probs
+
+## 11:05 - Kushagra Shukla
+> yeah interested to do that as well.
+
+## 11:03 - Jake Bowles
+> So coded apps type of thing?
+
+## 11:00 - Kushagra Shukla
+> I have been working on Power automate for a while now. Want to move away gradually from that.
+> 
+> I have beginner level understanding of Python and Java. Little bit syntax understanding of React. Never written full fledged code in any of them. But can understand the syntax.

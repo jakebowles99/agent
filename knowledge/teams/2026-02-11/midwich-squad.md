@@ -144,3 +144,28 @@
 > [attachment]
 > 
 > Thanks, re. App Insights, don't think so. May be useful to trace from app to db, but not sure that would work ootb. Your thoughts?
+
+# Teams Chat — Midwich Squad
+
+## 11:37 - Hemanth Kotha
+> <attachment id="1770809224016"></attachment>
+> We might tneed to create a kql that links both app and sql db for better classification for app insights and also can have alerts since any way it's configured for apps ide
+
+## 11:36 - Hemanth Kotha
+> retention was set to 30 days. I can't see the logs on sql side as well since the record was inserted on
+
+## 11:27 - Timon Wan
+> Thanks, re. App Insights, don't think so. May be useful to trace from app to db, but not sure that would work ootb. Your thoughts?
+
+## 11:16 - Yaz Qaraqesh
+> What's the conclusion on this guys please?
+
+## 11:13 - Hemanth Kotha
+> @Timon I have validated all the sql servers have connected audits to their env specific log analytics ws. Do I also need to deploy application insights for sql as well?
+
+## 11:08 - Hemanth Kotha
+> Can you check the one for the above record. Not new one.
+
+## 11:05 - Vaishnavi MP
+> Just created a record on UAT. Here's the api call
+> Get's the right date

@@ -1,3 +1,28 @@
+## 2026-02-11 11:45
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 28 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 0
+- **Calendar:** 10 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Assign Kushagra Shukla a GitHub Copilot license and arrange a session tailored to moving from Power Automate toward more code-based approaches.
+- [ ] Follow up with LemonEdge/Product team on implementing expired-token workflow support for Fabric so scheduled daily exchange-rate task can be set up.
+- [ ] Share/confirm intro addition request for Mount Anvil case study video (Marketing Requests).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+- knowledge/teams/2026-02-11/kushagra-shukla.md
+- knowledge/teams/2026-02-11/marketing-requests.md
+
+---
+
 ## 2026-02-11 11:30
 
 ### Changes This Window

@@ -32,3 +32,20 @@
 
 ## 11:24 - Sophia Fricker
 > Awesome! Next time let’s add an intro 🙂
+
+# Teams Chat — Marketing Requests
+
+## 11:24 - Sophia Fricker
+> Awesome! Next time let’s add an intro 🙂
+
+## 11:14 - Navsheen Koul
+> slayy
+
+## 11:14 - Jake Bowles
+> Ditto
+
+## 11:12 - Charlie Phipps-Bennett
+> Matt you made it look easy, I hated the studio experience
+
+## 11:11 - Charlie Phipps-Bennett
+> EPIC

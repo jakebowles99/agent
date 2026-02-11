@@ -27,6 +27,7 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-11 11:55:** Asked whether Chrysalis ExchangeRate data is being pushed via API to LemonEdge; discussed FX rate scope.
 - **2026-02-11 11:26:** Asked about ExchangeRate table rates being pushed via API; in Teams chat, Jake responded about shared mailbox not hooked to Fabric and SOW to be sent.
 - **2026-02-11 11:15:** Asked whether Chrysalis ExchangeRate table rates are pushed down the API; not seeing them yet on LemonEdge.
 - **2026-02-10 23:21:** Requested adding PriceMarket and PriceProvider fields to import template for FX rate determination.
