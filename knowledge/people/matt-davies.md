@@ -9,6 +9,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 10:45:** Answered questions about salary figures; discussed backlog clearing and underwriting duplication.
+- **2026-02-11 10:28:** Answered salary question; discussed backlog/underwriting item.
 - **2026-02-11 10:10:** Sent Directors Meeting Teams meeting invite/details.
 - **2026-02-11 09:40:** Discussed pipeline vs capacity focusing on UK resources; suggested moving meeting to Friday due to Jake's availability.
 - **2026-02-11 09:34:** Was recipient of a Teams message from Akshansh Sharma about forecast; update/removal of investor info mentioned.

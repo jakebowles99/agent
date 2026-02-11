@@ -6,6 +6,8 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 10:45:** Asked clarification about what 'name' refers to.
+- **2026-02-11 10:28:** Asked what the 'name' field should be (shared image).
 - **2026-02-11 00:37:** Posted a link to Synapx contract requests in Microsoft Teams.
 - **2026-02-11 00:20:** Posted/forwarded a link or reference to Synapx contracts requests in Teams.
 - **2026-02-11 00:10:** Shared link/reference to Synapx contract requests in Teams.

@@ -3,6 +3,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 10:42:** Asked about ContractType dropdown categories and suggested UI contrast improvement for highlighted selections.
+- **2026-02-11 10:28:** Suggested UI quick win: adjust selected/highlighted font color for contrast; noted for design team.
 - **2026-02-11 10:14:** Asked about stability/behavior of the proposed workaround post-deployment.
 - **2026-02-11 09:41:** Asked Navsheen Koul about fixed dropdown categories for 'ContractType' in Excel.
 - **2026-02-10 22:24:** Logged 0.25h meeting time on Support Contract for Midwich.

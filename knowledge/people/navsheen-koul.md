@@ -22,6 +22,8 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 10:39:** Discussed LCP document extraction status and requested a demo/runthrough in standup.
+- **2026-02-11 10:28:** Mentioned by Timon Wan as design team contact for UI contrast improvement.
 - **2026-02-11 09:41:** Mentioned/tagged regarding whether 'ContractType' should be a fixed category from Excel dropdown values.
 - **2026-02-11 09:35:** Requested page screenshots; noted missing success state and copyright year; asked about not uploading email to GPT.
 - **2026-02-11 09:18:** Requested screenshots and noted copyright year; asked about uploading email into GPT.

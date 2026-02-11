@@ -9,6 +9,7 @@
 - **Email**: ajay.gannamaneni@synapx.com
 
 ## Recent interactions
+- **2026-02-11 10:40:** Shared progress on PDF chunking and extraction logic improvements.
 - **2026-02-11 08:31:** Provided update on PDF chunking working and planned logic change around mandatory fields extraction.
 - **2026-02-11 08:25:** Provided update on PDF chunk working; removing logic preventing moving to other documents when mandatory fields extracted.
 - **2026-02-10 17:57:** Discussed updating template/percentage and checking then updating; shared attachments/images related to doc extraction.

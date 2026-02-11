@@ -58,3 +58,17 @@
 ## 10:14 - Timon Wan
 > One thing to update if it's a quick win, is to change the font colour when selected/highlighted to contrast the background colour to make it easier to see.
 > Navsheen Koul A point for the design team to incorporate
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 10:30 - Timon Wan
+> haha, not a big deal for now would say. Just something to note down
+
+## 10:28 - Ajay Gannamaneni
+> did not test dark mode tim check in light mode😅
+
+## 10:14 - Timon Wan
+> One thing to update if it's a quick win, is to change the font colour when selected/highlighted to contrast the background colour to make it easier to see.
+> 
+> @Navsheen @Koul A point for the design team to incorporate
+

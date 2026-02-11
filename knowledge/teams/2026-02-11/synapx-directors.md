@@ -382,3 +382,18 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 ## 10:09 - Matt Davies
 > [image]
 > backlog will be cleared today - hopefully no surprises from this list
+
+# Teams Chat — Synapx Directors
+
+## 10:11 - Jake Bowles
+> ahh makes sense
+
+## 10:11 - Matt Davies
+> thats the 5 days free unless you buy one
+
+## 10:10 - Jake Bowles
+> Duplicate for Jensten underwriting I believe
+
+## 10:09 - Matt Davies
+> backlog will be cleared today - hopefully no surprises from this list
+

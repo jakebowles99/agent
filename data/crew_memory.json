@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 10:00\n\n### Changes This Window\n- **Emails:** 3 new (BRD weekly standup > UPDATE: Moved this week\u2019s call to give us space for responses today.; Directors Meeting; Automatic reply: You have been added to a team in Microsoft Teams)\n- **Teams Chats:** 25 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 18 processed (2 created, 16 updated)\n- **Calendar:** 10 events on calendar (current: \"Ooo\" 09:30\u201310:30 UTC)\n",
-        "timestamp": "2026-02-11T10:20:49.690048+00:00"
+        "result_preview": "## 2026-02-11 10:15\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 20 messages across 7 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 12 processed (0 created, 12 updated)\n- **Calendar:** 10 events on calendar (current: \"Ooo\" 09:30\u201310:30 UTC; also \"Fabric - Internal Projects Handover\" 10:15\u201310:30 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Charlotte Price: clarify what \u201cname\u201d refers to in the share",
+        "timestamp": "2026-02-11T10:47:29.621371+00:00"
       },
       {
         "status": "error",
@@ -88,7 +88,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T10:20:49.690057+00:00",
+    "last_updated": "2026-02-11T10:47:29.621385+00:00",
     "version": "1.0"
   }
 }

@@ -4,6 +4,8 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 10:45:** Participated in directors/handover chats; received message from Kushagra asking to connect about vibe coding; responded to Charlotte query.
+- **2026-02-11 10:29:** Asked about using AVDs; discussed duplicate for Jensten underwriting.
 - **2026-02-11 10:13:** Listed as urgent contact while Saumya was on personal time off.
 - **2026-02-11 09:40:** Discussed moving directors meeting to Friday; suggested outreach targets (Stagecoach, Arriva, Metrolink) and shared potential lead via Beard Construction; shared image in UK directors chat.
 - **2026-02-11 09:35:** Shared old SOW and noted SOW needs updating; said he would be 5 minutes late.

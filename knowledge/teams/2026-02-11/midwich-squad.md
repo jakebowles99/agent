@@ -40,3 +40,37 @@
 
 ## 09:45 - Yaz Qaraqesh
 > <p><at id="0">Dhanush</at>&nbsp;<at id="1">Pamarthi</at>&nbsp;did you meet with Hemanth? is the issue resolved?&nbsp;</p>
+
+# Teams Chat — Midwich Squad
+
+## 10:31 - Hemanth Kotha
+> Can you check the api call what it passed?
+
+## 10:29 - Vaishnavi MP
+> Order date is being passed as the current date on the app side
+
+## 10:29 - Yaz Qaraqesh
+> @Vaishnavi @MP how is this possible please. Created date is when the order is created
+
+## 10:27 - Hemanth Kotha
+> There is no validation on sql side for taking dates it should come from the app if we don't get it from app then sql automatically assign todays date
+
+## 10:24 - Hemanth Kotha
+> That's what user passed from app side
+
+## 10:22 - Yaz Qaraqesh
+> @Vaishnavi @MP @Hemanth @Kotha how is it possible to have date created in the future
+> 
+> Can someone check this order asap please on the PO app in UAT
+> 
+> 100120
+
+## 10:19 - Yaz Qaraqesh
+> same with @Vaishnavi @MP - does Ella have the correct permissions on PO app
+
+## 10:19 - Yaz Qaraqesh
+> can @Hemanth @Kotha confirm Ella's permission on the PO app?
+
+## 10:18 - Dhanush Pamarthi
+> Nope.
+

@@ -43,3 +43,27 @@
 ## 10:06 - Hemanth Kotha
 > [image]
 > Gaurav I don't see any email to my synapx account. Do they send the email to 17c account? If that's the case how do we access it without creds.
+
+# Teams Chat — 17C User Accounts
+
+## 10:28 - Akshansh Sharma
+> it will be on your phone number i think
+
+## 10:27 - Gaurav Rauthan
+> When did you receive the email ? Kush and Hemanth should have received it with you
+
+## 10:27 - Gaurav Rauthan
+> don't know where are they sending these emails. Let me check.
+
+## 10:24 - Kushagra Shukla
+> Same here.
+
+## 10:10 - Anand Karia
+> I have (finally) gotten a password reset to my Synapx account
+
+## 10:09 - Charlie Phipps-Bennett
+> Imagine if that was the process
+
+## 10:06 - Hemanth Kotha
+> @Gaurav I don't see any email to my synapx account. Do they send the email to 17c account? If that's the case how do we access it without creds.
+

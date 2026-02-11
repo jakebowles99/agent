@@ -18,6 +18,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 10:45:** Explained conditional access policy constraints and impact on AVD/UK IP access; noted Andy blocked on subscription/1Password setup.
+- **2026-02-11 10:29:** Discussed conditional access policy limitations and impacts on AVD/UK IP access; noted Andy blocked on subscription and 1Password setup.
 - **2026-02-11 10:13:** Listed as urgent contact while Saumya was on personal time off.
 - **2026-02-11 09:42:** Replied on shared mailbox setup ticket update (INC:0205798): no action required currently.
 - **2026-02-11 09:35:** Replied on shared mailbox setup ticket thread; stated no action required currently.

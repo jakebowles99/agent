@@ -9,6 +9,8 @@
 - **Email**: hemanth.kotha@synapx.com
 
 ## Recent interactions
+- **2026-02-11 10:44:** Investigated order date/SQL validation issue and discussed missing account emails for 17C access.
+- **2026-02-11 10:29:** Raised issue: not receiving email to Synapx account; asked whether emails go to 17c account and access without credentials; referenced Gaurav.
 - **2026-02-11 10:14:** Discussed app-side workaround for dynamic SQL sproc results; shared attachments/result sets.
 - **2026-02-11 09:18:** Shared Microsoft Learn link about viewing results in SQL Server connection in Power Apps.
 - **2026-02-10 16:01:** Shared workaround/analysis for Power Apps SQL Server stored procedure metadata issue (sp_describe_first_result_set; temp tables vs table variables).

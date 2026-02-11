@@ -1,17 +1,45 @@
+## 2026-02-11 10:15
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 20 messages across 7 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 12 processed (0 created, 12 updated)
+- **Calendar:** 10 events on calendar (current: "Ooo" 09:30–10:30 UTC; also "Fabric - Internal Projects Handover" 10:15–10:30 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Charlotte Price: clarify what “name” refers to in the shared screenshot.
+- [ ] Standup - LCP Doc Extraction: update selected/highlighted font colour to contrast with background (quick win; design team).
+- [ ] Capital H&B Handover: follow up removal of Conditional Access policy restriction (UK device-only) to allow access from AVD/UK IPs; blocking subscription and 1Password setup.
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/charlotte-price.md
+- knowledge/teams/2026-02-11/product-catchup.md
+- knowledge/teams/2026-02-11/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-11/capital-h-b-handover.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/17c-user-accounts.md
+
+---
+
 ## 2026-02-11 10:00
 
 ### Changes This Window
-- **Emails:** 3 new (BRD weekly standup > UPDATE: Moved this week’s call to give us space for responses today.; Directors Meeting; Automatic reply: You have been added to a team in Microsoft Teams)
+- **Emails:** 3 new (BRD weekly standup > UPDATE: Moved this weeks call to give us space for responses today.; Directors Meeting; Automatic reply: You have been added to a team in Microsoft Teams)
 - **Teams Chats:** 25 messages across 4 conversations
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 18 processed (2 created, 16 updated)
-- **Calendar:** 10 events on calendar (current: "Ooo" 09:30–10:30 UTC)
+- **Calendar:** 10 events on calendar (current: "Ooo" 09:3010:30 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Assist Dhanush Pamarthi (high priority) with Apps-side work for the new approval flow so it can be shipped ASAP.
-- [ ] Nominate attendees for Jake Bowles’ Agentic Coding lessons; make Charlie Phipps-Bennett optional.
+- [ ] Nominate attendees for Jake Bowles Agentic Coding lessons; make Charlie Phipps-Bennett optional.
 - [ ] Keep UK salaries discussion within the Synapx UK Directors chat.
 
 ### Files Updated
@@ -31,12 +59,12 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 16 processed (2 created, 14 updated)
-- **Calendar:** 10 events on calendar (current: "Ooo" 09:30–10:30 UTC; also "Standup - LCP Doc Extraction" 09:30–09:45 UTC)
+- **Calendar:** 10 events on calendar (current: "Ooo" 09:3010:30 UTC; also "Standup - LCP Doc Extraction" 09:3009:45 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Assign a GitHub Copilot licence to Vaishnavi and invite her to the GitHub org (requested by Charlie Phipps-Bennett).
-- [ ] Synapx Directors: move Thursday meeting to Friday to discuss pipeline vs capacity with focus on UK resources (Jake can’t do Thursday).
+- [ ] Synapx Directors: move Thursday meeting to Friday to discuss pipeline vs capacity with focus on UK resources (Jake cant do Thursday).
 - [ ] Follow up outbound leads: Stagecoach Bus and other London bus operators; Beard Construction (Jake suggested outreach).
 - [ ] Standup - LCP Doc Extraction: confirm whether ContractType should be restricted to the fixed dropdown categories.
 
@@ -61,11 +89,11 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 11 processed (2 created, 9 updated)
-- **Calendar:** 10 events on calendar (current: "SOW Agent" 09:00–09:30 UTC; next: "Ooo" 09:30–10:30 UTC)
+- **Calendar:** 10 events on calendar (current: "SOW Agent" 09:0009:30 UTC; next: "Ooo" 09:3010:30 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] SOW Agent: update the SOW using Jake Bowles’ notes (see attachments) and reference the “OLD SOW” attachment as needed.
+- [ ] SOW Agent: update the SOW using Jake Bowles notes (see attachments) and reference the OLD SOW attachment as needed.
 - [ ] Product Catchup: provide Navsheen screenshots of the requested page (including version with all checkboxes selected) and ensure copyright shows 2026.
 
 ### Files Updated
@@ -83,7 +111,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 1 processed
-- **Calendar:** 10 events on calendar (next: "SOW Agent" 09:00–09:30 UTC)
+- **Calendar:** 10 events on calendar (next: "SOW Agent" 09:0009:30 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -115,13 +143,13 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 21 processed (2 created, 19 updated)
-- **Calendar:** 10 events on calendar (next: "Midwich Squad - daily standup" 08:45–09:00 UTC)
+- **Calendar:** 10 events on calendar (next: "Midwich Squad - daily standup" 08:4509:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Review Capital H&B Project Kick-off Summary (Fabric & Power BI Implementation) and confirm if anything is missing.
 - [ ] Provide Navsheen Synapx-branded screenshots (Outlook plugin PDFs list; webapp dashboard/review/other pages) and apply requested copy/branding changes (NoRead AI name, description text, dummy data, remove LCP IP text).
-- [ ] Decide on recruitment offer stance for Rahul (Internal Synapx Recruitment): respond to Andrew/Bhoomi re whether to go higher (31–31.5 suggested; Jake prefers not higher).
+- [ ] Decide on recruitment offer stance for Rahul (Internal Synapx Recruitment): respond to Andrew/Bhoomi re whether to go higher (3131.5 suggested; Jake prefers not higher).
 - [ ] Confirm with Charlie whether any email was received from RFA team (17C User Accounts).
 - [ ] Coordinate call/discussion with Nandan re: work allocation (Suds/Ken/Dhanya/Hemanth), POC work, and LCP scope up to SOW; Jake to call ASAP.
 - [ ] Synapx Directors: schedule/confirm chat with Fraser and Gaurav.
@@ -147,7 +175,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 19 processed (2 created, 17 updated)
-- **Calendar:** 9 events on calendar (next: "Midwich Squad - daily standup" 08:45–09:00 UTC)
+- **Calendar:** 9 events on calendar (next: "Midwich Squad - daily standup" 08:4509:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -155,7 +183,7 @@
 - [ ] Project Managers: update Harvest Forecast for Synapx non-working time; confirm/adjust Kenny forecasting (17C no longer in scope; internal project); enable Forecast for H&B project once created.
 - [ ] Matt Davies/Tejashwini Das/Tushara Udata: coordinate Tejashwini working with Tushara.
 - [ ] Synapx Directors: prioritise internal projects; confirm whether there is billable work for UK resources (Kenny & Fraser) this week; decide where Kenny should log time.
-- [ ] Review Rahul Matta “Plugin Video.mp4” (Product Catchup link).
+- [ ] Review Rahul Matta Plugin Video.mp4 (Product Catchup link).
 
 ### Files Updated
 - knowledge/emails/2026-02-11.md
@@ -174,7 +202,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 21 processed (1 created, 20 updated)
-- **Calendar:** 9 events on calendar (next: “Ooo” 08:00–09:00 UTC)
+- **Calendar:** 9 events on calendar (next: Ooo 08:0009:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -201,7 +229,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 17 processed (2 created, 15 updated)
-- **Calendar:** 9 events on calendar (next: “Ooo” 08:00–09:00 UTC)
+- **Calendar:** 9 events on calendar (next: Ooo 08:0009:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -231,7 +259,7 @@
 
 ### Action Items Detected
 - [ ] Internal Synapx Recruitment: reply to Andrew with your view on whether the offer is fair.
-- [ ] Jensten Proposal: respond to Sophia on whether anything is needed for the proposal (she’s free until 09:30).
+- [ ] Jensten Proposal: respond to Sophia on whether anything is needed for the proposal (shes free until 09:30).
 - [ ] Standup - LCP Doc Extraction: reply to Navsheen with current status.
 
 ### Files Updated
