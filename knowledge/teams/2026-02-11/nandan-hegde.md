@@ -11,3 +11,9 @@
 > 2) POC work ?
 > 3) LCP scope proceed till SOW from my end
 
+
+# Teams Chat — Nandan Hegde
+
+## 08:30 - Jake Bowles
+> Morning, yes I'll give you a call asap
+

@@ -9,6 +9,7 @@
 - **Email**: bhoomi.dasa@synapx.com
 
 ## Recent interactions
+- **2026-02-11 08:57:** Discussed candidate Rahul’s salary expectations and possible negotiation range (31–31.5).
 - **2026-02-11 08:31:** Discussed candidate salary expectations and potential negotiation to 31–31.5.
 - **2026-02-11 08:25:** Discussed candidate offer negotiation expectations and possible salary range (31–31.5).
 - **2026-02-11 07:40:** Discussed salary hike expectations for candidate Rahul; offered 30%, candidate asking 32–33.

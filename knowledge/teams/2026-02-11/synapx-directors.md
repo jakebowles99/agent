@@ -265,3 +265,10 @@ Yes actually, I could use him on Finance Ops reports tomorrow
 ## 07:33 - Andrew Price
 > How urgent?
 
+
+# Teams Chat — Synapx Directors
+
+## 08:38 - Charlie Phipps-Bennett
+> <attachment id="1770796772756"></attachment>
+> When are we having the chat with Fraser and Gaurav
+

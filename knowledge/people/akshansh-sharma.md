@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 08:57:** Asked about updating APS term from 6 years to 1 year and routing back for signature.
 - **2026-02-11 08:38:** Sent message about forecast; will update and remove investor items.
 - **2026-02-11 07:52:** Sent a Teams message to Matt Davies: 'FYI forecast... will update and remove investor'.
 - **2026-02-11 04:28:** Shared forecast screenshot; said he will update and remove investor letters and wait until Simon is back.

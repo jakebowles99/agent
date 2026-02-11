@@ -113,3 +113,50 @@ Check which attachments to process and click 'Submit'."</li></ul>
 ## 08:21 - Rahul Matta
 > Plugin Video.mp4 — https://synapxltd-my.sharepoint.com/:v:/g/personal/rahul_matta_synapx_com/IQAeI1C6qtdvS6A1kwAuAv1BASAqR4z88cNJfJGIeJk7JZw?e=F4t4Gi
 
+
+# Teams Chat — Product Catchup
+
+## 08:44 - Rahul Matta
+> Yes, I did
+
+## 08:44 - Navsheen Koul
+> <attachment id="1770798092014"></attachment>
+> have you changed the data here?
+> <img src="https://graph.microsoft.com/v1.0/chats/19:meeting_N2Y0MDU0NmYtZjUzOS00ZjY4LWI2ZDctYzY3OGIyOTA5NDQx@thread.v2/messages/1770799471281/hostedContents/aWQ9eF8wLXd1ay1kMi02MmZlZjA2ZTZiZmM5MTUyNmY1NmViNzlhMmQ5YWMzOSx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMi02MmZlZjA2ZTZiZmM5MTUyNmY1NmViNzlhMmQ5YWMzOS92aWV3cy9pbWdv/$value" width="342.93089753772836" height="250" alt="image" itemid="0-wuk-d2-62fef06e6bfc91526f56eb79a2d9ac39">
+
+
+# Teams Chat — Product Catchup
+
+## 08:50 - Navsheen Koul
+> also one where all checkboxes are selected
+
+## 08:50 - Navsheen Koul
+> need that please
+
+## 08:50 - Navsheen Koul
+> the green successfully bit is not there
+
+## 08:50 - Rahul Matta
+> [image]
+
+## 08:49 - Navsheen Koul
+> yors will be better quality
+
+## 08:48 - Navsheen Koul
+> give me screenshots of this page
+> [image]
+
+## 08:48 - Rahul Matta
+> <attachment id="1770799661075"></attachment>
+> ok will record again
+> will post both plugin and webapp combined video
+
+## 08:47 - Navsheen Koul
+> copyright 2026 not 2025
+
+## 08:46 - Navsheen Koul
+> just want to make sure you didn't upload the email into gpt directly 😅
+
+## 08:44 - Rahul Matta
+> Yes, I did
+

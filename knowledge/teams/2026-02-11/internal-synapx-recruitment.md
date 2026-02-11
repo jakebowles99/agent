@@ -35,3 +35,9 @@ I think the offer is fair, but what do you think <at id="0">Jake</at>?</div>
 > <div>
 <attachment id="1770794438864"></attachment>
 I think the offer is fair, but what do you think <at id="0">Jake</at>?</div>
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 08:40 - Jake Bowles
+> I personally wouldn't go higher. He would require time to learn (albeit quickly) on certain key elements that we are looking for
+
