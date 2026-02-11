@@ -9,6 +9,7 @@
 - **Email**: andrew.hutchison@jensten.co.uk
 
 ## Recent interactions
+- **2026-02-11 16:23:** Involved in scheduling Jensten SOW & proposal walkthrough; chat indicates availability 12-1.
 - **2026-02-11 15:54:** Included in group chat regarding updated SOWs/proposal run-through scheduling.
 - **2026-02-11 13:25:** Participant in chat where Jake requested time to review updated SOWs and proposals.
 - **2026-02-11 13:10:** Included in group chat where Jake requested time Friday to review updated SOWs and discuss other workstreams.

@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 16:23:** Requested new Midwich account for Kenny Balogun; contacted Jose.
 - **2026-02-11 15:12:** Helped resolve access/permissions issue and discussed roles (e.g., 'Admin' role).
 - **2026-02-11 14:46:** Requested approval and instructed team to deploy SO & PO to production.
 - **2026-02-11 14:25:** Coordinated urgent fixes and deployment approvals for PO/SO apps; asked team to prioritize, manage permissions/access, and proceed with production deployment.
