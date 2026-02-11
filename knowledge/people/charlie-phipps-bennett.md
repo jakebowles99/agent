@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 15:21:** Director channel conversation about emails, meetings, salaries, and internal issues; mentioned Rachel/Claire meeting request.
 - **2026-02-11 15:11:** Explained delivery comms structure; asked to log recruitment centrally; noted as supporting from his team perspective.
 - **2026-02-11 14:44:** Coordinated recruitment assignment review process, discussed UK directors items, and asked about plans to improve extraction accuracy in LCP doc extraction standup.
 - **2026-02-11 14:25:** Mentioned as key UK resource; asked questions on precision plan; coordinated recruitment review workload; discussed Compass CMS and agentic coding nominations.

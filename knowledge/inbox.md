@@ -1,3 +1,28 @@
+## 2026-02-11 15:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 21 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 15 processed (3 created, 12 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Rahul Matta: provide Synapx-branded screenshots (Outlook plugin PDF list; webapp dashboard/review/other pages), with dummy data, higher quality; include version with all checkboxes selected; ensure green “successfully” indicator present; update branding/text (NoRead AI name, updated description), remove LCP IP line, set copyright 2026.
+- [ ] Rahul Matta / Navsheen Koul: start looking into deploying fraud prediction to the marketplace; clarify single-tenant vs multi-tenant approach; confirm whether to begin implementing subscription + Azure AD auth now.
+- [ ] Navsheen Koul: catch up on Tuesday via call (Rahul to remind).
+- [ ] Harvest Projects: identify who marked Yaz as off for 3 weeks on forecast.
+- [ ] Synapx UK Directors: keep UK salary discussions in that forum.
+
+### Files Updated
+- knowledge/teams/2026-02-11/product-catchup.md
+- knowledge/teams/2026-02-11/harvest-projects.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+
+---
+
 ## 2026-02-11 15:00
 
 ### Changes This Window
@@ -14,7 +39,7 @@
 - [ ] Decide whether to adopt tooling (e.g., Linear) for tracking product work.
 - [ ] Kim Totten / Jake Bowles: discuss consultancy-skills training and whether to run internal dry runs to improve session delivery quality.
 - [ ] Jake Bowles: ask Sophia Fricker if it’s OK to request Ankita Kajal’s help with Canva slides; then coordinate slide support.
-- [ ] Joe Thompson: follow up on “nudge please” once free (legal team confusion on £0 discount).
+- [ ] Joe Thompson: follow up on “nudge please” once free (legal team confusion on £30 discount).
 - [ ] Midwich Squad: grant Vaishnavi MP same permissions; confirm approach for roles/admin role definition.
 - [ ] Internal Synapx Recruitment: ensure candidate reviews are logged centrally; consider requiring deployments to repos + automated testing.
 - [ ] Byworth timesheets: wait for Business Central setup completion; then get quick walkthrough from Seun Gray; Kitty to confirm login readiness.

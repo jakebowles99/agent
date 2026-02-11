@@ -340,3 +340,35 @@
 ## 14:59 - Jake Bowles
 > And when nobody was engaging with the channels I gave up
 
+
+# Teams Chat — Synapx UK Directors
+
+## 15:04 - Matt Davies
+> yeah
+
+## 15:03 - Jake Bowles
+> Yes, along with everything else in there
+
+## 15:03 - Matt Davies
+> so eventually we can kill it right ?
+
+## 15:01 - Matt Davies
+> no - its fair
+
+## 15:00 - Jake Bowles
+> What on earth
+
+## 15:00 - Jake Bowles
+> Am I being dense with that request for Nandan to have access to the channels?
+
+## 14:59 - Jake Bowles
+> And when nobody was engaging with the channels I gave up
+
+## 14:59 - Jake Bowles
+> Yes ideally but the top one pre-dates the other one
+
+## 14:59 - Charlie Phipps-Bennett
+> top one is to push updates about delivery whereas the channel is delivery customer specific
+
+## 14:58 - Matt Davies
+> you wouldn't use General in the dedicated Synapx | Delivery Team for that?

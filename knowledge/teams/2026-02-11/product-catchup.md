@@ -283,3 +283,35 @@ Check which attachments to process and click 'Submit'."</li></ul>
 ## 14:56 - Jake Bowles
 > Do we need some sort of tooling to do this properly? Linear etc
 
+
+# Teams Chat — Product Catchup
+
+## 15:10 - Jake Bowles
+> Ecosystem for agentic development is very nice
+
+## 15:09 - Jake Bowles
+> I would rather github if we were going down that route
+
+## 15:06 - Navsheen Koul
+> I would start with ADO and explore linear on the side
+
+## 14:56 - Jake Bowles
+> Do we need some sort of tooling to do this properly? Linear etc
+
+## 14:36 - Rahul Matta
+> shall i start the implementation(coding) after understanding?
+> what have you decided, single or multi tenant implementation?
+
+## 14:36 - Navsheen Koul
+> also i'm conscious there's a lot not being tracxked properly so i've asked Gagan M to join our standups so he can PM when i cant
+
+## 14:35 - Rahul Matta
+> Ok, no problem
+
+## 14:33 - Navsheen Koul
+> no Tuesday
+> i wont have enough time to read about it amongst other things
+> friday i'm off the second half and Monday full day
+
+## 14:32 - Navsheen Koul
+> wait for today, its earlier in the day for him so i'll chase tomm morning if he hasn't provided it by then
