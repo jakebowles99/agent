@@ -1,0 +1,15 @@
+# Amanda Bond
+
+## Basic Info
+- **Role**: Unknown
+- **Company**: Spring Capital Partners
+- **Type**: External - Contact
+
+## Contact
+- **Email**: Amanda.Bond@springcapitalpartners.com
+
+## Recent interactions
+- **2026-02-11 08:39:** Asked Andrew to confirm meeting today; confirmed see you then.
+
+---
+*Last Updated: 2026-02-11*

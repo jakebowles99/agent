@@ -1,3 +1,30 @@
+## 2026-02-11 08:30
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 25 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 19 processed (2 created, 17 updated)
+- **Calendar:** 9 events on calendar (next: "Midwich Squad - daily standup" 08:45–09:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] James Grant: avoid running away with current work; proceed carefully due to behind-the-scenes dependencies.
+- [ ] Project Managers: update Harvest Forecast for Synapx non-working time; confirm/adjust Kenny forecasting (17C no longer in scope; internal project); enable Forecast for H&B project once created.
+- [ ] Matt Davies/Tejashwini Das/Tushara Udata: coordinate Tejashwini working with Tushara.
+- [ ] Synapx Directors: prioritise internal projects; confirm whether there is billable work for UK resources (Kenny & Fraser) this week; decide where Kenny should log time.
+- [ ] Review Rahul Matta “Plugin Video.mp4” (Product Catchup link).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett-james-grant.md
+- knowledge/teams/2026-02-11/product-catchup.md
+- knowledge/teams/2026-02-11/project-managers.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+
+---
+
 ## 2026-02-11 08:15
 
 ### Changes This Window

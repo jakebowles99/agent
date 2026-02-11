@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 08:41:** Mentioned as no longer in scope for 17C work.
 - **2026-02-11 08:30:** Mentioned by Nandan Hegde as no longer in scope for 17C work.
 - **2026-02-11 08:25:** Mentioned as previously in scope for 17C work (now no longer in scope per update).
 - **2026-02-10 13:56:** Mentioned as contributing to remaining data discovery efforts (3 days effort estimate across team).

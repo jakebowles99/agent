@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 08:38:** Sent message about forecast; will update and remove investor items.
 - **2026-02-11 07:52:** Sent a Teams message to Matt Davies: 'FYI forecast... will update and remove investor'.
 - **2026-02-11 04:28:** Shared forecast screenshot; said he will update and remove investor letters and wait until Simon is back.
 - **2026-02-11 03:49:** Shared an attachment; said they will update and remove investor letters for now and wait until Simon comes back.
