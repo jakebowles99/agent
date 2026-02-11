@@ -1,3 +1,25 @@
+## 2026-02-11 19:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 11 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 8 processed (0 created, 8 updated)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Add Nandan to the relevant Teams channels (per Synapx UK Directors chat).
+- [ ] Ensure Gagan involves Sales for commercial items; do not contact Lacey again until discussed (per Synapx Directors chat).
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/andrew-price.md
+
+---
+
 ## 2026-02-11 19:30
 
 ### Changes This Window

@@ -672,3 +672,27 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 
 ## 17:45 - Matt Davies
 > depends how much additional context you want added into it but like i say, template is 90% there - it got past Lacey
+
+# Teams Chat — Synapx Directors
+
+## 19:41 - Jake Bowles
+> He hasn't done anything I've disagreed with but still did it
+
+## 19:41 - Jake Bowles
+> I've seen it a little bit on Spring too
+
+## 19:40 - Matt Davies
+> no definitely not - Gagan has been told at least twice by me to involve Sales for anything commercial. the last time it happened it was with Team Factors and that should have been enough of a lesson
+
+## 19:37 - Charlie Phipps-Bennett
+> No
+
+## 19:36 - Jake Bowles
+> Is it normal that we'd have 0 visibility of something like that? I assume not?
+
+## 19:35 - Matt Davies
+> not sure exactly on the timings but I have told him not to communicate to Lacey again until we speak
+
+## 19:34 - Jake Bowles
+> Did he send that email today even after I told him not to send the other one yesterday?
+

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 19:48:** Mentioned in directors chat in context of not being contacted until internal discussion occurs.
 - **2026-02-11 19:23:** Client contact mentioned escalating poor proposal quality; important to keep on side for signing Synapx as a Service; compared deck/template.
 - **2026-02-11 19:04:** Mentioned as having previously approved/passed a template ('it got past Lacey').
 - **2026-02-11 18:48:** Referenced as having previously approved/passed a template ('it got past Lacey').

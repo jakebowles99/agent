@@ -372,3 +372,12 @@
 
 ## 14:58 - Matt Davies
 > you wouldn't use General in the dedicated Synapx | Delivery Team for that?
+
+# Teams Chat — Synapx UK Directors
+
+## 19:40 - Matt Davies
+> yeah - Charlotte agreed
+
+## 19:40 - Jake Bowles
+> Can anyone else add Nandan to those channels?
+
