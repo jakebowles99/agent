@@ -236,3 +236,16 @@ Check which attachments to process and click 'Submit'."</li></ul>
 
 ## 13:44 - Navsheen Koul
 > <p><at id="0">Rahul</at>&nbsp;based on our call right now with the MS guy, please start looking into it. Next task would be to deploy fraud prediction to the marketplace&nbsp;<emoji id="smile" alt="	" title="Smiley"></emoji></p>
+
+# Teams Chat — Product Catchup
+
+## 13:58 - Rahul Matta
+> Also are we going to use single tenant or multi tenant implementation?(I have to make backend tenant-aware)
+
+## 13:57 - Rahul Matta
+> Yes navsheen, got it
+> but first we need to implement basic subscription and authentication logic(Azure AD authentication) as said by tomasz
+> do you want me to work on that from now on?(i mean this is not exactly deploying to marketplace do you want me to implement this)
+
+## 13:44 - Navsheen Koul
+> @Rahul based on our call right now with the MS guy, please start looking into it. Next task would be to deploy fraud prediction to the marketplace 🙂

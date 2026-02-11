@@ -9,6 +9,7 @@
 - **Email**: rahul.matta@synapx.com
 
 ## Recent interactions
+- **2026-02-11 14:09:** Asked about single vs multi-tenant; discussed implementing basic subscription and Azure AD authentication; backend tenant-aware work.
 - **2026-02-11 10:45:** Shared attachments in product catchup related to extraction enhancements.
 - **2026-02-11 10:28:** Shared 'Plugin and Web App Video.mp4'.
 - **2026-02-11 09:41:** Posted an image in Product Catchup chat.

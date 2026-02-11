@@ -294,3 +294,14 @@
 
 ## 13:43 - Jake Bowles
 > <p>And only after the fact do I realise because he doesn't show up on forecasts</p>
+
+# Teams Chat — Synapx UK Directors
+
+## 13:43 - Jake Bowles
+> And only after the fact do I realise because he doesn't show up on forecasts
+
+## 13:42 - Jake Bowles
+> Im not sure he knew what he was signing himself up for but I cant have him billing to training
+
+## 13:42 - Jake Bowles
+> For Friday's agenda but Sudarshans 0 hours contract is really fucking annoying

@@ -54,3 +54,9 @@
 
 ## 12:53 - Ankita Kajal
 > NoReadAI | Synapx https://www.synapx.com/noreadai/ The NoRead AI landing page is live on our website
+
+# Teams Chat — Marketing Requests
+
+## 13:46 - Navsheen Koul
+> <attachment id="1770814389269"></attachment>
+> Please redirect all marketing and sales conversations to this website if need be, can be handy. FYI @Zak for doc extraction

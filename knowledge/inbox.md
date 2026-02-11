@@ -1,3 +1,32 @@
+## 2026-02-11 14:00
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 23 messages across 6 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 17 updated (0 created)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Standup – LCP Doc Extraction: confirm plan to reduce non-extracted items (currently 6/29); fix dark-mode UI issues (Request Screen title; Email Queue subject column); Ajay to deploy plugin to client tenant; Timon to work on “original principal amount” field; respond to Jake whether demo meets expectations.
+- [ ] Product Catchup: Rahul to start implementing basic subscription + Azure AD authentication; decide single-tenant vs multi-tenant approach (backend tenant-aware).
+- [ ] Staffing: find/provide small work for Sudarshan for next 2 days; Nandan to connect with Tayo / explain scope as needed.
+- [ ] Synapx UK Directors: add Sudarshan’s 0-hours contract issue to Friday’s agenda (forecast/billing concern).
+- [ ] Marketing Requests: use NoRead AI website as redirect for marketing/sales conversations (FYI to Zak for doc extraction).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-11/product-catchup.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/sudarshan-gopal.md
+- knowledge/teams/2026-02-11/marketing-requests.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+
+---
+
 ## 2026-02-11 13:30
 
 ### Changes This Window
@@ -6,14 +35,14 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 14 processed (1 created, 13 updated)
-- **Calendar:** 10 events on calendar (next: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (next: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] 17C User Accounts: raise RFA ASAP; investigate AD/AVD password sync issue and recommend using Windows web app if desktop app fails.
-- [ ] Standup – LCP Doc Extraction: log dark-mode UI issues (Request Screen title not visible; Email Queue subject values not visible) and add to issue list.
+- [ ] Standup  LCP Doc Extraction: log dark-mode UI issues (Request Screen title not visible; Email Queue subject values not visible) and add to issue list.
 - [ ] Sudarshan Gopal: find/provide small work items for next 2 days.
-- [ ] Nandan Hegde: create timesheet tags “PMO” under Data & AI and “Capital H & B” for charging pre-req work.
+- [ ] Nandan Hegde: create timesheet tags PMO under Data & AI and Capital H & B for charging pre-req work.
 - [ ] Midwich Squad: capture UAT solution versions list; enforce no further changes into UAT today; ensure PROD SO app users match PROD; have V manage access list.
 
 ### Files Updated

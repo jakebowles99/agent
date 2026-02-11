@@ -149,3 +149,38 @@
 
 ## 13:44 - Jake Bowles
 > <p>Got him chasing me</p>
+
+# Teams Chat — Nandan Hegde
+
+## 13:48 - Nandan Hegde
+> nope
+
+## 13:48 - Jake Bowles
+> Has tayo replied?
+
+## 13:48 - Nandan Hegde
+> do you still want me to explain the scope to him?
+
+## 13:47 - Nandan Hegde
+> I am yet to connect with Tayo
+
+## 13:44 - Jake Bowles
+> Got him chasing me
+
+## 13:44 - Jake Bowles
+> Can you speak with Suds pls
+
+## 13:41 - Jake Bowles
+> I swear I added you to the Capital project already
+
+## 13:39 - Nandan Hegde
+> PMO tag under Data and AI
+> for our forecats work,timeshtee approval etc
+>
+> and another charge code: Capital H & B
+
+## 13:38 - Jake Bowles
+> PMO on cap you mean?
+
+## 13:38 - Jake Bowles
+> Yes give me a couple of hrs
