@@ -203,3 +203,15 @@
 
 ## 15:21 - Anand Karia
 > I am in the AVD as well. Password changed here, and accepted on AVD, but I have not tried new password on the web portal yet.
+
+# Teams Chat — 17C User Accounts
+
+## 15:35 - Hemanth Kotha
+> Yep I got a reply for the above. He said he will do AD sync
+
+## 15:25 - Anand Karia
+> So I have the same desynchronisation - Password to portal is still the temporary one in the email, password into AVD has been changed (I think). Hopefully just a sync issue
+
+## 15:21 - Anand Karia
+> I am in the AVD as well. Password changed here, and accepted on AVD, but I have not tried new password on the web portal yet.
+

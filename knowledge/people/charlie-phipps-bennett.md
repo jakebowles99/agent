@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 15:54:** Discussed scheduling quote breakdown call, GitHub Copilot licences/invites, body map library, and staffing/shadowing for sessions.
 - **2026-02-11 15:43:** Discussed 17C account emails; requested GitHub Copilot licence for Vaishnavi; nominated attendees for agentic coding lessons; worked on Compass CMS; discussed coding library needs.
 - **2026-02-11 15:21:** Director channel conversation about emails, meetings, salaries, and internal issues; mentioned Rachel/Claire meeting request.
 - **2026-02-11 15:11:** Explained delivery comms structure; asked to log recruitment centrally; noted as supporting from his team perspective.

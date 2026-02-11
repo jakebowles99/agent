@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 15:55:** Commented on Doc Extraction Webpage Requirements thread and sent LCP Plugin Demo Runthrough meeting invite.
 - **2026-02-11 15:20:** Requested Synapx-branded screenshots/videos for Outlook plugin and web app; discussed marketplace deployment and tracking/tooling.
 - **2026-02-11 15:11:** Coordinated a Tuesday call and chasing access/materials; flagged tracking issues and asked Gagan M to join standups for PM cover.
 - **2026-02-11 14:45:** Coordinated standup updates/demos and discussed precision improvements, field extraction gaps, and next priorities.

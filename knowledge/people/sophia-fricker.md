@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 15:54:** Discussed help with slides/Canva and asked if Jensten deck had been sent.
 - **2026-02-11 15:11:** Contacted while off to approve asking Ankita for slide help.
 - **2026-02-11 14:51:** Received message from Jake Bowles asking if Ankita can help with some slides.
 - **2026-02-11 14:09:** Participant in FabCon/SQLCon Atlanta blogging email thread with Jake Bowles.

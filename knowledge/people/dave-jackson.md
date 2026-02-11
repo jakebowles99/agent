@@ -9,6 +9,7 @@
 - **Email**: dave.jackson@jensten.co.uk
 
 ## Recent interactions
+- **2026-02-11 15:54:** Asked for time on Friday to run through updated SOWs and proposal for other workstreams.
 - **2026-02-11 13:25:** Jake asked if he had time Friday to run through updated SOWs and other workstreams.
 - **2026-02-11 13:10:** Jake asked availability Friday to run through updated SOWs and proposal for other workstreams.
 - **2026-02-10 05:33:** Attendee for Synapx Data & Underwriting Proposal placeholder meeting (2026-02-10).

@@ -253,3 +253,14 @@ Saumya - not benched</div>
 ## 15:28 - Charlotte Price
 > <attachment id="1770796413663"></attachment>
 > have added capital h&b now i have forecast access and have assigned saumya for thurs & friday
+
+# Teams Chat — Project Managers
+
+## 15:38 - Andrew Price
+> <attachment id="1770797116383"></attachment>
+> <at id="0">Tejashwini</at> <at id="1">Tushara</at> status of this please? Thought this was actively being managed
+
+## 15:28 - Charlotte Price
+> <attachment id="1770796413663"></attachment>
+> have added capital h&b now i have forecast access and have assigned saumya for thurs & friday
+

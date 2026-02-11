@@ -9,6 +9,7 @@
 - **Email**: hemanth.kotha@synapx.com
 
 ## Recent interactions
+- **2026-02-11 15:54:** Discussed missing RFA emails and AD/AVD password synchronisation issues; noted ITSM confusion and AD sync update.
 - **2026-02-11 15:44:** Troubleshot missing RFA emails and AVD/login issues; noted AD/AVD password not syncing; shared what emails he could see.
 - **2026-02-11 15:12:** Discussed access to security users list, role permissions, approval process constraints, and shared role list examples.
 - **2026-02-11 14:25:** Discussed SQL/Power Apps issues (dates, temp tables), log analytics/audit connections, potential KQL linking App Insights and SQL, and deployment impacts/indexes.

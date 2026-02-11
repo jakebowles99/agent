@@ -90,3 +90,39 @@
 ## 15:20 - Charlie Phipps-Bennett
 > grrrr do you know any good libraries for a body map like this:
 > [image]
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 15:36 - Jake Bowles
+> She was giving me shit because nobody was shadowing and I told her it was pointless because the only people that would be any good would be you and me
+
+## 15:35 - Charlie Phipps-Bennett
+> lol why?
+
+## 15:34 - Jake Bowles
+> Kim's got me on xiad on Friday with Nandan now. Appreciate it's her job but could have done with about a months more notice
+
+## 15:33 - Charlie Phipps-Bennett
+> <attachment id="1770824002868"></attachment>
+> Oh fuck yeah boy
+
+## 15:33 - Jake Bowles
+> Shall we tag team the session? I have little experience with Code apps
+
+## 15:33 - Charlie Phipps-Bennett
+> <attachment id="1770823990015"></attachment>
+> Good on him
+
+## 15:33 - Charlie Phipps-Bennett
+> She built incitrak, trying to replace the body map with a 3d bodymap: https://marketplace.microsoft.com/en-us/product/web-apps/synapx.incitrak?tab=overview
+
+## 15:33 - Jake Bowles
+> He just reached out
+
+## 15:33 - Jake Bowles
+> <attachment id="1770803758812"></attachment>
+> Add Kush to this
+
+## 15:32 - Jake Bowles
+> Oh haha I saw Divya's name at the top that's why I asked
+
