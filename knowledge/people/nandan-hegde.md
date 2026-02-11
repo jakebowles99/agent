@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 09:17:** Discussed AVD limitations, SSMS/Power BI Desktop, and coordinating with Andy once subscription is set up.
 - **2026-02-11 08:56:** Discussed AVD maturity and tooling limits (SSMS, Power BI Desktop); coordinating with Andy after subscription setup.
 - **2026-02-11 08:40:** Noted 17C no longer in scope for Kenny/Hemanth; discussed billable status pending Jensten sign-off.
 - **2026-02-11 08:30:** Noted 17C no longer in scope for Kenny/Hemanth; commented on Jensten sign-off affecting Kenny billability.

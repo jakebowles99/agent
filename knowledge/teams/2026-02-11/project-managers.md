@@ -241,3 +241,10 @@ Saumya - not benched</div>
 ## 07:36 - Tushara Udata
 > Hi Gaurav Rauthan, hope all forecast updates are up-to-date? Let me know otherwise
 
+
+# Teams Chat — Project Managers
+
+## 08:05 - Matt Davies
+> <attachment id="1770797017659"></attachment>
+> Tejashwini Das please work with Tushara Udata on this
+

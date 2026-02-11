@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 09:15:** Messaged that he would be 5 minutes late.
 - **2026-02-11 08:57:** Discussed AVD usage and tooling; gave view on recruitment offer; agreed to call Nandan to discuss resourcing and scope.
 - **2026-02-11 06:53:** Was addressed by Prathap Reddy regarding SOW generation updates and asked to check a message.
 - **2026-02-11 06:24:** Mentioned (tagged) by Prathap Reddy in SOW generation update.

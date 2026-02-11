@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 09:19:** Asked Tejashwini Das to work with Tushara Udata; shared attachment.
 - **2026-02-11 08:57:** Discussed legal clause flexibility/APS term, internal project prioritisation, finance ops reports, and UK resource availability.
 - **2026-02-11 08:38:** Was recipient/mentioned in Teams notification email about forecast update.
 - **2026-02-11 08:27:** Discussed resource availability, Harvest Forecast updates, internal project prioritisation, and Jensten/17C scope.

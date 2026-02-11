@@ -272,3 +272,14 @@ Yes actually, I could use him on Finance Ops reports tomorrow
 > <attachment id="1770796772756"></attachment>
 > When are we having the chat with Fraser and Gaurav
 
+
+# Teams Chat — Synapx Directors
+
+## 08:38 - Charlie Phipps-Bennett
+> <attachment id="1770796772756"></attachment>
+> When are we having the chat with Fraser and Gaurav
+
+## 08:33 - Unknown
+> So nice to see someone else get it! The possibilities are limitless
+> <attachment id="1770790782921"></attachment>
+

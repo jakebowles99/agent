@@ -160,3 +160,38 @@ Check which attachments to process and click 'Submit'."</li></ul>
 ## 08:44 - Rahul Matta
 > Yes, I did
 
+
+# Teams Chat — Product Catchup
+
+## 09:10 - Rahul Matta
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_N2Y0MDU0NmYtZjUzOS00ZjY4LWI2ZDctYzY3OGIyOTA5NDQx@thread.v2/messages/1770801048776/hostedContents/aWQ9eF8wLXN1ay1kNC1iMmJkZTBmYzgzY2I5ZmEzMTMzOWUzMDg0MWMwNzZiZSx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC1iMmJkZTBmYzgzY2I5ZmEzMTMzOWUzMDg0MWMwNzZiZS92aWV3cy9pbWdv/$value" width="444.44444444444446" height="250" alt="image" itemid="0-suk-d4-b2bde0fc83cb9fa31339e30841c076be"></p>
+
+## 08:50 - Navsheen Koul
+> <p>also one where all checkboxes are selected&nbsp;</p>
+
+## 08:50 - Navsheen Koul
+> <p>need that please</p>
+
+## 08:50 - Navsheen Koul
+> <p>the green successfully bit is not there</p>
+
+## 08:50 - Rahul Matta
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_N2Y0MDU0NmYtZjUzOS00ZjY4LWI2ZDctYzY3OGIyOTA5NDQx@thread.v2/messages/1770799803042/hostedContents/aWQ9eF8wLXd1ay1kMi0yODQ0MmFiMTBlZWExMDk2YjUyZGZjOWZjMjQyNjcyNCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMi0yODQ0MmFiMTBlZWExMDk2YjUyZGZjOWZjMjQyNjcyNC92aWV3cy9pbWdv/$value" width="444.44444444444446" height="250" alt="image" itemid="0-wuk-d2-28442ab10eea1096b52dfc9fc2426724"></p>
+
+## 08:49 - Navsheen Koul
+> <p>yors will be better quality</p>
+
+## 08:48 - Navsheen Koul
+> <p>give me screenshots of this page&nbsp;</p>
+<p><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_N2Y0MDU0NmYtZjUzOS00ZjY4LWI2ZDctYzY3OGIyOTA5NDQx@thread.v2/messages/1770799732886/hostedContents/aWQ9eF8wLXN1ay1kNC0xMmU3ODQwNjQ4M2Q1MmE4YzNkMTViNGMzZGJhYTgzNCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kNC0xMmU3ODQwNjQ4M2Q1MmE4YzNkMTViNGMzZGJhYTgzNC92aWV3cy9pbWdv/$value" width="458.0382436260623" height="250" alt="image" itemid="0-suk-d4-12e78406483d52a8c3d15b4c3dbaa834"></p>
+
+## 08:48 - Rahul Matta
+> <attachment id="1770799661075"></attachment>
+<p>ok will record again</p>
+<p>will post both plugin and webapp combined video</p>
+
+## 08:47 - Navsheen Koul
+> <p>copyright 2026 not 2025</p>
+
+## 08:46 - Navsheen Koul
+> <p>just want to make sure you didn't upload the email into gpt directly&nbsp;<emoji id="sweatgrinning" alt="😅" title="Sweat grinning"></emoji></p>

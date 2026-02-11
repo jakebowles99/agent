@@ -1,3 +1,35 @@
+## 2026-02-11 09:00
+
+### Changes This Window
+- **Emails:** 0
+- **Teams Chats:** 14 messages across 9 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 1 processed
+- **Calendar:** 10 events on calendar (next: "SOW Agent" 09:00–09:30 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Product Catchup: provide Navsheen screenshots of the page (incl. version with all checkboxes selected) and ensure copyright shows 2026.
+- [ ] Synapx Directors: confirm/schedule chat with Fraser and Gaurav.
+- [ ] Capital H&B Handover: acknowledge BC platform go-live is May; review shared project plan v2.
+- [ ] 17C User Accounts: confirm with Charlie Phipps-Bennett whether any email was received from the RFA team.
+- [ ] Project Managers: Tejashwini Das to work with Tushara Udata on the attached item.
+
+### Files Updated
+- knowledge/teams/2026-02-11/sow-agent.md
+- knowledge/teams/2026-02-11/capital-h-b-handover.md
+- knowledge/teams/2026-02-11/17c-user-accounts.md
+- knowledge/teams/2026-02-11/product-catchup.md
+- knowledge/teams/2026-02-11/midwich-squad-daily-standup.md
+- knowledge/teams/2026-02-11/internal-synapx-recruitment.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett-james-grant.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/project-managers.md
+
+---
+
 ## 2026-02-11 08:45
 
 ### Changes This Window
@@ -65,7 +97,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 21 processed (1 created, 20 updated)
-- **Calendar:** 9 events on calendar (next: "Ooo" 08:00–09:00 UTC)
+- **Calendar:** 9 events on calendar (next: “Ooo” 08:00–09:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -92,7 +124,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 17 processed (2 created, 15 updated)
-- **Calendar:** 9 events on calendar (next: "Ooo" 08:00–09:00 UTC)
+- **Calendar:** 9 events on calendar (next: “Ooo” 08:00–09:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected

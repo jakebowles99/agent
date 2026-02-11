@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 09:18:** Mentioned by Charlie Phipps-Bennett regarding scheduling a chat with Fraser and Gaurav.
 - **2026-02-11 08:58:** Referenced as available UK resource; later mentioned regarding scheduling a chat with directors.
 - **2026-02-11 08:41:** Noted as off today (swapped non-working day); discussed as available UK resource; referenced re VPN/internal project.
 - **2026-02-11 08:30:** Mentioned in resourcing; off today (swapped non-working day); availability discussed for UK resources.
