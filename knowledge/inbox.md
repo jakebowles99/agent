@@ -1,3 +1,27 @@
+## 2026-02-11 19:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 18 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 8 processed (0 created, 8 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx Directors: Matt to work on the requested item using other templates; incorporate Sophia’s draft expected before 09:00 tomorrow.
+- [ ] IT / Security: approve/update VS Code GitHub extension in Intune (requested by Charlie; @Andrew Price or @Fraser Hamilton).
+- [ ] Respond to Ankita Kajal re timing/next steps (she can do it tomorrow morning her time).
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/andrew-price.md
+- knowledge/teams/2026-02-11/it-security.md
+- knowledge/teams/2026-02-11/ankita-kajal.md
+
+---
+
 ## 2026-02-11 18:45
 
 ### Changes This Window

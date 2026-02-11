@@ -11,3 +11,11 @@
 ## 14:28 - Jake Bowles
 > Different events company
 
+
+# Teams Chat — Andrew Price
+
+## 18:50 - Andrew Price
+> <p>Sure we will have more clients keen</p>
+
+## 18:50 - Andrew Price
+> <p>Defer a year</p>
