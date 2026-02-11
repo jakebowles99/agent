@@ -14,3 +14,7 @@
 
 ## 22:47 - Jake Bowles
 > (GIF Image)
+
+## 06:45 - Yaz Qaraqesh
+> Sure
+
