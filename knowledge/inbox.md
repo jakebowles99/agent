@@ -1,3 +1,33 @@
+## 2026-02-11 09:30
+
+### Changes This Window
+- **Emails:** 2 new (subjects not provided)
+- **Teams Chats:** 12 messages across 7 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 16 processed (2 created, 14 updated)
+- **Calendar:** 10 events on calendar (current: "Ooo" 09:30–10:30 UTC; also "Standup - LCP Doc Extraction" 09:30–09:45 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Assign a GitHub Copilot licence to Vaishnavi and invite her to the GitHub org (requested by Charlie Phipps-Bennett).
+- [ ] Synapx Directors: move Thursday meeting to Friday to discuss pipeline vs capacity with focus on UK resources (Jake can’t do Thursday).
+- [ ] Follow up outbound leads: Stagecoach Bus and other London bus operators; Beard Construction (Jake suggested outreach).
+- [ ] Standup - LCP Doc Extraction: confirm whether ContractType should be restricted to the fixed dropdown categories.
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-11/17c-user-accounts.md
+- knowledge/teams/2026-02-11/andrew-price-zak-richmond.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/sow-agent.md
+- knowledge/teams/2026-02-11/product-catchup.md
+- knowledge/teams/2026-02-11/standup-lcp-doc-extraction.md
+
+---
+
 ## 2026-02-11 09:15
 
 ### Changes This Window
