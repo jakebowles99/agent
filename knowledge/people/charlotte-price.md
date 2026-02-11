@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 18:06:** Asked for urgent help responding to legal/FRP queries; noted Charlie hadn't seen messages and Maggie was waiting; planned to ask Kim.
 - **2026-02-11 18:01:** Asked about estimate fields and alignment of roles; checked personal data processing for FRP; sought help responding to legal and FRP queries.
 - **2026-02-11 17:22:** Updated leave/availability for Yaz; referenced contracts/compliance kanban board managed by Charlotte/Compliance team.
 - **2026-02-11 15:54:** Updated Harvest forecast access and assigned Saumya for Thurs/Friday on Capital H&B.

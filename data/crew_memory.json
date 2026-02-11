@@ -6,8 +6,8 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 17:45\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 26 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 19 processed (0 created, 17 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Charlie Phipps-Bennett: share Synapx-as-a-Service material link for Compass follow-up and confirm who can s",
-        "timestamp": "2026-02-11T18:04:36.523389+00:00"
+        "result_preview": "## 2026-02-11 18:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 25 messages across 4 conversations\n- **Teams Channels:** 0 messages in 78 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 12 processed (1 created, 11 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Andrew Price: draft/update using other templates (per @Matt request in Synapx Directors chat).\n- [ ] Matt ",
+        "timestamp": "2026-02-11T18:11:52.663681+00:00"
       },
       {
         "status": "success",
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T18:04:36.523399+00:00",
+    "last_updated": "2026-02-11T18:11:52.663691+00:00",
     "version": "1.0"
   }
 }

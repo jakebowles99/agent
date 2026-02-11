@@ -1,3 +1,29 @@
+## 2026-02-11 18:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 25 messages across 4 conversations
+- **Teams Channels:** 0 messages in 78 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 12 processed (1 created, 11 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Andrew Price: draft/update using other templates (per @Matt request in Synapx Directors chat).
+- [ ] Matt Davies: incorporate Sophia’s draft when received (expected before 09:00 tomorrow).
+- [ ] Jake Bowles: jump on a call with Umar to review what’s in place for bid/SDQ module integration (per Joe Thompson chat).
+- [ ] Jake Bowles / team: ensure Seras data discovery doc follows same standards as Jensten (per Nandan Hegde).
+- [ ] Support Charlotte Price: provide ASAP answer for legal/FRP queries; Kim to advise on process.
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/joe-thompson.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/charlotte-price.md
+
+---
+
 ## 2026-02-11 17:45
 
 ### Changes This Window
@@ -6,14 +32,14 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 19 processed (0 created, 17 updated)
-- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Charlie Phipps-Bennett: share Synapx-as-a-Service material link for Compass follow-up and confirm who can support presenting next week.
 - [ ] Andrew Price: confirm you have the material and whether you can join the client call to present.
 - [ ] Matt Davies: set up call with Gagan tomorrow (invite Nandan Hegde and Akshansh Sharma) to address poor-quality BI/Apps proposal sent to Lacey.
-- [ ] Jake Bowles: call Nandan Hegde to discuss staffing/POC/LCP scope; create Harvest tag “PMO” under Data & AI and ensure “Capital H & B” charge code/tag exists for time logging.
+- [ ] Jake Bowles: call Nandan Hegde to discuss staffing/POC/LCP scope; create Harvest tag PMO under Data & AI and ensure Capital H & B charge code/tag exists for time logging.
 - [ ] Charlotte Price: provide legal answer re FRP personal data processing (likely not during discovery; clarify for solution development and include processing schedule if applicable).
 
 ### Files Updated
@@ -32,7 +58,7 @@
 - **Teams Channels:** 0 messages in 79 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 11 processed (0 created, 11 updated)
-- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
