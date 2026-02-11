@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-11 00:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 61 messages across 11 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 11 processed (0 created, 10 updated, 1 unchanged)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests (PNY RFPs): confirm headline numbers to submit (e.g., ~\u00a3200k & ~\u00a3500k vs \u00a3250k & \u00a3600k) and update team ASAP on",
+        "timestamp": "2026-02-11T00:14:05.317261+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "## 2026-02-10 23:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 30 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (3 created, 7 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests (PNY RFPs): confirm which headline numbers to submit tomorrow (~\u00a3200k & ~\u00a3500k vs \u00a3250k & \u00a3600k) and update ",
         "timestamp": "2026-02-10T23:54:20.638343+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-10 21:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 processed (0 created, 2 updated)\n- **Calendar:** 9 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to James Grant: acknowledge he can\u2019t do Thursday and confirm Friday instead.\n\n### Files Updated\n- knowledge/teams/2026-02-10/charlie-",
         "timestamp": "2026-02-10T21:23:54.987876+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-10 21:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 7 processed (1 created, 6 updated)\n- **Calendar:** 10 events on calendar (incl. canceled)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-10 20:45\n\n### Changes This Window\n- **Emails:** 1 new (Re:",
-        "timestamp": "2026-02-10T21:08:22.418522+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 90,
+      "total_runs": 91,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-10T23:54:20.638358+00:00",
+    "last_updated": "2026-02-11T00:14:05.317273+00:00",
     "version": "1.0"
   }
 }

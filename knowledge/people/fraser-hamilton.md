@@ -9,6 +9,7 @@
 - Teams DM available
 
 ## Recent interactions
+- **2026-02-11 00:10:** Noted updating slide 16; discussed credit categorization not under Foundry.
 - **2026-02-10 23:22:** Posted updates in Jensten Proposal chat (updated slide 16) and Azure Admin chat (credit not under Foundry category).
 - **2026-02-10 23:06:** Discussed customer example specifics and whether spend counts as qualifying in Partner Center; noted credit likely not under Foundry category.
 - **2026-02-10 22:35:** Commented on reporting/qualifying spend and Azure marketplace vs Foundry charges.
@@ -40,4 +41,4 @@
 - Investigating marketplace costs for NAT gateway VM
 
 ---
-*Last Updated: 2026-02-10*
+*Last Updated: 2026-02-11*

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 00:10:** Shared link/reference to Synapx contract requests in Teams.
 - **2026-02-10 23:43:** Flagged leave not showing in forecast for Anand and Timon.
 - **2026-02-10 23:06:** Shared link to Contracts Requests channel in Teams.
 - **2026-02-10 13:51:** Mentioned Synapx | contracts created and folder move pending; referenced as person to add an additional PMO tag under Data and AI.
@@ -15,4 +16,4 @@
 - **2026-02-10 10:47:** Discussed Harvest setup for Capital H&B SOW separation; asked about adding PMO tag.
 
 ---
-*Last Updated: 2026-02-10*
+*Last Updated: 2026-02-11*

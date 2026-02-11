@@ -1,3 +1,36 @@
+## 2026-02-11 00:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 61 messages across 11 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 11 processed (0 created, 10 updated, 1 unchanged)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Lead / Opportunity Requests (PNY RFPs): confirm headline numbers to submit (e.g., ~£200k & ~£500k vs £250k & £600k) and update team ASAP once PNY feedback arrives tomorrow; Anand to prep per Andrew’s direction.
+- [ ] Project Managers: delete shared password now that access is restored.
+- [ ] Yaz Qaraqesh: create/provide an account for Kenny.
+- [ ] Kenny Balogun: confirm MW account creation progress; coordinate helping Andy on certs dashboards.
+- [ ] SOW Agent: provide end-of-day update.
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-leadership-team.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/lead-opportunity-requests.md
+- knowledge/teams/2026-02-11/project-managers.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-11/jensten-proposal.md
+- knowledge/teams/2026-02-11/azure-admin.md
+- knowledge/teams/2026-02-11/contract-requests-archive.md
+- knowledge/teams/2026-02-11/kenny-balogun.md
+- knowledge/teams/2026-02-11/yaz-qaraqesh.md
+- knowledge/teams/2026-02-11/sow-agent.md
+
+---
+
 ## 2026-02-10 23:45
 
 ### Changes This Window

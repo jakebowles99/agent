@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 00:09:** Asked about certification value and UK directors update; discussed RFP admin; checked in on workload; progressed account creation for Kenny on MW and requested an account from Yaz; asked for EOD update from SOW Agent.
 - **2026-02-10 23:51:** Discussed certification value/cost, UK directors updates, and RFP submission prep.
 - **2026-02-10 23:41:** Discussed Jensten SOW/deck timing, Compass questions, and RFP pricing discussion.
 - **2026-02-10 23:22:** Led/mentioned across multiple threads (workshop lead, questionnaire review, Teams director chats); requested/received feedback and comments on documents.
@@ -71,4 +72,4 @@
 - **2026-02-09 20:24 UTC:** Teams chat message (banter) in scheduling thread re: call with Andrew Catt (Vinco Wines).
 
 ---
-*Last Updated: 2026-02-10*
+*Last Updated: 2026-02-11*
