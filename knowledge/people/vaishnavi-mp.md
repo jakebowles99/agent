@@ -9,6 +9,7 @@
 - **Email**: vaishnavi.mp@synapx.com
 
 ## Recent interactions
+- **2026-02-11 14:25:** Investigated PO app date/API call issues in UAT, noted prod tables referencing dev DB, proposed switching to sprocs; updating deployment checklist/env vars; requested GitHub Copilot licence and org invite.
 - **2026-02-11 13:40:** Planned to update deployment checklist and environment variable list for next day's deployment.
 - **2026-02-11 13:24:** Investigated UAT API call/date issue; noted prod tables referencing dev DB; provided estimates to move to sprocs; coordinated deployment links.
 - **2026-02-11 13:10:** Checked UAT API calls/dates; raised prod issue with tables referencing dev DB; discussed switching to stored procedures and upcoming approval process work.

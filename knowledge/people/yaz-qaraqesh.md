@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 14:25:** Coordinated urgent fixes and deployment approvals for PO/SO apps; asked team to prioritize, manage permissions/access, and proceed with production deployment.
 - **2026-02-11 13:40:** Coordinated deployment prep; asked about task assignment; noted PROD users alignment and requested someone manage.
 - **2026-02-11 13:24:** Pushed for ASAP resolution and coordination for PO app promotion and SO app signoff; requested access management.
 - **2026-02-11 13:10:** Drove Midwich PO app UAT/prod issues and deployment urgency; requested coordination and ticketing; asked about permissions and timelines.

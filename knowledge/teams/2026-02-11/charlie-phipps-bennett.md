@@ -56,3 +56,8 @@
 
 ## 09:47 - Jake Bowles
 > <p>Pls nominate some people for Agentic Coding lessons with me</p>
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 14:03 - Unknown Sender
+> Fuck me

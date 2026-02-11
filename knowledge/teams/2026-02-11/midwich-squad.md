@@ -319,3 +319,11 @@
 
 ## 13:09 - Timon Wan
 > Cautious me would say tomorrow IST time when there's no active users.
+
+# Teams Chat — Midwich Squad
+
+## 14:09 - Yaz Qaraqesh
+> Please proceed
+
+## 14:09 - Yaz Qaraqesh
+> @Everyone approval to deploy both SO & PO to prod

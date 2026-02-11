@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 14:25:** Raised concerns about deployment stability and App Insights logging/KQL; requested tracing and solution version notes; discussed UI dark mode issues and prompt/backend changes for doc extraction.
 - **2026-02-11 14:09:** Discussed Amount Outstanding definition/source and dark mode banter; assigned to work on 'original principal amount' field.
 - **2026-02-11 13:56:** Raised UX/design feedback on dropdown categories, font contrast, and progress colour issues (Request 171) incl. dark mode notes.
 - **2026-02-11 13:40:** Requested UAT solution versions be noted; advised no changes into UAT; suggested deploying when no active users.

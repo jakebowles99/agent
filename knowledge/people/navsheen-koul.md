@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 14:25:** Requested demo/runthrough; summarized extraction progress and next steps; asked about precision improvements and handover.
 - **2026-02-11 14:09:** Provided demo run-through update: extraction timing, missing docs count, UI changes, deployment tasks for Ajay/Timon, asked Jake for demo expectations.
 - **2026-02-11 14:08:** Led doc extraction standup updates, demo runthrough invite, and marketplace subscription/auth work discussion with Rahul.
 - **2026-02-11 13:55:** Led standup/product catchup for doc extraction; requested demos, screenshots, and provided branding/content feedback; sent LCP plugin demo runthrough invite.

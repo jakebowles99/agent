@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 14:26:** Mentioned as providing feedback and initiating future improvements/prioritization for doc extraction.
 - **2026-02-11 12:10:** Referenced for a connect to clarify data understanding/sources and FX rate scope.
 - **2026-02-11 11:38:** Recipient in email thread about Custom Import Template and Auth / expired-token workflow.
 - **2026-02-11 10:16:** Jake planned to send items to Tayo as a nudge towards SPXaaS.

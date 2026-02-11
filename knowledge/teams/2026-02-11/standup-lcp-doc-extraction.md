@@ -166,3 +166,34 @@
 >
 > Email Queue Screen - Subject column values are not visible in  dark mode
 > <img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXd1ay1kMi1lZWMzMzE0ZDc5NzJlNTMwNTI5YTM0NWRhZjkwNmZjMix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMi1lZWMzMzE0ZDc5NzJlNTMwNTI5YTM0NWRhZjkwNmZjMi92aWV3cy9pbWdv/$value" width="477.3611111111111" height="250" alt="image" itemid="0-wuk-d2-eec3314d7972e530529a345daf906fc2"><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXN1ay1kMy03MDA3MDA2MWNkMTk1MDY2ZDhmOGNkMzIzZDk1MzYzYyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMy03MDA3MDA2MWNkMTk1MDY2ZDhmOGNkMzIzZDk1MzYzYy92aWV3cy9pbWdv/$value" width="454.6186895810956" height="250" alt="image" itemid="0-suk-d3-70070061cd195066d8f8cd323d95363c">
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 14:09 - Timon Wan
+> Modified some of the prompts to be more generic (i.e. not reference specific tables), add additional synonyms and less restrictive data types of the fields (i.e. string instead of date).
+>
+> Also backend code changes to be less strict on when we call teh Analyzer for the other documents after the email.
+
+## 14:05 - Jake Bowles
+> @Timon Wan what have we actually done to improve over the last couple of days?
+
+## 14:04 - Jake Bowles
+> If they're not in the docs then easy to defend
+
+## 14:03 - Navsheen Koul
+> @Charlie FYI he wants a high level vision of how we can improve the precision score and what if the file types change - how do we handle that
+
+## 14:02 - Navsheen Koul
+> tim is on one of them which should be pulling through but isn't, he's having a look
+>
+> CUSPIN, ISN are almost always not mentioned specifically in the PDFs so we're okay to defend that its empty
+>
+> one is a dropdown so we'll have a look at that too (its the only dropdown)
+>
+> the other 2 need to be looked at. if they are not mandatory or not present in the first place in the PDF  then we can defend.
+>
+>
+> having said that i want to prioritise what we focus on next based on tayo's feedback.
+>
+>
+> @Jake on the precision related questions, have you done the handover to Charlie since you're not joining?
