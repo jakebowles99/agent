@@ -76,3 +76,10 @@
 
 ## 18:03 - Charlie Phipps-Bennett
 > Intune admin required for vs code Github extension update. @Andrew Price or @Fraser Hamilton can we do this now please?
+
+# Teams Chat — IT / Security
+
+## 21:24 - Timon Wan
+> We need to apply a new sponsorship to Microsoft Azure Sponsorship (5000 USD) ISV Success.
+>
+> Very little credit left and will run out in a day or two

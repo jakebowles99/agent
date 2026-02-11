@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-11 21:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 6 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 7 processed (0 created, 7 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Apply new sponsorship to Microsoft Azure Sponsorship (5000 USD) ISV Success (credit nearly deplete",
+        "timestamp": "2026-02-11T21:38:41.612713+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 21:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 12 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (0 created, 10 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Joe/Team: advise on integrating bids app work with Foundry/anal",
         "timestamp": "2026-02-11T21:20:39.134505+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 19:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 20 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 21 processed (0 created, 21 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm APS can be updated from 6-year term to 1-year term and resent for signature.\n- [ ",
         "timestamp": "2026-02-11T19:26:18.083562+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 19:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 18 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 8 processed (0 created, 8 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: Matt to work on the requested item using other templates; incorporate Sophia\u2019s draft expect",
-        "timestamp": "2026-02-11T19:07:02.390702+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 158,
+      "total_runs": 159,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T21:20:39.134521+00:00",
+    "last_updated": "2026-02-11T21:38:41.612729+00:00",
     "version": "1.0"
   }
 }
