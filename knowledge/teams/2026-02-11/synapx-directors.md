@@ -162,3 +162,37 @@ Yes actually, I could use him on Finance Ops reports tomorrow
 ## 00:16 - Matt Davies
 > <attachment id="1770732651044"></attachment>
 <p>Yes actually, I could use him on Finance Ops reports tomorrow</p>
+
+# Teams Chat — Synapx Directors
+
+## 07:59 - Matt Davies
+> Ok, we do need to prioritise these internal projects together.
+> 
+> Is there really no billable project work for the availabile UK resources (Kenny & Fraser) this week?
+
+## 07:55 - Andrew Price
+> Allows us to track expectations and renewals
+
+## 07:55 - Andrew Price
+> He is implementing a group feature so we can assign any certifications to groups and groups to people
+
+## 07:54 - Andrew Price
+> Operations Reporting - Certifications Dashboard
+
+## 07:54 - Matt Davies
+> Ok that's a nice thing. out of interest which plan would Kenny log his time to for that?
+
+## 07:47 - Andrew Price
+> TD are allowing us to apply for Microsoft vouchers for pretty much any certification that counts to Solution Partner or Specialisation. So for each person, we identify their target certifications, then open the list up to anyone if they want to volunteer for more, then we apply
+
+## 07:34 - Matt Davies
+> whats a voucher request?
+
+## 07:34 - Matt Davies
+> financial dashboard
+
+## 07:33 - Andrew Price
+> How urgent?
+
+## 07:33 - Andrew Price
+> Just building me something in the licensing dashboard to allow me to do the voucher request to TD Synnex
