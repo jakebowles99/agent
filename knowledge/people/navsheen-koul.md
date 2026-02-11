@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 07:40:** Provided guidance for demo video: keep field names same with dummy data; show webapp for whole video.
 - **2026-02-11 07:23:** Provided feedback and requested Synapx-branded screenshots; discussed using dummy data and plugin/webapp demo details.
 - **2026-02-11 06:53:** Requested Synapx-branded screenshots for Outlook plugin and webapp pages.
 - **2026-02-11 06:37:** Requested Rahul to provide Synapx-branded screenshots of Outlook plugin PDF list and several web app pages (dashboard, review, other pages) today.

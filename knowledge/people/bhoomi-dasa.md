@@ -9,6 +9,7 @@
 - **Email**: bhoomi.dasa@synapx.com
 
 ## Recent interactions
+- **2026-02-11 07:40:** Discussed salary hike expectations for candidate Rahul; offered 30%, candidate asking 32–33.
 - **2026-02-10 17:07:** Shared a table/list of candidates; asked to provide joining dates and locations for accepted offers.
 - **2026-02-10 16:50:** Shared candidate status table in recruitment chat.
 - **2026-02-10 16:42:** Coordinated recruitment details, shared assignments, and provided accepted-offer candidate joining dates/locations.
@@ -18,4 +19,4 @@
 - **2026-02-10 03:47:** Organizer listed for 'Interview Scheduled – Azure SME | Synapx | Rahul Mahajan' on 2026-02-10.
 
 ---
-*Last Updated: 2026-02-10*
+*Last Updated: 2026-02-11*

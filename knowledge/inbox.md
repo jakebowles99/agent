@@ -1,3 +1,29 @@
+## 2026-02-11 07:30
+
+### Changes This Window
+- **Emails:** 0
+- **Teams Chats:** 8 messages across 5 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 8 processed (1 created, 7 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Nandan Hegde: schedule/connect to discuss work for Suds/Ken/Dhanya/Hemanth, POC work, and LCP scope through SOW.
+- [ ] Aishwarya Ramesh: review the Data Readiness Accelerator (Canva link).
+- [ ] Internal Synapx Recruitment: decide/advise next step on Rahuls hike expectation (~3233 vs offered 30%).
+- [ ] Product Catchup: confirm/align on using dummy data, keeping field names the same, and using a fake email body for the demo video.
+
+### Files Updated
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/aishwarya-ramesh.md
+- knowledge/teams/2026-02-11/internal-synapx-recruitment.md
+- knowledge/teams/2026-02-11/product-catchup.md
+- knowledge/teams/2026-02-11/contract-requests-archive.md
+
+---
+
 ## 2026-02-11 06:30
 
 ### Changes This Window

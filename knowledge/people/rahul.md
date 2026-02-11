@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 07:40:** Discussed as a recruitment candidate with salary hike expectations (30%+).
 - **2026-02-11 06:37:** Was asked by Navsheen Koul to provide Synapx-branded screenshots for Outlook plugin and web app pages.
 - **2026-02-10 16:44:** Referenced as an ideal mindset benchmark for the role being recruited.
 - **2026-02-10 13:01:** Tagged for follow-up discussion on fraud prediction rules and behaviour/pricing anomalies.
