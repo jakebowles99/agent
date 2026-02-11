@@ -6,8 +6,16 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 02:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 processed (0 created, 0 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-11 02:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n-",
-        "timestamp": "2026-02-11T03:01:58.101182+00:00"
+        "result_preview": "## 2026-02-11 03:00\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 3 processed (0 created, 3 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update and remove investor letters for now; wait until Simon returns before proceeding.\n\n### Files Updated\n- knowledge/emails/2026-02-11.m",
+        "timestamp": "2026-02-11T03:08:43.207957+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "## 2026-02-11 02:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 1 processed (0 created, 0 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update/remove investor letters for now; wait until Simon returns before proceeding.\n\n### Files Updated\n- knowledge/teams/2026-02-11/projec",
+        "timestamp": "2026-02-11T02:45:50.938174+00:00"
       },
       {
         "status": "success",
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 00:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 50 messages across 10 conversations\n- **Teams Channels:** 0 messages in 29 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 13 processed (0 created, 13 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests: confirm headline numbers for both RFP excel submissions (awaiting PNY feedback tomorrow); Anand to prep per Andrew\u2019s direc",
         "timestamp": "2026-02-11T00:24:12.558343+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 00:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 61 messages across 11 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 11 processed (0 created, 10 updated, 1 unchanged)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Lead / Opportunity Requests (PNY RFPs): confirm headline numbers to submit (e.g., ~\u00a3200k & ~\u00a3500k vs \u00a3250k & \u00a3600k) and update team ASAP on",
-        "timestamp": "2026-02-11T00:14:05.317261+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 100,
+      "total_runs": 101,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T03:01:58.101191+00:00",
+    "last_updated": "2026-02-11T03:08:43.207980+00:00",
     "version": "1.0"
   }
 }
