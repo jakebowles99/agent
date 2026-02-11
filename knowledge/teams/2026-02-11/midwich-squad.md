@@ -169,3 +169,17 @@
 ## 11:05 - Vaishnavi MP
 > Just created a record on UAT. Here's the api call
 > Get's the right date
+
+# Teams Chat — Midwich Squad
+
+## 12:12 - Hemanth Kotha
+> <attachment id="1770811463164"></attachment>
+> <p>If that's the case then I don't see a big use of PA and Log Analytics integration. Mostly we need live monitor logs to be streamed as we use it for debugging mostly. And one more thing that I have observed is power apps is using whole pp subnet for calling SQL every time it uses a different ip. Not sure how it works.&nbsp;</p>
+
+## 12:04 - Timon Wan
+> <attachment id="1770809861480"></attachment>
+> <p>Yes will need KQL, million dollar question is atm what ootb logs can Power Apps give.&nbsp;</p>
+> <p>I've not see a way to connect Live Monitoring to stream to App Insights/Log Analytics</p>
+> <p>From what I read it's more high level telemetry, so anything useful to us might need to be using Trace to log custom events. FYI&nbsp;<at id="0">Vaishnavi</at>&nbsp;<at id="1">MP</at></p>
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
