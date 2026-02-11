@@ -49,3 +49,8 @@
 
 ## 11:11 - Charlie Phipps-Bennett
 > EPIC
+
+# Teams Chat — Marketing Requests
+
+## 12:53 - Ankita Kajal
+> NoReadAI | Synapx https://www.synapx.com/noreadai/ The NoRead AI landing page is live on our website

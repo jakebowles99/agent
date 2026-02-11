@@ -1,7 +1,44 @@
+## 2026-02-11 13:15
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 38 messages across 9 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 20 processed (0 created, 19 updated)
+- **Calendar:** 10 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Midwich Squad: coordinate ASAP to promote PO app from UAT to production; await Yaz confirmation on SO app; target tomorrow AM UK time; verify PO app/SO app user access parity in PROD and manage access list (SharePoint link); investigate order **100120** created-date anomaly; review impact/timing for DB deployment and indexes.
+- [ ] Midwich Squad: create/track ADO ticket https://dev.azure.com/mw-synapx/SlipStream/_workitems/edit/226 and progress resolution.
+- [ ] Midwich Squad (Timon): add Trace statements in dev SO app for calls to sprocs/flows/SharePoint.
+- [ ] Midwich Squad: address Prod tables referencing dev DB; estimate work to switch app calls to stored procedures (likely alongside upcoming approval process work).
+- [ ] 17C User Accounts: raise RFA ASAP (per Akshansh).
+- [ ] Ankita Kajal: research prompting techniques and add to content; share non-blurry links or screenshare if link access restricted.
+- [ ] Marketing Requests: note NoRead AI landing page is live; confirm any follow-up tasks.
+- [ ] Dave Jackson: confirm availability Friday to review updated SOWs/proposal (Jake to send today).
+- [ ] Tayo Eletu-Odibo: if request is out of POC scope, capture in SOW; schedule quick call later today.
+- [ ] Nandan Hegde: coordinate outreach to connect (~30 mins) and clarify whether topic is FX rate vs shared mailbox.
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+- knowledge/teams/2026-02-11/17c-user-accounts.md
+- knowledge/teams/2026-02-11/ankita-kajal.md
+- knowledge/teams/2026-02-11/andrew-price.md
+- knowledge/teams/2026-02-11/euroleague-final-reviews.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/tayo-eletu-odibo.md
+- knowledge/teams/2026-02-11/andrew-hutchison-dave-jackson-matt-davies.md
+- knowledge/teams/2026-02-11/marketing-requests.md
+
+---
+
 ## 2026-02-11 13:00
 
 ### Changes This Window
-- **Emails:** 2 new (Bliss Bakery Pop Up 🍪🍰 | beyond Aldgate Tower; Re: Doc Extraction Webpage Requirements)
+- **Emails:** 2 new (Bliss Bakery Pop Up "); Re: Doc Extraction Webpage Requirements)
 - **Teams Chats:** 25 messages across 5 conversations
 - **Teams Channels:** 0 messages in 81 channels
 - **Transcripts:** 0 new
@@ -11,7 +48,7 @@
 
 ### Action Items Detected
 - [ ] Nandan Hegde: arrange/connect on call; confirm whether FX rate question is mailbox vs Chrysalis; align on LCP scope and whether to set up 30-min call with Tayo.
-- [ ] Midwich Squad: coordinate ASAP to promote PO app from UAT to production; by tomorrow AM UK time—confirm scope/plan; add Trace statements in dev SO app (sprocs/flows/SharePoint); resolve prod issue where tables reference dev DB; consider estimate to switch to sprocs.
+- [ ] Midwich Squad: coordinate ASAP to promote PO app from UAT to production; by tomorrow AM UK timeconfirm scope/plan; add Trace statements in dev SO app (sprocs/flows/SharePoint); resolve prod issue where tables reference dev DB; consider estimate to switch to sprocs.
 - [ ] Ankita Kajal: share clear links/screens to UX references for Copilot prompt section (Jake requested non-blurry link) and confirm expectations for Copilot landing page section.
 - [ ] Tayo Eletu-Odibo: ensure Chrysalis FX rate data request is captured in SOW if out of POC scope; set up quick call later today.
 - [ ] Dave Jackson: confirm time Friday to review updated SOWs and proposal for other workstreams (Jake to send SOWs today).
@@ -137,7 +174,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Assign Kushagra Shukla a GitHub Copilot license and arrange a session tailored to moving from Power Automate toward more code-based approaches.
+- [ ] Assign Kushagra Shukagra Shukla a GitHub Copilot license and arrange a session tailored to moving from Power Automate toward more code-based approaches.
 - [ ] Follow up with LemonEdge/Product team on implementing expired-token workflow support for Fabric so scheduled daily exchange-rate task can be set up.
 - [ ] Share/confirm intro addition request for Mount Anvil case study video (Marketing Requests).
 

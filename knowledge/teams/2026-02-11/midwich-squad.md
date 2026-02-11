@@ -237,3 +237,43 @@
 ## 12:54 - Timon Wan
 > Yes, let's not make any changes right now. Just understanding what needs to be done and how complex it would be.
 
+
+# Teams Chat — Midwich Squad
+
+## 13:13 - Yaz Qaraqesh
+> SO APP users need to be the same on PROD
+> 
+> PO APP ACCESS shown in this list:
+> 
+> https://synapxltd.sharepoint.com.mcas.ms/:x:/r/sites/SynapxMidwich-SOW001/_layouts/15/Doc2.aspx?act…
+> 
+> Need V to manage please
+
+## 13:09 - Timon Wan
+> Cautious me would say tomorrow IST time when there's no active users.
+
+## 13:09 - Yaz Qaraqesh
+> hold fire guys I'll try to get SO app signoff shortly
+
+## 13:08 - Hemanth Kotha
+> I have added few additional indexes for optimization
+
+## 13:07 - Hemanth Kotha
+> Impacts will be on sync.
+
+## 13:05 - Timon Wan
+> [attachment]
+> How long and what impacts will it have?
+
+## 13:05 - Hemanth Kotha
+> Should I start db deployment now to prod or everything starts to morning. I need to manually deploy few scripts so mine will take time
+
+## 13:03 - Yaz Qaraqesh
+> Then all can happen together nicely
+
+## 13:03 - Yaz Qaraqesh
+> Beautiful. Please await my confirmation on SO app
+
+## 13:03 - Vaishnavi MP
+> Sure will do. Once complete I can share the links with you
+> Yaz Qaraqesh the Network issue that they see should be resolved after tomorrow's push

@@ -116,3 +116,36 @@
 > Silly question but was there a fullstop at the end of the password?
 > 
 > Mine had one and copy paste didn't pick it up
+
+# Teams Chat — 17C User Accounts
+
+## 13:11 - Akshansh Sharma
+> [attachment]
+> Raise it RFA asap please
+
+## 13:08 - Hemanth Kotha
+> [attachment]
+> Nope for me it's not same. I'm using the web version since in local app it's not working
+
+## 13:06 - Akshansh Sharma
+> [attachment]
+> Both are the same hemanth use the web version of windows app
+
+## 13:04 - Kushagra Shukla
+> I am in the AVD. Password Changed as well.
+
+## 12:52 - Hemanth Kotha
+> [attachment]
+> I have faced this as well. One thing is not clear for me AD + AVD passwords are not in Sync after I have changed the password. For RDP client I need to use separate password and after that It prompts for another password which is for vm.
+
+## 12:51 - Gaurav Rauthan
+> btw are you trying through your windows app on PC?
+> I remember we were facing problem through the app and were successful when tried via windows web app on browser.
+
+## 12:46 - Hemanth Kotha
+> Nope. I think he need to change it again on his side. Sama password worked but he changed it on his side.
+
+## 12:44 - Jake Bowles
+> Silly question but was there a fullstop at the end of the password?
+> 
+> Mine had one and copy paste didn't pick it up

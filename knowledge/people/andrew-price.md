@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 13:25:** Brief note about inability to switch to Fabcon EU.
 - **2026-02-11 12:59:** Discussed identifying Vijay Gorasia and 17C account email in 17C User Accounts chat.
 - **2026-02-11 12:36:** Copied on Marketplace Phase 1 alignment and questions for delivery input.
 - **2026-02-11 11:54:** Confirmed meeting time with Spring Capital Partners.
