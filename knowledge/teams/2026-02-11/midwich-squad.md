@@ -402,3 +402,10 @@
 > (100029, 'Sales Manager / Account Manager', 100001),
 > (100030, 'Sales Director', 100001);
 
+
+# Teams Chat — Midwich Squad
+
+## 15:50 - Timon Wan
+> @Hemanth  @Kotha ISSUE 192 (SO APP: issue with assigned to field not showing records already captured in STX)
+> 
+> Fix was adding user to the internal table. Was that manual, or via/included ib source control? i.e. tomorrows deployment shouldn't revert it right?

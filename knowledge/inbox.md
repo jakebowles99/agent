@@ -1,3 +1,28 @@
+## 2026-02-11 16:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 14 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 9 processed (1 created, 8 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Prathap Reddy: deploy SOW Logic App into Teams tomorrow and demo; continue progress updates.
+- [ ] Nandan Hegde: connect with Tayo tomorrow at 10:00 (30 min); ensure Suds completes timeboxed POC (max 1 day).
+- [ ] Sophia Fricker / Jake Bowles: confirm what time the Jensten deck needs sending; share requirements if Sophia is to help.
+- [ ] Midwich Squad (Hemanth/Kotha/Tim): confirm whether ISSUE 192 fix (adding user to internal table) was manual or in source control; ensure tomorrow’s deployment won’t revert.
+
+### Files Updated
+- knowledge/teams/2026-02-11/prathap-reddy.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/sophia-fricker.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+
+---
+
 ## 2026-02-11 15:30
 
 ### Changes This Window

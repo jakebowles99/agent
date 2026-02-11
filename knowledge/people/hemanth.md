@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 16:05:** Mentioned/tagged regarding ISSUE 192 (SO APP 'assigned to' field / STX records) and deployment concerns.
 - **2026-02-11 15:43:** Mentioned as no longer in scope for 17C work per Nandan.
 - **2026-02-11 08:58:** Mentioned by Nandan as part of resourcing/work discussion (Suds, Ken, Dhanya, Hemanth).
 - **2026-02-11 08:41:** Mentioned as no longer in scope for 17C work.

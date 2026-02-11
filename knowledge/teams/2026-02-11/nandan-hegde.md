@@ -184,3 +184,15 @@
 
 ## 13:38 - Jake Bowles
 > Yes give me a couple of hrs
+
+# Teams Chat — Nandan Hegde
+
+## 15:57 - Nandan Hegde
+> lets see!!
+
+## 15:57 - Nandan Hegde
+> Have a connect with Tayo tomm at 10 AM
+> 
+> ~30 min
+> 
+> for now have told to suds to do the POC and timebound to max 1 day
