@@ -53,3 +53,26 @@
 
 ## 20:59 - Simon Williams
 > <p>Thanks for the update Charlie - well managed sir - well done fd</p>
+
+# Teams Chat — Iwantmore.ai | Synapx
+
+## 21:02 - Craig Bird
+> I spoke to Andy today mate. It's in his interest for it to go ahead!
+
+## 21:01 - Charlie Phipps-Bennett
+> Andy gave me advice on how to present it in written form so credit is his for that part.
+>
+> I then just charmed them on the call and it was all fine
+
+## 20:59 - Simon Williams
+> Thanks for the update Charlie - well managed sir - well done 👍
+
+## 20:44 - Craig Bird
+> Well done mate. As I said last night if you presented it in the right way they would understand. You did.
+
+## 20:26 - Charlie Phipps-Bennett
+> **Charlie Update:**
+>
+> Craig Bird and Simon Williams today I had a great call with Claire and Rachel. They are fully onboard, understand the spend today and do not challenge the need for additional budget. They have some homework to review the process maps. Then we are going to meet next week to discuss what they do want in this release and what can come later.
+>
+> They apologised for not being closer to project but investors gave them a huge task which took priority. I feel very positive after this call and we are already in discussions for some agents they want.

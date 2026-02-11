@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 21:19:** Mentioned as having given advice on presenting written form; spoken to by Craig.
 - **2026-02-11 19:23:** Mentioned as escalation point alongside Matt; referenced as 'Andy' in IT/Security chat (likely Andrew) when Fraser off.
 - **2026-02-11 17:36:** Mentioned as escalation point for client issue regarding poor quality material sent.
 - **2026-02-11 17:22:** Mentioned as being escalated to alongside Matt Davies regarding poor-quality submission.
