@@ -9,6 +9,7 @@
 - **Email**: hemanth.kotha@synapx.com
 
 ## Recent interactions
+- **2026-02-11 13:10:** Discussed SQL/app issues and workarounds for Midwich PO app; investigated date/order issues; log analytics/App Insights considerations.
 - **2026-02-11 13:00:** Discussed missing RFA emails and access; in Midwich Squad chat investigated app/SQL issues, logging, and Power Apps telemetry.
 - **2026-02-11 12:36:** Discussed Power Apps and Log Analytics integration usefulness; noted Power Apps uses whole subnet and varying IPs for SQL calls.
 - **2026-02-11 11:38:** Discussed SQL/app workaround and date issues in PO app UAT; asked to check API call; talked about Log Analytics/audits and whether App Insights needed.

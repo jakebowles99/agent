@@ -1,3 +1,31 @@
+## 2026-02-11 13:00
+
+### Changes This Window
+- **Emails:** 2 new (Bliss Bakery Pop Up 🍪🍰 | beyond Aldgate Tower; Re: Doc Extraction Webpage Requirements)
+- **Teams Chats:** 25 messages across 5 conversations
+- **Teams Channels:** 0 messages in 81 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 14 processed (1 created, 13 updated)
+- **Calendar:** 10 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Nandan Hegde: arrange/connect on call; confirm whether FX rate question is mailbox vs Chrysalis; align on LCP scope and whether to set up 30-min call with Tayo.
+- [ ] Midwich Squad: coordinate ASAP to promote PO app from UAT to production; by tomorrow AM UK time—confirm scope/plan; add Trace statements in dev SO app (sprocs/flows/SharePoint); resolve prod issue where tables reference dev DB; consider estimate to switch to sprocs.
+- [ ] Ankita Kajal: share clear links/screens to UX references for Copilot prompt section (Jake requested non-blurry link) and confirm expectations for Copilot landing page section.
+- [ ] Tayo Eletu-Odibo: ensure Chrysalis FX rate data request is captured in SOW if out of POC scope; set up quick call later today.
+- [ ] Dave Jackson: confirm time Friday to review updated SOWs and proposal for other workstreams (Jake to send SOWs today).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+- knowledge/teams/2026-02-11/ankita-kajal.md
+- knowledge/teams/2026-02-11/tayo-eletu-odibo.md
+- knowledge/teams/2026-02-11/andrew-hutchison-dave-jackson-matt-davies.md
+
+---
+
 ## 2026-02-11 12:45
 
 ### Changes This Window
@@ -207,4 +235,3 @@
 - knowledge/teams/2026-02-11/synapx-directors.md
 
 ---
-

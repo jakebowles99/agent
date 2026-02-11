@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 13:09:** Requested call to discuss Suds/Ken/Dhanya/Hemanth work, POC work, and LCP scope/SOW; coordinating clarification with Tayo.
 - **2026-02-11 13:00:** Updated on shared mailbox ticket; discussed workload/scope (LCP) and contacting Tayo about data sources and FX rate integration.
 - **2026-02-11 12:35:** Asked for a call; discussion referenced Chrysalis side.
 - **2026-02-11 12:10:** Requested to reconnect; discussed clarifying LCP scope and speaking with Tayo about data sources and FX rate integration.

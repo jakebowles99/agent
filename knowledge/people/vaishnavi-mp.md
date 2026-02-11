@@ -9,6 +9,7 @@
 - **Email**: vaishnavi.mp@synapx.com
 
 ## Recent interactions
+- **2026-02-11 13:10:** Checked UAT API calls/dates; raised prod issue with tables referencing dev DB; discussed switching to stored procedures and upcoming approval process work.
 - **2026-02-11 12:36:** Reported prod issue where tables reference dev DB; suggested re-adding tables and creating unmanaged layer until stored procedures replace direct table references.
 - **2026-02-11 11:38:** Checked PO app UAT record/API call; reported order date passed as current date; investigating future created date; asked to verify permissions.
 - **2026-02-11 11:27:** Created UAT record and shared API call showing correct date.

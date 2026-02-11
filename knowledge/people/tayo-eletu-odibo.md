@@ -27,6 +27,7 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-11 13:10:** Discussed Chrysalis SQL DB exchange rate data and whether being pulled into Fabric; requested ensure out-of-scope items added to SOW; open to quick call.
 - **2026-02-11 13:00:** Asked whether Chrysalis exchange rates are being pushed via API to LemonEdge; referenced in scope discussion with Nandan.
 - **2026-02-11 12:37:** Confirmed understanding; thread about Custom Import Template/Auth and FX rates sync via Fabric/GraphQL.
 - **2026-02-11 12:36:** Asked about Chrysalis SQL DB exchange rate data and whether it is being pulled into Fabric; referenced SOW for other CIT.

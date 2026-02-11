@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 13:10:** Discussed Power Apps/Log Analytics/App Insights telemetry and KQL needs; coordinated Midwich deployment considerations and SO app tracing.
 - **2026-02-11 12:36:** Discussed need for KQL and limitations of Power Apps out-of-the-box logs; inability to stream Live Monitoring to App Insights/Log Analytics; suggested using Trace for custom events.
 - **2026-02-11 11:38:** Asked about workaround stability and App Insights need; discussed tracing from app to DB.
 - **2026-02-11 11:27:** Chatted with Jake about expected values/accuracy and preparing demo; mentioned by Hemanth Kotha in Midwich Squad chat.
