@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 21:03:** Had a call with Charlie; fully onboard, understands spend and additional budget; to review process maps and meet next week about release scope.
 - **2026-02-11 20:48:** Stakeholder on call with Charlie; aligned on budget needs; reviewing process maps and planning next-week release-scope discussion.
 - **2026-02-11 19:24:** Mentioned as client stakeholder (with Claire) reviewing remaining work and planning workshop; timeline-focused.
 - **2026-02-11 17:36:** Client-side contact on Compass; wants to review remaining work and hold a workshop to agree next steps; focused on timelines.

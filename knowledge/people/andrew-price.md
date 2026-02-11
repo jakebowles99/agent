@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 21:02:** Replied prior work was Power BI; mentioned knowing Bryce (COO); discussed prospects with WA Comms.
 - **2026-02-11 20:05:** One-to-one Teams chat; brief exchange about raffling something off.
 - **2026-02-11 19:49:** Brief direct chat; user suggested 'Raffle it off' and confirmed done.
 - **2026-02-11 19:33:** Chat thread; Jake Bowles posted short messages ('Raffle it off', 'Yep already done').

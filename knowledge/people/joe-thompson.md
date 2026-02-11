@@ -23,6 +23,7 @@
 - Email discussions regarding Slipstream project scope and pricing
 
 ## Recent interactions
+- **2026-02-11 21:02:** Discussed on-site day with Yaz; noted lingering performance issues in SO app due to indexing/filtering as users/sites increase.
 - **2026-02-11 20:48:** Reported on-site day with Yaz; noted lingering performance issues in SO app (indexing/filtering) to consider as users/sites increase; discussing bids app integration with Foundry.
 - **2026-02-11 20:05:** Asked to grab 30 minutes tomorrow in Teams chat.
 - **2026-02-11 19:33:** Requested 30 minutes meeting tomorrow via Teams chat.

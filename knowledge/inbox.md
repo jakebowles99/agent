@@ -1,3 +1,26 @@
+## 2026-02-11 21:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 4 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 13 processed (1 created, 12 updated)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Advise on integrating bids app work with Foundry/analyzer; align next steps (similar to PO app).
+- [ ] Consider/resolve lingering performance issues on SO app (indexing/filtering) as users/sites increase.
+- [ ] Update slide 13 (requested by Jake Bowles).
+
+### Files Updated
+- knowledge/teams/2026-02-11/joe-synapx-delivery.md
+- knowledge/teams/2026-02-11/iwantmore-ai-synapx.md
+- knowledge/teams/2026-02-11/sophia-fricker.md
+
+---
+
 ## 2026-02-11 20:45
 
 ### Changes This Window
@@ -6,7 +29,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 8 processed (2 created, 6 updated)
-- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -28,7 +51,7 @@
 - **Teams Channels:** 1 messages in 1 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 18 processed (0 created, 17 updated)
-- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -49,7 +72,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 5 processed (2 created, 3 updated)
-- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -69,7 +92,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 9 processed (0 created, 9 updated)
-- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -93,7 +116,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 8 processed (0 created, 8 updated)
-- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -115,7 +138,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 3 processed (0 created, 3 updated)
-- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -135,7 +158,7 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 21 processed (0 created, 21 updated)
-- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
@@ -144,7 +167,7 @@
 - [ ] Synapx Directors: share Synapx-as-a-Service material link with Charlie; confirm who can support presenting next week; produce a standard offering deck (Sophia draft expected before 09:00 tomorrow).
 - [ ] Synapx Directors: Matt to set up call with Gagan tomorrow (invite Nandan + Akshansh) re poor-quality BI/Apps proposal sent to Lacey.
 - [ ] IT / Security: Intune admin required to approve/update VS Code GitHub extension (requested by Charlie; Andrew/Fraser).
-- [ ] Ankita Kajal: provide expectations for Copilot landing page “prompt section” content; Ankita can update Canva slide 13 tomorrow morning her time.
+- [ ] Ankita Kajal: provide expectations for Copilot landing page prompt section content; Ankita can update Canva slide 13 tomorrow morning her time.
 
 ### Files Updated
 - knowledge/teams/2026-02-11/synapx-directors.md
@@ -162,11 +185,11 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 8 processed (0 created, 8 updated)
-- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Synapx Directors: Matt to work on the requested item using other templates; incorporate Sophia’s draft expected before 09:00 tomorrow.
+- [ ] Synapx Directors: Matt to work on the requested item using other templates; incorporate Sophias draft expected before 09:00 tomorrow.
 - [ ] IT / Security: approve/update VS Code GitHub extension in Intune (requested by Charlie; @Andrew Price or @Fraser Hamilton).
 - [ ] Respond to Ankita Kajal re timing/next steps (she can do it tomorrow morning her time).
 

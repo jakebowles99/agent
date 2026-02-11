@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-11 21:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 4 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 13 processed (1 created, 12 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Advise on integrating bids app work with Foundry/analyzer; align next steps (similar to PO app).",
+        "timestamp": "2026-02-11T21:04:03.043209+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 20:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 8 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 8 processed (2 created, 6 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Advise on integrating bids app work with Foundry/analyzer; align n",
         "timestamp": "2026-02-11T20:48:55.699066+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 18:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 17 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (0 created, 10 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Intune admin required to approve/update VS Code GitHub extension / potential VS Code update (blocking Charl",
         "timestamp": "2026-02-11T18:54:15.299967+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 18:30\n\n### Changes This Window\n- **Emails:** 2 new (subjects: not provided)\n- **Teams Chats:** 5 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 12 processed (4 created, 8 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Intune admin required to approve/update VS Code GitH",
-        "timestamp": "2026-02-11T18:37:53.400659+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 156,
+      "total_runs": 157,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T20:48:55.699083+00:00",
+    "last_updated": "2026-02-11T21:04:03.043230+00:00",
     "version": "1.0"
   }
 }
