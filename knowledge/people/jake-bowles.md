@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 15:44:** Advised about password full-stop; discussed Fabric workshop delivery/support and consultancy standards with Kim; chatted with Charlie about tools/libraries and workload.
 - **2026-02-11 15:21:** Discussed tooling choices (ADO/Linear/GitHub) and various director channel topics; asked about incidents and access to channels.
 - **2026-02-11 15:10:** Participated across director/product/recruitment and other chats; discussed delivery comms, product tracking, training/consultancy standards, legal/pricing, permissions, and timesheets.
 - **2026-02-11 14:51:** Participated in multiple chats: discussed training/consultancy skills with Kim Totten; asked Sophia Fricker about Ankita helping with slides; posted comment about Charlotte and Fraser.

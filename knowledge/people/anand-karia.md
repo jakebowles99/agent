@@ -21,6 +21,7 @@
 - Technical estimation
 
 ## Recent interactions
+- **2026-02-11 15:44:** Reported Synapx password reset; discussed portal vs AVD password desynchronisation/sync issue.
 - **2026-02-11 13:55:** Sent BRD weekly standup update and Euroleague final reviews meeting invite; noted Synapx account password reset in 17C User Accounts chat.
 - **2026-02-11 12:59:** Mentioned password reset to Synapx account in 17C User Accounts chat; sent BRD weekly standup update and Euroleague final reviews meeting.
 - **2026-02-11 11:56:** Organized Euroleague final reviews and BRD weekly standup updates.

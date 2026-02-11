@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 15:43:** Availability and forecasting discussed under H&B; noted as having delivered Fabric workshops before; assigned for Thu/Fri by Charlotte.
 - **2026-02-11 15:11:** Referenced regarding feedback quality affecting broader perception.
 - **2026-02-11 14:51:** Mentioned regarding receiving poor feedback and implications for others' feedback.
 - **2026-02-11 14:46:** Mentioned as having delivered Fabric in a Day workshops previously; discussed as coverage option.

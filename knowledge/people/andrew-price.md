@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 15:40:** Resource/forecast coordination; asked about 17C user account email and identified Vijay Gorasia email.
 - **2026-02-11 15:21:** Discussed compliance prep, salary sharing boundaries, and stance on paying invoices to non-billable tasks.
 - **2026-02-11 15:12:** Suggested candidate technical assessment via deploying to repos and automated testing.
 - **2026-02-11 14:44:** Chatted about Fabcon EU access issue, recruitment offer fairness and candidate testing approach, and internal UK directors compliance/invoice comments.

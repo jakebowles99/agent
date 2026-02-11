@@ -121,3 +121,22 @@
 ## 14:49 - Kim Totten
 > No worries - we can chat properly when you have some time, I'm here to support on this if I can because we want to iron out stuff like this before MSFT recommend us their managed accounts when we are concerned about consultancy standards, they will pick up on that very quickly, they care about execution obviously but they need the confidence that they can scale customers with us across 3,4,5 very strong consultants
 
+
+
+## 15:24 - Kim Totten
+> I will give you a list of accounts that have peaked my interest, and I am trying to speak to them over a quick call to set expectations on what they are interested in - they have been patching me so far though 😀
+
+## 15:23 - Kim Totten
+> That would be fab
+
+## 15:22 - Jake Bowles
+> Yeah I can work with that
+
+## 15:21 - Kim Totten
+> I understand, what about open and close?
+
+## 15:20 - Jake Bowles
+> I can jump in and out but not at this short notice
+
+## 15:19 - Kim Totten
+> Would you be available to support Nandan on Friday? there are a few MSFT managed accounts joining so it would be good to have you there if we are hesitant on consultancy quality

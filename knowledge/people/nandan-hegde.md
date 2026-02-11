@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 15:43:** Stated 17C no longer in scope for Kenny/Hemanth; discussed as delivering Friday Fabric workshop and need for shadow/support.
 - **2026-02-11 15:21:** Mentioned forecast/off-status issue; referenced regarding needing access to channels.
 - **2026-02-11 14:44:** Discussed AVD/conditional access limitations and subscription setup status; noted as delivering Fabric in a Day workshop.
 - **2026-02-11 14:08:** Emailed no action on ticket; discussed PMO tags/charge codes and contacting Tayo/Sudarshan in Teams.

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 15:43:** Referenced in Harvest forecast updates; in 17C user accounts chat responded 'No' and was identified as Vijay Gorasia (gorasia@17capital.com).
 - **2026-02-11 08:41:** Referenced in forecast update (updated for Vijay against Accent).
 - **2026-02-11 08:30:** Mentioned in context of forecast update against Accent.
 - **2026-02-11 08:25:** Mentioned in context of forecast updates against Accent.

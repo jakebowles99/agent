@@ -70,3 +70,23 @@
 ## 14:17 - Charlie Phipps-Bennett
 > ahahahaa
 
+
+
+## 15:30 - Charlie Phipps-Bennett
+> [image]
+> 
+> Slowly edging closer lol
+
+## 15:22 - Charlie Phipps-Bennett
+> Trying to create something fucking cool and getting shit results like this:
+> [image]
+
+## 15:20 - Jake Bowles
+> what are you trying?
+
+## 15:20 - Jake Bowles
+> wtf 😂
+
+## 15:20 - Charlie Phipps-Bennett
+> grrrr do you know any good libraries for a body map like this:
+> [image]

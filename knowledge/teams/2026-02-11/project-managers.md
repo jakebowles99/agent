@@ -248,3 +248,8 @@ Saumya - not benched</div>
 > <attachment id="1770797017659"></attachment>
 > Tejashwini Das please work with Tushara Udata on this
 
+
+
+## 15:28 - Charlotte Price
+> <attachment id="1770796413663"></attachment>
+> have added capital h&b now i have forecast access and have assigned saumya for thurs & friday

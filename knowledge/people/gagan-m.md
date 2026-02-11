@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 15:43:** Requested Harvest Forecast be updated for Synapx non-working time for resources.
 - **2026-02-11 15:21:** Asked to join standups to help PM when Navsheen cannot; referenced in tracking discussions.
 - **2026-02-11 15:11:** Mentioned as joining standups to PM when Navsheen can't.
 - **2026-02-11 14:44:** Shared project kick-off summary document and discussed whether outreach with timelines had been sent.

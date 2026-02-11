@@ -9,6 +9,7 @@
 - **Email**: gorasia@17capital.com
 
 ## Recent interactions
+- **2026-02-11 15:43:** Identified by Andrew Price as 'Vijay Gorasia (2025-04-25) - gorasia@17capital.com' during 17C user account troubleshooting.
 - **2026-02-11 09:17:** Referenced as potential identity for Vijay; email gorasia@17capital.com.
 
 ---

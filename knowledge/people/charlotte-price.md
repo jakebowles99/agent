@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 15:43:** Added Capital H&B in Harvest after gaining forecast access and assigned Saumya for Thu/Fri.
 - **2026-02-11 15:21:** Asked who marked Yaz as off for 3 weeks on forecast; later mentioned as potential team with Fraser.
 - **2026-02-11 12:59:** Asked clarification on naming/roles and delivery oversight; discussed FRP personal data question raised by David.
 - **2026-02-11 12:36:** Discussed clarifying that work may be in solution development and processing schedule applicability.
