@@ -26,3 +26,15 @@
 
 ## 10:21 - Jake Bowles
 > phase
+
+# Teams Chat — Charlotte Price
+
+## 11:47 - Charlotte Price
+> FRP - is it likely we will be processing any personal data? i can see discovery design, review of fabric and coe, would not seem likely but you will have a better idea (david has asked this)
+
+## 11:46 - Charlotte Price
+> sorry to bother you again 😄
+
+## 11:46 - Charlotte Price
+> hey
+

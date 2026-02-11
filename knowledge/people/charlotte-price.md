@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 12:09:** Asked whether FRP work is likely to involve processing personal data; referenced request from David.
 - **2026-02-11 10:45:** Asked clarification about what 'name' refers to.
 - **2026-02-11 10:28:** Asked what the 'name' field should be (shared image).
 - **2026-02-11 00:37:** Posted a link to Synapx contract requests in Microsoft Teams.

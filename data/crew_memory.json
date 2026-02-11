@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-11 12:00\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 7 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (2 created, 8 updated)\n- **Calendar:** 10 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to Charlotte Price: confirm whether FRP will process any personal data.\n- [ ] Nandan Hegde: confirm if he should connect with Tayo on data sources a",
+        "timestamp": "2026-02-11T12:12:38.272772+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "## 2026-02-11 11:45\n\n### Changes This Window\n- **Emails:** 2 new\n- **Teams Chats:** 28 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0\n- **Calendar:** 10 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Assign Kushagra Shukla a GitHub Copilot license and arrange a session tailored to moving from Power Automate toward more code-based approaches.\n- [ ] Follow up with LemonEdge/Product team",
         "timestamp": "2026-02-11T11:58:09.542690+00:00"
       },
@@ -66,11 +74,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 08:15\n\n### Changes This Window\n- **Emails:** 0\n- **Teams Chats:** 34 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 21 processed (1 created, 20 updated)\n- **Calendar:** 9 events on calendar (next: \"Ooo\" 08:00\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update Harvest Forecast for Synapx non-working time; respond re H&B project in Harvest/enable Forecast; coord",
         "timestamp": "2026-02-11T08:32:21.133312+00:00"
-      },
-      {
-        "status": "error",
-        "error": "HTTPSConnectionPool(host='ais-devhubsweden354d6x.openai.azure.com', port=443): Read timed out. (read timeout=300)",
-        "timestamp": "2026-02-11T08:08:38.749096+00:00"
       }
     ],
     "pending_items": []
@@ -78,7 +81,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 124,
+      "total_runs": 125,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -91,7 +94,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T11:58:09.542704+00:00",
+    "last_updated": "2026-02-11T12:12:38.272786+00:00",
     "version": "1.0"
   }
 }

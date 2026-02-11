@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 12:10:** Referenced for a connect to clarify data understanding/sources and FX rate scope.
 - **2026-02-11 11:38:** Recipient in email thread about Custom Import Template and Auth / expired-token workflow.
 - **2026-02-11 10:16:** Jake planned to send items to Tayo as a nudge towards SPXaaS.
 - **2026-02-10 16:50:** Mentioned as handover recipient for E2E work with LCP.

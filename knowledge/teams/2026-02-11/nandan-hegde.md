@@ -50,3 +50,26 @@
 
 ## 11:40 - Nandan Hegde
 > Hi
+
+# Teams Chat — Nandan Hegde
+
+## 11:44 - Nandan Hegde
+> paralelley, w.r.t LCP
+>
+> Is it ok if I have a connect with Tayo on the data understanding/sources and also have query on the Fx Rate side of things. He is expecting to even integrate chryslais Fx Rate data in Garph QL which he never stated
+>
+> 
+>
+> need to get some clarfications on overall scope
+
+## 11:43 - Nandan Hegde
+> Ican we connect back in 45 mins?
+>
+> Have a connect with Eclipse team in 15 mins
+
+## 11:42 - Jake Bowles
+> Hey, just on my way to train station. Free in 20
+
+## 11:40 - Nandan Hegde
+> Hi
+

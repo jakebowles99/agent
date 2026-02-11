@@ -1,3 +1,26 @@
+## 2026-02-11 12:00
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 7 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 10 processed (2 created, 8 updated)
+- **Calendar:** 10 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to Charlotte Price: confirm whether FRP will process any personal data.
+- [ ] Nandan Hegde: confirm if he should connect with Tayo on data sources and FX rate scope/GraphQL integration; align on overall scope.
+- [ ] Nandan Hegde: reconnect in ~45 minutes.
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/charlotte-price.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+
+---
+
 ## 2026-02-11 11:45
 
 ### Changes This Window
