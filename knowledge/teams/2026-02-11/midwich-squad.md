@@ -119,3 +119,22 @@
 
 ## 10:22 - Hemanth Kotha
 > [image]
+
+# Teams Chat — Midwich Squad
+
+## 11:16 - Yaz Qaraqesh
+> <attachment id="1770807901516"></attachment>
+> What's the conclusion on this guys please?
+
+## 11:13 - Hemanth Kotha
+> @Timon I have validated all the sql servers have connected audits to their env specific log analytics ws. Do I also need to deploy application insights for sql as well?
+
+## 11:08 - Hemanth Kotha
+> Can you check the one for the above record. Not new one.
+
+## 11:05 - Vaishnavi MP
+> Just created a record on UAT. Here's the api call
+> 
+> [image]
+> 
+> Get's the right date

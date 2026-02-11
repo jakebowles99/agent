@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 11:25:** Replied to Lanware ticket update: no action required currently; also referenced in Tayo email thread.
 - **2026-02-11 11:15:** Replied on shared mailbox setup ticket thread; also referenced as urgent contact in Saumya auto-reply; discussed API rates question from Tayo.
 - **2026-02-11 11:05:** Replied that no action needed on mailbox ticket; asked to connect with Jake about staffing, POC work, and LCP scope/SOW.
 - **2026-02-11 10:45:** Explained conditional access policy constraints and impact on AVD/UK IP access; noted Andy blocked on subscription/1Password setup.

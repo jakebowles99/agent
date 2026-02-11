@@ -9,6 +9,7 @@
 - **Email**: hemanth.kotha@synapx.com
 
 ## Recent interactions
+- **2026-02-11 11:27:** Asked Timon about SQL server audits/log analytics and whether to deploy Application Insights for SQL.
 - **2026-02-11 10:44:** Investigated order date/SQL validation issue and discussed missing account emails for 17C access.
 - **2026-02-11 10:29:** Raised issue: not receiving email to Synapx account; asked whether emails go to 17c account and access without credentials; referenced Gaurav.
 - **2026-02-11 10:14:** Discussed app-side workaround for dynamic SQL sproc results; shared attachments/result sets.
