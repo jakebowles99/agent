@@ -273,3 +273,30 @@
 
 ## 18:01 - Charlie Phipps-Bennett
 > <p>oi</p>
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 20:14 - Jake Bowles
+> He's been messaging me constantly
+
+## 20:14 - Jake Bowles
+> 😉
+
+## 20:14 - Charlie Phipps-Bennett
+> cheeky fucker
+
+## 20:10 - Charlie Phipps-Bennett
+> lets see if it is any good
+
+## 20:10 - Jake Bowles
+> You should be able to bill it through your gh copilot subscription
+
+## 20:06 - Charlie Phipps-Bennett
+> oh I got it working I think
+
+## 20:05 - Charlie Phipps-Bennett
+> not getting auth code
+
+## 20:05 - Charlie Phipps-Bennett
+> [image]
+
