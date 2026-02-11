@@ -9,6 +9,7 @@
 - **Email**: saumya.dubey@synapx.com
 
 ## Recent interactions
+- **2026-02-11 13:55:** Automatic reply indicating PTO; directed urgent issues to Nandan Hegde and Jake Bowles.
 - **2026-02-11 13:25:** Out-of-office auto-reply; directed urgent queries to Nandan Hegde/Jake Bowles.
 - **2026-02-11 13:00:** Auto-reply indicating personal time off; provided contact emails for Nandan Hegde and Jake Bowles.
 - **2026-02-11 11:56:** Out of office auto-reply; directs urgent queries to Nandan Hegde and Jake Bowles.

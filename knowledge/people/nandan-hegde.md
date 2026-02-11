@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 13:55:** Discussed LCP scope/Fx rates, team workload planning, and requested creation of PMO/Capital H&B tags.
 - **2026-02-11 13:39:** Requested creation of a PMO tag under Data and AI, and a Capital H & B tag for charging pre-req work; referenced Charlotte’s statement about manager permissions.
 - **2026-02-11 13:25:** Discussed FX/shared mailbox topics; emailed no action required on LCP shared mailbox ticket update; involved in API exchange rate question.
 - **2026-02-11 13:09:** Requested call to discuss Suds/Ken/Dhanya/Hemanth work, POC work, and LCP scope/SOW; coordinating clarification with Tayo.

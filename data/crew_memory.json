@@ -2,6 +2,11 @@
   "short_term": {
     "last_runs": [
       {
+        "status": "error",
+        "error": "Invalid response from LLM call - None or empty.",
+        "timestamp": "2026-02-11T13:56:13.897115+00:00"
+      },
+      {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
@@ -69,11 +74,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 11:15\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 28 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 18 processed (0 created, 18 updated)\n- **Calendar:** 10 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Midwich Squad: confirm conclusion on Yaz Qaraqesh\u2019s attached item.\n- [ ] Midwich Squad: confirm whether Application Insights needs deploying for SQL in ",
         "timestamp": "2026-02-11T11:28:09.697753+00:00"
-      },
-      {
-        "status": "error",
-        "error": "Invalid response from LLM call - None or empty.",
-        "timestamp": "2026-02-11T11:07:30.568541+00:00"
       }
     ],
     "pending_items": []
@@ -81,7 +81,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 130,
+      "total_runs": 131,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -94,7 +94,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T13:44:37.077485+00:00",
+    "last_updated": "2026-02-11T13:56:13.897127+00:00",
     "version": "1.0"
   }
 }

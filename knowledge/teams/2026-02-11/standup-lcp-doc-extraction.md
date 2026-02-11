@@ -103,3 +103,11 @@
 > 
 > Email Queue Screen - Subject column values are not visible in  dark mode
 > <img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXd1ay1kMi1lZWMzMzE0ZDc5NzJlNTMwNTI5YTM0NWRhZjkwNmZjMix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMi1lZWMzMzE0ZDc5NzJlNTMwNTI5YTM0NWRhZjkwNmZjMi92aWV3cy9pbWdv/$value" width="477.3611111111111" height="250" alt="image" itemid="0-wuk-d2-eec3314d7972e530529a345daf906fc2"><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXN1ay1kMy03MDA3MDA2MWNkMTk1MDY2ZDhmOGNkMzIzZDk1MzYzYyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMy03MDA3MDA2MWNkMTk1MDY2ZDhmOGNkMzIzZDk1MzYzYy92aWV3cy9pbWdv/$value" width="454.6186895810956" height="250" alt="image" itemid="0-suk-d3-70070061cd195066d8f8cd323d95363c">
+
+
+## 13:39 - Timon Wan
+> <p>tut tut, a developer not using dark mode <emoji id="tongueout" alt="	" title="Cheeky"></emoji></p>
+
+## 13:44 - Ajay Gannamaneni
+> <attachment id="1770817166363"></attachment>
+<p>not afraid of bugs<emoji id="wink" alt="	" title="Wink"></emoji>&nbsp;so using light<emoji id="rofl" alt="	" title="Rolling on the floor laughing"></emoji></p>

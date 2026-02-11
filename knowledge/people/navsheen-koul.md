@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 13:55:** Led standup/product catchup for doc extraction; requested demos, screenshots, and provided branding/content feedback; sent LCP plugin demo runthrough invite.
 - **2026-02-11 13:00:** Confirmed Doc Extraction webpage changes; sent LCP Plugin Demo Runthrough meeting invite.
 - **2026-02-11 12:09:** Coordinated requirements and feedback for NoRead AI/doc extraction webpage; requested estimates and clarifications.
 - **2026-02-11 11:55:** Commented on doc extraction webpage requirements; organized product catchup/standup meetings.

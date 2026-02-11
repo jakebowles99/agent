@@ -192,3 +192,7 @@
 > Silly question but was there a fullstop at the end of the password?
 > 
 > Mine had one and copy paste didn't pick it up
+
+
+## 13:30 - Akshansh Sharma
+> <p>it shouldn't be like this AD password should work for AVD as well</p>

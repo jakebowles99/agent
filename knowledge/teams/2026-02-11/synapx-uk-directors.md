@@ -284,3 +284,13 @@
 > 
 > Interesting…
 
+
+
+## 13:42 - Jake Bowles
+> <p>For Friday's agenda but Sudarshans 0 hours contract is really fucking annoying </p>
+
+## 13:42 - Jake Bowles
+> <p>Im not sure he knew what he was signing himself up for but I cant have him billing to training </p>
+
+## 13:43 - Jake Bowles
+> <p>And only after the fact do I realise because he doesn't show up on forecasts</p>

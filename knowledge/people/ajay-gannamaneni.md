@@ -9,6 +9,7 @@
 - **Email**: ajay.gannamaneni@synapx.com
 
 ## Recent interactions
+- **2026-02-11 13:55:** Reported PDF chunking progress and logic changes; asked to assist with web app deployment/screenshots.
 - **2026-02-11 13:39:** Acknowledged note and requested adding dark-mode visibility issue into the list.
 - **2026-02-11 10:40:** Shared progress on PDF chunking and extraction logic improvements.
 - **2026-02-11 08:31:** Provided update on PDF chunking working and planned logic change around mandatory fields extraction.

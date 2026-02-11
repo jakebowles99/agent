@@ -27,6 +27,7 @@
 - 204 records successfully imported to UAT
 
 ## Recent interactions
+- **2026-02-11 13:55:** Asked about Chrysalis exchange rates being pushed via API to LemonEdge; discussed potential call with Nandan about data sources and FX rate scope.
 - **2026-02-11 13:25:** Asked about exchange rates pushed via API to LemonEdge; suggested adding out-of-scope item to SOW and offered call.
 - **2026-02-11 13:10:** Discussed Chrysalis SQL DB exchange rate data and whether being pulled into Fabric; requested ensure out-of-scope items added to SOW; open to quick call.
 - **2026-02-11 13:00:** Asked whether Chrysalis exchange rates are being pushed via API to LemonEdge; referenced in scope discussion with Nandan.

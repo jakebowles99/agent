@@ -232,3 +232,7 @@ Check which attachments to process and click 'Submit'."</li></ul>
 
 ## 10:14 - Rahul Matta
 > Plugin and Web App Video.mp4
+
+
+## 13:44 - Navsheen Koul
+> <p><at id="0">Rahul</at>&nbsp;based on our call right now with the MS guy, please start looking into it. Next task would be to deploy fraud prediction to the marketplace&nbsp;<emoji id="smile" alt="	" title="Smiley"></emoji></p>

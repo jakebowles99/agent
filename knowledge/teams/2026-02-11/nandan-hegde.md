@@ -126,3 +126,26 @@
 > 
 > 
 > Also can you create a tag for Capital H & B so that I and Gagan can charge ore pre req work there?
+
+
+## 13:38 - Jake Bowles
+> <p>Yes give me a couple of hrs</p>
+
+## 13:38 - Jake Bowles
+> <p>PMO on cap you mean?</p>
+
+## 13:39 - Nandan Hegde
+> <p>PMO tag under Data and AI</p>
+<p>for our forecats work,timeshtee approval etc</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>and another charge code: Capital H &amp; B</p>
+
+## 13:41 - Jake Bowles
+> <p>I swear I added you to the Capital project already</p>
+
+## 13:44 - Jake Bowles
+> <p>Can you speak with Suds pls</p>
+
+## 13:44 - Jake Bowles
+> <p>Got him chasing me</p>
