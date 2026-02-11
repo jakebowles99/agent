@@ -26,3 +26,11 @@
 
 ## 18:50 - Andrew Price
 > Defer a year
+
+# Teams Chat — Andrew Price
+
+## 19:28 - Jake Bowles
+> Raffle it off
+
+## 19:28 - Jake Bowles
+> Yep already done

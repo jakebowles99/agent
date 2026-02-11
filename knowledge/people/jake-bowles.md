@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 19:33:** Posted messages in chat with Andrew Price ('Raffle it off', 'Yep already done').
 - **2026-02-11 19:23:** Discussed pipeline vs capacity, SOW backlog, deck requests, and coordinating website Copilot prompt section and Canva slide edits.
 - **2026-02-11 19:04:** Discussed LCP deck and timing; coordinated with Ankita for next-morning support due to time zone.
 - **2026-02-11 18:48:** Chatted about VS Code extension update/Intune, discussed deck queue in Synapx Directors, and referenced jumping on a call with Umar about bid extraction analysers.

@@ -30,3 +30,8 @@
 
 ## 17:49 - Jake Bowles
 > <p>I asked him and tbh he wasn't much help (don't tell him I said that 😂). Probably easier if I jump on a call eith Umar and see what's in place already. I deployed the bid extraction analysers ages ago so they're all good to go </p>
+
+# Teams Chat — Joe Thompson
+
+## 19:22 - Joe Thompson
+> Ok maybe we can grab 30 mins tomorrow?
