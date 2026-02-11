@@ -273,3 +273,14 @@
 
 ## 10:14 - Matt Davies
 > 60
+
+# Teams Chat — Synapx UK Directors
+
+## 12:23 - Charlie Phipps-Bennett
+> Think now is the time for me to take that menstrual leave
+
+## 12:22 - Charlie Phipps-Bennett
+> Rachel and Claire want to meet me tonight without Munni.
+> 
+> Interesting…
+

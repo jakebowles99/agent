@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 12:36:** Responded about Chrysalis/Fabric mailbox not hooked up yet and SOW; also replied in other chats about discovery phases and Chrysalis side.
 - **2026-02-11 12:10:** Confirmed availability in ~20 minutes while traveling; coordinating a quick sync.
 - **2026-02-11 12:08:** Email recipient on internship outreach; coordinated via Teams chat about availability.
 - **2026-02-11 11:56:** Coordinated with Nandan on resourcing and LCP scope; discussed AI/vibe coding learning plan with Kushagra; posted in marketing channel.

@@ -183,3 +183,19 @@
 > <p>From what I read it's more high level telemetry, so anything useful to us might need to be using Trace to log custom events. FYI&nbsp;<at id="0">Vaishnavi</at>&nbsp;<at id="1">MP</at></p>
 > <p>&nbsp;</p>
 > <p>&nbsp;</p>
+
+# Teams Chat — Midwich Squad
+
+## 12:19 - Vaishnavi MP
+> Seen another issue in Prod. Some tables reference the dev db. I think we might have to switch back to readding tables and creating an unmanaged layer for now? Until we replace all direct references to tables with stored procedures
+
+## 12:12 - Hemanth Kotha
+> If that's the case then I don't see a big use of PA and Log Analytics integration. Mostly we need live monitor logs to be streamed as we use it for debugging mostly. And one more thing that I have observed is power apps is using whole pp subnet for calling SQL every time it uses a different ip. Not sure how it works.
+
+## 12:04 - Timon Wan
+> Yes will need KQL, million dollar question is atm what ootb logs can Power Apps give.
+> 
+> I've not see a way to connect Live Monitoring to stream to App Insights/Log Analytics
+> 
+> From what I read it's more high level telemetry, so anything useful to us might need to be using Trace to log custom events. FYI Vaishnavi MP
+

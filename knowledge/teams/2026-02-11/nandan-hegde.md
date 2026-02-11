@@ -73,3 +73,15 @@
 ## 11:40 - Nandan Hegde
 > Hi
 
+
+# Teams Chat — Nandan Hegde
+
+## 12:22 - Nandan Hegde
+> call?
+
+## 12:20 - Jake Bowles
+> But yes no issue my side
+
+## 12:20 - Jake Bowles
+> I thought we'd already done on the chrysalis side
+

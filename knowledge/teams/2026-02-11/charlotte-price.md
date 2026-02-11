@@ -38,3 +38,12 @@
 ## 11:46 - Charlotte Price
 > hey
 
+
+# Teams Chat — Charlotte Price
+
+## 12:22 - Charlotte Price
+> okay will clarify it may be in solution development and will have the processing schdeule as if applicable
+
+## 12:21 - Jake Bowles
+> Not in the discovery phases no
+

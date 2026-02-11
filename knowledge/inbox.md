@@ -1,3 +1,28 @@
+## 2026-02-11 12:30
+
+### Changes This Window
+- **Emails:** 2 new
+- **Teams Chats:** 13 messages across 5 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 16 processed (6 created, 10 updated)
+- **Calendar:** 11 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Nandan Hegde: respond to "call?" and align on Chrysalis/data scope.
+- [ ] Midwich Squad: investigate Prod tables referencing dev DB; consider interim unmanaged layer + migrate to stored procedures.
+- [ ] Tayo Eletu-Odibo: confirm whether Chrysalis SQL DB exchange rate data is being pulled into Fabric.
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/charlotte-price.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+- knowledge/teams/2026-02-11/tayo-eletu-odibo.md
+
+---
+
 ## 2026-02-11 12:00
 
 ### Changes This Window
