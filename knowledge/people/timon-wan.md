@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 11:38:** Asked about workaround stability and App Insights need; discussed tracing from app to DB.
 - **2026-02-11 11:27:** Chatted with Jake about expected values/accuracy and preparing demo; mentioned by Hemanth Kotha in Midwich Squad chat.
 - **2026-02-11 11:16:** Discussed LCP doc extraction work: extracting more fields for demo; ensuring values returned as strings; improving confidence.
 - **2026-02-11 10:42:** Asked about ContractType dropdown categories and suggested UI contrast improvement for highlighted selections.

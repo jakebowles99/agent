@@ -56,3 +56,13 @@
 > I have been working on Power automate for a while now. Want to move away gradually from that.
 > 
 > I have beginner level understanding of Python and Java. Little bit syntax understanding of React. Never written full fledged code in any of them. But can understand the syntax.
+
+
+## 11:28 - Kushagra Shukla
+> Thanks
+
+## 11:17 - Jake Bowles
+> I will assign you a GitHub copilot license and then arrange a session
+
+## 11:17 - Jake Bowles
+> Okay no probs

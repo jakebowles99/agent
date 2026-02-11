@@ -28,3 +28,7 @@
 
 ## 11:11 - Charlie Phipps-Bennett
 > EPIC
+
+
+## 11:24 - Sophia Fricker
+> Awesome! Next time let’s add an intro 🙂

@@ -138,3 +138,9 @@
 > [image]
 > 
 > Get's the right date
+
+
+## 11:27 - Timon Wan
+> [attachment]
+> 
+> Thanks, re. App Insights, don't think so. May be useful to trace from app to db, but not sure that would work ootb. Your thoughts?
