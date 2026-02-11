@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 13:39:** Suggested trying Windows web app in browser after issues with the Windows app.
 - **2026-02-11 13:25:** Provided troubleshooting advice for AVD/RDP via web app.
 - **2026-02-11 13:24:** Advised using Windows web app for connection issues with Windows app.
 - **2026-02-11 13:00:** Asked team about receiving RFA emails for 17C user accounts; offered to forward emails.

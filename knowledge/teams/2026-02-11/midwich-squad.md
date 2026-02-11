@@ -277,3 +277,45 @@
 ## 13:03 - Vaishnavi MP
 > Sure will do. Once complete I can share the links with you
 > Yaz Qaraqesh the Network issue that they see should be resolved after tomorrow's push
+
+# Teams Chat — Midwich Squad
+
+## 13:17 - Yaz Qaraqesh
+> <attachment id="1770815833763"></attachment>
+> yes boss
+
+## 13:17 - Yaz Qaraqesh
+> <attachment id="1770815818935"></attachment>
+> Is that for me
+
+## 13:17 - Timon Wan
+> <attachment id="1770815833763"></attachment>
+> Thanks for reminder 🙂
+
+## 13:17 - Jake Bowles
+> threads please
+
+## 13:16 - Timon Wan
+> Can you note down here what versions of each Solution is in UAT atm please.
+> Those will be what we'll deploy and nothing should go into UAT today.
+
+## 13:16 - Yaz Qaraqesh
+> any ground work that can happen now please go ahead with team
+
+## 13:15 - Timon Wan
+> Thanks
+
+## 13:15 - Vaishnavi MP
+> @Timon Wan going to update the checklist and Environment variable list for tomorrow's deployment
+
+## 13:13 - Yaz Qaraqesh
+> SO APP users need to be the same on PROD
+> 
+> PO APP ACCESS shown in this list:
+> 
+> https://synapxltd.sharepoint.com.mcas.ms/:x:/r/sites/SynapxMidwich-SOW001/_layouts/15/Doc2.aspx?act…
+> 
+> Need V to manage please
+
+## 13:09 - Timon Wan
+> Cautious me would say tomorrow IST time when there's no active users.

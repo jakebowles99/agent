@@ -116,3 +116,13 @@
 
 ## 12:59 - Jake Bowles
 > [attachment]
+
+# Teams Chat — Nandan Hegde
+
+## 13:20 - Nandan Hegde
+> <attachment id="1770715643472"></attachment>
+> can you create a tag here called PMO under Data and AI
+> only you can create it being the manager is what Charelotte stated.
+> 
+> 
+> Also can you create a tag for Capital H & B so that I and Gagan can charge ore pre req work there?

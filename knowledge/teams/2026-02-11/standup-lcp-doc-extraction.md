@@ -88,3 +88,18 @@
 ## 10:28 - Ajay Gannamaneni
 > [attachment]
 > did not test dark mode tim check in light mode 😅
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 13:30 - Ajay Gannamaneni
+> <attachment id="1770816368364"></attachment>
+> Yep
+> I did not go through dark mode
+> Please add into list
+
+## 13:26 - Katyayani Lal
+> Requests Screen - The title is not visible in the Title/Description column when using dark mode.
+> <img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXd1ay1kNC1iYzQ1ZTg2NWQ4MDhhOTkyMzkwNjYzNGU4N2VjNzkyMSx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kNC1iYzQ1ZTg2NWQ4MDhhOTkyMzkwNjYzNGU4N2VjNzkyMS92aWV3cy9pbWdv/$value" width="309.4235751295337" height="250" alt="image" itemid="0-wuk-d4-bc45e865d808a9923906634e87ec7921"><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXN1ay1kMS1hZTljYjE3YmY2ZjVjMzA1NzJlMzNhNzc1MDBlZDc3Yix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMS1hZTljYjE3YmY2ZjVjMzA1NzJlMzNhNzc1MDBlZDc3Yi92aWV3cy9pbWdv/$value" width="287.47534516765285" height="250" alt="image" itemid="0-suk-d1-ae9cb17bf6f5c30572e33a77500ed77b">
+> 
+> Email Queue Screen - Subject column values are not visible in  dark mode
+> <img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXd1ay1kMi1lZWMzMzE0ZDc5NzJlNTMwNTI5YTM0NWRhZjkwNmZjMix0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMi1lZWMzMzE0ZDc5NzJlNTMwNTI5YTM0NWRhZjkwNmZjMi92aWV3cy9pbWdv/$value" width="477.3611111111111" height="250" alt="image" itemid="0-wuk-d2-eec3314d7972e530529a345daf906fc2"><img src="https://graph.microsoft.com/v1.0/chats/19:meeting_NjA0MDcyYmYtNzI5YS00ZmIwLTlkZDYtYzZkY2U0NTQ4YmE0@thread.v2/messages/1770816368364/hostedContents/aWQ9eF8wLXN1ay1kMy03MDA3MDA2MWNkMTk1MDY2ZDhmOGNkMzIzZDk1MzYzYyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMy03MDA3MDA2MWNkMTk1MDY2ZDhmOGNkMzIzZDk1MzYzYy92aWV3cy9pbWdv/$value" width="454.6186895810956" height="250" alt="image" itemid="0-suk-d3-70070061cd195066d8f8cd323d95363c">

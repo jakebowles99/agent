@@ -58,3 +58,15 @@
 > FYI :
 > [image]
 > Not sure, we would be able to start till Monday
+
+# Teams Chat — Capital H&B Handover
+
+## 13:19 - Gagan M
+> <attachment id="1770815802942"></attachment>
+> yes
+
+## 13:17 - Nandan Hegde
+> I have shared the email ID with him
+
+## 13:16 - Jake Bowles
+> Gagan do you have Crisitans contact deets?

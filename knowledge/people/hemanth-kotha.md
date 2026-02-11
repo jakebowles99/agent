@@ -9,6 +9,7 @@
 - **Email**: hemanth.kotha@synapx.com
 
 ## Recent interactions
+- **2026-02-11 13:39:** Reported AD/AVD password sync confusion and suggested using the web version as local app not working.
 - **2026-02-11 13:22:** Discussed PO/SO app deployment issues, SQL date handling, log analytics/app insights, and deployment coordination.
 - **2026-02-11 13:10:** Discussed SQL/app issues and workarounds for Midwich PO app; investigated date/order issues; log analytics/App Insights considerations.
 - **2026-02-11 13:00:** Discussed missing RFA emails and access; in Midwich Squad chat investigated app/SQL issues, logging, and Power Apps telemetry.

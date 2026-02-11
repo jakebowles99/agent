@@ -1,3 +1,31 @@
+## 2026-02-11 13:30
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 26 messages across 6 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 14 processed (1 created, 13 updated)
+- **Calendar:** 10 events on calendar (next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] 17C User Accounts: raise RFA ASAP; investigate AD/AVD password sync issue and recommend using Windows web app if desktop app fails.
+- [ ] Standup – LCP Doc Extraction: log dark-mode UI issues (Request Screen title not visible; Email Queue subject values not visible) and add to issue list.
+- [ ] Sudarshan Gopal: find/provide small work items for next 2 days.
+- [ ] Nandan Hegde: create timesheet tags “PMO” under Data & AI and “Capital H & B” for charging pre-req work.
+- [ ] Midwich Squad: capture UAT solution versions list; enforce no further changes into UAT today; ensure PROD SO app users match PROD; have V manage access list.
+
+### Files Updated
+- knowledge/teams/2026-02-11/17c-user-accounts.md
+- knowledge/teams/2026-02-11/standup-lcp-doc-extraction.md
+- knowledge/teams/2026-02-11/sudarshan-gopal.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/capital-h-b-handover.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+
+---
+
 ## 2026-02-11 13:15
 
 ### Changes This Window
