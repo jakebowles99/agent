@@ -568,3 +568,38 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 > [attachment]
 > @Matt would you mind working on this based on other templates please?
 
+
+# Teams Chat — Synapx Directors
+
+## 18:00 - Matt Davies
+> <p>Sophia says to expect a draft before 9am tomorrow </p>
+
+## 17:55 - Andrew Price
+> <attachment id="1770832036524"></attachment>
+<p>I might be some competition there</p>
+
+## 17:54 - Andrew Price
+> <attachment id="1770830977365"></attachment>
+<p><at id="0">Matt</at>&nbsp;would you mind working on this based on other templates please?</p>
+
+## 17:49 - Charlie Phipps-Bennett
+> <attachment id="1770831996758"></attachment>
+<p>Friday is good, meeting client next week</p>
+
+## 17:47 - Jake Bowles
+> <p>I reckon Mr ADHD wanted an EOD answer there </p>
+
+## 17:46 - Matt Davies
+> <p>im certain Friday is achievable Charlie&nbsp;</p>
+
+## 17:46 - Jake Bowles
+> <p>Yeah the LCP deck is good too</p>
+
+## 17:46 - Matt Davies
+> <p>then again, what shes comparing it against .....</p>
+
+## 17:45 - Matt Davies
+> <p>depends how much additional context you want added into it but like i say, template is 90% there - it got past Lacey</p>
+
+## 17:44 - Jake Bowles
+> <p>Behind Jensten in the queue <emoji id="wink" alt="😉" title=""></emoji></p>

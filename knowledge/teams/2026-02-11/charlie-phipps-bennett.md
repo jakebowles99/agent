@@ -241,3 +241,35 @@
 ## 18:01 - Charlie Phipps-Bennett
 > oi
 
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 18:08 - Charlie Phipps-Bennett
+> <p>Let me installd claude code&nbsp;</p>
+
+## 18:07 - Charlie Phipps-Bennett
+> <p>ok managed to do extension update but if I need to install vs code update then not possible</p>
+
+## 18:03 - Charlie Phipps-Bennett
+> <p>fucking intune</p>
+
+## 18:02 - Charlie Phipps-Bennett
+> <p>fuck</p>
+
+## 18:02 - Charlie Phipps-Bennett
+> <p>grrrrrrr</p>
+
+## 18:02 - Jake Bowles
+> <p>Phone on 2% and need to get to my hotel lol</p>
+
+## 18:02 - Charlie Phipps-Bennett
+> <p>yes but need shitty intune admin</p>
+
+## 18:01 - Jake Bowles
+> <p>Has the extension got an update?</p>
+
+## 18:01 - Charlie Phipps-Bennett
+> <p>not pulling through</p>
+
+## 18:01 - Charlie Phipps-Bennett
+> <p>oi</p>
