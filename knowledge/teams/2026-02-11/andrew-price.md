@@ -19,3 +19,10 @@
 
 ## 18:50 - Andrew Price
 > <p>Defer a year</p>
+
+
+## 18:50 - Andrew Price
+> Sure we will have more clients keen
+
+## 18:50 - Andrew Price
+> Defer a year

@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 19:21:** Discussed staffing/capacity, SOW/proposal quality issues, and preparing client decks/approvals.
 - **2026-02-11 19:04:** Chatted about draft timing and template work; noted someone on leave until Monday.
 - **2026-02-11 18:48:** Discussed template readiness and timelines; noted Sophia expects a draft before 9am tomorrow.
 - **2026-02-11 18:35:** Sent Teams meeting invite email titled 'Office Pizzas + Drinks + Games'.

@@ -639,3 +639,36 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 
 ## 17:45 - Matt Davies
 > <p>depends how much additional context you want added into it but like i say, template is 90% there - it got past Lacey</p>
+
+
+## 18:52 - Matt Davies
+> <attachment id="1770831286007"></attachment>
+> just seen hes on leave now until Monday (although no OOO!) saved by the bell
+
+## 18:00 - Matt Davies
+> Sophia says to expect a draft before 9am tomorrow 
+
+## 17:55 - Andrew Price
+> I might be some competition there
+
+## 17:54 - Andrew Price
+> <attachment id="1770830977365"></attachment>
+> @Matt would you mind working on this based on other templates please?
+
+## 17:49 - Charlie Phipps-Bennett
+> Friday is good, meeting client next week
+
+## 17:47 - Jake Bowles
+> I reckon Mr ADHD wanted an EOD answer there 
+
+## 17:46 - Matt Davies
+> im certain Friday is achievable Charlie 
+
+## 17:46 - Jake Bowles
+> Yeah the LCP deck is good too
+
+## 17:46 - Matt Davies
+> then again, what shes comparing it against .....
+
+## 17:45 - Matt Davies
+> depends how much additional context you want added into it but like i say, template is 90% there - it got past Lacey

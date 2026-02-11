@@ -60,3 +60,19 @@
 
 ## 18:03 - Charlie Phipps-Bennett
 > <p>Intune admin required for vs code Github extension update. <at id="0">Andrew</at>&nbsp;<at id="1">Price</at>&nbsp;or <at id="2">Fraser</at>&nbsp;<at id="3">Hamilton</at>&nbsp;can we do this now please?</p>
+
+
+## 18:45 - Andrew Price
+> I can share directly
+
+## 18:21 - Charlie Phipps-Bennett
+> @Andrew Price will you be around after Sophia's bedtime? This is holding up my creativity and damaging my love for tech
+
+## 18:10 - Charlie Phipps-Bennett
+> So frustrating I can't just update this myself. Especially in a situation when Fraser is off so that leaves just you Andy
+
+## 18:09 - Charlie Phipps-Bennett
+> [image]
+
+## 18:03 - Charlie Phipps-Bennett
+> Intune admin required for vs code Github extension update. @Andrew Price or @Fraser Hamilton can we do this now please?

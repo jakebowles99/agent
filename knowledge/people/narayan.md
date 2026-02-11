@@ -5,6 +5,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 19:23:** Mentioned in context of APS signature routing and planned workshop steps with client.
 - **2026-02-11 17:36:** Mentioned as attending a planned workshop with Claire/Rachel and Charlie to agree next steps for Compass work.
 - **2026-02-11 08:58:** Referenced as routing method ('Narayan’s way') for sending updated APS back for signature.
 - **2026-02-11 04:28:** Mentioned regarding sending updated APS back via 'Narayan’s way' after changing term from 6 years to 1 year.

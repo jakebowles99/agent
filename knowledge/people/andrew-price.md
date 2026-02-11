@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 19:22:** Discussed certifications/voucher requests, deck/templates, and Intune admin access; exchanged short chat about event/company switch and deferring a year.
 - **2026-02-11 19:04:** Discussed templates and client interest; asked to help with Intune admin task and sharing directly.
 - **2026-02-11 18:48:** Mentioned/pinged for Intune admin help; participated in Synapx Directors chat re templates and draft timing.
 - **2026-02-11 18:33:** Mentioned/pinged to perform Intune admin update for VS Code GitHub extension; asked about being available after Sophia's bedtime.
