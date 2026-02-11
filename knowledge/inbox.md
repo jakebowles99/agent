@@ -1,3 +1,27 @@
+## 2026-02-11 17:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 25 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 13 processed (0 created, 13 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Tushara Udata: P1 tomorrow morning (requested by Matt Davies in Harvest Projects chat).
+- [ ] Everyone (Midwich Squad): add progress comments to tickets (at minimum note deployment environment, e.g., “Deployed to QA”).
+- [ ] Synapx Directors: identify/confirm what Gagan submitted to Lacey re BI/Apps proposal; forward the email/attachments; clarify URL/ownership for compliance/contracts kanban board.
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/harvest-projects.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+
+---
+
 ## 2026-02-11 17:00
 
 ### Changes This Window

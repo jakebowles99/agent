@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 17:22:** Mentioned as being escalated to alongside Matt Davies regarding poor-quality submission.
 - **2026-02-11 14:44:** Mentioned as being blocked on subscription and 1Password setup pending conditional access change.
 - **2026-02-11 10:45:** Mentioned as blocked/stuck on subscription and 1Password setup due to access policy constraints.
 - **2026-02-11 10:29:** Mentioned as blocked/stuck due to conditional access policy, impacting subscription and 1Password setup.

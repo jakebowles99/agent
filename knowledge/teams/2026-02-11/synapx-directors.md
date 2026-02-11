@@ -397,3 +397,47 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 ## 10:09 - Matt Davies
 > backlog will be cleared today - hopefully no surprises from this list
 
+
+
+# Teams Chat — Synapx Directors
+
+## 17:11 - Jake Bowles
+> <p>I have no idea what you're talking about either </p>
+
+## 17:10 - Matt Davies
+> <p>he cannot have looked at what he sent</p>
+
+## 17:09 - Matt Davies
+> <attachment id="1770829753152"></attachment>
+> <p>the quality of what was sent is unbelievably poor - she has escalated to Andy and myself</p>
+
+## 17:09 - Nandan Hegde
+> <p style="margin-bottom:8px"><span style="font-size:inherit">BI Changes:</span></p>
+> <p style="margin-bottom:8px"><span style="font-size:inherit"><strong>Total Cost: £16,610 @&nbsp;</strong>21 Days</span></p>
+> <p style="margin-bottom:8px">&nbsp;</p>
+> <p style="margin-bottom:8px"><span style="font-size:inherit">App Changes:</span></p>
+> <p style="margin-bottom:8px"><span style="font-size:inherit"><strong>Total Cost: £ 24,585</strong>&nbsp;@ 55 Days</span></p>
+
+## 17:09 - Matt Davies
+> <p>context is that this is a screenshot of the contracts/compliance kanban board managed by Charlotte/Compliance team. Jake and Charlie were asking the status of SOWs earlier and this shows the backlog</p>
+
+## 17:09 - Nandan Hegde
+> <attachment id="1770829650271"></attachment>
+> <p>let me fwd that email with you</p>
+
+## 17:08 - Nandan Hegde
+> <attachment id="1770829576050"></attachment>
+> <p>Apologies if this is a redundant question.</p>
+> <p>What is the URL and who needs to manage this</p>
+
+## 17:07 - Matt Davies
+> <p>is anyone aware of what Gagan submitted to Lacey re BI/Apps proposal ?</p>
+
+## 17:06 - Jake Bowles
+> <p>Haha yep all on me now</p>
+
+## 17:06 - Matt Davies
+> <attachment id="1770804590334"></attachment>
+> <p>I understand all is cleared now but please tell me if not</p>
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:585b7c7238364c9eb7c30ba39150016d@thread.v2/messages/1770829576050/hostedContents/aWQ9eF8wLXd1ay1kMS0yNmJjZGM3MjdkOWQzYzJjNGI2MDU4NTEzZGFiZTJmNyx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMS0yNmJjZGM3MjdkOWQzYzJjNGI2MDU4NTEzZGFiZTJmNy92aWV3cy9pbWdv/$value" width="524.3095512082854" height="250" alt="image" itemid="0-wuk-d1-26bcdc727d9d3c2c4b6058513dabe2f7"></p>
+> <p>&nbsp;</p>

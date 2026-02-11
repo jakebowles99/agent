@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 17:21:** Asked about using Claude in Visual Studio and shared screenshots; discussed SOW status earlier (mentioned).
 - **2026-02-11 16:48:** Discussed using Claude/Copilot in Visual Studio and troubleshooting (restart, screenshots, reply phrasing).
 - **2026-02-11 16:38:** Email about Vinco quote/meeting scheduling; Teams chat about Copilot licenses, agentic coding lesson attendees, and body map/3D bodymap libraries.
 - **2026-02-11 16:23:** Discussed quote breakdown and arranged meeting timing (Vinco latest quote).

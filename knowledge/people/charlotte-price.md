@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 17:22:** Updated leave/availability for Yaz; referenced contracts/compliance kanban board managed by Charlotte/Compliance team.
 - **2026-02-11 15:54:** Updated Harvest forecast access and assigned Saumya for Thurs/Friday on Capital H&B.
 - **2026-02-11 15:43:** Added Capital H&B in Harvest after gaining forecast access and assigned Saumya for Thu/Fri.
 - **2026-02-11 15:21:** Asked who marked Yaz as off for 3 weeks on forecast; later mentioned as potential team with Fraser.

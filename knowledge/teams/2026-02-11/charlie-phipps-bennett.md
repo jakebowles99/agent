@@ -174,3 +174,37 @@
 
 ## 16:39 - Charlie Phipps-Bennett
 > hOW DO i USE CLAUDE IN VISUAL STUDIO?
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 16:44 - Charlie Phipps-Bennett
+> <p>Think I will have to restart&nbsp;</p>
+
+## 16:42 - Jake Bowles
+> <p>Your vscode might need an update. Try reopening it</p>
+
+## 16:42 - Charlie Phipps-Bennett
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:4260f6a8-1c91-4928-a81e-c8025b63f509_a5ba7771-ad8f-432b-ab07-5c500af3dd48@unq.gbl.spaces/messages/1770828145802/hostedContents/aWQ9eF8wLXd1ay1kMy03YzlmMWJiZWM4NTQ0MGQ3M2I1OTdmZDk3ZGI4Zjk3ZCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXd1ay1kMy03YzlmMWJiZWM4NTQ0MGQ3M2I1OTdmZDk3ZGI4Zjk3ZC92aWV3cy9pbWdv/$value" width="498" height="516" itemid="0-wuk-d3-7c9f1bbec85440d73b597fd97db8f97d"></p>
+
+## 16:41 - Charlie Phipps-Bennett
+> <attachment id="1770828082716"></attachment>
+> <p>Just say you can offer some training against the current support contract</p>
+
+## 16:41 - Jake Bowles
+> <p>Try and click where it says agent?</p>
+
+## 16:41 - Charlie Phipps-Bennett
+> <p><img src="https://graph.microsoft.com/v1.0/chats/19:4260f6a8-1c91-4928-a81e-c8025b63f509_a5ba7771-ad8f-432b-ab07-5c500af3dd48@unq.gbl.spaces/messages/1770828095305/hostedContents/aWQ9eF8wLXN1ay1kMy1kNjdjMDcxYjhlMDJhNmRiMmI1YjM5ZTkwN2YwMmVkMCx0eXBlPTEsdXJsPWh0dHBzOi8vdWstYXBpLmFzbS5za3lwZS5jb20vdjEvb2JqZWN0cy8wLXN1ay1kMy1kNjdjMDcxYjhlMDJhNmRiMmI1YjM5ZTkwN2YwMmVkMC92aWV3cy9pbWdv/$value" width="113.06532663316582" height="250" alt="image" itemid="0-suk-d3-d67c071b8e02a6db2b5b39e907f02ed0"></p>
+
+## 16:41 - Jake Bowles
+> <attachment id="1770827246534"></attachment>
+> <p>Is that what i reply?😂</p>
+
+## 16:40 - Jake Bowles
+> <p>Send a screenshot of your copilot view</p>
+
+## 16:40 - Charlie Phipps-Bennett
+> <p>opps</p>
+
+## 16:39 - Charlie Phipps-Bennett
+> <p>hOW DO i USE CLAUDE IN VISUAL STUDIO?</p>

@@ -409,3 +409,10 @@
 > @Hemanth  @Kotha ISSUE 192 (SO APP: issue with assigned to field not showing records already captured in STX)
 > 
 > Fix was adding user to the internal table. Was that manual, or via/included ib source control? i.e. tomorrows deployment shouldn't revert it right?
+
+# Teams Chat — Midwich Squad
+
+## 17:01 - Timon Wan
+> <p><at id="0">Everyone</at>&nbsp;Can I ask everyone to drop comments in the tickets they are working on as to where they are going forwards.</p>
+> <p>&nbsp;</p>
+> <p>Ideally would be nice details of what the progress is for said ticket, but as a minimum when the ticket is deployed to an environment (i.e. just a comment like "Deployed to QA"). This helps keep track of what issues/features are in each environment.</p>
