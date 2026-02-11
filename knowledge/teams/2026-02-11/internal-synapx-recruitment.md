@@ -80,3 +80,40 @@ I think the offer is fair, but what do you think <at id="0">Jake</at>?</div>
 > We need to distribute this work amongst us.
 >
 > I have asked Bhoomi Dasa to convert this into a structured excel spreadsheet. Please share here once you have completed. Then Jake and Akshansh we need a call to distribute the workload.
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 14:05 - Charlie Phipps-Bennett
+> Jake Bowles, Akshansh Sharma - we have about 150-200 assignments to review for Software engineers. I know Product team are after some and Delivery are after some.
+> 
+> We need to distribute this work amongst us.
+> 
+> I have asked Bhoomi Dasa to convert this into a structured excel spreadsheet. Please share here once you have completed. Then Jake and Akshansh we need a call to distribute the workload.
+
+## 14:06 - Jake Bowles
+> Yup aware. I've already reviewed a tonne
+
+## 14:06 - Charlie Phipps-Bennett
+> Ok we need to be logging this centrally please
+
+## 14:07 - Jake Bowles
+> I mean prior to that document
+
+## 14:07 - Charlie Phipps-Bennett
+> Ok lets wait for structured document then go through it together on a call
+
+## 14:07 - Jake Bowles
+> No point having a call
+
+## 14:07 - Jake Bowles
+> Trust me 90% will be shit
+
+## 14:07 - Jake Bowles
+> I'll just fly through them when I get a moment this evening
+
+## 14:07 - Charlie Phipps-Bennett
+> 🤣
+
+## 14:28 - Andrew Price
+> Need to ask candidates to deploy to our repos and we do automated testing or something
+

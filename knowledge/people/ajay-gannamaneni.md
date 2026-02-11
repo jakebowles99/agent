@@ -9,6 +9,7 @@
 - **Email**: ajay.gannamaneni@synapx.com
 
 ## Recent interactions
+- **2026-02-11 14:45:** Updated on PDF chunking working, adjusted extraction logic/UI, and working on deploying plugin to client tenant.
 - **2026-02-11 14:26:** Reported PDF chunk working; adjusting extraction logic; UI updates and plugin deployment; discussed dark mode testing feedback.
 - **2026-02-11 14:09:** Commented on UI/dark mode; updated UI to show PDF right-hand side; working on deploying plugin to client tenant.
 - **2026-02-11 13:55:** Reported PDF chunking progress and logic changes; asked to assist with web app deployment/screenshots.

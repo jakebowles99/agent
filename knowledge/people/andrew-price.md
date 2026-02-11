@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 14:44:** Chatted about Fabcon EU access issue, recruitment offer fairness and candidate testing approach, and internal UK directors compliance/invoice comments.
 - **2026-02-11 14:26:** Commented that offer is fair and asked Jake for input on candidate negotiation.
 - **2026-02-11 13:25:** Brief note about inability to switch to Fabcon EU.
 - **2026-02-11 12:59:** Discussed identifying Vijay Gorasia and 17C account email in 17C User Accounts chat.

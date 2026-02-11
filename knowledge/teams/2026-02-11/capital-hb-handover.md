@@ -59,3 +59,12 @@
 > 
 > Not sure, we would be able to start till Monday
 
+
+# Teams Chat — Capital H&B Handover
+
+## 14:25 - Jake Bowles
+> Great, have we gone back to him with timelines today?
+
+## 14:27 - Gagan M
+> No, I have not. I thought you will be reaching out. I have not initiated the conversation.
+

@@ -327,3 +327,15 @@
 
 ## 14:09 - Yaz Qaraqesh
 > @Everyone approval to deploy both SO & PO to prod
+
+# Teams Chat — Midwich Squad
+
+## 14:09 - Yaz Qaraqesh
+> Everyone approval to deploy both SO & PO to prod
+
+## 14:09 - Yaz Qaraqesh
+> Please proceed
+
+## 14:30 - Hemanth Kotha
+> Yaz Qaraqesh I don't have access to the security users list
+

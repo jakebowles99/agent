@@ -305,3 +305,17 @@
 
 ## 13:42 - Jake Bowles
 > For Friday's agenda but Sudarshans 0 hours contract is really fucking annoying
+
+# Teams Chat — Synapx UK Directors
+
+## 14:26 - Andrew Price
+> I am not paying any invoices to non-billable tasks unless we specifically asked him to do that
+
+## 14:26 - Andrew Price
+> I have been super clear for months and can dig out all the communications
+
+
+# Teams Chat — Synapx UK Directors
+
+## 14:43 - Jake Bowles
+> Charlotte and Fraser would make an unstoppable team omg

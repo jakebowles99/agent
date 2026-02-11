@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 14:45:** Discussed as subject of salary question (reported £60k salary).
 - **2026-02-11 08:41:** Mentioned regarding potential I17C investor commitment items after meeting tomorrow; availability noted.
 - **2026-02-11 08:30:** Mentioned in resource availability; may have investor commitment work post meeting tomorrow afternoon.
 - **2026-02-11 08:24:** Noted partial availability and possible I17C investor commitment work after meeting tomorrow afternoon.

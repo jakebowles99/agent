@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 14:44:** Discussed AVD/conditional access limitations and subscription setup status; noted as delivering Fabric in a Day workshop.
 - **2026-02-11 14:08:** Emailed no action on ticket; discussed PMO tags/charge codes and contacting Tayo/Sudarshan in Teams.
 - **2026-02-11 13:55:** Discussed LCP scope/Fx rates, team workload planning, and requested creation of PMO/Capital H&B tags.
 - **2026-02-11 13:39:** Requested creation of a PMO tag under Data and AI, and a Capital H & B tag for charging pre-req work; referenced Charlotte’s statement about manager permissions.

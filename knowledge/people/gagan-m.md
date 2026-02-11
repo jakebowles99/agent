@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 14:44:** Shared project kick-off summary document and discussed whether outreach with timelines had been sent.
 - **2026-02-11 13:39:** Confirmed; discussed having contact details for 'Crisitans' in handover chat.
 - **2026-02-11 09:16:** Shared project plan document link/attachment for Capital H&B Fabric and Power BI implementation.
 - **2026-02-11 08:56:** Shared Project Kick-off Summary for Fabric & Power BI implementation; asked for review.

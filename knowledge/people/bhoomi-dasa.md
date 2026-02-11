@@ -9,6 +9,7 @@
 - **Email**: bhoomi.dasa@synapx.com
 
 ## Recent interactions
+- **2026-02-11 14:44:** Provided update on offer negotiation with Rahul and proposed trying to convince him to accept ~31–31.5.
 - **2026-02-11 14:26:** Discussed candidate compensation expectations and potential negotiation range; asked to convert assignment reviews into structured Excel.
 - **2026-02-11 08:57:** Discussed candidate Rahul’s salary expectations and possible negotiation range (31–31.5).
 - **2026-02-11 08:31:** Discussed candidate salary expectations and potential negotiation to 31–31.5.

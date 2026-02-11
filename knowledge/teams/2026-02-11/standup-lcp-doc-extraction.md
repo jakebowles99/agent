@@ -197,3 +197,44 @@
 >
 >
 > @Jake on the precision related questions, have you done the handover to Charlie since you're not joining?
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 14:02 - Navsheen Koul
+> tim is on one of them which should be pulling through but isn't, he's having a look
+> CUSPIN, ISN are almost always not mentioned specifically in the PDFs so we're okay to defend that its empty
+> one is a dropdown so we'll have a look at that too (its the only dropdown)
+> the other 2 need to be looked at. if they are not mandatory or not present in the first place in the PDF then we can defend.
+> 
+> having said that i want to prioritise what we focus on next based on tayo's feedback.
+> 
+> Jake on the precision related questions, have you done the handover to Charlie since you're not joining?
+
+## 14:03 - Navsheen Koul
+> Charlie FYI he wants a high level vision of how we can improve the precision score and what if the file types change - how do we handle that
+
+## 14:04 - Jake Bowles
+> If they're not in the docs then easy to defend
+
+## 14:05 - Jake Bowles
+> Timon Wan what have we actually done to improve over the last couple of days?
+
+## 14:09 - Timon Wan
+> Modified some of the prompts to be more generic (i.e. not reference specific tables), add additional synonyms and less restrictive data types of the fields (i.e. string instead of date).
+> Also backend code changes to be less strict on when we call teh Analyzer for the other documents after the email.
+
+## 14:22 - Charlie Phipps-Bennett
+> Only possible by training the model
+
+## 14:23 - Navsheen Koul
+> sure he knows that, he needs to hear it again or in more detail relevant to what we have built right now
+
+## 14:23 - Charlie Phipps-Bennett
+> Jake Bowles's area so will let him comment
+
+## 14:24 - Jake Bowles
+> I'm not able to join the call but TL;DR provide documents and someone has to mark what the correct value is and where it is
+
+## 14:24 - Jake Bowles
+> Time consuming but not hard
+
