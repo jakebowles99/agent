@@ -1,3 +1,26 @@
+## 2026-02-11 18:30
+
+### Changes This Window
+- **Emails:** 2 new (subjects: not provided)
+- **Teams Chats:** 5 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 12 processed (4 created, 8 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Intune admin required to approve/update VS Code GitHub extension (IT / Security; blocking Charlie Phipps-Bennett; requested @Andrew Price or @Fraser Hamilton).
+- [ ] Provide Ankita Kajal expectations/guidance for Copilot landing page “prompt section” content; include prompting technique research and align scope (avoid implying Copilot can create apps).
+- [ ] Update Canva deck: apply changes to Slide 13 (link provided) and coordinate with Ankita (she can do it tomorrow morning her time).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/it-security.md
+- knowledge/teams/2026-02-11/ankita-kajal.md
+
+---
+
 ## 2026-02-11 18:15
 
 ### Changes This Window

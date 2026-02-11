@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 18:30\n\n### Changes This Window\n- **Emails:** 2 new (subjects: not provided)\n- **Teams Chats:** 5 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 12 processed (4 created, 8 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Intune admin required to approve/update VS Code GitH",
+        "timestamp": "2026-02-11T18:37:53.400659+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "## 2026-02-11 18:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 16 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 6 processed (0 created, 5 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Intune admin needed to update/install VS Code / GitHub extension (IT/Security chat; request to @Andrew Price ",
         "timestamp": "2026-02-11T18:21:47.014212+00:00"
       },
@@ -72,11 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 16:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 14 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 processed (1 created, 8 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Prathap Reddy: deploy SOW Logic App into Teams tomorrow and demo; continue progress updates.\n- [ ] Nandan Heg",
         "timestamp": "2026-02-11T16:06:57.669749+00:00"
-      },
-      {
-        "status": "error",
-        "error": "Invalid response from LLM call - None or empty.",
-        "timestamp": "2026-02-11T15:55:13.471348+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 146,
+      "total_runs": 147,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -97,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T18:21:47.014232+00:00",
+    "last_updated": "2026-02-11T18:37:53.400670+00:00",
     "version": "1.0"
   }
 }

@@ -22,5 +22,8 @@
 - Collaborating on Euroleague Basketball RFP response
 - Extended deadline coordination
 
+## Recent interactions
+- **2026-02-11 18:34:** Recipient/participant in RFP email thread with Synapx; discussed updated proposal due date and vendor Q&A process.
+
 ---
 *Last Updated: February 2026*
