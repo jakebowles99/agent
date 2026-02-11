@@ -21,3 +21,13 @@
 > 
 > In regards the other CIT, I will have that SOW with you today
 
+
+# Teams Chat — Tayo Eletu-Odibo
+
+## 12:59 - Jake Bowles
+> I think Nandan is going to reach out. It isn't in scope you're right, but if it's a quick win then we will see what we can do.
+
+## 12:55 - Tayo Eletu-Odibo
+> <attachment id="1770811783295"></attachment>
+> i should add that if it is not in scope of the POC, can we make sure to add to the SOW. Happy to have a quick call later today to discuss
+

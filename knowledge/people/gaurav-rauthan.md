@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 13:00:** Asked team about receiving RFA emails for 17C user accounts; offered to forward emails.
 - **2026-02-11 11:07:** Asked team about receiving RFA emails; forwarded account email chain.
 - **2026-02-11 10:45:** Checked where 17C password reset emails are being sent and who should have received them.
 - **2026-02-11 09:18:** Messaged Charlie Phipps-Bennett asking about email from the RFA team; included image.

@@ -47,3 +47,8 @@
 ## 12:21 - Jake Bowles
 > Not in the discovery phases no
 
+
+
+
+## 12:22 - Charlotte Price
+> okay will clarify it may be in solution development and will have the processing schdeule as if applicable

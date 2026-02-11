@@ -199,3 +199,41 @@
 > 
 > From what I read it's more high level telemetry, so anything useful to us might need to be using Trace to log custom events. FYI Vaishnavi MP
 
+
+
+
+## 12:33 - Vaishnavi MP
+> The PO app uses many tables to get or add data. Can give an estimate to switch to sprocs. I suggest we do this as a part of next big change i.e. when we implement the approval process
+
+# Teams Chat — Midwich Squad
+
+## 13:00 - Yaz Qaraqesh
+> Can SO app wait?
+
+## 13:00 - Timon Wan
+> Reminder that SO App link with change following this deployment as we'll do a fresh install in prod of everything.
+
+## 12:59 - Yaz Qaraqesh
+> V, Tim, Hemanth please coordinate together. I can sense check when ready. 
+> 
+> You could do this by tomorrow AM UK time please
+
+## 12:58 - Yaz Qaraqesh
+> Can this work commence ASAP - if you're part of this work, drop everything else please
+
+## 12:58 - Yaz Qaraqesh
+> @Everyone I have approval from Midwich to promote PO app from UAT to production
+
+## 12:57 - Timon Wan
+> Thanks
+
+## 12:57 - Vaishnavi MP
+> Sure. Will let you know when done
+
+## 12:56 - Timon Wan
+> Can you add a few Trace statements in the dev SO app for when you call the sprocs/flows/SharePoint please.
+> No need to go overboard now, but I want to see what the logs look like going into Azure
+
+## 12:54 - Timon Wan
+> Yes, let's not make any changes right now. Just understanding what needs to be done and how complex it would be.
+

@@ -16,3 +16,12 @@
 
 ## 10:59 - Ankita Kajal
 > She told me that it needs to be like this: https://www.ans.co.uk/insights/how-to-ai-prompt-effectively-with-copilot-365/ but on the Copilot landing page on our website
+
+# Teams Chat — Ankita Kajal
+
+## 13:00 - Ankita Kajal
+> UX Pilot - Superfast UX/UI Design with AI https://uxpilot.ai/a/ui-design?page=v26fNOPzsSrTavmitmgc  Stitch - Projects https://stitch.withgoogle.com/projects/14409045529743330336?pli=1
+
+## 13:00 - Jake Bowles
+> Quite blurry on my side, can I have a link pls
+

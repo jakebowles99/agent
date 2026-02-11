@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-11 12:59:** Asked clarification on naming/roles and delivery oversight; discussed FRP personal data question raised by David.
 - **2026-02-11 12:36:** Discussed clarifying that work may be in solution development and processing schedule applicability.
 - **2026-02-11 12:09:** Asked whether FRP work is likely to involve processing personal data; referenced request from David.
 - **2026-02-11 10:45:** Asked clarification about what 'name' refers to.

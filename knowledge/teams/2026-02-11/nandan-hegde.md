@@ -85,3 +85,20 @@
 ## 12:20 - Jake Bowles
 > I thought we'd already done on the chrysalis side
 
+
+
+
+## 12:22 - Nandan Hegde
+> call?
+
+# Teams Chat — Nandan Hegde
+
+## 13:00 - Nandan Hegde
+> anyhow I would ping him now in some time for both of us to connect for ~30 mins or set up a call for tomm with him
+
+## 12:59 - Nandan Hegde
+> this is w.r.t Fx rate or the shared email box?
+
+## 12:59 - Jake Bowles
+> <attachment id="1770814501895"></attachment>
+

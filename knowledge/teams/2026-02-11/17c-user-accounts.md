@@ -109,3 +109,10 @@
 ## 10:28 - Akshansh Sharma
 > [attachment]
 > it will be on your phone number i think
+
+
+
+## 12:44 - Jake Bowles
+> Silly question but was there a fullstop at the end of the password?
+> 
+> Mine had one and copy paste didn't pick it up

@@ -1,3 +1,29 @@
+## 2026-02-11 12:45
+
+### Changes This Window
+- **Emails:** 1 new
+- **Teams Chats:** 4 messages across 4 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 22 processed (0 created, 21 updated)
+- **Calendar:** 10 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] 17C User Accounts: reply confirming whether any email received from RFA team; check password reset email details (full stop at end of password).
+- [ ] Midwich Squad: assist Dhanush/Vaishnavi with high-priority approval flow; investigate order **100120** future/incorrect created date and confirm Ella PO app permissions; address Prod tables referencing dev DB and estimate switch to stored procedures.
+- [ ] Nandan Hegde: connect/call to discuss SUDS staffing, POC work, LCP scope to SOW; confirm ok to speak with Tayo about data sources/FX rate/GraphQL scope.
+- [ ] Charlotte Price: align on roles vs estimate/delivery oversight; confirm FRP personal data processing (not in discovery; may apply in solution dev).
+
+### Files Updated
+- knowledge/emails/2026-02-11.md
+- knowledge/teams/2026-02-11/17c-user-accounts.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+- knowledge/teams/2026-02-11/nandan-hegde.md
+- knowledge/teams/2026-02-11/charlotte-price.md
+
+---
+
 ## 2026-02-11 12:30
 
 ### Changes This Window
