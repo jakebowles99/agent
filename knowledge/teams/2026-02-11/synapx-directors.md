@@ -554,3 +554,17 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 
 ## 17:44 - Jake Bowles
 > Behind Jensten in the queue 😉
+
+# Teams Chat — Synapx Directors
+
+## 18:00 - Matt Davies
+> Sophia says to expect a draft before 9am tomorrow
+
+## 17:55 - Andrew Price
+> [attachment]
+> I might be some competition there
+
+## 17:54 - Andrew Price
+> [attachment]
+> @Matt would you mind working on this based on other templates please?
+

@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 18:19:** Discussed Intune admin requirement for VS Code/GitHub extension update; unable to self-update without admin; general troubleshooting/frustration.
 - **2026-02-11 18:06:** Shared attachment; confirmed Friday works and meeting client next week.
 - **2026-02-11 18:00:** Discussed contract terms/APS, SOW prioritisation, and client Compass call; requested SPXaaS materials and support; scheduled Vinco quote discussion.
 - **2026-02-11 17:35:** Discussed client (Compass) budget/timelines; requested service offering materials; asked Andrew Price to present to client.

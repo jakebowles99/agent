@@ -1,3 +1,26 @@
+## 2026-02-11 18:15
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 16 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 6 processed (0 created, 5 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Intune admin needed to update/install VS Code / GitHub extension (IT/Security chat; request to @Andrew Price or @Fraser Hamilton).
+- [ ] Matt Davies: work on the shared item using other templates (Synapx Directors chat).
+- [ ] Expect Sophia’s draft before 09:00 tomorrow; incorporate when received (Synapx Directors chat).
+
+### Files Updated
+- knowledge/teams/2026-02-11/it-security.md
+- knowledge/teams/2026-02-11/charlie-phipps-bennett.md
+- knowledge/teams/2026-02-11/synapx-directors.md
+
+---
+
 ## 2026-02-11 18:00
 
 ### Changes This Window
@@ -6,13 +29,13 @@
 - **Teams Channels:** 0 messages in 78 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 12 processed (1 created, 11 updated)
-- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
 - [ ] Andrew Price: draft/update using other templates (per @Matt request in Synapx Directors chat).
-- [ ] Matt Davies: incorporate Sophia’s draft when received (expected before 09:00 tomorrow).
-- [ ] Jake Bowles: jump on a call with Umar to review what’s in place for bid/SDQ module integration (per Joe Thompson chat).
+- [ ] Matt Davies: incorporate Sophias draft when received (expected before 09:00 tomorrow).
+- [ ] Jake Bowles: jump on a call with Umar to review whats in place for bid/SDQ module integration (per Joe Thompson chat).
 - [ ] Jake Bowles / team: ensure Seras data discovery doc follows same standards as Jensten (per Nandan Hegde).
 - [ ] Support Charlotte Price: provide ASAP answer for legal/FRP queries; Kim to advise on process.
 

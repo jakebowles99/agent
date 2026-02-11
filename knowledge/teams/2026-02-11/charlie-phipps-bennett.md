@@ -208,3 +208,36 @@
 
 ## 16:39 - Charlie Phipps-Bennett
 > <p>hOW DO i USE CLAUDE IN VISUAL STUDIO?</p>
+
+# Teams Chat — Charlie Phipps-Bennett
+
+## 18:08 - Charlie Phipps-Bennett
+> Let me installd claude code
+
+## 18:07 - Charlie Phipps-Bennett
+> ok managed to do extension update but if I need to install vs code update then not possible
+
+## 18:03 - Charlie Phipps-Bennett
+> fucking intune
+
+## 18:02 - Charlie Phipps-Bennett
+> fuck
+
+## 18:02 - Charlie Phipps-Bennett
+> grrrrrrr
+
+## 18:02 - Jake Bowles
+> Phone on 2% and need to get to my hotel lol
+
+## 18:02 - Charlie Phipps-Bennett
+> yes but need shitty intune admin
+
+## 18:01 - Jake Bowles
+> Has the extension got an update?
+
+## 18:01 - Charlie Phipps-Bennett
+> not pulling through
+
+## 18:01 - Charlie Phipps-Bennett
+> oi
+
