@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 18:00:** Coordinated SOW reviews and resourcing; arranged calls with Nandan/others; added people to Synapx Delivery team; handled FabCon/SQLCon comms.
 - **2026-02-11 17:35:** Participated in Directors chat about poor quality client-facing material and escalation; replied in chat with Nandan Hegde about standards for Seras.
 - **2026-02-11 17:21:** Discussed SOW status/backlog context and troubleshooting VS Code/Copilot view.
 - **2026-02-11 16:48:** Helped troubleshoot Visual Studio/Copilot setup; suggested updating VS Code, reopening, requesting screenshots, and reply wording.

@@ -9,6 +9,7 @@
 - **Email**: Amanda.Bond@springcapitalpartners.com
 
 ## Recent interactions
+- **2026-02-11 18:00:** Emailed Andrew asking to confirm meeting time; confirmed attendance.
 - **2026-02-11 16:37:** Asked about meeting today; confirmed schedule.
 - **2026-02-11 16:23:** Confirmed meeting timing with Andrew after Monday meeting.
 - **2026-02-11 15:54:** Followed up to confirm meeting time.

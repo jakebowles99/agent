@@ -20,3 +20,8 @@
 
 ## 16:18 - Joe Thompson
 > <p>what's the process to hook Content Understanding up with the SDQ/bid module which Umar has built?</p>
+
+# Teams Chat — Joe Thompson
+
+## 17:49 - Jake Bowles
+> I asked him and tbh he wasn't much help (don't tell him I said that 😂). Probably easier if I jump on a call eith Umar and see what's in place already. I deployed the bid extraction analysers ages ago so they're all good to go

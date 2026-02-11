@@ -478,3 +478,79 @@ We do not do hikes in March. Not sure what he thinks industry standard is, but w
 ## 17:09 - Matt Davies
 > <attachment id="1770829753152"></attachment>
 > <p>the quality of what was sent is unbelievably poor - she has escalated to Andy and myself</p>
+
+
+## 17:44 - Jake Bowles
+> <p>Behind Jensten in the queue <emoji id="wink" alt="😉" title=""></emoji></p>
+
+## 17:44 - Charlie Phipps-Bennett
+> <attachment id="1770831807515"></attachment>
+> <p>Yes please, when will be ready?</p>
+
+## 17:44 - Charlie Phipps-Bennett
+> <attachment id="1770831799601"></attachment>
+> <p>Do we not have a standard offering?</p>
+
+## 17:43 - Matt Davies
+> <attachment id="1770830619259"></attachment>
+> <p>the template is there - Sophia can whip it up and im happy to help too!</p>
+
+## 17:43 - Andrew Price
+> <attachment id="1770830692506"></attachment>
+> <p>I want laughing emojis to that not love hearts</p>
+
+## 17:43 - Jake Bowles
+> <attachment id="1770830977365"></attachment>
+> <p>Sophia will have to create the deck </p>
+
+## 17:41 - Akshansh Sharma
+> <div>
+> <attachment id="1770830692506"></attachment>
+> Great news! What is the advice curious to know<emoji id="smile" alt="🙂" title=""></emoji></div>
+
+## 17:40 - Akshansh Sharma
+> And that document is too much info without any structure so i agree with Lacey get her point as well poor management and handling on this one
+
+## 17:39 - Akshansh Sharma
+> <div>
+> <attachment id="1770830229855"></attachment>
+> I remember having this discussion with him and adding my comments but to think he would have shared it as it is to lacey is concerning and adding days without any explanation is poor as well now i know he might have used our general formula for estimates but he shouldn’t have shared without running the final numbers through me</div>
+
+## 17:34 - Matt Davies
+> <attachment id="1770830229855"></attachment>
+> <p>I'll set up a call with Gagan tomorrow and invite you both <at id="0">Nandan</at>&nbsp;<at id="1">Hegde</at>&nbsp;<at id="2">Akshansh</at>&nbsp;<at id="3">Sharma</at></p>
+
+# Teams Chat — Synapx Directors
+
+## 18:00 - Matt Davies
+> Sophia says to expect a draft before 9am tomorrow
+
+## 17:55 - Andrew Price
+> <attachment id="1770832036524"></attachment>
+> I might be some competition there
+
+## 17:54 - Andrew Price
+> <attachment id="1770830977365"></attachment>
+> @Matt would you mind working on this based on other templates please?
+
+## 17:49 - Charlie Phipps-Bennett
+> <attachment id="1770831996758"></attachment>
+> Friday is good, meeting client next week
+
+## 17:47 - Jake Bowles
+> I reckon Mr ADHD wanted an EOD answer there
+
+## 17:46 - Matt Davies
+> im certain Friday is achievable Charlie
+
+## 17:46 - Jake Bowles
+> Yeah the LCP deck is good too
+
+## 17:46 - Matt Davies
+> then again, what shes comparing it against .....
+
+## 17:45 - Matt Davies
+> depends how much additional context you want added into it but like i say, template is 90% there - it got past Lacey
+
+## 17:44 - Jake Bowles
+> Behind Jensten in the queue 😉

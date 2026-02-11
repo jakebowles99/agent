@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 18:00:** Shared mailbox ticket update; coordinated scope clarifications (LCP/Chrysalis FX rates) and timesheet/charge code tags; discussed Seras standards.
 - **2026-02-11 17:36:** Discussed need to follow similar standards (as Jensten) for Seras data discovery documentation.
 - **2026-02-11 17:21:** Shared BI/App changes costings and offered to forward an email; asked who manages a URL.
 - **2026-02-11 16:38:** Replied on Lanware shared mailbox ticket thread; also referenced for urgent contact in Saumya auto-reply; involved in Custom Import Template/Auth email.

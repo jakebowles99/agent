@@ -215,3 +215,46 @@
 ## 17:29 - Nandan Hegde
 > <p>considering the criticality of Seras, and based on current scope.</p>
 > <p>we need to follow similar stds as Jensten in seras data discovery doc</p>
+
+
+## 17:41 - Nandan Hegde
+> <p>have a good day!</p>
+
+## 17:41 - Jake Bowles
+> <p>I've got about a million SOWs to review and send haha</p>
+
+## 17:40 - Jake Bowles
+> <p>Have a good evening mate</p>
+
+## 17:30 - Nandan Hegde
+> <p>I'll log off for the day.</p>
+> <p>Is there anything for me?</p>
+
+## 17:29 - Jake Bowles
+> <p>Yes I agree</p>
+
+## 17:29 - Nandan Hegde
+> <p>considering the criticality of Seras, and based on current scope.</p>
+> <p>we need to follow similar stds as Jensten in seras data discovery doc</p>
+
+# Teams Chat — Nandan Hegde
+
+## 17:41 - Nandan Hegde
+> have a good day!
+
+## 17:41 - Jake Bowles
+> I've got about a million SOWs to review and send haha
+
+## 17:40 - Jake Bowles
+> Have a good evening mate
+
+## 17:30 - Nandan Hegde
+> I'll log off for the day.
+> Is there anything for me?
+
+## 17:29 - Jake Bowles
+> Yes I agree
+
+## 17:29 - Nandan Hegde
+> considering the criticality of Seras, and based on current scope.
+> we need to follow similar stds as Jensten in seras data discovery doc
