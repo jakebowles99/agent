@@ -22,6 +22,7 @@ n- Client product requirements
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 06:37:** Requested Rahul to provide Synapx-branded screenshots of Outlook plugin PDF list and several web app pages (dashboard, review, other pages) today.
 - **2026-02-11 05:39:** Organizer for 'Standup - LCP Doc Extraction' on 2026-02-11.
 - **2026-02-10 23:44:** Reviewed Doc Extraction webpage requirements; provided feedback preferring option 2 and noted concern about image layout.
 - **2026-02-10 23:42:** Coordinated testing schedule and priority (LCP vs Accent), asked about moving client demo; worked through Harvest Forecast access.

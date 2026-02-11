@@ -1,3 +1,24 @@
+## 2026-02-11 06:30
+
+### Changes This Window
+- **Emails:** 0
+- **Teams Chats:** 2 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 3 processed (0 created, 3 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Review Gagan M's "Project Kick-off Summary - Fabric & Power BI Implementation" and confirm if anything is missing.
+- [ ] Provide Navsheen Koul synapx-branded screenshots today (Outlook plugin PDFs list, webapp dashboard, webapp review page, other pages).
+
+### Files Updated
+- knowledge/teams/2026-02-11/capital-h&b-handover.md
+- knowledge/teams/2026-02-11/product-catchup.md
+
+---
+
 ## 2026-02-11 06:15
 
 ### Changes This Window
