@@ -294,3 +294,39 @@ Yes actually, I could use him on Finance Ops reports tomorrow
 
 ## 09:19 - Charlie Phipps-Bennett
 > I ask because they are benched so probably a great time to accelerate the conversation
+
+# Teams Chat — Synapx Directors
+
+## 09:45 - Matt Davies
+> this clears the backlog I believe?
+
+## 09:45 - Jake Bowles
+> Sorry yeah I just meant Midwich Slipstream doesn't make sense without the US in the title
+
+## 09:45 - Charlie Phipps-Bennett
+> LCP can be P2 and Nimans P3
+
+## 09:44 - Matt Davies
+> yeah thats P1
+
+## 09:44 - Jake Bowles
+> Slipstream US
+
+## 09:44 - Matt Davies
+> Anuj will have these three ready this morning
+> 1) Midwich Slipstream (Jake)
+> 2) Midwich Nimans (Charlie)
+> 3) LCP Nav Reconciliation
+
+## 09:43 - Charlie Phipps-Bennett
+> [Attachment: 1770802840568]
+> I wasn't surprised and kind of expected it. He is under paid. Wouldn't find someone with his skillset at that price on the market. Jake and I did raise that last week
+
+## 09:43 - Jake Bowles
+> I am going to send to Tayo along with the other one as a nudge towards SPXaaS
+
+## 09:43 - Matt Davies
+> LCP you need to sign btw
+
+## 09:42 - Matt Davies
+> yeah agree - yesterday Anuj and Charlotte were off so I was even writing them

@@ -2,49 +2,48 @@
   "short_term": {
     "last_runs": [
       {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 09:30\n\n### Changes This Window\n- **Emails:** 2 new (subjects not provided)\n- **Teams Chats:** 12 messages across 7 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 16 processed (2 created, 14 updated)\n- **Calendar:** 10 events on calendar (current: \"Ooo\" 09:30\u201310:30 UTC; also \"Standup - LCP Doc Extraction\" 09:30\u201309:45 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Assign a GitHub Copilot licence to Vaishna",
-        "timestamp": "2026-02-11T09:45:28.522286+00:00"
+        "status": "error",
+        "error": "Invalid response from LLM call - None or empty.",
+        "timestamp": "2026-02-11T09:51:05.693734+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 09:00\n\n### Changes This Window\n- **Emails:** 0\n- **Teams Chats:** 14 messages across 9 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 1 processed\n- **Calendar:** 10 events on calendar (next: \"SOW Agent\" 09:00\u201309:30 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Product Catchup: provide Navsheen screenshots of the page (incl. version with all checkboxes selected) and ensure copyright shows 2026.\n- [ ] Syn",
-        "timestamp": "2026-02-11T09:27:48.023468+00:00"
+        "result_preview": "## 2026-02-11 09:15\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 20 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 11 processed (2 created, 9 updated)\n- **Calendar:** 10 events on calendar (current: \"SOW Agent\" 09:00\u201309:30 UTC; next: \"Ooo\" 09:30\u201310:30 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] SOW Agent: update the SOW using Jake Bowles\u2019 notes (see attachments) and reference th",
+        "timestamp": "2026-02-11T09:43:22.014789+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "{\"path\":\"inbox.md\"}",
-        "timestamp": "2026-02-11T08:45:23.064606+00:00"
+        "result_preview": "## 2026-02-11 08:45\n\n### Changes This Window\n- **Emails:** 3 new\n- **Teams Chats:** 17 messages across 7 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 21 processed (2 created, 19 updated)\n- **Calendar:** 10 events on calendar (next: \"Midwich Squad - daily standup\" 08:45\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Review Capital H&B Project Kick-off Summary (Fabric & Power BI Implementation) and confirm if an",
+        "timestamp": "2026-02-11T09:03:48.253542+00:00"
       },
       {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
-        "result_preview": "## 2026-02-11 08:00\n\n### Changes This Window\n- **Emails:** 0\n- **Teams Chats:** 33 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 processed (2 created, 15 updated)\n- **Calendar:** 9 events on calendar (next: \"Ooo\" 08:00\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Synapx Directors: confirm whether there is billable project work for UK resources (Kenny & Fraser) this week.\n- [ ] Project Man",
-        "timestamp": "2026-02-11T08:26:38.496332+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 07:30\n\n### Changes This Window\n- **Emails:** 0\n- **Teams Chats:** 8 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 8 processed (1 created, 7 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Nandan Hegde: schedule/connect to discuss work for Suds/Ken/Dhanya/Hemanth, POC work, and LCP scope through SOW.\n- [ ] Aishwarya",
-        "timestamp": "2026-02-11T07:48:39.688636+00:00"
+        "result_preview": "## 2026-02-11 08:15\n\n### Changes This Window\n- **Emails:** 0\n- **Teams Chats:** 34 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 21 processed (1 created, 20 updated)\n- **Calendar:** 9 events on calendar (next: \"Ooo\" 08:00\u201309:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update Harvest Forecast for Synapx non-working time; respond re H&B project in Harvest/enable Forecast; coord",
+        "timestamp": "2026-02-11T08:32:21.133312+00:00"
       },
       {
         "status": "error",
-        "error": "Invalid response from LLM call - None or empty.",
-        "timestamp": "2026-02-11T07:16:11.470189+00:00"
+        "error": "HTTPSConnectionPool(host='ais-devhubsweden354d6x.openai.azure.com', port=443): Read timed out. (read timeout=300)",
+        "timestamp": "2026-02-11T08:08:38.749096+00:00"
+      },
+      {
+        "status": "error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-11T07:37:37.191491+00:00"
+      },
+      {
+        "status": "error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "timestamp": "2026-02-11T07:07:55.108493+00:00"
       },
       {
         "status": "success",
@@ -69,14 +68,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 06:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 2 messages across 2 conversations\n- **Teams Channels:** 0 messages in 79 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 3 processed (0 created, 3 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Prathap Reddy: continue/complete wiring SOW fields (incl. multi-file uploads) into the Logic App \u201cPopulate a Microsoft Word template\u201d action for end-to-end",
         "timestamp": "2026-02-11T06:07:58.937737+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 05:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 processed (0 created, 0 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-11 05:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n-",
-        "timestamp": "2026-02-11T05:52:06.597185+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +75,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 118,
+      "total_runs": 119,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -97,7 +88,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T09:45:28.522299+00:00",
+    "last_updated": "2026-02-11T09:51:05.693745+00:00",
     "version": "1.0"
   }
 }
