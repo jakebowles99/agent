@@ -23,6 +23,7 @@
 - Email discussions regarding Slipstream project scope and pricing
 
 ## Recent interactions
+- **2026-02-11 15:11:** Requested a nudge; discussed being delayed due to legal team confusion over £0 discount.
 - **2026-02-11 14:50:** Sent a short message: "nudge please".
 - **2026-02-10 23:22:** Sent K&S slipstream questionnaire for review.
 - **2026-02-10 16:30:** Sent K&S slipstream questionnaire email to Synapx contacts.

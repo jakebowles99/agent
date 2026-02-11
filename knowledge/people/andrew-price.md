@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 15:12:** Suggested candidate technical assessment via deploying to repos and automated testing.
 - **2026-02-11 14:44:** Chatted about Fabcon EU access issue, recruitment offer fairness and candidate testing approach, and internal UK directors compliance/invoice comments.
 - **2026-02-11 14:26:** Commented that offer is fair and asked Jake for input on candidate negotiation.
 - **2026-02-11 13:25:** Brief note about inability to switch to Fabcon EU.

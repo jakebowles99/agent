@@ -249,3 +249,37 @@ Check which attachments to process and click 'Submit'."</li></ul>
 
 ## 13:44 - Navsheen Koul
 > @Rahul based on our call right now with the MS guy, please start looking into it. Next task would be to deploy fraud prediction to the marketplace 🙂
+
+# Teams Chat — Product Catchup
+
+## 14:31 - Navsheen Koul
+> lets catchup on Tuesday regarding this over a call properly, please remind me
+
+## 14:31 - Rahul Matta
+> yes he still havent provided access and materials
+> shall i send a message in the group as reminder?
+
+## 14:31 - Rahul Matta
+> you mean thursday?
+
+## 14:32 - Navsheen Koul
+> wait for today, its earlier in the day for him so i'll chase tomm morning if he hasn't provided it by then
+
+## 14:33 - Navsheen Koul
+> no Tuesday
+> i wont have enough time to read about it amongst other things
+> friday i'm off the second half and Monday full day
+
+## 14:35 - Rahul Matta
+> Ok, no problem
+
+## 14:36 - Navsheen Koul
+> also i'm conscious there's a lot not being tracxked properly so i've asked Gagan M to join our standups so he can PM when i cant
+
+## 14:36 - Rahul Matta
+> shall i start the implementation(coding) after understanding?
+> what have you decided, single or multi tenant implementation?
+
+## 14:56 - Jake Bowles
+> Do we need some sort of tooling to do this properly? Linear etc
+

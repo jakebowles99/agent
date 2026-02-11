@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 15:09:** Discussed Teams structure differences (channel vs team) and commented on marketing asset.
 - **2026-02-11 14:45:** Answered questions about Anand's salary (£60k) and discussed rationale.
 - **2026-02-11 14:08:** Mentioned as recipient of Akshansh Sharma Teams message; sent Directors Meeting invite.
 - **2026-02-11 13:55:** Sent Teams invite for Directors Meeting; participated in UK directors chat incl. salary discussion.

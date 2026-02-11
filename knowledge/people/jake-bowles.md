@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 15:10:** Participated across director/product/recruitment and other chats; discussed delivery comms, product tracking, training/consultancy standards, legal/pricing, permissions, and timesheets.
 - **2026-02-11 14:51:** Participated in multiple chats: discussed training/consultancy skills with Kim Totten; asked Sophia Fricker about Ankita helping with slides; posted comment about Charlotte and Fraser.
 - **2026-02-11 14:43:** Discussed Business Central timesheets, recruitment offer considerations, Capital H&B access/timelines, LCP doc extraction improvements, and UK directors topics.
 - **2026-02-11 14:22:** Discussed who will deliver Friday's Fabric in a Day workshop and shadowing/UK vs India resource.

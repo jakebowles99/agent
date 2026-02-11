@@ -319,3 +319,24 @@
 
 ## 14:43 - Jake Bowles
 > Charlotte and Fraser would make an unstoppable team omg
+
+# Teams Chat — Synapx UK Directors
+
+## 14:55 - Matt Davies
+> whats the difference between these 2 gents?
+
+## 14:56 - Jake Bowles
+> Well one is a channel that everyone gets added to and the other is a team that contains SOW related channels
+
+## 14:58 - Matt Davies
+> you wouldn't use General in the dedicated Synapx | Delivery Team for that?
+
+## 14:59 - Charlie Phipps-Bennett
+> top one is to push updates about delivery whereas the channel is delivery customer specific
+
+## 14:59 - Jake Bowles
+> Yes ideally but the top one pre-dates the other one
+
+## 14:59 - Jake Bowles
+> And when nobody was engaging with the channels I gave up
+

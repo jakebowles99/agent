@@ -55,3 +55,12 @@
 
 ## 12:45 - Jake Bowles
 > Can you do some research onto prompting techniques and put that in
+
+# Teams Chat — Ankita Kajal
+
+## 14:48 - Jake Bowles
+> I need some help with a Canva presentation please
+
+## 14:49 - Jake Bowles
+> I think Sophia will be fine with me asking
+

@@ -117,3 +117,36 @@ I think the offer is fair, but what do you think <at id="0">Jake</at>?</div>
 ## 14:28 - Andrew Price
 > Need to ask candidates to deploy to our repos and we do automated testing or something
 
+
+# Teams Chat — Internal Synapx Recruitment
+
+## 14:06 - Jake Bowles
+> Yup aware. I've already reviewed a tonne
+
+## 14:06 - Charlie Phipps-Bennett
+> Ok we need to be logging this centrally please
+
+## 14:07 - Jake Bowles
+> I mean prior to that document
+
+## 14:07 - Charlie Phipps-Bennett
+> Ok lets wait for structured document then go through it together on a call
+
+## 14:07 - Jake Bowles
+> No point having a call
+
+## 14:07 - Jake Bowles
+> Trust me 90% will be shit
+
+## 14:07 - Jake Bowles
+> I'll just fly through them when I get a moment this evening
+
+## 14:07 - Charlie Phipps-Bennett
+> (rofl)
+
+## 14:28 - Andrew Price
+> Need to ask candidates to deploy to our repos and we do automated testing or something
+
+## 14:31 - Jake Bowles
+> I did create an agent to do the submission reviews but the issue is I'm not even that fussed about the code quality and more the extra bits (videos, hosting etc)
+

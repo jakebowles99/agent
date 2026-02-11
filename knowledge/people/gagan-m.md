@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 15:11:** Mentioned as joining standups to PM when Navsheen can't.
 - **2026-02-11 14:44:** Shared project kick-off summary document and discussed whether outreach with timelines had been sent.
 - **2026-02-11 13:39:** Confirmed; discussed having contact details for 'Crisitans' in handover chat.
 - **2026-02-11 09:16:** Shared project plan document link/attachment for Capital H&B Fabric and Power BI implementation.

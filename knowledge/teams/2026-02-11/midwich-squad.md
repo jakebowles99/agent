@@ -339,3 +339,66 @@
 ## 14:30 - Hemanth Kotha
 > Yaz Qaraqesh I don't have access to the security users list
 
+
+# Teams Chat — Midwich Squad
+
+## 14:30 - Hemanth Kotha
+> Yaz Qaraqesh I don't have access to the security users list
+
+## 14:30 - Hemanth Kotha
+> It should also need to include the role as well.
+
+## 14:33 - Yaz Qaraqesh
+> try again please
+
+## 14:34 - Hemanth Kotha
+> Now works. Thanks
+
+## 14:35 - Hemanth Kotha
+> What do you mean by General?
+
+## 14:36 - Vaishnavi MP
+> I need same permissions please
+
+## 14:36 - Yaz Qaraqesh
+> Anything works for those - do we have an "Admin" role?
+
+## 14:37 - Hemanth Kotha
+> They can't override the approval process.
+
+## 14:37 - Hemanth Kotha
+> If they need to approve or create they need to have multiple roles
+
+## 14:40 - Hemanth Kotha
+> (100000, 'Product Manager / Brand Manager', 100000),
+> (100001, 'Purchaser', 100000),
+> (100002, 'Warehouse Manager', 100000),
+> (100003, 'Business Administrator / System Administrator', 100000),
+> (100004, 'Finance', 100000),
+> (100005, 'Accounts Payable', 100000),
+> (100006, 'Business Manager', 100000),
+> (100007, 'Supply Chain Manager', 100000),
+> (100008, 'Director BM / Commercial Director', 100000),
+> (100009, 'CFO / MD', 100000),
+> (100010, 'Client / Customer', 100000),
+> (100011, 'Sales Support / Administration', 100000),
+> (100012, 'Sales Manager / Account Manager', 100000),
+> (100013, 'Sales Director', 100000),
+> (100014, 'App Admin', 100000),
+> (100015, 'Sales Admin', 100000),
+> (100016, 'Sales Standard', 100000),
+> (100017, 'Product Manager / Brand Manager', 100001),
+> (100018, 'Purchaser', 100001),
+> (100019, 'Warehouse Manager', 100001),
+> (100020, 'Business Administrator / System Administrator', 100001),
+> (100021, 'Finance', 100001),
+> (100022, 'Accounts Payable', 100001),
+> (100023, 'Business Manager', 100001),
+> (100024, 'Supply Chain Manager', 100001),
+> (100025, 'Director BM / Commercial Director', 100001),
+> (100026, 'CFO / MD', 100001),
+> (100027, 'Client / Customer', 100001),
+> (100028, 'Sales Support / Administration', 100001),
+> (100029, 'Sales Manager / Account Manager', 100001),
+> (100030, 'Sales Director', 100001);
+

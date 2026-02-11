@@ -88,3 +88,36 @@
 
 ## 14:35 - Kim Totten
 > I don't care who does it to be honest, as long as it's done well and we are all clear on how it is repeated as an initiative internally, It's more just about setting the standard from a leadership perspective so that the message will then cascade down the teams as we onboard more team members to run them (and to also promote that these aren't really optional in terms of people opting out, it's part of our core offering). Whether that is you and Nandan working together to share that message and deliver the dry runs internally to the team, you can work that out between you both but the message and initiative should come from the top of the team, which is why I have come to you about it
+
+# Teams Chat — Kim Totten
+
+## 14:36 - Kim Totten
+> Charlie is on board to do the same from his teams perspective
+
+## 14:38 - Jake Bowles
+> No my point was that if Saumya got shit feedback we'll get shit feedback from everyone else too
+
+## 14:38 - Jake Bowles
+> I can't imagine Nandan will be much better
+
+## 14:39 - Kim Totten
+> So we need to set an example, maybe even get them to deliver a dry run to us internally so we can critique and put steps in place to make it better
+
+## 14:39 - Kim Totten
+> whether that is personal development feedback or material feedback
+
+## 14:39 - Jake Bowles
+> It's basic consultancy skills that people lack and I don't think shadowing a few sessions will help that
+
+## 14:40 - Kim Totten
+> well that's a bigger issue we need to address asap
+
+## 14:40 - Kim Totten
+> is there any kind of training in place at the moment to improve those skills within the team
+
+## 14:44 - Jake Bowles
+> Sorry on a train atm hence the fragmented messages - Yes, agree it's a fundamental issue and biting me in a lot of other elements too
+
+## 14:49 - Kim Totten
+> No worries - we can chat properly when you have some time, I'm here to support on this if I can because we want to iron out stuff like this before MSFT recommend us their managed accounts when we are concerned about consultancy standards, they will pick up on that very quickly, they care about execution obviously but they need the confidence that they can scale customers with us across 3,4,5 very strong consultants
+
