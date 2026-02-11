@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 05:30\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 5 processed (1 created, 4 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-11 05:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 m",
+        "timestamp": "2026-02-11T05:43:42.686283+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 05:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 1 processed (1 created, 0 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] None\n\n### Files Updated\n- None\n\n---\n\n## 2026-02-11 05:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 0 m",
         "timestamp": "2026-02-11T05:29:50.065463+00:00"
       },
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 02:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 78 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 1 processed (0 created, 1 updated)\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: update/remove investor letters for now; wait until Simon returns before proceeding.\n\n### Files Updated\n- knowledge/teams/2026-02-11/proje",
         "timestamp": "2026-02-11T02:22:41.866166+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 02:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 1 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 1 processed (0 created, 1 updated)\n- **Calendar:** 10 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Project Managers: wait until Simon returns before proceeding with investor letters; investor letters being updated/removed for now.\n\n### Files Updated\n- kn",
-        "timestamp": "2026-02-11T02:08:27.318072+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 107,
+      "total_runs": 108,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T05:29:50.065481+00:00",
+    "last_updated": "2026-02-11T05:43:42.686293+00:00",
     "version": "1.0"
   }
 }
