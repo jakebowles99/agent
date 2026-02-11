@@ -247,3 +247,29 @@
 ## 10:08 - Charlie Phipps-Bennett
 > What is Anand paid?
 
+
+# Teams Chat — Synapx UK Directors
+
+## 10:19 - Matt Davies
+> what did you think it was? why did you think that? output ?
+
+## 10:16 - Charlie Phipps-Bennett
+> I thought it was much lower, ok thanks
+
+## 10:15 - Matt Davies
+> £60k salary
+
+## 10:15 - Charlie Phipps-Bennett
+> So his salary is 60k?
+
+## 10:15 - Matt Davies
+> what?
+
+## 10:15 - Matt Davies
+> erm
+
+## 10:14 - Charlie Phipps-Bennett
+> That is what he is paid or cost to us?
+
+## 10:14 - Matt Davies
+> 60

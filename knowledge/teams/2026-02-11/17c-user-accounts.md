@@ -67,3 +67,45 @@
 ## 10:06 - Hemanth Kotha
 > @Gaurav I don't see any email to my synapx account. Do they send the email to 17c account? If that's the case how do we access it without creds.
 
+
+# Teams Chat — 17C User Accounts
+
+## 10:39 - Hemanth Kotha
+> ITSM  😂. Not sure which one they are using
+
+## 10:38 - Hemanth Kotha
+> [attachment]
+> [image]
+> 
+> only these 4 people I can see.
+
+## 10:37 - Charlie Phipps-Bennett
+> @Andrew @Price there is a selling opportunity here
+
+## 10:37 - Charlie Phipps-Bennett
+> Have you got mine?
+
+## 10:36 - Hemanth Kotha
+> I can actually see all the people's  😅. Security!
+
+## 10:35 - Hemanth Kotha
+> Ok wait. I can see it in the same chain but not as a separate email.
+
+## 10:33 - Gaurav Rauthan
+> [image]
+> 
+> I have just forwarded too.
+> Check again.
+
+## 10:32 - Hemanth Kotha
+> [attachment]
+> But we haven't received
+
+## 10:32 - Gaurav Rauthan
+> [attachment]
+> They have sent it actually, I just checked.
+> You are copied in the email. I will forward to you both.
+
+## 10:28 - Akshansh Sharma
+> [attachment]
+> it will be on your phone number i think

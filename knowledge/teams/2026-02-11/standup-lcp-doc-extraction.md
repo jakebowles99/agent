@@ -72,3 +72,19 @@
 > 
 > @Navsheen @Koul A point for the design team to incorporate
 
+
+# Teams Chat — Standup - LCP Doc Extraction
+
+## 10:31 - Timon Wan
+> This as well for Request 171
+> 
+> Percentage says 90% but not showing green
+> [attachment]
+
+## 10:30 - Timon Wan
+> [attachment]
+> haha, not a big deal for now would say. Just something to note down
+
+## 10:28 - Ajay Gannamaneni
+> [attachment]
+> did not test dark mode tim check in light mode 😅

@@ -23,3 +23,9 @@
 ## 08:30 - Jake Bowles
 > Morning, yes I'll give you a call asap
 
+
+# Teams Chat — Nandan Hegde
+
+## 10:31 - Nandan Hegde
+> Ill leave for home for noe.
+> We can connect later once I reach

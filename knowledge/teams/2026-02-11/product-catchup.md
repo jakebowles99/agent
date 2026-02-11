@@ -217,3 +217,18 @@ Check which attachments to process and click 'Submit'."</li></ul>
 ## 10:22 - Navsheen Koul
 > needs to be refined and scripted
 
+
+# Teams Chat — Product Catchup
+
+## 10:23 - Rahul Matta
+> [attachments]
+
+## 10:22 - Navsheen Koul
+> ajay has made some great enhancements now which extracts all/most fields so we will record then
+
+## 10:22 - Navsheen Koul
+> [attachment]
+> needs to be refined and scripted
+
+## 10:14 - Rahul Matta
+> Plugin and Web App Video.mp4
