@@ -21,6 +21,7 @@
 - Technical estimation
 
 ## Recent interactions
+- **2026-02-11 11:06:** Sent BRD weekly standup update; noted Synapx account password reset in 17C User Accounts chat; referenced in UK Directors salary discussion.
 - **2026-02-11 10:45:** Noted finally receiving a Synapx account password reset; discussed salary question in directors chat.
 - **2026-02-11 10:28:** Reported successful password reset to Synapx account.
 - **2026-02-11 10:08:** Sent update moving BRD weekly standup call to allow time for responses.

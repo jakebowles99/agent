@@ -2,12 +2,9 @@
   "short_term": {
     "last_runs": [
       {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 10:30\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 42 messages across 9 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 18 processed (1 created, 17 updated)\n- **Calendar:** 10 events on calendar (current: \"Product Catchup\" 10:30\u201310:55 UTC; also \"Euroleague - final reviews\" 10:30\u201311:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Midwich Squad: investigate PO app UAT order **100120** s",
-        "timestamp": "2026-02-11T10:58:48.850026+00:00"
+        "status": "error",
+        "error": "Invalid response from LLM call - None or empty.",
+        "timestamp": "2026-02-11T11:07:30.568541+00:00"
       },
       {
         "status": "success",
@@ -88,7 +85,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T10:58:48.850036+00:00",
+    "last_updated": "2026-02-11T11:07:30.568554+00:00",
     "version": "1.0"
   }
 }

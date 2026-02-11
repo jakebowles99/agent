@@ -9,6 +9,7 @@
 - **Email**: ankita.kajal@synapx.com
 
 ## Recent interactions
+- **2026-02-11 11:05:** Shared screenshot update for Doc Extraction webpage 'how it works' section.
 - **2026-02-11 09:42:** Provided update on Doc Extraction Webpage Requirements; suggested using new screenshot for 'how it works' section instead of prior 'email to PDF' screenshot.
 - **2026-02-10 16:26:** Included on doc extraction webpage requirements and review thread.
 - **2026-02-10 15:47:** Included as recipient for doc extraction webpage requirements and coordination with Adstract.
