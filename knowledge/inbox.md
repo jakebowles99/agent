@@ -1,3 +1,26 @@
+## 2026-02-11 01:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 30 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 8 processed (0 created, 7 updated)
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Synapx Directors: confirm whether he is still available and let Matt know (needed for Finance Ops reports tomorrow).
+- [ ] Synapx Directors: confirm whether APS can be signed if 6-year term is updated to 1 year and resent.
+- [ ] Synapx UK Directors: be prepared for an ad-hoc phone call tomorrow.
+
+### Files Updated
+- knowledge/teams/2026-02-11/synapx-directors.md
+- knowledge/teams/2026-02-11/synapx-leadership-team.md
+- knowledge/teams/2026-02-11/synapx-uk-directors.md
+
+---
+
 ## 2026-02-11 00:45
 
 ### Changes This Window
