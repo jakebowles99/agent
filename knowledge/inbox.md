@@ -1,3 +1,22 @@
+## 2026-02-11 17:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 2 messages across 1 conversation
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 4 processed (1 created, 3 updated)
+- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00–19:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Matt Davies: schedule P1 tomorrow morning (Harvest Projects chat).
+
+### Files Updated
+- knowledge/teams/2026-02-11/harvest-projects.md
+
+---
+
 ## 2026-02-11 16:45
 
 ### Changes This Window

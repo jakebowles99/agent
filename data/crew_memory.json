@@ -6,6 +6,14 @@
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
+        "result_preview": "## 2026-02-11 17:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 2 messages across 1 conversation\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 4 processed (1 created, 3 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Matt Davies: schedule P1 tomorrow morning (Harvest Projects chat).\n\n### Files Updated\n- knowledge/teams/2026-02",
+        "timestamp": "2026-02-11T17:06:57.732443+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
         "result_preview": "## 2026-02-11 16:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 10 messages across 1 conversation\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 2 processed (0 created, 2 updated)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Assist Charlie Phipps-Bennett with using Claude in Visual Studio / Copilot (VS Code update, reopen, restart).\n",
         "timestamp": "2026-02-11T16:50:17.370611+00:00"
       },
@@ -69,14 +77,6 @@
         "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 14:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 27 messages across 5 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 22 updated (0 created)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Midwich Squad: proceed with approved deployment of SO & PO to prod; coordinate V/Tim/Hema",
         "timestamp": "2026-02-11T14:28:28.538965+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 14:00\n\n### Changes This Window\n- **Emails:** 1 new\n- **Teams Chats:** 23 messages across 6 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 updated (0 created)\n- **Calendar:** 10 events on calendar (current/next: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Standup \u2013 LCP Doc Extraction: confirm plan to reduce non-extracted items (currently 6/29); fix dark-mode UI issues (Reque",
-        "timestamp": "2026-02-11T14:11:27.903663+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +84,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 141,
+      "total_runs": 142,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-11T16:50:17.370633+00:00",
+    "last_updated": "2026-02-11T17:06:57.732458+00:00",
     "version": "1.0"
   }
 }
