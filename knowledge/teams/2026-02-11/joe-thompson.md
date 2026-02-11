@@ -35,3 +35,8 @@
 
 ## 19:22 - Joe Thompson
 > Ok maybe we can grab 30 mins tomorrow?
+
+# Teams Chat — Joe Thompson
+
+## 19:22 - Joe Thompson
+> Ok maybe we can grab 30 mins tomorrow?

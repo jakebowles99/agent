@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-11 20:05:** Discussed commercial communications, involving Sales, and not contacting Lacey; noted Charlotte agreed; participated in directors chat.
 - **2026-02-11 19:48:** Discussed commercial communication process; noted having told Gagan to involve Sales and not to contact Lacey until they speak; referenced Charlotte agreement.
 - **2026-02-11 19:21:** Discussed staffing/capacity, SOW/proposal quality issues, and preparing client decks/approvals.
 - **2026-02-11 19:04:** Chatted about draft timing and template work; noted someone on leave until Monday.

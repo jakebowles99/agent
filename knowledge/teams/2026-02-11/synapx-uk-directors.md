@@ -381,3 +381,11 @@
 ## 19:40 - Jake Bowles
 > Can anyone else add Nandan to those channels?
 
+
+# Teams Chat — Synapx UK Directors
+
+## 19:40 - Matt Davies
+> yeah - Charlotte agreed
+
+## 19:40 - Jake Bowles
+> Can anyone else add Nandan to those channels?
