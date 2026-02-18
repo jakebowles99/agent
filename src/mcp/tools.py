@@ -163,7 +163,7 @@ class ToolHandler:
         if not graph:
             return {"error": "Microsoft 365 not connected. Run 'python auth_server.py' to authenticate."}
 
-        limit = min(limit, 50)
+        limit = min(limit, 500)
         result = await graph.get_teams_chats(limit=limit, skip=skip)
         return {"chats": result, "count": len(result), "skip": skip, "has_more": len(result) == limit}
 
@@ -173,7 +173,7 @@ class ToolHandler:
         if not graph:
             return {"error": "Microsoft 365 not connected. Run 'python auth_server.py' to authenticate."}
 
-        limit = min(limit, 50)
+        limit = min(limit, 500)
         result = await graph.get_chat_messages(chat_id=chat_id, limit=limit)
         return {"messages": result, "count": len(result), "skip": skip, "has_more": len(result) == limit}
 
@@ -243,7 +243,7 @@ class ToolHandler:
         if not graph:
             return {"error": "Microsoft 365 not connected. Run 'python auth_server.py' to authenticate."}
 
-        limit = min(limit, 50)
+        limit = min(limit, 500)
         result = await graph.get_channel_messages(team_id=team_id, channel_id=channel_id, limit=limit)
         return {"messages": result, "count": len(result), "team_id": team_id, "channel_id": channel_id}
 

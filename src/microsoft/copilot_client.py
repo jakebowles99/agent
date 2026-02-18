@@ -6,6 +6,7 @@ Based on:
 """
 
 import logging
+import asyncio
 from datetime import datetime, timedelta, timezone
 from typing import Any
 from urllib.parse import quote
@@ -36,29 +37,56 @@ class MeetingInsightsClient:
         json_data: dict | None = None,
     ) -> dict[str, Any]:
         """Make a request to the Graph API."""
+        max_attempts = 5
+        attempt = 0
+
         async with httpx.AsyncClient() as client:
-            response = await client.request(
-                method=method,
-                url=url,
-                headers=self.headers,
-                params=params,
-                json=json_data,
-                timeout=30.0,
-            )
+            while True:
+                attempt += 1
+                response = await client.request(
+                    method=method,
+                    url=url,
+                    headers=self.headers,
+                    params=params,
+                    json=json_data,
+                    timeout=30.0,
+                )
 
-            if response.status_code == 401:
-                raise PermissionError("Access token expired or invalid")
-            elif response.status_code == 403:
-                raise PermissionError("Insufficient permissions - check API permissions")
-            elif response.status_code == 404:
-                return {"error": "Not found", "status": 404}
-            elif response.status_code >= 400:
-                error_data = response.json() if response.content else {}
-                error_msg = error_data.get("error", {}).get("message", response.text)
-                logger.error(f"Graph API error: {response.status_code} - {error_msg}")
-                raise Exception(f"Graph API error ({response.status_code}): {error_msg}")
+                if response.status_code in (429, 503, 504):
+                    if attempt >= max_attempts:
+                        break
+                    retry_after = response.headers.get("Retry-After")
+                    try:
+                        wait_seconds = int(retry_after) if retry_after else min(2 ** attempt, 30)
+                    except ValueError:
+                        wait_seconds = min(2 ** attempt, 30)
+                    logger.warning(
+                        "Copilot/Graph API rate limit or service issue (%s). Retrying in %ss (attempt %s/%s).",
+                        response.status_code,
+                        wait_seconds,
+                        attempt,
+                        max_attempts,
+                    )
+                    await asyncio.sleep(wait_seconds)
+                    continue
 
-            return response.json() if response.content else {}
+                if response.status_code == 401:
+                    raise PermissionError("Access token expired or invalid")
+                elif response.status_code == 403:
+                    raise PermissionError("Insufficient permissions - check API permissions")
+                elif response.status_code == 404:
+                    return {"error": "Not found", "status": 404}
+                elif response.status_code >= 400:
+                    error_data = response.json() if response.content else {}
+                    error_msg = error_data.get("error", {}).get("message", response.text)
+                    logger.error(f"Graph API error: {response.status_code} - {error_msg}")
+                    raise Exception(f"Graph API error ({response.status_code}): {error_msg}")
+
+                return response.json() if response.content else {}
+
+        error_data = response.json() if response.content else {}
+        error_msg = error_data.get("error", {}).get("message", response.text)
+        raise Exception(f"Graph API error ({response.status_code}): {error_msg}")
 
     # ==================== ONLINE MEETINGS ====================
 
@@ -358,7 +386,7 @@ class MeetingInsightsClient:
             logger.error(f"Failed to get user ID: {e}")
             return None
 
-    async def get_all_transcripts(self, days_back: int = 30, limit: int = 50) -> list[dict]:
+    async def get_all_transcripts(self, days_back: int = 30, limit: int = 200) -> list[dict]:
         """
         Get all transcripts by iterating through calendar meetings.
 

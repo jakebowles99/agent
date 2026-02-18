@@ -7,6 +7,7 @@ from typing import Any
 from urllib.parse import quote
 
 import httpx
+import asyncio
 
 logger = logging.getLogger(__name__)
 
@@ -109,28 +110,54 @@ class GraphClient:
         json_data: dict | None = None,
     ) -> dict[str, Any]:
         """Make a request to the Graph API."""
-        url = f"{GRAPH_BASE_URL}{endpoint}"
+        url = endpoint if endpoint.startswith("http") else f"{GRAPH_BASE_URL}{endpoint}"
+        max_attempts = 5
+        attempt = 0
 
         async with httpx.AsyncClient() as client:
-            response = await client.request(
-                method=method,
-                url=url,
-                headers=self.headers,
-                params=params,
-                json=json_data,
-                timeout=30.0,
-            )
+            while True:
+                attempt += 1
+                response = await client.request(
+                    method=method,
+                    url=url,
+                    headers=self.headers,
+                    params=params,
+                    json=json_data,
+                    timeout=30.0,
+                )
 
-            if response.status_code == 401:
-                raise PermissionError("Access token expired or invalid")
-            elif response.status_code == 403:
-                raise PermissionError("Insufficient permissions for this operation")
-            elif response.status_code >= 400:
-                error_data = response.json() if response.content else {}
-                error_msg = error_data.get("error", {}).get("message", response.text)
-                raise Exception(f"Graph API error ({response.status_code}): {error_msg}")
+                if response.status_code in (429, 503, 504):
+                    if attempt >= max_attempts:
+                        break
+                    retry_after = response.headers.get("Retry-After")
+                    try:
+                        wait_seconds = int(retry_after) if retry_after else min(2 ** attempt, 30)
+                    except ValueError:
+                        wait_seconds = min(2 ** attempt, 30)
+                    logger.warning(
+                        "Graph API rate limit or service issue (%s). Retrying in %ss (attempt %s/%s).",
+                        response.status_code,
+                        wait_seconds,
+                        attempt,
+                        max_attempts,
+                    )
+                    await asyncio.sleep(wait_seconds)
+                    continue
 
-            return response.json() if response.content else {}
+                if response.status_code == 401:
+                    raise PermissionError("Access token expired or invalid")
+                elif response.status_code == 403:
+                    raise PermissionError("Insufficient permissions for this operation")
+                elif response.status_code >= 400:
+                    error_data = response.json() if response.content else {}
+                    error_msg = error_data.get("error", {}).get("message", response.text)
+                    raise Exception(f"Graph API error ({response.status_code}): {error_msg}")
+
+                return response.json() if response.content else {}
+
+        error_data = response.json() if response.content else {}
+        error_msg = error_data.get("error", {}).get("message", response.text)
+        raise Exception(f"Graph API error ({response.status_code}): {error_msg}")
 
     # ==================== EMAIL ====================
 
@@ -354,92 +381,107 @@ class GraphClient:
 
     async def get_teams_chats(self, limit: int = 10, skip: int = 0) -> list[dict]:
         """Get recent Teams chats with member names for proper identification."""
+        page_size = min(limit, 50)
         params = {
-            "$top": limit,
+            "$top": page_size,
             "$orderby": "lastMessagePreview/createdDateTime desc",
             "$expand": "lastMessagePreview,members",
         }
         if skip > 0:
             params["$skip"] = skip
 
-        result = await self._request("GET", "/me/chats", params=params)
-
         # Get current user info for filtering out self from 1:1 chat names
         me = await self.get_me()
         my_email = (me.get("email") or "").lower()
 
         chats = []
-        for chat in result.get("value", []):
-            last_msg = chat.get("lastMessagePreview") or {}
-            last_msg_body = last_msg.get("body") or {}
-            last_msg_from = last_msg.get("from") or {}
-            last_msg_user = last_msg_from.get("user") or {}
+        url = "/me/chats"
+        while url and len(chats) < limit:
+            result = await self._request("GET", url, params=params)
+            params = None
 
-            # Extract member names (excluding self for 1:1 chats)
-            members = chat.get("members") or []
-            member_names = []
-            for member in members:
-                member_email = (member.get("email") or "").lower()
-                member_name = member.get("displayName") or ""
-                if member_email != my_email and member_name:
-                    member_names.append(member_name)
+            for chat in result.get("value", []):
+                last_msg = chat.get("lastMessagePreview") or {}
+                last_msg_body = last_msg.get("body") or {}
+                last_msg_from = last_msg.get("from") or {}
+                last_msg_user = last_msg_from.get("user") or {}
 
-            # Determine display name for the chat
-            topic = chat.get("topic") or ""
-            chat_type = chat.get("chatType", "")
+                # Extract member names (excluding self for 1:1 chats)
+                members = chat.get("members") or []
+                member_names = []
+                for member in members:
+                    member_email = (member.get("email") or "").lower()
+                    member_name = member.get("displayName") or ""
+                    if member_email != my_email and member_name:
+                        member_names.append(member_name)
 
-            if topic:
-                # Use the topic if available
-                display_name = topic
-            elif chat_type == "oneOnOne" and member_names:
-                # For 1:1 chats, use the other person's name
-                display_name = member_names[0]
-            elif member_names:
-                # For group chats without topic, join member names
-                display_name = ", ".join(sorted(member_names)[:4])
-                if len(member_names) > 4:
-                    display_name += f" +{len(member_names) - 4} more"
-            else:
-                # Fallback to chat ID if no other info available
-                display_name = f"Chat {chat['id'][:8]}"
+                # Determine display name for the chat
+                topic = chat.get("topic") or ""
+                chat_type = chat.get("chatType", "")
 
-            chats.append({
-                "id": chat["id"],
-                "topic": topic,
-                "display_name": display_name,
-                "members": member_names,
-                "chat_type": chat_type,
-                "last_message": last_msg_body.get("content", "")[:100] if last_msg_body else "",
-                "last_message_from": last_msg_user.get("displayName", ""),
-                "last_message_time": last_msg.get("createdDateTime", ""),
-            })
+                if topic:
+                    display_name = topic
+                elif chat_type == "oneOnOne" and member_names:
+                    display_name = member_names[0]
+                elif member_names:
+                    display_name = ", ".join(sorted(member_names)[:4])
+                    if len(member_names) > 4:
+                        display_name += f" +{len(member_names) - 4} more"
+                else:
+                    display_name = f"Chat {chat['id'][:8]}"
+
+                chats.append({
+                    "id": chat["id"],
+                    "topic": topic,
+                    "display_name": display_name,
+                    "members": member_names,
+                    "chat_type": chat_type,
+                    "last_message": last_msg_body.get("content", "")[:100] if last_msg_body else "",
+                    "last_message_from": last_msg_user.get("displayName", ""),
+                    "last_message_time": last_msg.get("createdDateTime", ""),
+                })
+
+                if len(chats) >= limit:
+                    break
+
+            url = result.get("@odata.nextLink")
 
         return chats
 
     async def get_chat_messages(self, chat_id: str, limit: int = 20) -> list[dict]:
         """Get messages from a Teams chat."""
+        page_size = min(limit, 50)
         params = {
-            "$top": limit,
+            "$top": page_size,
             "$orderby": "createdDateTime desc",
         }
 
-        result = await self._request("GET", f"/me/chats/{quote(chat_id, safe='')}/messages", params=params)
-
+        url = f"/me/chats/{quote(chat_id, safe='')}/messages"
         messages = []
-        for msg in result.get("value", []):
-            from_user = msg.get("from") or {}
-            user_info = from_user.get("user") or {}
-            body = msg.get("body") or {}
 
-            messages.append({
-                "id": msg["id"],
-                "content": body.get("content", ""),
-                "content_type": body.get("contentType", "text"),
-                "from": user_info.get("displayName", "Unknown"),
-                "from_email": user_info.get("email", ""),
-                "created": msg.get("createdDateTime", ""),
-                "message_type": msg.get("messageType", ""),
-            })
+        while url and len(messages) < limit:
+            result = await self._request("GET", url, params=params)
+            params = None
+
+            for msg in result.get("value", []):
+                from_user = msg.get("from") or {}
+                user_info = from_user.get("user") or {}
+                body = msg.get("body") or {}
+
+                messages.append({
+                    "id": msg["id"],
+                    "content": body.get("content", ""),
+                    "content_type": body.get("contentType", "text"),
+                    "from": user_info.get("displayName", "Unknown"),
+                    "from_email": user_info.get("email", ""),
+                    "created": msg.get("createdDateTime", ""),
+                    "message_type": msg.get("messageType", ""),
+                })
+
+                if len(messages) >= limit:
+                    break
+
+            url = result.get("@odata.nextLink")
 
         return messages
 
@@ -480,31 +522,41 @@ class GraphClient:
 
     async def get_channel_messages(self, team_id: str, channel_id: str, limit: int = 20) -> list[dict]:
         """Get messages from a Teams channel."""
-        params = {"$top": limit}
+        page_size = min(limit, 50)
+        params = {"$top": page_size}
 
-        result = await self._request("GET", f"/teams/{quote(team_id, safe='')}/channels/{quote(channel_id, safe='')}/messages", params=params)
-
+        url = f"/teams/{quote(team_id, safe='')}/channels/{quote(channel_id, safe='')}/messages"
         messages = []
-        for msg in result.get("value", []):
-            from_user = msg.get("from") or {}
-            user_info = from_user.get("user") or {}
-            body = msg.get("body") or {}
 
-            # Get replies count if available
-            replies = msg.get("replies", [])
+        while url and len(messages) < limit:
+            result = await self._request("GET", url, params=params)
+            params = None
 
-            messages.append({
-                "id": msg["id"],
-                "content": body.get("content", ""),
-                "content_type": body.get("contentType", "text"),
-                "from": user_info.get("displayName", "Unknown"),
-                "from_email": user_info.get("email", ""),
-                "created": msg.get("createdDateTime", ""),
-                "message_type": msg.get("messageType", ""),
-                "subject": msg.get("subject", ""),
-                "reply_count": len(replies),
-                "importance": msg.get("importance", "normal"),
-            })
+            for msg in result.get("value", []):
+                from_user = msg.get("from") or {}
+                user_info = from_user.get("user") or {}
+                body = msg.get("body") or {}
+
+                # Get replies count if available
+                replies = msg.get("replies", [])
+
+                messages.append({
+                    "id": msg["id"],
+                    "content": body.get("content", ""),
+                    "content_type": body.get("contentType", "text"),
+                    "from": user_info.get("displayName", "Unknown"),
+                    "from_email": user_info.get("email", ""),
+                    "created": msg.get("createdDateTime", ""),
+                    "message_type": msg.get("messageType", ""),
+                    "subject": msg.get("subject", ""),
+                    "reply_count": len(replies),
+                    "importance": msg.get("importance", "normal"),
+                })
+
+                if len(messages) >= limit:
+                    break
+
+            url = result.get("@odata.nextLink")
 
         return messages
 

@@ -57,13 +57,22 @@ def run_monitor() -> str:
         logger.info("Starting CrewAI monitoring crew...")
         result = run_crew_with_context()
 
-        # Record successful run
+        # Extract counts from result text
+        result_str = str(result) if result else ""
+
+        def _extract_count(label: str) -> int:
+            """Extract a count from the result text like 'Emails: 35 new'."""
+            import re
+            pattern = rf"\*\*{label}:\*\*\s*(\d+)"
+            match = re.search(pattern, result_str)
+            return int(match.group(1)) if match else 0
+
         run_summary = {
             "status": "success",
-            "emails_found": 0,  # TODO: Extract from result
-            "messages_found": 0,  # TODO: Extract from result
-            "files_updated": 0,  # TODO: Extract from result
-            "result_preview": str(result)[:500] if result else "",
+            "emails_found": _extract_count("Emails"),
+            "messages_found": _extract_count("Teams Chats"),
+            "files_updated": _extract_count("People Profiles") + _extract_count("Project Profiles") + _extract_count("Client Profiles"),
+            "result_preview": result_str[:500],
         }
         memory.record_run(run_summary)
 

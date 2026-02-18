@@ -23,15 +23,14 @@ git config --global user.email "monitor@personal-agent"
 git config --global user.name "Personal Agent Monitor"
 git config --global --add safe.directory /app
 
-# Set up cron job (cron.d format requires username after time spec)
-echo "*/15 * * * * root /usr/local/bin/run-monitor.sh >> /app/logs/cron.log 2>&1" > /etc/cron.d/monitor-cron
+# Set up cron job from docker/crontab (cron.d format requires username after time spec)
+cp /app/docker/crontab /etc/cron.d/monitor-cron
 chmod 0644 /etc/cron.d/monitor-cron
 # Don't use 'crontab' - that expects user crontab format (no username field)
 # Just let cron daemon pick up the file from /etc/cron.d/
 
 # Start cron in foreground
-echo "Starting CrewAI autonomous monitor (15-min intervals)..."
-echo "Next run will be at the next 15-minute mark."
+echo "Starting CrewAI autonomous monitor (daily schedule from docker/crontab)..."
 echo "To run immediately: docker exec personal-agent-monitor /usr/local/bin/run-monitor.sh"
 
 cron -f
