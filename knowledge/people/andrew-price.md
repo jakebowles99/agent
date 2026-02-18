@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-18 23:08:** Discussed Fabric setup access issues (Power BI admin, password/2FA) and noted Azure VM update impact; mentioned AVD work.
 - **2026-02-18 22:51:** Discussed Fabric setup issues (Power BI access, account password/2FA) and arranged meeting times with Capital Hair & Beauty contacts.
 - **2026-02-18 22:42:** Discussed Fabric set up: access issues (Power BI/My Account), Azure subscription admin access, MFA/conditional access constraints.
 - **2026-02-18 22:20:** Discussed Fabric setup issues (Power BI access, admin account, MFA/password/2FA) and Azure subscription provisioning; participated in IT/Security chat.

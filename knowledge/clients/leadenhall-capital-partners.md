@@ -14,3 +14,12 @@ Overview to be captured.
 
 ---
 *Last Updated: 2026-02-18*
+- **2026-02-18 23:10:** 2026-02-18: Adobe Sign email received confirming completion of SOW005 (Fabric FX Rates Integration).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

@@ -68,6 +68,15 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 - **2026-02-18 22:23:** Boomi & Slipstream (K&S) email thread: alignment on approach; question re pushing back into ERP; Private Endpoints preferred for security/governance.
 - **2026-02-18 22:52:** 2026-02-18: Boomi & Slipstream email thread: confirmed approach; discussed pushing back into ERP; Private Endpoints preferred for security/governance.
 - **2026-02-18 22:52:** 2026-02-18: Sent sample middleware responses to Jeff (Midwich US) for Foundry Analyser PO response format review.
+- **2026-02-18 23:10:** 2026-02-18: Emails with Jon Allen and Jose Pacheco on Slipstream/Midwich US integration approach; Private Endpoints preferred for security/governance.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

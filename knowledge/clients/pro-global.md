@@ -34,3 +34,11 @@ Pro Global is an insurance services company providing solutions across risk capt
 
 ---
 *Last Updated: February 2026*
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
