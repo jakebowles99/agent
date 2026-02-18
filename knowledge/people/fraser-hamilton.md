@@ -9,6 +9,7 @@
 - Teams DM available
 
 ## Recent interactions
+- **2026-02-18 21:50:** Discussed AVD/VM count; shared Azure update link noting 14 VMs before Oct 2028 and mentioned some are AVD on B-series.
 - **2026-02-11 19:23:** Mentioned as Intune admin contact and as UK resource availability/capacity topic.
 - **2026-02-11 19:04:** Mentioned as being off/away; potential Intune admin contact for VS Code GitHub extension update.
 - **2026-02-11 18:48:** Mentioned as possible Intune admin to help with VS Code GitHub extension update; noted as off.
@@ -48,4 +49,4 @@
 - Investigating marketplace costs for NAT gateway VM
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-18*

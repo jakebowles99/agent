@@ -1,3 +1,43 @@
+## 2026-02-18 21:47
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 4 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 4 processed (1 created, 3 updated)
+- **Calendar:** 8 events on calendar (current/next: none)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] IT / Security: confirm why there are 14 Azure VMs before Oct 2028 (Azure update link shared; AVD on B series mentioned).
+
+### Files Updated
+- knowledge/teams/2026-02-18/it-security.md
+
+---
+
+## 2026-02-11 21:45
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 11 messages across 2 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 4 processed (0 created, 4 updated)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Midwich Squad: Hemanth to note location mentioned by Yaz (in location above).
+- [ ] IT / Security: confirm details for recent GPT 5.2 token usage spike and doc extraction share (Timon to grab details; Jake discussing Foundry subscription move/ACR credit).
+
+### Files Updated
+- knowledge/teams/2026-02-11/it-security.md
+- knowledge/teams/2026-02-11/midwich-squad.md
+
+---
+
 ## 2026-02-11 21:30
 
 ### Changes This Window
@@ -6,11 +46,11 @@
 - **Teams Channels:** 0 messages in 0 channels
 - **Transcripts:** 0 new
 - **People Profiles:** 7 processed (0 created, 7 updated)
-- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00–19:00 UTC)
+- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:0019:00 UTC)
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Apply new sponsorship to Microsoft Azure Sponsorship (5000 USD) ISV Success (credit nearly depleted; will run out in 1–2 days).
+- [ ] Apply new sponsorship to Microsoft Azure Sponsorship (5000 USD) ISV Success (credit nearly depleted; will run out in 12 days).
 - [ ] Follow up next week with Claire & Rachel on process-map homework and scope for this release vs later.
 
 ### Files Updated

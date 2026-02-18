@@ -3,6 +3,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-11 21:48:** Discussed GPT token usage and that a large chunk of work is document extraction; gathering details.
 - **2026-02-11 21:34:** Flagged low remaining Azure Sponsorship credit and need to apply new Microsoft Azure Sponsorship (ISV Success, $5000).
 - **2026-02-11 17:22:** Asked team to add progress/deployment comments to tickets to track environments.
 - **2026-02-11 16:05:** Raised ISSUE 192 in SO APP about 'assigned to' field not showing prior records in STX; asked whether fix (adding user to internal table) was manual or in source control to ensure deployment won't revert.

@@ -83,3 +83,36 @@
 > We need to apply a new sponsorship to Microsoft Azure Sponsorship (5000 USD) ISV Success.
 >
 > Very little credit left and will run out in a day or two
+
+# Teams Chat — IT / Security
+
+## 21:44 - Jake Bowles
+> Well the good news is that we can very easily move foundry to a new subscription
+
+## 21:44 - Jake Bowles
+> Missed opportunity, we should be getting credit for this against our ACR targets
+
+## 21:43 - Timon Wan
+> but still a big chunk is doc extraction
+
+## 21:43 - Jake Bowles
+> That might be me 👀
+
+## 21:43 - Timon Wan
+> GPT 5.2 tokens not related to doc extract i believe
+
+## 21:42 - Jake Bowles
+> That's impressive 😆
+
+## 21:42 - Jake Bowles
+> oof
+
+## 21:42 - Timon Wan
+> Last 3 days
+
+## 21:40 - Timon Wan
+> Let me grab the details
+
+## 21:40 - Jake Bowles
+> (not aimed at you btw but I have said about 10 times to *someone* )
+
