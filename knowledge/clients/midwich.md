@@ -55,3 +55,15 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 
 ---
 *Last Updated: February 8, 2026*
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-18 22:23:** Boomi & Slipstream (K&S) email thread: alignment on approach; question re pushing back into ERP; Private Endpoints preferred for security/governance.
+

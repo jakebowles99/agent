@@ -1,3 +1,31 @@
+## 2026-02-18 22:07
+
+### Changes Today
+- **Emails:** 38 new (Save 25% off Gymshark sitewide; RE: Fabric Set Up Project Kick Off; Completed: "Leadenhall Capital Partners_SOW005_Fabric FX Rates Integration (Graph API)_26 January 2026"; You have been added to a team in Microsoft Teams; Sample Middleware Responses; Stephanie mentioned Fabric Partner Community; Re: Boomi & Slipstream - K&S; Meeting follow up; Synapx Internal Projects - Weekly Governance Meeting; Canceled: Synapx Internal Projects - Weekly Governance Meeting; Out-of-hours toilet & shower room lock checks - 19th & 20th February | beyond Aldgate Tower; Re: [FAILURE] Data Load Failed for ... NAV_1246_2026-02-17.xlsx; Interview Scheduled – Junior Software Engineer | Manoj Jonnakuti; Re: Custom Import Template and Auth; API Requirements; HR Update; Microsoft AI Business Transformation Series: 3 webinars for EMEA leaders; Re: Midwich US and Slipstream; Re: WFH Request – Health Reason; Login from a new IP address detected for QuickBooks UK; Re: January - February Missing Receipts; Re: Doc Extraction Webpage Requirements; AI projects that work start with the power of your data; Unlock what’s possible with Azure and AI; You have 3 messages, 2 mentions; Akshansh, Nandan, +3 sent 5 messages to your chat)
+- **Teams Chats:** 8 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 0
+- **Client Profiles:** 8 processed (6 created, 2 updated)
+- **Calendar:** 8 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Capital Hair & Beauty / Fabric setup: confirm meeting time (requested 11:00–12:00 tomorrow) and ensure admin access/MFA/password+2FA issues resolved.
+- [ ] IT / Security: confirm why there are 14 Azure VMs before Oct 2028 (Azure update link shared; AVD on B series mentioned).
+- [ ] Sophia Fricker / Charlotte: confirm/share completed items referenced ("I’ve done them, Charlotte has them").
+- [ ] Finance: provide 2 remaining missing receipts requested by Nishanth Ballal.
+- [ ] Doc Extraction webpage: change product name from “NoRead AI” to “Xtract” (per Ankita).
+
+### Files Updated
+- knowledge/emails/2026-02-18.md
+- knowledge/teams/2026-02-18/it-security.md
+- knowledge/teams/2026-02-18/bhoomi-dasa.md
+- knowledge/teams/2026-02-18/sophia-fricker.md
+- knowledge/clients/ (6 created, 2 updated)
+
+---
+
 ## 2026-02-18 22:00
 
 ### Changes This Window

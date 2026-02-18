@@ -46,3 +46,15 @@ UK's largest independent supplier to hairdressers, beauty therapists and nail te
 
 ---
 *Last Updated: February 7, 2026*
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-18 22:24:** Emails arranging Fabric set-up kick-off (requested 11:00–12:00 tomorrow) and discussing access issues (admin account, password change/2FA, Azure subscription admin access).
+
