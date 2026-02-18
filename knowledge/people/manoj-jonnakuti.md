@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-18 22:22:** Candidate scheduled for interview for Junior Software Engineer role at Synapx.
 - **2026-02-18 21:50:** Interview scheduled for Junior Software Engineer role.
 
 ---

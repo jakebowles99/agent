@@ -2,6 +2,11 @@
   "short_term": {
     "last_runs": [
       {
+        "status": "error",
+        "error": "(RateLimitReached) Your requests to gpt-5.2 for gpt-5.2 in Sweden Central have exceeded the token rate limit for your current AIServices S0 pricing tier. This request was for ChatCompletions_Create under Azure OpenAI API version 2024-12-01-preview. Please retry after 21 seconds. To increase your default rate limit, visit: https://aka.ms/oai/quotaincrease.\nCode: RateLimitReached\nMessage: Your requests to gpt-5.2 for gpt-5.2 in Sweden Central have exceeded the token rate limit for your current AIServices S0 pricing tier. This request was for ChatCompletions_Create under Azure OpenAI API version 2024-12-01-preview. Please retry after 21 seconds. To increase your default rate limit, visit: https://aka.ms/oai/quotaincrease.",
+        "timestamp": "2026-02-18T22:23:33.834987+00:00"
+      },
+      {
         "status": "success",
         "emails_found": 0,
         "messages_found": 0,
@@ -72,14 +77,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-11 20:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 12 messages across 4 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 9 processed (0 created, 9 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Add Nandan to the relevant Teams channels (per Synapx UK Directors chat).\n- [ ] Joe Thompson: sch",
         "timestamp": "2026-02-11T20:06:33.055847+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 19:45\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 11 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 8 processed (0 created, 8 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Add Nandan to the relevant Teams channels (per Synapx UK Directors chat).\n- [ ] Ensure Gagan invo",
-        "timestamp": "2026-02-11T19:49:33.959246+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +84,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 161,
+      "total_runs": 162,
       "emails_processed": 0,
       "messages_processed": 0,
       "files_updated": 0
@@ -100,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-18T22:02:38.038416+00:00",
+    "last_updated": "2026-02-18T22:23:33.834997+00:00",
     "version": "1.0"
   }
 }

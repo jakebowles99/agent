@@ -9,7 +9,8 @@
 - **Email**: Duncan@lemonedge.com
 
 ## Recent interactions
+- **2026-02-18 22:22:** Requested and scheduled meeting to discuss Custom Import Template/Auth and API requirements Q&A.
 - **2026-02-11 12:38:** Requested Synapx be shared the FX CIT; involved in coordinating custom import template/auth details.
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-18*

@@ -7,6 +7,7 @@
 - Contacted via Teams DM about scheduling.
 
 ## Recent interactions
+- **2026-02-18 22:21:** Sent meeting follow-up outlining workstreams and next steps (Vinum use cases etc.).
 - **2026-02-11 21:02:** Asked what work had been done for WA Comms; noted having met Bryce and about to meet the CEO.
 - **2026-02-11 09:19:** Advised careful management due to behind-the-scenes activity.
 - **2026-02-11 08:58:** Advised careful management of an item with ongoing behind-the-scenes work; coordinated meeting time with Charlie.
@@ -16,4 +17,4 @@
 - **2026-02-09 21:13 UTC (Teams DM):** Unavailable tomorrow (at a conference); suggested Wednesday instead.
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-18*
