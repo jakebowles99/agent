@@ -28,3 +28,17 @@ How do we have 14
 
 ## 20:28 - Fraser Hamilton
 > FYI, seems we have 14 VMs before October 2028: https://azure.microsoft.com/en-gb/updates/?id=500682
+
+# Teams Chat — IT / Security
+
+## 20:48 - Andrew Price
+> Not more AVD work 🙈
+
+## 20:29 - Fraser Hamilton
+> AVD is some of them, on B series
+
+## 20:28 - Andrew Price
+> How do we have 14
+
+## 20:28 - Fraser Hamilton
+> FYI, seems we have 14 VMs before October 2028: https://azure.microsoft.com/en-gb/updates/?id=500682

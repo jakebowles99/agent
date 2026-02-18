@@ -1,3 +1,38 @@
+## 2026-02-18 22:45
+
+### Changes Today
+- **Emails:** 42 new
+- **Teams Chats:** 4 messages across 1 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 0
+- **Client Profiles:** 6 updated (1 created, 5 updated)
+- **Calendar:** 8 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Capital Hair & Beauty / Fabric setup: confirm meeting time (requested 11:00–12:00 tomorrow) and ensure admin access/MFA/password+2FA issues resolved.
+- [ ] LCP Doc Extraction: Ajay to provide test account/instructions; share/troubleshoot manifest; improve dashboard layout; deploy plugin for demo; Navsheen to schedule demo/onboarding and share docs; Vijay to prioritize extraction testing; Charlie to provide manifest customization feedback.
+- [ ] Product / AI readiness score: Rahul needs access to Foundry endpoints and LLM API keys.
+- [ ] Recruiting: provide JD for Delivery-team junior role; schedule 2nd round (Bhoomi asked who to schedule with).
+- [ ] Finance: provide 2 remaining missing receipts requested by Nishanth Ballal.
+- [ ] Doc Extraction webpage: change product name from “NoRead AI” to “Xtract” (per Ankita Kajal).
+- [ ] IT / Security: confirm why there are 14 Azure VMs before Oct 2028 (Azure update link shared; AVD on B series mentioned).
+- [ ] Sophia Fricker / Charlotte: confirm/share completed items referenced (“I’ve done them, Charlotte has them”).
+
+### Files Updated
+- knowledge/emails/2026-02-18.md
+- knowledge/teams/2026-02-18/it-security.md
+- knowledge/meetings/2026-02-18-midwich-squad-daily-standup.md
+- knowledge/meetings/2026-02-18-standup-lcp-doc-extraction.md
+- knowledge/meetings/2026-02-18-cancelled-brd-weekly-standup.md
+- knowledge/meetings/2026-02-18-product-catchup.md
+- knowledge/meetings/2026-02-18-canceled-synapx-internal-projects-weekly-governance-meeting.md
+- knowledge/meetings/2026-02-18-api-requirements.md
+- knowledge/meetings/2026-02-18-interview-scheduled-junior-software-engineer-manoj-jonnakuti-synapx-manoj-jonnakuti.md
+
+---
+
 ## 2026-02-18 22:30
 
 ### Changes Today
