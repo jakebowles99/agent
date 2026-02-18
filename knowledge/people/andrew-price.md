@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-18 22:01:** Discussed Azure Virtual Desktop/AVD and VM count/lifecycle (14 VMs before Oct 2028).
 - **2026-02-18 21:50:** Discussed AVD/VM count; noted not wanting more AVD work and questioned how there are 14 VMs.
 - **2026-02-11 21:02:** Replied prior work was Power BI; mentioned knowing Bryce (COO); discussed prospects with WA Comms.
 - **2026-02-11 20:05:** One-to-one Teams chat; brief exchange about raffling something off.

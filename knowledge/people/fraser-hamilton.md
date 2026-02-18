@@ -9,6 +9,7 @@
 - Teams DM available
 
 ## Recent interactions
+- **2026-02-18 22:01:** Shared info on AVD VMs (B-series) and noted 14 VMs before Oct 2028 with Azure update link.
 - **2026-02-18 21:50:** Discussed AVD/VM count; shared Azure update link noting 14 VMs before Oct 2028 and mentioned some are AVD on B-series.
 - **2026-02-11 19:23:** Mentioned as Intune admin contact and as UK resource availability/capacity topic.
 - **2026-02-11 19:04:** Mentioned as being off/away; potential Intune admin contact for VS Code GitHub extension update.

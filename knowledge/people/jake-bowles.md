@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-18 22:01:** Chatted about 'Charlie' and acknowledged update in Sophia Fricker chat.
 - **2026-02-11 21:48:** Discussed moving Foundry to a new subscription, ACR target credit, and doc extraction/token usage.
 - **2026-02-11 21:19:** Explained Joe wants to integrate bids app work with Foundry/analyzer; noted Umar created it; offered availability Friday due to workshop.
 - **2026-02-11 21:02:** Asked Charlie and Phipps-Bennett for advice integrating bids app with Foundry; requested slide 13 update.
@@ -131,4 +132,4 @@
 - **2026-02-09 20:24 UTC:** Teams chat message (banter) in scheduling thread re: call with Andrew Catt (Vinco Wines).
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-18*

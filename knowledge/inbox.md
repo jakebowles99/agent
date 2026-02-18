@@ -1,3 +1,25 @@
+## 2026-02-18 22:00
+
+### Changes This Window
+- **Emails:** 0 new
+- **Teams Chats:** 8 messages across 3 conversations
+- **Teams Channels:** 0 messages in 0 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 7 processed (0 created, 7 updated)
+- **Calendar:** 8 events on calendar (current/next: none)
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] IT / Security: confirm why there are 14 Azure VMs before Oct 2028 (Azure update link shared; AVD on B series mentioned).
+- [ ] Sophia Fricker / Charlotte: confirm/share completed items mentioned as Ive done them, Charlotte has them.
+
+### Files Updated
+- knowledge/teams/2026-02-18/it-security.md
+- knowledge/teams/2026-02-18/bhoomi-dasa.md
+- knowledge/teams/2026-02-18/sophia-fricker.md
+
+---
+
 ## 2026-02-18 21:47
 
 ### Changes This Window

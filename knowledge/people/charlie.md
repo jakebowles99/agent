@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-18 22:01:** Mentioned in chat ('Still Charlie'); also appears in calendar as 'Charlie Birthday Leave'.
 - **2026-02-18 21:50:** Calendar shows Charlie on birthday leave (all-day event).
 - **2026-02-11 14:51:** Mentioned as being on board to support from his team's perspective.
 - **2026-02-10 09:18:** Stated that the work/SOW item was to be provided FOC.
