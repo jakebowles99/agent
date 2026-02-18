@@ -31,6 +31,7 @@
 - Prefers to establish good foundations early rather than retrofit later
 
 ## Recent interactions
+- **2026-02-18 22:42:** Offered escalation help if Fabric access issues persist; asked to be copied in.
 - **2026-02-18 22:22:** Advised to contact directly if access issues persist for Fabric setup; asked to be CC'd.
 
 ---

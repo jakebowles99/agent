@@ -9,6 +9,7 @@
 - **Email**: bhoomi.dasa@synapx.com
 
 ## Recent interactions
+- **2026-02-18 22:42:** Scheduled junior software engineer interview for candidate Manoj Jonnakuti.
 - **2026-02-18 22:22:** Scheduled Junior Software Engineer interview with Manoj Jonnakuti; Teams chat with Jake.
 - **2026-02-18 22:01:** Person is the counterpart for a Teams chat; messages in thread referenced Charlie.
 - **2026-02-11 14:44:** Provided update on offer negotiation with Rahul and proposed trying to convince him to accept ~31–31.5.

@@ -9,6 +9,8 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-18 22:42:** Sent HR update about Tejashwini Das leaving Synapx; last day 20 Feb.
+- **2026-02-18 22:42:** Adobe Acrobat Sign notification about completed agreement 'Leadenhall Capital Partners_SOW005_Fabric FX Rates Integration (Graph API)_26 January 2026'.
 - **2026-02-18 22:20:** Sent HR update about Tejashwini Das leaving Synapx; also appears as Adobe Acrobat Sign sender name.
 - **2026-02-11 20:34:** Received Teams notification from Akshansh; sent meeting invites (Directors Meeting, Office Pizzas + Drinks + Games); accepted Jensten SOW walkthrough.
 - **2026-02-11 20:05:** Discussed commercial communications, involving Sales, and not contacting Lacey; noted Charlotte agreed; participated in directors chat.

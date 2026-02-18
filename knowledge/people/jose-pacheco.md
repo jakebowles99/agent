@@ -1,0 +1,15 @@
+# Jose Pacheco
+
+## Basic Info
+- **Role**: Unknown
+- **Company**: Midwich
+- **Type**: External - Contact
+
+## Contact
+- **Email**: jose.pacheco@midwich.com
+
+## Recent interactions
+- **2026-02-18 22:42:** Advised on Midwich US + Slipstream integration: Private Endpoints preferred for security/governance.
+
+---
+*Last Updated: 2026-02-18*

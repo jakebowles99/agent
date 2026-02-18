@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-18 22:42:** Discussed Fabric set up: access issues (Power BI/My Account), Azure subscription admin access, MFA/conditional access constraints.
 - **2026-02-18 22:20:** Discussed Fabric setup issues (Power BI access, admin account, MFA/password/2FA) and Azure subscription provisioning; participated in IT/Security chat.
 - **2026-02-18 22:01:** Discussed Azure Virtual Desktop/AVD and VM count/lifecycle (14 VMs before Oct 2028).
 - **2026-02-18 21:50:** Discussed AVD/VM count; noted not wanting more AVD work and questioned how there are 14 VMs.
