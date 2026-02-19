@@ -11,6 +11,9 @@ Byworth Fabric discovery work for Venture.
 
 ## Timeline / Log
 ### 2026-02-19
+- Discussed Venture/BES placeholder Fabric discussion; Venture drafting first SOW for Microsoft funding with expected ~2 week turnaround once scoped; kickoff pencilled for Wed 25th (TBC).
+
+### 2026-02-19
 - Venture tech discussion placeholder meeting held/accepted in calendar (no transcript/insights available).
 
 ### 2026-02-19

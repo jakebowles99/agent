@@ -11,6 +11,9 @@ Discovery work for underwriting Power BI reporting for Jensten.
 
 ## Timeline / Log
 ### 2026-02-19
+- Shared a quick sample Power BI deliverable (discount impact dashboard) in Teams to illustrate potential outputs for the SOW.
+
+### 2026-02-19
 - No direct activity captured today; referenced indirectly in a Teams chat example about a discount-impact dashboard deliverable (used as illustration, noted 'not super relevant to Jensten').
 
 ### 2026-02-19

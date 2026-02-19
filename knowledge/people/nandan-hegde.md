@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-19 21:09:** Coordinated meeting with Duncan Kirby (LemonEdge) on custom import/auth and discussed triggering schedules; also referenced in SharePoint meeting recording expiry notices.
 - **2026-02-19 20:08:** Coordinated meeting with Duncan; reported Fabric/Power BI outage; involved in delivery leadership and forecast discussions.
 - **2026-02-19 18:08:** Coordinated LemonEdge meeting; participated in Delivery Leadership Call and Midwich Squad discussions.
 - **2026-02-19 17:09:** Emailed LemonEdge and others re API requirements and scheduling; posted Fabric/Power BI outage and bootcamp info; attendee in Delivery Leadership Call and mentioned in forecast meeting.
