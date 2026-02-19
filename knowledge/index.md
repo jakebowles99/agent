@@ -6,58 +6,51 @@
 
 | Project | Client | Status |
 |---|---|---|
-| [Capital Hair & Beauty  Fabric/Power BI Implementation (SOW002)](projects/capital-hb-fabric.md) | [Capital Hair & Beauty](clients/capital-hb.md) | Active (implementation; access/MFA + Azure subscription admin access in progress) |
-| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [LCP](clients/lcp.md) | Active (plugin/manifest + deployment + demo scheduling) |
-| [Leadenhall LemonEdge  API Requirements](projects/leadenhall-lemonedge-api-requirements.md) | [LemonEdge](clients/lemonedge.md) | Active (requirements/discovery) |
-| [Jensten Group  Projects Overview](projects/jensten-overview.md) | [Jensten Group](clients/jensten.md) | Active (multiple SOWs; admin tasks pending) |
-| [Midwich  App Development & Roll-out (SOW008)](projects/midwich-app-development-sow008.md) | [Midwich Group](clients/midwich.md) | Active (UAT/Prod pointing + DB env var checks) |
+| [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital Hair & Beauty](clients/capital-hb.md) | Active |
+| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active |
+| [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
+| [Jensten Group - Projects Overview](projects/jensten-overview.md) | [Jensten](clients/jensten.md) | Active |
 
 ## Clients
 
 | Client | Key Contact | Active Project |
 |---|---|---|
-| [Capital Hair & Beauty](clients/capital-hb.md) | Cristian Ettridge | Capital HB Fabric/Power BI Implementation |
-| [Jensten Group](clients/jensten.md) | Dave (SOW approvals) / Luke (IT) | Jensten Projects Overview |
-| [LCP](clients/lcp.md) | Chris Learmonth | LCP Document Extraction & Fabric |
-| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Chris Learmonth (via LCP profile) | LCP Doc Extraction / Fabric FX Rates SOW005 |
-| [LemonEdge](clients/lemonedge.md) | Duncan Kirby | API Requirements |
-| [Midwich Group](clients/midwich.md) | Joe Thompson | Midwich App Dev & Slipstream |
+| [Capital Hair & Beauty](clients/capital-hb.md) | [Cristian Ettridge](people/cristian-ettridge.md) | [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) |
+| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | (see profile) | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
+| [Midwich](clients/midwich.md) | (see profile) | [Midwich Squad](projects/midwich-squad.md) |
+| [Jensten](clients/jensten.md) | (see profile) | [Jensten Group - Projects Overview](projects/jensten-overview.md) |
 
 ## Key People
 
-### Internal (core)
+### Internal
 - [Jake Bowles](people/jake-bowles.md)
 - [Andrew Price](people/andrew-price.md)
 - [Charlie Phipps-Bennett](people/charlie-phipps-bennett.md)
 - [Nandan Hegde](people/nandan-hegde.md)
-- [Matt Davies](people/matt-davies.md)
+- [Akshansh Sharma](people/akshansh-sharma.md)
 - [Kim Totten](people/kim-totten.md)
 - [Sophia Fricker](people/sophia-fricker.md)
-- [Akshansh Sharma](people/akshansh-sharma.md)
+- [Matt Davies](people/matt-davies.md)
 
-### External (key contacts)
+### External (key)
 - [Cristian Ettridge](people/cristian-ettridge.md) (Capital Hair & Beauty)
 - [Philip Dobson](people/philip-dobson.md) (Capital Hair & Beauty)
-- [Duncan Kirby](people/duncan-kirby.md) (LemonEdge)
-- [Joe Thompson](people/joe-thompson.md) (Midwich)
-- [Jon Allen](people/jon-allen.md) (Midwich/Nimans)
+- [Jon Allen](people/jon-allen.md) (Midwich)
 - [Jose Pacheco](people/jose-pacheco.md) (Midwich)
+- [Duncan Kirby](people/duncan-kirby.md) (LemonEdge)
 
-## Recent Meetings (last 7)
+## Recent Meetings (last 7 files)
 
-| Date | Meeting | File |
-|---|---|---|
-| 2026-02-19 | Delivery Leadership Call | meetings/2026-02-19-delivery-leadership-call.md |
-| 2026-02-19 | Standup - LCP Doc Extraction | meetings/2026-02-19-standup-lcp-doc-extraction.md |
-| 2026-02-19 | Product Catchup | meetings/2026-02-19-product-catchup.md |
-| 2026-02-19 | Midwich Squad - daily standup | meetings/2026-02-19-midwich-squad-daily-standup.md |
-| 2026-02-19 | Jake/Nandan - Forecast updates | meetings/2026-02-19-jake-nandan-forecast-updates.md |
-| 2026-02-19 | FW: Placeholder for Venture Tech Discussion | meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md |
-| 2026-02-19 | Partner Voice Webcast: Microsoft Fabric Data Agent: Upcoming Private Preview Features | meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md |
+1. [Standup - LCP Doc Extraction (2026-02-19)](meetings/2026-02-19-standup-lcp-doc-extraction.md)
+2. [Product Catchup (2026-02-19)](meetings/2026-02-19-product-catchup.md)
+3. [Delivery Leadership Call (2026-02-19)](meetings/2026-02-19-delivery-leadership-call.md)
+4. [Partner Voice Webcast: Microsoft Fabric Data Agent... (2026-02-19)](meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md)
+5. [Midwich Squad - daily standup (2026-02-19)](meetings/2026-02-19-midwich-squad-daily-standup.md)
+6. [FW: Placeholder for Venture Tech Discussion (2026-02-19)](meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md)
+7. [Jake/Nandan - Forecast updates (2026-02-19)](meetings/2026-02-19-jake-nandan-forecast-updates.md)
 
-## Upcoming Deadlines / Key Dates
-- **2026-02-19 (COB):** Submit timesheets (Harvest) with notes.
-- **2026-02-20:** Tejashwini Das last day (per HR update email).
-- **TBC (Tomorrow from email thread):** Capital Hair & Beauty Fabric set up kick-off (requested 11:0012:00).
-- **Monday (next week, after 18:00 IST):** LCP Doc Extraction demo/onboarding (dependent on plugin deployment Monday evening IST).
+## Upcoming Deadlines / Reminders
+- **2026-02-19 COB:** Submit timesheets; ensure Harvest entries include notes.
+- **Capital Hair & Beauty:** Meeting requested for **2026-02-20 11:00–12:00** (confirm).
+- **LCP Doc Extraction:** Deploy plugin to client tenant by **Monday evening IST**; schedule demo after 18:00 IST.
 

@@ -11,4 +11,7 @@ Byworth Fabric discovery work for Venture.
 
 ## Timeline / Log
 ### 2026-02-19
+- Mentioned as active; internal placeholder meeting/email subject indicates ongoing Fabric discussion preparation.
+
+### 2026-02-19
 - Calendar included a placeholder Venture tech discussion today (no transcript/notes available).

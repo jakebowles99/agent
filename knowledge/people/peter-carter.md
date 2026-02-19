@@ -1,0 +1,15 @@
+# Peter Carter
+
+## Basic Info
+- **Role**: Unknown
+- **Company**: capitalhb.co.uk
+- **Type**: External - Contact
+
+## Contact
+- **Email**: pcarter@capitalhb.co.uk
+
+## Recent interactions
+- **2026-02-19 18:08:** Requested meeting to clarify Fabric setup project requirements/access.
+
+---
+*Last Updated: 2026-02-19*
