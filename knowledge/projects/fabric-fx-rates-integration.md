@@ -8,6 +8,9 @@ Integration to bring FX rates into Fabric (Graph API) for Leadenhall Capital Par
 
 ## Timeline / Log
 ### 2026-02-19
+- Adobe Sign confirmation received that SOW005 Fabric FX Rates Integration (Graph API) agreement is fully signed/completed.
+
+### 2026-02-19
 - Adobe Sign confirmation received for SOW005 'Fabric FX Rates Integration (Graph API)' agreement completion.
 
 ### 2026-02-19

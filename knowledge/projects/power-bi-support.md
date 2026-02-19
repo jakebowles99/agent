@@ -8,6 +8,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 
 ## Timeline / Log
 ### 2026-02-19
+- Email thread indicates FROP-001A data load failure due to Office Script timeout was re-triggered and Chelverton data became visible again; ongoing operational support.
+
+### 2026-02-19
 - Resolved and retriggered failed data load/Office Script flow; client confirmed Chelverton data visible and SharePoint mapping list updates shared.
 
 ### 2026-02-19

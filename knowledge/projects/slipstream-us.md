@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-19
+- Email and chat activity on Midwich US/Slipstream and Boomi integration approach; aligned on security/governance preference for Private Endpoints and discussed master/canonical formats.
+
+### 2026-02-19
 - Email thread with Midwich (Jose Pacheco) aligned on using Private Endpoints for integration; ongoing discussion with Jon Allen about pushing data back into ERP via Service Bus/Boomi.
 
 ### 2026-02-19

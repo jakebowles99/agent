@@ -11,6 +11,9 @@ Byworth Fabric discovery work for Venture.
 
 ## Timeline / Log
 ### 2026-02-19
+- Teams chat with Venture indicated Microsoft funding likely pending scope finalisation; first SOW being drafted with aim to agree next week; CMF kickoff pencilled for Wed 25th (TBC) with request for Synapx attendance.
+
+### 2026-02-19
 - Discussed Venture/BES placeholder Fabric discussion; Venture drafting first SOW for Microsoft funding with expected ~2 week turnaround once scoped; kickoff pencilled for Wed 25th (TBC).
 
 ### 2026-02-19
