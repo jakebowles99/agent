@@ -47,3 +47,5 @@
 ## 10:11 - [Charlotte Price] > Request for 10-15 mins help with Excel tricks/shortcuts.
 ## 14:01 - [Charlie Phipps-Bennett] > Recognise Ajay Gannamaneni efforts; link to community post.
 ## 17:06 - [Charlie Phipps-Bennett] > (Attachment) Mentions: Akshansh Sharma.
+
+## 20:18 - [Fraser Hamilton] > Our NordVPN subscription ends Sunday 22 Feb and will be replaced with Azure VPN Client. Nord dedicated IP 212.237.225.22 will be lost; new Azure external IP range 51.142.25.0/30. Please reply/message with any clients where NordVPN is used so firewall/access policies can be updated.
