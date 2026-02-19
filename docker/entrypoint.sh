@@ -30,7 +30,7 @@ chmod 0644 /etc/cron.d/monitor-cron
 # Just let cron daemon pick up the file from /etc/cron.d/
 
 # Start cron in foreground
-echo "Starting CrewAI autonomous monitor (daily schedule from docker/crontab)..."
+echo "Starting CrewAI autonomous monitor (hourly schedule from docker/crontab)..."
 echo "To run immediately: docker exec personal-agent-monitor /usr/local/bin/run-monitor.sh"
 
 cron -f

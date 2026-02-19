@@ -69,3 +69,19 @@ Per Matt Davies:
 ## Relevant Projects
 - None yet.
 
+
+## Company Overview
+Jensten Group is an insurance group with multiple workstreams including Fabric discovery and underwriting Power BI discovery.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-19 17:12:** Shared example discount-impact dashboard screenshot in Teams chat (for a SOW deliverable example; noted not directly Jensten-specific).
+

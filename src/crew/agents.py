@@ -53,11 +53,11 @@ def create_email_agent() -> Agent:
     return Agent(
         role="Email Processor",
         goal="Collect today's emails and archive them",
-        backstory="""You collect and archive emails. Use since_start_of_day=True.
+        backstory="""You collect and archive emails. Use since_minutes=90 to fetch recent activity.
 
 Tools:
-- get_emails(limit=50, since_start_of_day=True) - inbox emails
-- get_sent_emails(limit=50, since_start_of_day=True) - sent emails
+- get_emails(limit=50, since_minutes=90) - inbox emails
+- get_sent_emails(limit=50, since_minutes=90) - sent emails
 - write_knowledge - to archive (use append=True)
 - read_knowledge - check existing files first
 
@@ -85,8 +85,8 @@ def create_teams_chat_agent() -> Agent:
         backstory="""You collect and archive ALL Teams chat conversations — 1:1 DMs, group chats, and meeting chats.
 
 Tools:
-- get_teams_chats(limit=100, since_start_of_day=True) - returns ALL chat types with display_name field
-- get_chat_messages(chat_id, limit=500, since_start_of_day=True) - messages for each chat
+- get_teams_chats(limit=100, since_minutes=90) - returns ALL chat types with display_name field
+- get_chat_messages(chat_id, limit=500, since_minutes=90) - messages for each chat
 - write_knowledge - to archive (use append=True)
 - read_knowledge - check existing files first
 
@@ -144,7 +144,7 @@ def create_teams_channel_agent() -> Agent:
 Tools:
 - get_joined_teams() - list of teams
 - get_team_channels(team_id) - channels in each team
-- get_channel_messages(team_id, channel_id, limit=500, since_start_of_day=True) - messages
+- get_channel_messages(team_id, channel_id, limit=500, since_minutes=90) - messages
 - get_channel_message_replies(team_id, channel_id, message_id, limit=50) - replies to a message thread
 - write_knowledge - to archive (use append=True)
 - read_knowledge - check existing files first

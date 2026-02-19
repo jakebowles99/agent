@@ -19,10 +19,10 @@ def create_specialized_tasks(email_agent, chat_agent, channel_agent, context_age
 
     # Task 1: Process emails
     email_task = Task(
-        description=f"""Process emails from today. Time: {timestamp} UTC
+        description=f"""Process recent emails. Time: {timestamp} UTC
 
-1. Call get_emails(limit=50, since_start_of_day=True) for inbox
-2. Call get_sent_emails(limit=50, since_start_of_day=True) for sent
+1. Call get_emails(limit=50, since_minutes=90) for inbox
+2. Call get_sent_emails(limit=50, since_minutes=90) for sent
 3. Read knowledge/emails/{date_str}.md first to see what's already archived
 4. Only archive NEW emails not already in the file (match by subject + sender + time)
 5. Append new emails to knowledge/emails/{date_str}.md using append=True
@@ -35,10 +35,10 @@ If no NEW emails, report "0 new emails" and skip archiving.""",
 
     # Task 2: Process ALL Teams chats (1:1, group, and meeting chats)
     chat_task = Task(
-        description=f"""Process ALL Teams chats from today — 1:1 DMs, group chats, AND meeting chats. Time: {timestamp} UTC
+        description=f"""Process ALL recent Teams chats — 1:1 DMs, group chats, AND meeting chats. Time: {timestamp} UTC
 
-1. Call get_teams_chats(limit=100, since_start_of_day=True) — this returns ALL chat types
-2. For EVERY chat returned (regardless of chat_type), call get_chat_messages(chat_id, limit=500, since_start_of_day=True)
+1. Call get_teams_chats(limit=100, since_minutes=90) — this returns ALL chat types
+2. For EVERY chat returned (regardless of chat_type), call get_chat_messages(chat_id, limit=500, since_minutes=90)
 3. For each chat, read knowledge/teams/{date_str}/[display-name].md first to see what's already archived
 4. Only archive NEW messages not already in the file (match by timestamp + sender)
 5. Append new messages to knowledge/teams/{date_str}/[display-name].md using append=True
@@ -58,11 +58,11 @@ If no NEW messages, report "0 new messages".""",
 
     # Task 3: Process Teams channels
     channel_task = Task(
-        description=f"""Process Teams channel messages from today. Time: {timestamp} UTC
+        description=f"""Process recent Teams channel messages. Time: {timestamp} UTC
 
 1. Call get_joined_teams() to get team list
 2. For each team, call get_team_channels(team_id)
-3. For each channel, call get_channel_messages(team_id, channel_id, limit=500, since_start_of_day=True)
+3. For each channel, call get_channel_messages(team_id, channel_id, limit=500, since_minutes=90)
 4. For each message with reply_count > 0, call get_channel_message_replies(team_id, channel_id, message_id) to get the full reply thread
 5. For each channel file, read knowledge/channels/{date_str}/[team]-[channel].md first
 6. Only archive NEW messages and replies not already in the file (match by timestamp + sender)
@@ -249,15 +249,15 @@ def create_tasks(data_collector, analyst, archivist) -> list[Task]:
     date_str = now.strftime("%Y-%m-%d")
 
     collect_task = Task(
-        description=f"""Collect data from today. Time: {timestamp} UTC
+        description=f"""Collect recent data. Time: {timestamp} UTC
 
-Use since_start_of_day=True on all tools.
+Use since_minutes=90 on all tools to fetch the last 90 minutes of activity.
 
-1. get_emails(limit=50, since_start_of_day=True)
-2. get_sent_emails(limit=50, since_start_of_day=True)
-3. get_teams_chats(limit=50, since_start_of_day=True) - note: returns display_name
-4. For each chat: get_chat_messages(chat_id, limit=50, since_start_of_day=True)
-5. get_joined_teams(), get_team_channels(), get_channel_messages(since_start_of_day=True, limit=50)
+1. get_emails(limit=50, since_minutes=90)
+2. get_sent_emails(limit=50, since_minutes=90)
+3. get_teams_chats(limit=50, since_minutes=90) - note: returns display_name
+4. For each chat: get_chat_messages(chat_id, limit=50, since_minutes=90)
+5. get_joined_teams(), get_team_channels(), get_channel_messages(since_minutes=90, limit=50)
 6. get_today_events()
 7. harvest_running_timers()
 8. harvest_today_tracking()

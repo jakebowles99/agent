@@ -7,9 +7,12 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-19
+- Client confirmed they can now see Chelverton data; earlier data-load timeout/Office Script flow failure retriggered and resolved.
+
 
 ### 2026-02-18
 - Resolved a data load failure by re-triggering flows after an Office Script timeout; client confirmed Chelverton data is now visible.
 
 ---
-*Last Updated: 2026-02-18*
+*Last Updated: 2026-02-19*

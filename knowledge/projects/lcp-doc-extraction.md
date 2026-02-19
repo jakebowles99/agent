@@ -7,9 +7,12 @@ Document extraction solution work for LCP (plugin, dashboard, email ingestion, d
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-19
+- Standup covered plugin manifest issues, test account provisioning, AI extraction testing priority, and plan to deploy to client tenant Monday evening IST; demo to be scheduled after 6pm IST.
+
 
 ### 2026-02-18
 - Standup covered plugin testing via test tenant, manifest troubleshooting, deployment planned for Monday evening IST, and demo/onboarding scheduling; testing priority on extraction functionality.
 
 ---
-*Last Updated: 2026-02-18*
+*Last Updated: 2026-02-19*

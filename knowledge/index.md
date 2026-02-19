@@ -1,94 +1,63 @@
-# Knowledge Base Index
+# Knowledge Index
 
-This is your personal knowledge base - a structured collection of notes and information organized by category. Use this as your second brain for work-related context.
+**Last Updated:** 2026-02-19
 
-## Directory Structure
-
-- **[projects/](projects/)** - Project notes, requirements, and context
-- **[people/](people/)** - Information about colleagues, stakeholders, contacts
-- **[clients/](clients/)** - Client information, relationships, preferences
-- **[meetings/](meetings/)** - Meeting notes, action items, decisions
-- **[teams/](teams/)** - Archived Teams messages with timestamps
-- **[decisions/](decisions/)** - Key decisions and their reasoning
-- **[processes/](processes/)** - How-to guides, workflows, procedures
-
-## Quick Reference
-
-### Active Projects
+## Active Projects
 
 | Project | Client | Status |
-|---------|--------|--------|
-| [Euroleague Basketball RFP](projects/euroleague-basketball-rfp.md) | Euroleague (via PMY) | RFP due Feb 11, 23:59 CET |
-| [Nimans Slipstream](projects/nimans-slipstream.md) | Midwich | Contract request submitted, SOW pending |
-| [Capital HB Fabric](projects/capital-hb-fabric.md) | Capital Hair & Beauty | **SOW signed Feb 6**, kickoff Mon 2:30pm confirmed |
-| [LCP Overview](projects/lcp-overview.md) | Leadenhall Capital | SOW005 draft, Lemonedge POC pending |
-| [Jensten Overview](projects/jensten-overview.md) | Jensten Group | Multiple SOWs pending |
-| [FABCON Atlanta 2026](projects/fabcon-atlanta-2026.md) | - | **VISA DECLINED** - cannot attend |
+|---|---|---|
+| [Capital Hair & Beauty  Fabric/Power BI Implementation (SOW002)](projects/capital-hb-fabric.md) | [Capital Hair & Beauty](clients/capital-hb.md) | Active (implementation; access/MFA + Azure subscription admin access in progress) |
+| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [LCP](clients/lcp.md) | Active (plugin/manifest + deployment + demo scheduling) |
+| [Leadenhall LemonEdge  API Requirements](projects/leadenhall-lemonedge-api-requirements.md) | [LemonEdge](clients/lemonedge.md) | Active (requirements/discovery) |
+| [Jensten Group  Projects Overview](projects/jensten-overview.md) | [Jensten Group](clients/jensten.md) | Active (multiple SOWs; admin tasks pending) |
+| [Midwich  App Development & Roll-out (SOW008)](projects/midwich-app-development-sow008.md) | [Midwich Group](clients/midwich.md) | Active (UAT/Prod pointing + DB env var checks) |
 
-### Clients
+## Clients
 
 | Client | Key Contact | Active Project |
-|--------|-------------|----------------|
-| [Midwich](clients/midwich.md) | Joe Thompson | Slipstream (SOW009 pending) |
-| [LCP](clients/lcp.md) | Chris Learmonth | SOW005 FX Rates (draft), Lemonedge POC (pending) |
-| [Jensten Group](clients/jensten.md) | Dave | Multiple SOWs |
-| [Capital Hair & Beauty](clients/capital-hb.md) | Cristian Ettridge | Fabric/Power BI |
-| [Euroleague Basketball](clients/euroleague-basketball.md) | (via PMY Group) | RFP |
+|---|---|---|
+| [Capital Hair & Beauty](clients/capital-hb.md) | Cristian Ettridge | Capital HB Fabric/Power BI Implementation |
+| [Jensten Group](clients/jensten.md) | Dave (SOW approvals) / Luke (IT) | Jensten Projects Overview |
+| [LCP](clients/lcp.md) | Chris Learmonth | LCP Document Extraction & Fabric |
+| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Chris Learmonth (via LCP profile) | LCP Doc Extraction / Fabric FX Rates SOW005 |
+| [LemonEdge](clients/lemonedge.md) | Duncan Kirby | API Requirements |
+| [Midwich Group](clients/midwich.md) | Joe Thompson | Midwich App Dev & Slipstream |
 
-### Key People
+## Key People
 
-**External Contacts:**
-- [Joe Thompson](people/joe-thompson.md) - CTO, Midwich
-- [Graham Maher](people/graham-maher.md) - PMY Group
-- [Cristian Ettridge](people/cristian-ettridge.md) - Director of Ops, Capital HB
-- [Tayo Eletu-Odibo](people/tayo-eletu-odibo.md) - Operations, Leadenhall
+### Internal (core)
+- [Jake Bowles](people/jake-bowles.md)
+- [Andrew Price](people/andrew-price.md)
+- [Charlie Phipps-Bennett](people/charlie-phipps-bennett.md)
+- [Nandan Hegde](people/nandan-hegde.md)
+- [Matt Davies](people/matt-davies.md)
+- [Kim Totten](people/kim-totten.md)
+- [Sophia Fricker](people/sophia-fricker.md)
+- [Akshansh Sharma](people/akshansh-sharma.md)
 
-**Synapx Team:**
-- [Andrew Price](people/andrew-price.md) - CEO
-- [Charlie Phipps-Bennett](people/charlie-phipps-bennett.md) - Apps & Automation Global Director
-- [Nandan Hegde](people/nandan-hegde.md) - Data & AI Lead
-- [Navsheen Koul](people/navsheen-koul.md) - Product Lead
-- [Matt Davies](people/matt-davies.md) - Director
-- [Anand Karia](people/anand-karia.md) - Developer
+### External (key contacts)
+- [Cristian Ettridge](people/cristian-ettridge.md) (Capital Hair & Beauty)
+- [Philip Dobson](people/philip-dobson.md) (Capital Hair & Beauty)
+- [Duncan Kirby](people/duncan-kirby.md) (LemonEdge)
+- [Joe Thompson](people/joe-thompson.md) (Midwich)
+- [Jon Allen](people/jon-allen.md) (Midwich/Nimans)
+- [Jose Pacheco](people/jose-pacheco.md) (Midwich)
 
-### Recent Meetings
+## Recent Meetings (last 7)
 
-- [2026-02-07 Saturday Summary](meetings/2026-02-07-saturday-summary.md)
-- [2026-02-06 Friday Summary](meetings/2026-02-06-friday-summary.md)
-- [2026-02-06 Product Catchup](meetings/2026-02-06-product-catchup.md)
-- [2026-02-03 Euroleague Question Set](meetings/2026-02-03-euroleague-question-set.md)
+| Date | Meeting | File |
+|---|---|---|
+| 2026-02-19 | Delivery Leadership Call | meetings/2026-02-19-delivery-leadership-call.md |
+| 2026-02-19 | Standup - LCP Doc Extraction | meetings/2026-02-19-standup-lcp-doc-extraction.md |
+| 2026-02-19 | Product Catchup | meetings/2026-02-19-product-catchup.md |
+| 2026-02-19 | Midwich Squad - daily standup | meetings/2026-02-19-midwich-squad-daily-standup.md |
+| 2026-02-19 | Jake/Nandan - Forecast updates | meetings/2026-02-19-jake-nandan-forecast-updates.md |
+| 2026-02-19 | FW: Placeholder for Venture Tech Discussion | meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md |
+| 2026-02-19 | Partner Voice Webcast: Microsoft Fabric Data Agent: Upcoming Private Preview Features | meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md |
 
-### Teams Message Archives
+## Upcoming Deadlines / Key Dates
+- **2026-02-19 (COB):** Submit timesheets (Harvest) with notes.
+- **2026-02-20:** Tejashwini Das last day (per HR update email).
+- **TBC (Tomorrow from email thread):** Capital Hair & Beauty Fabric set up kick-off (requested 11:0012:00).
+- **Monday (next week, after 18:00 IST):** LCP Doc Extraction demo/onboarding (dependent on plugin deployment Monday evening IST).
 
-- [2026-02-07 (Saturday)](teams/2026-02-07/) - 4 chats: UK Directors (Jensten deck), Directors (synapx.in), Matt 1:1 (Nooh Studio), Midwich Squad
-- [2026-02-06 (Friday)](teams/2026-02-06/) - 8 chats archived including Jensten, Directors, Project Managers
-
-### Upcoming Deadlines
-
-| Deadline | Item |
-|----------|------|
-| **Feb 10 (Mon) 2:30pm** | Capital HB kickoff meeting |
-| Feb 10 (Mon) | Jensten proposal materials |
-| **Feb 11, 23:59 CET** | Euroleague RFP submission (extended from Feb 10) |
-| Feb 20 | Southern Water bid deadline |
-| ~~Feb 22~~ | ~~FABCON hotel booking~~ (N/A - Visa declined) |
-| ~~March 8-12~~ | ~~FABCON Atlanta~~ (Visa declined - cannot attend) |
-
-## Usage Tips
-
-1. **Creating Notes**: Add markdown files to the appropriate directory
-2. **Naming Convention**: Use descriptive names like `project-name.md` or `2024-01-meeting-topic.md`
-3. **Cross-Linking**: Link between documents using relative paths: `[Project X](projects/project-x.md)`
-4. **Templates**: Create templates in each directory for consistency
-
-## Tools Available
-
-Use the MCP server tools to gather information:
-- `get_calendar_events` - Check schedule and meetings
-- `get_emails` / `get_messages_from_person` - Review communications
-- `get_meeting_summary` - Get meeting transcripts and AI insights
-- `search_files` / `read_document` - Access documents from OneDrive/SharePoint
-- `harvest_*` tools - Time tracking and project data
-
----
-*Last Updated: February 8, 2026*

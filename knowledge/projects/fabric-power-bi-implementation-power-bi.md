@@ -7,9 +7,12 @@ Capital Hair & Beauty Fabric/Power BI implementation (Power BI workstream).
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-19
+- Kick-off scheduling and access issues discussed; meeting confirmed for tomorrow 11:00–12:00 and admin access/MFA/password reset constraints raised.
+
 
 ### 2026-02-18
 - Coordinated Fabric set-up project kickoff logistics and access issues (Power BI admin access, password/2FA) via email; meeting scheduled for tomorrow 11:00-12:00.
 
 ---
-*Last Updated: 2026-02-18*
+*Last Updated: 2026-02-19*

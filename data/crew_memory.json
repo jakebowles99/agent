@@ -2,6 +2,14 @@
   "short_term": {
     "last_runs": [
       {
+        "status": "success",
+        "emails_found": 50,
+        "messages_found": 3,
+        "files_updated": 43,
+        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```md\n## 2026-02-19 17:00\n\n### Changes Today\n- **Emails:** 50 new\n- **Teams Chats:** 3 messages across 3 conversations\n- **Teams Channels:** 66 messages in 3 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 23 processed (1 created, 22 updated)\n- **Project Profiles:** 15 processed (4 created, 11 updated)\n- **Client Profiles:** 5 processed (0 created, 5 updated)\n- **Calendar:** 10 events on calendar\n- **Time Tracking:** none\n\n### Action It",
+        "timestamp": "2026-02-19T17:14:59.183509+00:00"
+      },
+      {
         "status": "error",
         "error": "Invalid response from LLM call - None or empty.",
         "timestamp": "2026-02-19T00:06:39.882516+00:00"
@@ -69,14 +77,6 @@
         "files_updated": 0,
         "result_preview": "Report: inbox_updated, summary\n\n## 2026-02-11 21:15\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 12 messages across 2 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 10 processed (0 created, 10 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Joe/Team: advise on integrating bids app work with Foundry/anal",
         "timestamp": "2026-02-11T21:20:39.134505+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-11 21:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 4 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 13 processed (1 created, 12 updated)\n- **Calendar:** 10 events on calendar (current/next: none; last: Trip to York 14:00\u201319:00 UTC)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Advise on integrating bids app work with Foundry/analyzer; align next steps (similar to PO app).",
-        "timestamp": "2026-02-11T21:04:03.043209+00:00"
       }
     ],
     "pending_items": []
@@ -84,10 +84,10 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 166,
-      "emails_processed": 0,
-      "messages_processed": 0,
-      "files_updated": 0
+      "total_runs": 167,
+      "emails_processed": 50,
+      "messages_processed": 3,
+      "files_updated": 43
     }
   },
   "entities": {
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-19T00:06:39.882532+00:00",
+    "last_updated": "2026-02-19T17:14:59.183521+00:00",
     "version": "1.0"
   }
 }

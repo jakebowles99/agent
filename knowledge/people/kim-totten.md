@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-19 17:08:** Emailed/Teams chatted about AI dev events and coordinating key client/executive breakfast; asked to confirm licensing in channel mention.
 - **2026-02-11 15:44:** Discussed Friday Fabric in a day workshop delivery quality, need for shadowing/training, and MSFT managed accounts expectations; planning calls with accounts.
 - **2026-02-11 15:11:** Discussed improving consultancy/training standards, internal dry runs, and preparing for Microsoft recommendations; mentioned Charlie supporting from his team.
 - **2026-02-11 14:50:** Discussed addressing consultancy skills and implementing training/dry runs with Jake Bowles; mentioned Charlie, Nandan, Saumya.
@@ -18,4 +19,4 @@
   - Suggested adding attribution: "We can credit Sean for the inspo".
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-19*

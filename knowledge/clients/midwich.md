@@ -69,6 +69,9 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 - **2026-02-18 22:52:** 2026-02-18: Boomi & Slipstream email thread: confirmed approach; discussed pushing back into ERP; Private Endpoints preferred for security/governance.
 - **2026-02-18 22:52:** 2026-02-18: Sent sample middleware responses to Jeff (Midwich US) for Foundry Analyser PO response format review.
 - **2026-02-18 23:10:** 2026-02-18: Emails with Jon Allen and Jose Pacheco on Slipstream/Midwich US integration approach; Private Endpoints preferred for security/governance.
+- **2026-02-19 17:12:** Email thread with Jon Allen/Jose Pacheco on Slipstream/Midwich US integration approach; Private Endpoints preferred for security/governance.
+- **2026-02-19 17:12:** Sent sample middleware responses to Jeff for Foundry Analyser PO response format review.
+- **2026-02-19 17:12:** Midwich squad daily standup (no transcript available).
 
 ## Relevant People
 - None yet.
@@ -76,6 +79,18 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 
 ## Relevant Projects
 - None yet.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Company Overview
+Midwich Group is a specialist technology distributor. Synapx is engaged via Nimans on Slipstream AI extraction/integration work, including a US Slipstream stream.
 
 
 ## Relevant People
