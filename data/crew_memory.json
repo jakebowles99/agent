@@ -3,6 +3,14 @@
     "last_runs": [
       {
         "status": "success",
+        "emails_found": 50,
+        "messages_found": 21,
+        "files_updated": 36,
+        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```md\n## 2026-02-19 20:00\n\n### Changes Today\n- **Emails:** 50 new\n- **Teams Chats:** 21 messages across 5 conversations\n- **Teams Channels:** 50 messages in 2 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 17 updated\n- **Project Profiles:** 11 updated\n- **Client Profiles:** 8 updated\n- **Calendar:** 10 events on calendar (Anand OOO; XIAD prep; multiple standups/calls)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Timesheet",
+        "timestamp": "2026-02-19T20:13:51.454942+00:00"
+      },
+      {
+        "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 0,
@@ -69,14 +77,6 @@
         "files_updated": 0,
         "result_preview": "## 2026-02-18 22:00\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 8 messages across 3 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 7 processed (0 created, 7 updated)\n- **Calendar:** 8 events on calendar (current/next: none)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] IT / Security: confirm why there are 14 Azure VMs before Oct 2028 (Azure update link shared; AVD on B series mentioned).\n- [ ] Sophia F",
         "timestamp": "2026-02-18T22:02:38.038402+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 0,
-        "result_preview": "## 2026-02-18 21:47\n\n### Changes This Window\n- **Emails:** 0 new\n- **Teams Chats:** 4 messages across 1 conversations\n- **Teams Channels:** 0 messages in 0 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 4 processed (1 created, 3 updated)\n- **Calendar:** 8 events on calendar (current/next: none)\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] IT / Security: confirm why there are 14 Azure VMs before Oct 2028 (Azure update link shared; AVD on B series mentioned).\n\n### Files Upd",
-        "timestamp": "2026-02-18T21:52:44.508625+00:00"
       }
     ],
     "pending_items": []
@@ -84,10 +84,10 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 169,
-      "emails_processed": 100,
-      "messages_processed": 6,
-      "files_updated": 67
+      "total_runs": 170,
+      "emails_processed": 150,
+      "messages_processed": 27,
+      "files_updated": 103
     }
   },
   "entities": {
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-19T19:13:11.781574+00:00",
+    "last_updated": "2026-02-19T20:13:51.454955+00:00",
     "version": "1.0"
   }
 }

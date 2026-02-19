@@ -1,16 +1,16 @@
 # Iwantmore.ai
 
 ## Company Overview
-Overview to be captured.
+Iwantmore.ai engaged with Synapx to explore potential AI workstreams (including Vinum-specific use cases).
 
 ## Relevant People
-- None yet.
+- [James Grant](../people/james-grant.md)
 
 ## Relevant Projects
-- None yet.
+- [Vinco Wines - Quote/Commercial](../projects/vinco-wines-quote-commercial.md)
 
 ## Recent Activity
-- **2026-02-18 23:10:** 2026-02-18: Meeting follow-up email from James Grant outlining four workstreams; James to refine Vinum-specific use cases list.
+- 2026-02-19: Meeting follow-up email from James Grant outlining workstreams; James to refine Vinum-specific use cases list.
 
 ---
-*Last Updated: 2026-02-18*
+*Last Updated: 2026-02-19*

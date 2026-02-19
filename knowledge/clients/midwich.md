@@ -14,6 +14,7 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 
 ## Active Projects
 - [Nimans Slipstream - AI Extraction](../projects/nimans-slipstream.md)
+- [Slipstream US](../projects/slipstream-us.md)
 
 ## Relationship
 - First engagement through Nimans subsidiary
@@ -54,49 +55,23 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 - **Contracts**: [Synapx-Contracts > Midwich](https://synapxltd.sharepoint.com/sites/Synapx-Contracts/Shared%20Documents/Contracts/Clients/Midwich/)
 
 ---
-*Last Updated: February 8, 2026*
+*Last Updated: February 19, 2026*
 
 ## Relevant People
-- None yet.
-
+- [Joe Thompson](../people/joe-thompson.md)
+- [Jon Allen](../people/jon-allen.md)
+- [Jose Pacheco](../people/jose-pacheco.md)
+- [Jeff](../people/jeff.md)
+- [Yaz Qaraqesh](../people/yaz-qaraqesh.md)
 
 ## Relevant Projects
-- None yet.
-
+- [Nimans Slipstream - AI Extraction](../projects/nimans-slipstream.md)
+- [Slipstream US](../projects/slipstream-us.md)
+- [Slipstream Boomi (K&S)](../projects/slipstream-boomi-ks.md)
+- [Midwich App Development (SOW008)](../projects/midwich-app-development-sow008.md)
+- [Midwich Squad](../projects/midwich-squad.md)
 
 ## Recent Activity
-- **2026-02-18 22:23:** Boomi & Slipstream (K&S) email thread: alignment on approach; question re pushing back into ERP; Private Endpoints preferred for security/governance.
-- **2026-02-18 22:52:** 2026-02-18: Boomi & Slipstream email thread: confirmed approach; discussed pushing back into ERP; Private Endpoints preferred for security/governance.
-- **2026-02-18 22:52:** 2026-02-18: Sent sample middleware responses to Jeff (Midwich US) for Foundry Analyser PO response format review.
-- **2026-02-18 23:10:** 2026-02-18: Emails with Jon Allen and Jose Pacheco on Slipstream/Midwich US integration approach; Private Endpoints preferred for security/governance.
-- **2026-02-19 17:12:** Email thread with Jon Allen/Jose Pacheco on Slipstream/Midwich US integration approach; Private Endpoints preferred for security/governance.
-- **2026-02-19 17:12:** Sent sample middleware responses to Jeff for Foundry Analyser PO response format review.
-- **2026-02-19 17:12:** Midwich squad daily standup (no transcript available).
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
-
-## Company Overview
-Midwich Group is a specialist technology distributor. Synapx is engaged via Nimans on Slipstream AI extraction/integration work, including a US Slipstream stream.
-
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
+- 2026-02-19: Email thread with Jon/Jose on Slipstream/Midwich US integration approach; Private Endpoints preferred for security/governance.
+- 2026-02-19: Sent sample middleware responses to Jeff for Foundry Analyser PO response format review.
+- 2026-02-19: Midwich squad daily standup (no transcript available).

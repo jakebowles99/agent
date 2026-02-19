@@ -1,25 +1,19 @@
 # LemonEdge
 
 ## Company Overview
-Overview to be captured.
+LemonEdge (Leadenhall implementation partner) engaged with Synapx to discuss API requirements for a custom import template and authentication.
 
 ## Relevant People
-- None yet.
+- [Duncan Kirby](../people/duncan-kirby.md)
+- [Nandan Hegde](../people/nandan-hegde.md)
 
 ## Relevant Projects
-- None yet.
+- [Custom Import Template and Auth](../projects/custom-import-template-and-auth.md)
+- [Leadenhall/LemonEdge](../projects/leadenhall-lemonedge.md)
+- [Leadenhall/LemonEdge API Requirements](../projects/leadenhall-lemonedge-api-requirements.md)
 
 ## Recent Activity
-- **2026-02-18 22:24:** LemonEdge email: scheduled quick meeting for API requirements / custom import template & auth (booked 13:30 GMT).
+- 2026-02-19: Email thread confirming quick meeting booked for 13:30 GMT to discuss API requirements.
 
 ---
-*Last Updated: 2026-02-18*
-- **2026-02-18 23:10:** 2026-02-18: Scheduled/confirmed 13:30 GMT meeting with Duncan Kirby on API requirements (Custom Import Template and Auth).
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
+*Last Updated: 2026-02-19*

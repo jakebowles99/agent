@@ -27,3 +27,6 @@ Overview to be captured.
 ## Relevant Projects
 - None yet.
 
+
+
+- 2026-02-19: Mentioned in active Harvest projects (Byworth Fabric Discovery).

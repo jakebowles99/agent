@@ -8,8 +8,12 @@ UK's largest independent supplier to hairdressers, beauty therapists and nail te
 | Name | Role | Notes |
 |------|------|-------|
 | [Cristian Ettridge](../people/cristian-ettridge.md) | General Manager | Primary contact, signed SOW002 |
+| [Philip Dobson](../people/philip-dobson.md) | IT Manager | Scheduling / project coordination |
+| [Phil Carter](../people/phil-carter.md) | (Capital H&B) | Supporting access setup |
 
 ## Active Projects
+- [Fabric & Power BI Implementation (Fabric)](../projects/fabric-power-bi-implementation-fabric.md)
+- [Fabric & Power BI Implementation (Power BI)](../projects/fabric-power-bi-implementation-power-bi.md)
 - [Fabric/Power BI Implementation (SOW002)](../projects/capital-hb-fabric.md)
 
 ## Contract History
@@ -45,37 +49,17 @@ UK's largest independent supplier to hairdressers, beauty therapists and nail te
 - iTrent API discovery to be conducted by Capital
 
 ---
-*Last Updated: February 7, 2026*
+*Last Updated: February 19, 2026*
 
 ## Relevant People
-- None yet.
-
+- [Cristian Ettridge](../people/cristian-ettridge.md)
+- [Philip Dobson](../people/philip-dobson.md)
+- [Phil Carter](../people/phil-carter.md)
 
 ## Relevant Projects
-- None yet.
-
+- [Fabric & Power BI Implementation (Fabric)](../projects/fabric-power-bi-implementation-fabric.md)
+- [Fabric & Power BI Implementation (Power BI)](../projects/fabric-power-bi-implementation-power-bi.md)
+- [Fabric/Power BI Implementation (SOW002)](../projects/capital-hb-fabric.md)
 
 ## Recent Activity
-- **2026-02-18 22:24:** Emails arranging Fabric set-up kick-off (requested 11:00–12:00 tomorrow) and discussing access issues (admin account, password change/2FA, Azure subscription admin access).
-- **2026-02-18 22:53:** 2026-02-18: Emails re Fabric set-up kick-off scheduling (requested 11:00–12:00 tomorrow) and resolving access issues (Power BI admin access, password change/2FA, Azure subscription admin access).
-- **2026-02-19 17:12:** Emails with Philip Dobson/Phil Carter/Cristian Ettridge arranging Fabric set-up kick-off and discussing admin access issues (password change/2FA, conditional access, Azure subscription access).
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
-
-## Company Overview
-Capital Hair & Beauty (Capital H&B) is a UK hair and beauty wholesaler moving from Phocus to Microsoft Fabric + Power BI as part of SOW002.
-
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
+- 2026-02-19: Emails with Philip Dobson/Phil Carter/Cristian Ettridge arranging Fabric set-up kick-off and discussing admin access issues (password reset/2FA/conditional access, Azure subscription access).

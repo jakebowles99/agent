@@ -85,3 +85,6 @@ Jensten Group is an insurance group with multiple workstreams including Fabric d
 ## Recent Activity
 - **2026-02-19 17:12:** Shared example discount-impact dashboard screenshot in Teams chat (for a SOW deliverable example; noted not directly Jensten-specific).
 
+
+
+- 2026-02-19: Shared sample dashboard screenshot in Teams as an example deliverable for pricing/discount impact analysis (non-Jensten example).

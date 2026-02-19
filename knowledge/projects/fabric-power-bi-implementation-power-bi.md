@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric/Power BI implementation (Power BI workstream).
 
 ## Timeline / Log
 ### 2026-02-19
+- Kickoff scheduling and access issues worked through (Power BI/My Account/MFA/password reset). Meeting moved to 11:00-12:00; client confirmed access largely sorted; remaining password reset/Azure subscription visibility issues noted.
+
+### 2026-02-19
 - Kick-off scheduling and access troubleshooting discussed via email; meeting proposed for 11:00–12:00; issues noted around Power BI admin account access and MFA/password reset.
 
 ### 2026-02-19

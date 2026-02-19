@@ -9,6 +9,7 @@
 - **Email**: bhoomi.dasa@synapx.com
 
 ## Recent interactions
+- **2026-02-19 20:08:** Scheduled interview for Manoj Jonnakuti (Junior Software Engineer role).
 - **2026-02-19 18:08:** Scheduled junior software engineer interview (candidate Manoj Jonnakuti).
 - **2026-02-18 22:52:** Scheduled interview for Junior Software Engineer candidate Manoj Jonnakuti.
 - **2026-02-18 22:42:** Scheduled junior software engineer interview for candidate Manoj Jonnakuti.

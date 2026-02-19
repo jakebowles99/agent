@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-19
+- Email thread progressed on preferred integration approach; private endpoints agreed as preferred for security/governance (Midwich US and Slipstream / Boomi & Slipstream - K&S).
+
+### 2026-02-19
 - Email thread re Midwich US and Slipstream confirmed private endpoints as preferred security model for integration; continued alignment on approach.
 
 ### 2026-02-19

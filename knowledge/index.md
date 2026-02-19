@@ -6,51 +6,52 @@
 
 | Project | Client | Status |
 |---|---|---|
-| [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital Hair & Beauty](clients/capital-hb.md) | Active |
-| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active |
-| [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
-| [Jensten Group - Projects Overview](projects/jensten-overview.md) | [Jensten](clients/jensten.md) | Active |
+| [Capital Hair & Beauty  Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital Hair & Beauty](clients/capital-hb.md) | Active (implementation; access/admin blockers being resolved) |
+| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active (plugin deployment + demo planning) |
+| [Nimans Slipstream](projects/nimans-slipstream.md) | [Midwich](clients/midwich.md) | Active (SOW009 pending; integration approach discussions ongoing) |
+| [Slipstream Boomi K&S](projects/slipstream-boomi-ks.md) | [Midwich](clients/midwich.md) | Active |
+| [Leadenhall  LemonEdge API Requirements](projects/leadenhall-lemonedge-api-requirements.md) | [LemonEdge](clients/lemonedge.md) | Active (API requirements call scheduled) |
 
 ## Clients
 
 | Client | Key Contact | Active Project |
 |---|---|---|
-| [Capital Hair & Beauty](clients/capital-hb.md) | [Cristian Ettridge](people/cristian-ettridge.md) | [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) |
-| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | (see profile) | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
-| [Midwich](clients/midwich.md) | (see profile) | [Midwich Squad](projects/midwich-squad.md) |
-| [Jensten](clients/jensten.md) | (see profile) | [Jensten Group - Projects Overview](projects/jensten-overview.md) |
+| [Capital Hair & Beauty](clients/capital-hb.md) | Cristian Ettridge | Capital HB Fabric/Power BI Implementation |
+| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | (see project) | LCP Doc Extraction / FX rates integration |
+| [Midwich](clients/midwich.md) | Joe Thompson | Nimans Slipstream |
+| [LemonEdge](clients/lemonedge.md) | Duncan Kirby | API Requirements |
+| [Jensten](clients/jensten.md) | (see client file) | Underwriting discovery/overview |
+| [Spring Capital](clients/spring-capital.md) | Amanda Bond | Support / pipelines |
 
 ## Key People
 
 ### Internal
-- [Jake Bowles](people/jake-bowles.md)
-- [Andrew Price](people/andrew-price.md)
-- [Charlie Phipps-Bennett](people/charlie-phipps-bennett.md)
-- [Nandan Hegde](people/nandan-hegde.md)
-- [Akshansh Sharma](people/akshansh-sharma.md)
-- [Kim Totten](people/kim-totten.md)
-- [Sophia Fricker](people/sophia-fricker.md)
-- [Matt Davies](people/matt-davies.md)
+- [Jake Bowles](people/jake-bowles.md)  Data & AI Global Director
+- [Andrew Price](people/andrew-price.md)  CEO
+- [Charlie Phipps-Bennett](people/charlie-phipps-bennett.md)  Apps & Automation Global Director
+- [Nandan Hegde](people/nandan-hegde.md)  Data/Fabric Engineer
+- [Kim Totten](people/kim-totten.md)  Head of Alliances
 
-### External (key)
-- [Cristian Ettridge](people/cristian-ettridge.md) (Capital Hair & Beauty)
-- [Philip Dobson](people/philip-dobson.md) (Capital Hair & Beauty)
-- [Jon Allen](people/jon-allen.md) (Midwich)
-- [Jose Pacheco](people/jose-pacheco.md) (Midwich)
-- [Duncan Kirby](people/duncan-kirby.md) (LemonEdge)
+### External (frequent)
+- [Cristian Ettridge](people/cristian-ettridge.md)  Capital Hair & Beauty
+- [Philip Dobson](people/philip-dobson.md)  Capital Hair & Beauty
+- [Duncan Kirby](people/duncan-kirby.md)  LemonEdge
+- [Joe Thompson](people/joe-thompson.md)  Midwich
 
-## Recent Meetings (last 7 files)
+## Recent Meetings (last 7)
 
-1. [Standup - LCP Doc Extraction (2026-02-19)](meetings/2026-02-19-standup-lcp-doc-extraction.md)
-2. [Product Catchup (2026-02-19)](meetings/2026-02-19-product-catchup.md)
-3. [Delivery Leadership Call (2026-02-19)](meetings/2026-02-19-delivery-leadership-call.md)
-4. [Partner Voice Webcast: Microsoft Fabric Data Agent... (2026-02-19)](meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md)
-5. [Midwich Squad - daily standup (2026-02-19)](meetings/2026-02-19-midwich-squad-daily-standup.md)
-6. [FW: Placeholder for Venture Tech Discussion (2026-02-19)](meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md)
-7. [Jake/Nandan - Forecast updates (2026-02-19)](meetings/2026-02-19-jake-nandan-forecast-updates.md)
+| Date | Meeting |
+|---|---|
+| 2026-02-19 | [Delivery Leadership Call](meetings/2026-02-19-delivery-leadership-call.md) |
+| 2026-02-19 | [Standup - LCP Doc Extraction](meetings/2026-02-19-standup-lcp-doc-extraction.md) |
+| 2026-02-19 | [Product Catchup](meetings/2026-02-19-product-catchup.md) |
+| 2026-02-19 | [Midwich Squad - daily standup](meetings/2026-02-19-midwich-squad-daily-standup.md) |
+| 2026-02-19 | [Partner Voice Webcast: Microsoft Fabric Data Agent](meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md) |
+| 2026-02-19 | [FW: Placeholder for Venture Tech Discussion](meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md) |
+| 2026-02-19 | [PLACEHOLDER - BES Group - Fabric Discussion](meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md) |
 
-## Upcoming Deadlines / Reminders
-- **2026-02-19 COB:** Submit timesheets; ensure Harvest entries include notes.
-- **Capital Hair & Beauty:** Meeting requested for **2026-02-20 11:00–12:00** (confirm).
-- **LCP Doc Extraction:** Deploy plugin to client tenant by **Monday evening IST**; schedule demo after 18:00 IST.
+## Upcoming Deadlines / Near-term Actions
+- **2026-02-19 COB:** Submit timesheets with notes (Harvest) (Everyone channel reminders).
+- **2026-02-20:** Capital Hair & Beauty Fabric setup kickoff follow-up meeting (time being coordinated; requested 11:0012:00).
+- **By Monday evening (IST):** LCP doc extraction plugin deployed to client tenant (Ajay) + demo scheduled after 18:00 IST.
 
