@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 
 ## Timeline / Log
 ### 2026-02-19
+- Azure subscription provisioning and access requirements discussed; awaiting admin access to subscription; continued troubleshooting of password reset/conditional access for provided accounts.
+
+### 2026-02-19
 - Provisioned Azure subscription; requested admin access and submitted/plan to submit Microsoft funding request; client confirmed Fabric access working across accounts.
 
 ### 2026-02-19

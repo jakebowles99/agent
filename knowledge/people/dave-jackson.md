@@ -9,6 +9,7 @@
 - **Email**: dave.jackson@jensten.co.uk
 
 ## Recent interactions
+- **2026-02-19 19:09:** Chat about sample data/dashboard deliverable for SOW.
 - **2026-02-11 18:01:** Accepted Jensten <> Synapx SOW & proposal walkthrough meeting invite.
 - **2026-02-11 16:23:** Replied in chat that 12-1 looks free; accepted Jensten SOW & proposal walkthrough invite.
 - **2026-02-11 15:54:** Asked for time on Friday to run through updated SOWs and proposal for other workstreams.
@@ -22,4 +23,4 @@
 - **2026-02-10 02:02:** External attendee for underwriting proposal meeting on 2026-02-10.
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-19*
