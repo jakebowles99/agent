@@ -427,6 +427,33 @@ class GetChannelMessagesTool(BaseTool):
         return _run_async(_fetch())
 
 
+class GetChannelMessageRepliesInput(BaseModel):
+    """Input for getting channel message replies."""
+    team_id: str = Field(description="The Team ID")
+    channel_id: str = Field(description="The Channel ID")
+    message_id: str = Field(description="The parent message ID to get replies for")
+    limit: int = Field(default=50, description="Maximum replies to return")
+
+
+class GetChannelMessageRepliesTool(BaseTool):
+    """Get replies to a specific Teams channel message thread."""
+
+    name: str = "get_channel_message_replies"
+    description: str = "Get replies to a specific channel message thread. Use after get_channel_messages to fetch reply threads for messages with reply_count > 0."
+    args_schema: Type[BaseModel] = GetChannelMessageRepliesInput
+
+    def _run(self, team_id: str, channel_id: str, message_id: str, limit: int = 50) -> str:
+        async def _fetch():
+            client = await _get_graph_client()
+            if not client:
+                return json.dumps({"error": "Microsoft 365 not connected"})
+            replies = await client.get_channel_message_replies(
+                team_id=team_id, channel_id=channel_id, message_id=message_id, limit=limit
+            )
+            return json.dumps(replies, default=str)
+        return _run_async(_fetch())
+
+
 # ==================== HARVEST TOOLS ====================
 
 
@@ -1295,6 +1322,7 @@ def get_all_tools() -> list[BaseTool]:
         GetJoinedTeamsTool(),
         GetTeamChannelsTool(),
         GetChannelMessagesTool(),
+        GetChannelMessageRepliesTool(),
         # Harvest
         HarvestGetProjectsTool(),
         HarvestMyTimeTool(),
@@ -1329,6 +1357,7 @@ def get_data_collection_tools() -> list[BaseTool]:
         GetJoinedTeamsTool(),
         GetTeamChannelsTool(),
         GetChannelMessagesTool(),
+        GetChannelMessageRepliesTool(),
         HarvestRunningTimersTool(),
         HarvestTodayTrackingTool(),
         HarvestMyTimeTool(),

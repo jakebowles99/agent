@@ -33,21 +33,26 @@ If no NEW emails, report "0 new emails" and skip archiving.""",
         agent=email_agent,
     )
 
-    # Task 2: Process Teams chats
+    # Task 2: Process ALL Teams chats (1:1, group, and meeting chats)
     chat_task = Task(
-        description=f"""Process Teams DM chats from today. Time: {timestamp} UTC
+        description=f"""Process ALL Teams chats from today — 1:1 DMs, group chats, AND meeting chats. Time: {timestamp} UTC
 
-1. Call get_teams_chats(limit=100, since_start_of_day=True)
-2. For each chat with activity, call get_chat_messages(chat_id, limit=500, since_start_of_day=True)
+1. Call get_teams_chats(limit=100, since_start_of_day=True) — this returns ALL chat types
+2. For EVERY chat returned (regardless of chat_type), call get_chat_messages(chat_id, limit=500, since_start_of_day=True)
 3. For each chat, read knowledge/teams/{date_str}/[display-name].md first to see what's already archived
 4. Only archive NEW messages not already in the file (match by timestamp + sender)
 5. Append new messages to knowledge/teams/{date_str}/[display-name].md using append=True
+
+CRITICAL: Do NOT skip any chat type. Archive ALL of them:
+- oneOnOne chats (1:1 DMs)
+- group chats (group DMs)
+- meeting chats (in-meeting chat messages from Teams meetings)
 
 CRITICAL: Use the chat's display_name field for filename (person's name for 1:1 chats).
 Convert to kebab-case. NEVER use chat ID or GUID in filename.
 
 If no NEW messages, report "0 new messages".""",
-        expected_output="""Report: message_count, new_messages_archived, chat_count, files_updated""",
+        expected_output="""Report: total_chats_processed, oneOnOne_count, group_count, meeting_chat_count, message_count, new_messages_archived, files_updated""",
         agent=chat_agent,
     )
 
@@ -58,18 +63,20 @@ If no NEW messages, report "0 new messages".""",
 1. Call get_joined_teams() to get team list
 2. For each team, call get_team_channels(team_id)
 3. For each channel, call get_channel_messages(team_id, channel_id, limit=500, since_start_of_day=True)
-4. For each channel file, read knowledge/channels/{date_str}/[team]-[channel].md first
-5. Only archive NEW messages not already in the file (match by timestamp + sender)
-6. Append new messages using append=True
+4. For each message with reply_count > 0, call get_channel_message_replies(team_id, channel_id, message_id) to get the full reply thread
+5. For each channel file, read knowledge/channels/{date_str}/[team]-[channel].md first
+6. Only archive NEW messages and replies not already in the file (match by timestamp + sender)
+7. Append new messages using append=True
 
+Include reply threads indented under the parent message.
 If no NEW messages, report "0 new messages".""",
-        expected_output="""Report: message_count, new_messages_archived, channel_count, files_updated""",
+        expected_output="""Report: message_count, reply_count, new_messages_archived, channel_count, files_updated""",
         agent=channel_agent,
     )
 
-    # Task 4: Process calendar, Harvest, transcripts
+    # Task 4: Process calendar, Harvest, transcripts, and Copilot meeting summaries
     context_task = Task(
-        description=f"""Process calendar, time tracking, and transcripts for today. Time: {timestamp} UTC
+        description=f"""Process calendar, time tracking, meeting summaries, and transcripts for today. Time: {timestamp} UTC
 
 STEP 1 — Calendar & Harvest:
 1. Call get_today_events() for calendar events
@@ -78,24 +85,37 @@ STEP 1 — Calendar & Harvest:
 4. Archive time entries to knowledge/harvest/{date_str}.md using append=True
    Format: ## HH:MM - [Project] / [Task] — [hours]h [notes]
 
-STEP 2 — Meeting summaries:
+STEP 2 — Meeting summaries with Copilot AI insights:
 5. Call get_meetings_for_date(date="{date_str}", limit=200) to enumerate today's online meetings
 6. For EACH meeting returned:
    a. Call get_meeting_summary(subject=subject, organizer_email=organizer_email)
-   b. Archive to knowledge/meetings/{date_str}-[subject-slug].md (append=True)
-   Format: # [Subject] **Date:** {date_str} **Attendees:** [list] ## Summary [insights]
+      This returns Copilot AI-generated insights including:
+      - Action items and follow-ups
+      - Meeting notes and key discussion points
+      - A transcript preview (first ~3000 chars)
+   b. Archive EVERYTHING returned to knowledge/meetings/{date_str}-[subject-slug].md (append=True)
+      Format: # [Subject]
+      **Date:** {date_str} | **Attendees:** [list]
+      ## Copilot Summary
+      [AI-generated insights, action items, notes]
+      ## Transcript Preview
+      [transcript preview text if available]
 
-STEP 3 — Transcripts:
+STEP 3 — Full transcripts:
 7. Call get_all_transcripts(limit=200) for available transcripts
-8. For EACH transcript from today:
-   a. Call get_transcript_by_meeting_id(meeting_id) to get the full transcript content
+8. For EACH transcript from today (match by date in the transcript metadata):
+   a. Call get_transcript_by_meeting_id(meeting_id) to get the FULL transcript content
    b. Archive to knowledge/meetings/transcripts/{date_str}-[subject-slug].md (append=True)
-   Format: # Transcript: [Subject] **Date:** {date_str} ## Content [transcript text]
+      Format: # Transcript: [Subject]
+      **Date:** {date_str}
+      ## Full Transcript
+      [complete transcript text]
 
+IMPORTANT: You MUST complete ALL three steps. Do not stop after Step 1.
 DEDUPLICATION: Before archiving, read the target file first. Skip if content already exists.
 
-Report calendar status, timer status, meeting count, and transcript count.""",
-        expected_output="""Report: calendar_events, running_timer, meetings_archived, transcript_count, harvest_entries, files_updated""",
+Report calendar status, timer status, meeting count, copilot summaries archived, and transcript count.""",
+        expected_output="""Report: calendar_events, running_timer, meetings_archived, copilot_summaries, transcript_count, harvest_entries, files_updated""",
         agent=context_agent,
     )
 

@@ -78,28 +78,35 @@ ALWAYS use append=True. Never overwrite existing content.""",
 
 
 def create_teams_chat_agent() -> Agent:
-    """Agent that collects and archives Teams DM chats."""
+    """Agent that collects and archives all Teams chats."""
     return Agent(
         role="Teams Chat Processor",
-        goal="Collect today's Teams DM chats and archive them with human-readable filenames",
-        backstory="""You collect and archive Teams direct message chats.
+        goal="Collect ALL of today's Teams chats (1:1, group, and meeting chats) and archive them",
+        backstory="""You collect and archive ALL Teams chat conversations — 1:1 DMs, group chats, and meeting chats.
 
 Tools:
-- get_teams_chats(limit=100, since_start_of_day=True) - returns chats with display_name field
+- get_teams_chats(limit=100, since_start_of_day=True) - returns ALL chat types with display_name field
 - get_chat_messages(chat_id, limit=500, since_start_of_day=True) - messages for each chat
 - write_knowledge - to archive (use append=True)
 - read_knowledge - check existing files first
+
+IMPORTANT: Process EVERY chat returned, regardless of chat_type. This includes:
+- oneOnOne: 1:1 direct messages
+- group: group DM conversations  
+- meeting: in-meeting chat messages from Teams meetings
 
 CRITICAL FILE NAMING RULES:
 1. Each chat object has a "display_name" field - THIS IS THE PERSON'S NAME
 2. For 1:1 chats, display_name = the other person's full name (e.g., "Fraser Smith")
 3. For group chats, display_name = the chat topic (e.g., "Project Team")
-4. YOU MUST use display_name for the filename, converted to lowercase-kebab-case
+4. For meeting chats, display_name = the meeting subject
+5. YOU MUST use display_name for the filename, converted to lowercase-kebab-case
 
 EXAMPLES:
 - display_name: "Fraser Smith" -> filename: "fraser-smith.md"
 - display_name: "Charlie Phipps-Bennett" -> filename: "charlie-phipps-bennett.md"
 - display_name: "Marketing Team" -> filename: "marketing-team.md"
+- display_name: "Weekly Standup" -> filename: "weekly-standup.md"
 
 NEVER use:
 - chat_id in filename
@@ -131,18 +138,26 @@ def create_teams_channel_agent() -> Agent:
     """Agent that collects and archives Teams channel messages."""
     return Agent(
         role="Teams Channel Processor",
-        goal="Collect today's Teams channel messages and archive them",
+        goal="Collect today's Teams channel messages including reply threads and archive them",
         backstory="""You collect and archive Teams channel messages.
 
 Tools:
 - get_joined_teams() - list of teams
 - get_team_channels(team_id) - channels in each team
 - get_channel_messages(team_id, channel_id, limit=500, since_start_of_day=True) - messages
+- get_channel_message_replies(team_id, channel_id, message_id, limit=50) - replies to a message thread
 - write_knowledge - to archive (use append=True)
 - read_knowledge - check existing files first
 
+IMPORTANT: After getting channel messages, check each message's reply_count field.
+If reply_count > 0, call get_channel_message_replies to fetch the full thread.
+
 Archive to: knowledge/channels/YYYY-MM-DD/[team]-[channel].md
-Format: ## HH:MM - [Sender] > [message content]
+
+Format:
+## HH:MM - [Sender] > [message content]
+### Replies:
+> **HH:MM - [Reply Sender]:** [reply content]
 
 DEDUPLICATION: Before appending, read the existing file and skip any messages
 whose timestamp + sender already appears in it. Only append genuinely new messages.
@@ -161,25 +176,27 @@ def create_context_agent() -> Agent:
     """Agent that collects calendar, Harvest, and transcript data."""
     return Agent(
         role="Context Processor",
-        goal="Collect calendar events, time tracking, meeting summaries, and transcripts",
-        backstory="""You collect contextual data: calendar, Harvest time tracking, meeting summaries, and transcripts.
+        goal="Collect calendar events, time tracking, Copilot meeting summaries, and full transcripts",
+        backstory="""You collect contextual data: calendar, Harvest time tracking, Copilot AI meeting summaries, and full transcripts.
 
 Tools:
 - get_today_events() - today's calendar
 - harvest_running_timers() - active timers
 - harvest_today_tracking() - today's time entries
 - get_meetings_for_date(date=YYYY-MM-DD, limit=200) - enumerate today's online meetings
-- get_meeting_summary(subject, organizer_email=None) - Copilot AI insights
-- get_all_transcripts(limit=200) - available transcripts
+- get_meeting_summary(subject, organizer_email=None) - Copilot AI insights including action items, notes, and transcript preview
+- get_all_transcripts(limit=200) - available transcripts metadata
 - get_transcript_by_meeting_id(meeting_id) - full transcript content
 - write_knowledge - to archive (use append=True)
 - read_knowledge - check existing files first
 
-You MUST complete ALL three steps:
+You MUST complete ALL three steps in order:
 1. Calendar + Harvest time entries → archive to knowledge/harvest/YYYY-MM-DD.md
-2. Meeting summaries → archive to knowledge/meetings/YYYY-MM-DD-[subject-slug].md
-3. Transcripts → fetch content and archive to knowledge/meetings/transcripts/YYYY-MM-DD-[subject-slug].md
+2. Meeting summaries with Copilot AI insights → archive to knowledge/meetings/YYYY-MM-DD-[subject-slug].md
+   IMPORTANT: Include ALL Copilot-generated content: action items, follow-ups, meeting notes, discussion points, and transcript previews
+3. Full transcripts → fetch content and archive to knowledge/meetings/transcripts/YYYY-MM-DD-[subject-slug].md
 
+Do NOT stop after step 1. Steps 2 and 3 are critical.
 DEDUPLICATION: Before archiving, read the target file first. Skip if content already exists.
 ALWAYS use append=True for existing files. Never overwrite.""",
         mcps=[get_mcp_server()],
