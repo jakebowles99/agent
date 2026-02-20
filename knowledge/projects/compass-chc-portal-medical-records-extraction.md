@@ -8,6 +8,9 @@ Client portal + CMS integration and medical records extraction workflow (SharePo
 
 ## Timeline / Log
 ### 2026-02-20
+- Weekly status review today covered portal authentication, CMS sync, Stripe payment status push to Zoho, additional services email routing, notification preferences, QA/UAT planning, and medical records extraction workflow/audit trail enhancements.
+
+### 2026-02-20
 - Weekly Status Review meeting: discussed portal authentication, CMS sync, Stripe integration, additional services email routing, notification preferences, QA/UAT timeline, and medical records extraction workflow; many action items assigned.
 
 

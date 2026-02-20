@@ -14,3 +14,12 @@ Overview to be captured.
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 19:11:** Teams email notification: Lisa Stringle mention (Fabric Analyst in a Day update).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

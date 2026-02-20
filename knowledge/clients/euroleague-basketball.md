@@ -47,3 +47,15 @@ Premier professional basketball league in Europe, organizing top-tier club compe
 
 ---
 *Last Updated: February 7, 2026*
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-20 19:11:** Email: Euroleague Basketball RFP outcome (proposal unsuccessful); Charlie requested feedback.
+

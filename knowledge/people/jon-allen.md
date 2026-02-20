@@ -9,6 +9,7 @@
 - **Email**: Jonathan.Allen@midwich.com
 
 ## Recent interactions
+- **2026-02-20 19:08:** Participant in 'Chat with Your Data in a Day' Teams event chat; discussed RDP/auth issues.
 - **2026-02-20 16:09:** Discussed Boomi & Slipstream master file formats and approach with Jake.
 - **2026-02-20 15:07:** Discussed Boomi & Slipstream formats and master files; appears in Midwich-related Teams chats.
 - **2026-02-20 13:08:** Discussed Boomi & Slipstream master file formats; requested required formats and approach details.

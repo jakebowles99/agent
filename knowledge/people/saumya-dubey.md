@@ -9,6 +9,7 @@
 - **Email**: saumya.dubey@synapx.com
 
 ## Recent interactions
+- **2026-02-20 19:08:** OOO/leave reminder; appears in Teams chat and resourcing updates.
 - **2026-02-20 18:07:** Shared Copilot Jumpstart Credly badge link and requested help/time booking guidance.
 - **2026-02-20 15:07:** Noted upcoming leave; active in Synapx chats (Copilot Jumpstart, finance report discussion).
 - **2026-02-20 13:08:** Sent leave reminder email; participated in Teams chats about capacity and project support.

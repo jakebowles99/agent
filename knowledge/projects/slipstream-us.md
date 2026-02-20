@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Active in Harvest. Related comms today referenced Boomi & Slipstream master file formats/HLD (email thread).
+
+### 2026-02-20
 - Active Harvest project (SOW010). Email thread 'Boomi & Slipstream - K&S'—requested master file formats; committed to send required formats and a high-level design (HLD) approach.
 
 ### 2026-02-20

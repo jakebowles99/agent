@@ -14,3 +14,12 @@ Overview to be captured.
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 19:11:** Email: Doc Extraction Webpage Requirements follow-up (Owais Sidat to update navigation/menu link/name).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

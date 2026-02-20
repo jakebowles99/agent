@@ -14,3 +14,13 @@ Overview to be captured.
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 19:11:** Email: BES Group - draft SoW shared (from Josh de la Harpe).
+- **2026-02-20 19:11:** Sent email: Accepted placeholder for Venture Tech Discussion (Steven Smith, BES Group).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

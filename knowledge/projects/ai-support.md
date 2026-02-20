@@ -11,6 +11,9 @@ Ongoing AI support engagement for Pro Global.
 
 ## Timeline / Log
 ### 2026-02-20
+- Active in Harvest.
+
+### 2026-02-20
 - No specific comms captured today beyond being listed as an active Harvest project.
 
 ### 2026-02-20
