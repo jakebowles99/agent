@@ -28,3 +28,12 @@
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 12:13:** Email: Fabric Set Up Project Kick Off — access confirmation and password reset context (Phil Carter / Andrew Price).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

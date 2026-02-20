@@ -8,6 +8,9 @@ Internal product work: AI readiness score and related engineering workflow/tooli
 
 ## Timeline / Log
 ### 2026-02-20
+- Product catchup discussed implementation approach, Foundry endpoints access, and LLM API key needs.
+
+### 2026-02-20
 - Product catchup: confirmed Foundry endpoint access; discussed LLM-based scoring approach and API key needs for implementation.
 
 ### 2026-02-20

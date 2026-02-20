@@ -25,3 +25,11 @@
 
 ---
 *Last Updated: 2026-02-20*
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

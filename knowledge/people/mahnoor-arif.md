@@ -9,6 +9,7 @@
 - **Email**: v-maharif@microsoft.com
 
 ## Recent interactions
+- **2026-02-20 12:07:** Email re Post Event Call: Synapx - CDIAD - Feb 20th.
 - **2026-02-20 11:05:** Post event call coordination for Synapx CDIAD; cancellation/updates.
 - **2026-02-20 09:05:** Coordinated/cancelled post-event call for Synapx CDIAD Feb 20; email thread with Jake Bowles.
 - **2026-02-20 08:06:** Coordinated/canceled post-event call; replied to Jake about scheduling.

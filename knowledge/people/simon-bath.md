@@ -9,6 +9,7 @@
 - **Email**: simon.bath@mexasolutions.com
 
 ## Recent interactions
+- **2026-02-20 12:09:** Shared Microsoft salary guide attachments; in thread with Charlie.
 - **2026-02-20 11:05:** Shared Microsoft salary guide attachments (infra and data/analytics) and noted updates in progress.
 - **2026-02-20 09:06:** Sent Microsoft salary guide attachments (infra and data & analytics); updating AI/automation guide.
 - **2026-02-20 08:07:** Provided salary guide attachments; corresponded with Charlie about sharing data/infrastructure guides.

@@ -26,3 +26,12 @@
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 12:13:** Meeting: Standup - LCP Doc Extraction — plugin testing and deployment planning; demo scheduling and manifest troubleshooting (Ajay/Charlie/Vijay/Navsheen/Jake).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

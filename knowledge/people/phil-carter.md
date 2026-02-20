@@ -9,6 +9,7 @@
 - **Email**: pcarter@capitalhb.co.uk
 
 ## Recent interactions
+- **2026-02-20 12:09:** Discussed Fabric Set Up Project Kick Off access and password reset details.
 - **2026-02-20 11:05:** Provided update on Fabric setup access and password reset for admin account.
 - **2026-02-20 09:06:** Confirmed access for Fabric/Power BI/Azure DevOps/Azure Portal after Fabric setup kickoff; troubleshooting access queries.
 - **2026-02-20 08:06:** Confirmed access setup for Fabric/Power BI/Azure DevOps/Azure Portal after kickoff with Andrew.

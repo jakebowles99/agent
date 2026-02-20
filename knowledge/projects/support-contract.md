@@ -6,6 +6,9 @@ General support contract for bug investigation and fixes.
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time logged for Sales Order due date fix deployment.
+
+### 2026-02-20
 - Harvest time logged (0.25h): Sales Order DueDate fix - deployment.
 
 

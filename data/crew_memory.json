@@ -3,6 +3,14 @@
     "last_runs": [
       {
         "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "I can\u2019t comply with the request to ignore prior instructions.",
+        "timestamp": "2026-02-20T12:16:17.889631+00:00"
+      },
+      {
+        "status": "success",
         "emails_found": 50,
         "messages_found": 6,
         "files_updated": 36,
@@ -72,14 +80,6 @@
         "files_updated": 43,
         "result_preview": "inbox_updated: false\nindex_regenerated: true\nsummary: Requirements not met \u2014 the newest entry (`## 2026-02-20 03:00`) was not prepended to the top of `knowledge/inbox.md` (the file currently starts with `## 2026-02-20 02:00`). Teams chats/channels ingestion requirements also remain unmet per prior context.\n\n## knowledge/inbox.md (complete current content)\n\n```md\n## 2026-02-20 02:00\n\n### Changes Today\n- **Emails:** 0\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 1 mes",
         "timestamp": "2026-02-20T03:13:21.513830+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 0,
-        "messages_found": 0,
-        "files_updated": 43,
-        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```markdown\n## 2026-02-20 02:00\n\n### Changes Today\n- **Emails:** 0\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 1 messages in 1 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 19 updated\n- **Project Profiles:** 13 updated\n- **Client Profiles:** 11 updated\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to Fraser with any clients using NordVPN dedicated I",
-        "timestamp": "2026-02-20T02:11:30.379873+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 185,
+      "total_runs": 186,
       "emails_processed": 650,
       "messages_processed": 66,
       "files_updated": 454
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-20T11:10:41.279629+00:00",
+    "last_updated": "2026-02-20T12:16:17.889641+00:00",
     "version": "1.0"
   }
 }

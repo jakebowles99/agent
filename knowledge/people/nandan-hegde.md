@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-20 12:09:** OOO auto-reply; posted about Fabric/Power BI outage; mentioned as recipient in emails.
 - **2026-02-20 09:07:** Posted Fabric/Power BI outage and Business Central bootcamp links; referenced in meeting recording expiry notices; participant in multiple Synapx communications.
 - **2026-02-20 08:07:** OOO auto-reply; posted Fabric/Power BI outage note; member of Synapx Directors chat and others.
 - **2026-02-20 07:08:** OOO auto-reply; included in multiple email threads and meeting recording notices.

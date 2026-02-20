@@ -28,3 +28,13 @@ Synapx internal (non-client) projects and operations.
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 12:13:** Internal meeting: Synapx Internal Projects - Weekly Governance Meeting (canceled).
+- **2026-02-20 12:13:** Channel notice: NordVPN ending; move to Azure VPN Client and need to notify clients using NordVPN access (Fraser Hamilton).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

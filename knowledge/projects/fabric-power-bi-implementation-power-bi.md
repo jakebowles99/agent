@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric/Power BI implementation (Power BI workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Kick-off/access setup emails (Fabric Set Up Project Kick Off) indicate accounts now access Power BI/Fabric/Azure DevOps/Azure Portal; password reset issue discussed.
+
+### 2026-02-20
 - Kick-off/access email updates; accounts confirmed working for Power BI/Fabric/Azure DevOps/Azure Portal.
 
 ### 2026-02-20
