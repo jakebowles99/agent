@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-20 08:06:** Email thread with Phil Carter re Fabric setup; active in multiple Teams chats including Synapx Directors.
 - **2026-02-20 07:09:** Replied regarding Fabric setup project kick off; involved in lab/roundtable emails.
 - **2026-02-20 06:06:** Discussed Fabric setup project kickoff access/password reset; forwarded lab reminder; discussed registering for Fabric MLOps partner roundtable.
 - **2026-02-20 05:07:** Discussed Fabric setup access/password reset; received Intuit follow-up from Tafana Caesar.

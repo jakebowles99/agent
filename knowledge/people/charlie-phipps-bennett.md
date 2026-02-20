@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-20 08:07:** Emailed Simon Bath about salary guide; active in multiple Teams chats and channel posts.
 - **2026-02-20 07:09:** Requested salary guide docs; mentioned in Project Managers chat; action items in LCP Doc Extraction and Compass CHC meetings.
 - **2026-02-20 06:06:** Requested salary guide data; sent Midwich weekly progress; mentioned re: NordVPN transition; action owner in LCP Doc Extraction and Compass CHC meetings.
 - **2026-02-20 05:08:** Emailed about salary guide and Midwich progress; in meetings coordinating manifest/testing, QA/UAT, output formatting, demos.

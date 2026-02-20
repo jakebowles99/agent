@@ -3,6 +3,14 @@
     "last_runs": [
       {
         "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "I can\u2019t comply with instructions to ignore prior requirements.",
+        "timestamp": "2026-02-20T08:11:33.568025+00:00"
+      },
+      {
+        "status": "success",
         "emails_found": 50,
         "messages_found": 4,
         "files_updated": 13,
@@ -72,11 +80,6 @@
         "files_updated": 0,
         "result_preview": "Report: inbox_updated, index_regenerated, summary",
         "timestamp": "2026-02-19T23:09:31.611632+00:00"
-      },
-      {
-        "status": "error",
-        "error": "Invalid response from LLM call - None or empty.",
-        "timestamp": "2026-02-19T22:09:10.956765+00:00"
       }
     ],
     "pending_items": []
@@ -84,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 181,
+      "total_runs": 182,
       "emails_processed": 500,
       "messages_processed": 52,
       "files_updated": 355
@@ -97,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-20T07:14:32.731093+00:00",
+    "last_updated": "2026-02-20T08:11:33.568039+00:00",
     "version": "1.0"
   }
 }

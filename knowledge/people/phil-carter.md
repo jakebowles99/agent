@@ -9,6 +9,7 @@
 - **Email**: pcarter@capitalhb.co.uk
 
 ## Recent interactions
+- **2026-02-20 08:06:** Confirmed access setup for Fabric/Power BI/Azure DevOps/Azure Portal after kickoff with Andrew.
 - **2026-02-20 07:09:** Confirmed access sorted for Fabric/Azure DevOps/Azure Portal after kickoff.
 - **2026-02-20 06:06:** Followed up after Fabric setup kickoff; confirmed access to Power BI/Fabric/Azure DevOps/Azure Portal.
 - **2026-02-20 05:08:** Confirmed three accounts have access to Power BI, Fabric, Azure DevOps, and Azure Portal; coordinating with Andrew Price.

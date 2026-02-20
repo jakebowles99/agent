@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Email thread referenced “Boomi & Slipstream - K&S” and follow-up to send required master file formats and an HLD.
+
+### 2026-02-20
 - Midwich Squad standup held; resource capacity changes discussed in Project Managers chat (Vijay reduced; Hemanth overutilized across LCP/Midwich/Seras).
 
 ### 2026-02-20
