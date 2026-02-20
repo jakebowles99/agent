@@ -9,6 +9,7 @@
 - **Email**: pcarter@capitalhb.co.uk
 
 ## Recent interactions
+- **2026-02-20 02:05:** Confirmed accounts can access Power BI, Fabric, Azure DevOps, Azure Portal; discussed access/password reset.
 - **2026-02-20 01:07:** Discussed access/accounts for Fabric setup project kickoff.
 - **2026-02-19 22:08:** Discussed Fabric setup project kick-off and access/password reset details.
 - **2026-02-18 23:08:** Requested meeting to understand Fabric setup project kick-off requirements.

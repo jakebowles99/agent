@@ -9,6 +9,7 @@
 - Teams DM available
 
 ## Recent interactions
+- **2026-02-20 02:06:** Shared Azure OpenAI DALL-E retirement notice; announced NordVPN to Azure VPN Client transition and requested client firewall IP update info.
 - **2026-02-20 01:07:** Forwarded Azure OpenAI DALL-E retirement notice; posted NordVPN to Azure VPN transition note in Everyone-Genuinely channel.
 - **2026-02-20 00:06:** Posted NordVPN to Azure VPN Client transition notice; asked who uses NordVPN for client environments.
 - **2026-02-18 22:01:** Shared info on AVD VMs (B-series) and noted 14 VMs before Oct 2028 with Azure update link.

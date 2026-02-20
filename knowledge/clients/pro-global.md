@@ -65,3 +65,11 @@ Pro Global — insurance services client; Synapx provides AI support under a sup
 ## Relevant Projects
 - None yet.
 
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

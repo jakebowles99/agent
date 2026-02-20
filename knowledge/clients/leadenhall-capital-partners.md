@@ -17,6 +17,7 @@ Leadenhall Capital Partners is a client engaged on Fabric-related integrations.
 *Last Updated: 2026-02-20*
 - **2026-02-20 00:09:** Standup: LCP Doc Extraction—plugin testing, manifest troubleshooting, and deployment planned for Monday evening IST; demo scheduling discussed.
 - **2026-02-20 01:10:** Standup - LCP Doc Extraction: testing and deployment planning for plugin/demo; action items assigned (Ajay, Navsheen, Vijay, Charlie).
+- **2026-02-20 02:09:** 2026-02-20: LCP Doc Extraction standup: plugin local testing instructions/test account; manifest troubleshooting; deployment planned Monday evening IST for demo; dashboard PDF layout tweaks; testing prioritised on AI extraction.
 
 ## Relevant People
 - None yet.
@@ -28,6 +29,14 @@ Leadenhall Capital Partners is a client engaged on Fabric-related integrations.
 
 ## Company Overview
 Leadenhall Capital Partners (LCP) — financial services client; Synapx is building a document extraction solution and integrating FX rates in Microsoft Fabric.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 
 
 ## Relevant People

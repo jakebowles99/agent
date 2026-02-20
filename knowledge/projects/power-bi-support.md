@@ -8,6 +8,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 
 ## Timeline / Log
 ### 2026-02-20
+- Adobe Sign email received requesting signature for 'WA COMMUNICATIONS_SOW004_Support (T&M)_19 February 2026'.
+
+### 2026-02-20
 - Active in Harvest (SOW004).
 
 ### 2026-02-20

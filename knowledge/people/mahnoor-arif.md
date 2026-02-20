@@ -9,6 +9,7 @@
 - **Email**: v-maharif@microsoft.com
 
 ## Recent interactions
+- **2026-02-20 02:06:** Coordinated/canceled post-event call scheduling with Jake Bowles.
 - **2026-02-20 01:07:** Email re/canceled Post Event Call: Synapx - CDIAD - Feb 20th.
 - **2026-02-19 23:05:** Added user to XIAD - In a Day Events Teams team; related post-event call scheduling/cancellation.
 - **2026-02-19 20:09:** Added user to XIAD Teams team; event call scheduling/cancellation.

@@ -1,3 +1,42 @@
+## 2026-02-20 02:00
+
+### Changes Today
+- **Emails:** 0
+- **Teams Chats:** 0 messages across 0 conversations
+- **Teams Channels:** 1 messages in 1 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 19 updated
+- **Project Profiles:** 13 updated
+- **Client Profiles:** 11 updated
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to Fraser with any clients using NordVPN dedicated IP (212.237.225.22) so they can be updated to Azure VPN external IP range (51.142.25.0/30) before Sun 22 Feb.
+- [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; troubleshoot/update manifest and share with Charlie/Vijay; improve dashboard PDF layout; deploy plugin to client tenant by Monday evening IST.
+- [ ] LCP Doc Extraction: Navsheen to schedule demo slot after 18:00 IST Monday; send required documents to Vijay.
+- [ ] LCP Doc Extraction: Vijay to prioritise AI extraction testing and report issues.
+- [ ] LCP Doc Extraction: Charlie to customise manifest and confirm whether issue is resolved.
+- [ ] Product: Rahul to confirm access to Foundry endpoints; request LLM API keys from Jake if needed.
+- [ ] Compass CHC: Kia to confirm shared inbox routing for additional services requests; Tarun to fix DOB format (UK), update case timeline, integrate actions required with CMS, add UI feedback for notifications & preferences, align brand colours; Tarun/Charlie to sync payment status CMS→Zoho; Charlie/Munni to set Lewis demo time; Narayan to enable bulk approval status field + inactive dropdown + org/folder field and update SharePoint flow; Charlie to finish QA + set UAT date + written status update; Rachel/Andy to validate written extraction requirements and confirm back.
+
+### Files Updated
+- knowledge/emails/2026-02-20.md
+- knowledge/channels/2026-02-20/Synapx | Everyone-Genuinely.md
+- knowledge/harvest/2026-02-20.md
+- knowledge/meetings/2026-02-20-midwich-squad-daily-standup.md
+- knowledge/meetings/2026-02-20-standup-lcp-doc-extraction.md
+- knowledge/meetings/2026-02-20-product-catchup.md
+- knowledge/meetings/2026-02-20-canceled-synapx-internal-projects-weekly-governance-meeting.md
+- knowledge/meetings/2026-02-20-weekly-status-review-compass-chc.md
+- knowledge/meetings/2026-02-20-iwantmore-ai-and-synapx-regular-check-in.md
+- knowledge/harvest/2026-02-20.md
+- knowledge/inbox.md
+- knowledge/index.md
+
+---
+
+
 ## 2026-02-20 01:00
 
 ### Changes Today
@@ -88,7 +127,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Capital Hair & Beauty / Fabric setup: confirm tomorrows meeting time (Phil requested 11:0012:00); ensure Synapx admin access to Azure subscription; resolve password reset + MFA/2FA setup.
+- [ ] Capital Hair & Beauty / Fabric setup: confirm tomorrow’s meeting time (Phil requested 11:00–12:00); ensure Synapx admin access to Azure subscription; resolve password reset + MFA/2FA setup.
 - [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; troubleshoot/update manifest and share; improve dashboard PDF layout; deploy plugin to client tenant by Monday evening IST.
 - [ ] LCP Doc Extraction: Navsheen to schedule demo after 18:00 IST Monday; send required docs to Vijay.
 - [ ] LCP Doc Extraction: Vijay to prioritise AI extraction testing and report issues.
@@ -110,6 +149,7 @@
 - knowledge/meetings/2026-02-19-delivery-leadership-call.md
 - knowledge/meetings/2026-02-19-jake-nandan-forecast-updates.md
 - knowledge/meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md
+- knowledge/meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md
 - knowledge/meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md
 - knowledge/teams/2026-02-19/andrew-hutchison-dave-jackson-matt-davies.md
 - knowledge/teams/2026-02-19/andrew-price-charlie-phipps-bennett-kim-totten-matt-davies.md

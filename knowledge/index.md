@@ -6,9 +6,9 @@
 
 | Project | Client | Status |
 |---|---|---|
-| [Compass CHC](projects/compass-chc.md) | (Compass CHC) | Active |
-| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [LCP](clients/lcp.md) | Active |
-| [Capital HB / Capital Hair & Beauty — Fabric](projects/capital-hb-fabric.md) | [Capital HB](clients/capital-hb.md) | Active |
+| [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital HB](clients/capital-hb.md) | Active |
+| [Compass CHC](projects/compass-chc.md) | [Compass CHC](clients/compass-chc.md) | Active |
+| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active |
 | [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
 | [Nimans Slipstream](projects/nimans-slipstream.md) | [Midwich](clients/midwich.md) | Active |
 | [Slipstream US](projects/slipstream-us.md) | [Midwich](clients/midwich.md) | Active |
@@ -17,10 +17,10 @@
 
 | Client | Key contact | Active project |
 |---|---|---|
-| [Capital HB](clients/capital-hb.md) | [Phil Carter](people/phil-carter.md) | Capital HB / Fabric Setup |
-| [LCP](clients/lcp.md) | (see profile) | LCP Doc Extraction |
-| [Midwich](clients/midwich.md) | [Joe Thompson](people/joe-thompson.md) | Slipstream (UK/US) |
-| [Iwantmore.ai](clients/iwantmoreai.md) | (see profile) | Regular check-in |
+| [Capital HB](clients/capital-hb.md) | [Phil Carter](people/phil-carter.md) | [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) |
+| [Compass CHC](clients/compass-chc.md) | [Munni](people/munni.md) | [Compass CHC](projects/compass-chc.md) |
+| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | [Munni](people/munni.md) | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
+| [Midwich](clients/midwich.md) | [Joe Thompson](people/joe-thompson.md) | [Nimans Slipstream](projects/nimans-slipstream.md) |
 
 ## Key People
 
@@ -32,7 +32,7 @@
 - [Tarun Reddy](people/tarun-reddy.md)
 - [Ajay Gannamaneni](people/ajay-gannamaneni.md)
 - [Navsheen Koul](people/navsheen-koul.md)
-- [Narayan](people/narayan.md)
+- [Narayan Solanki](people/narayan-solanki.md)
 
 ### Key External Contacts
 - [Phil Carter](people/phil-carter.md) (Capital HB)
@@ -48,7 +48,7 @@
 - [2026-02-20 Midwich Squad - daily standup](meetings/2026-02-20-midwich-squad-daily-standup.md)
 - [2026-02-20 Canceled: Synapx Internal Projects - Weekly Governance Meeting](meetings/2026-02-20-canceled-synapx-internal-projects-weekly-governance-meeting.md)
 - [2026-02-20 iwantmore.ai and Synapx- Regular check in](meetings/2026-02-20-iwantmore-ai-and-synapx-regular-check-in.md)
-- [2026-02-19 Placeholder: BES Group Fabric Discussion](meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md)
+- [2026-02-19 Product Catchup](meetings/2026-02-19-product-catchup.md)
 
 ## Upcoming Deadlines (from calendar/context)
 - **2026-02-22:** NordVPN ends; transition to Azure VPN. Collect client list that whitelists NordVPN dedicated IP (212.237.225.22) and update to Azure VPN external IP range (51.142.25.0/30).
