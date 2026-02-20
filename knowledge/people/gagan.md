@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 03:07:** Mentioned as recipient in SharePoint list fields email from Amanda Bond.
 - **2026-02-11 20:05:** Mentioned as having been told to involve Sales for commercial items; discussed in directors chat.
 - **2026-02-11 19:48:** Mentioned as having been told to involve Sales for commercial matters; discussion about his communications.
 - **2026-02-11 19:24:** Mentioned as having submitted BI/Apps proposal to client; Matt planned a follow-up call with Gagan.
@@ -17,4 +18,4 @@
 - **2026-02-10 13:20:** Mentioned as contributing effort for data discovery documentation/architecture diagram work.
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-20*

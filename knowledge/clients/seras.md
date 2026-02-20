@@ -54,3 +54,11 @@ Seras — client engaging Synapx for data discovery and roadmap for Microsoft Fa
 ## Relevant Projects
 - None yet.
 
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

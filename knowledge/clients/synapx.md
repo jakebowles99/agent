@@ -34,9 +34,18 @@ Overview to be captured.
 - **2026-02-20 02:09:** 2026-02-20: Teams channel note about NordVPN to Azure VPN Client transition; request to identify client environments that relied on NordVPN dedicated IP for firewall allowlisting.
 - **2026-02-20 02:09:** 2026-02-20: Product catchup (internal) discussing Foundry endpoints/model deployments and AI readiness score implementation.
 - **2026-02-20 02:09:** 2026-02-20: Canceled internal projects governance meeting.
+- **2026-02-20 03:11:** Internal Teams message: NordVPN ending 22 Feb; clients using NordVPN access need new Azure external IP allowlisting.
 
 ## Company Overview
 Synapx (internal) — internal delivery/projects and operations.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 
 
 ## Relevant People

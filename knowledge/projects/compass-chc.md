@@ -8,6 +8,9 @@ Client portal + CMS + medical records extraction workflow (Zoho/SharePoint) incl
 
 ## Timeline / Log
 ### 2026-02-20
+- Weekly status review: discussed portal UI fixes, additional services email routing/testing, CMS integration items, payment status sync to Zoho, requirements validation, and next demos/UAT planning.
+
+### 2026-02-20
 - Weekly Status Review meeting covered portal/CMS integration, additional services email routing, payment status sync to Zoho CRM, UI tweaks, QA/UAT planning, and extensive medical records extraction workflow action items.
 
 ### 2026-02-20

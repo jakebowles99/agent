@@ -73,3 +73,15 @@ Pro Global — insurance services client; Synapx provides AI support under a sup
 ## Relevant Projects
 - None yet.
 
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-20 03:11:** SharePoint notice: “Synapx & Pro Global - AI Kick-off attempt _2” meeting recording expired and deleted.
+

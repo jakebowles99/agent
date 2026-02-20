@@ -116,3 +116,11 @@ Jensten — insurance group client; Synapx supports Microsoft Fabric discovery a
 ## Relevant Projects
 - None yet.
 
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
