@@ -1,56 +1,28 @@
 # Midwich
 
 ## Summary
-
+Client profile for Midwich (including Slipstream US and Midwich Squad work).
 
 ## People
 - [Jon Allen](../people/jon-allen.md)
 - [Joe Thompson](../people/joe-thompson.md)
+- [Andrew Price](../people/andrew-price.md)
+- [Charlie Phipps-Bennett](../people/charlie-phipps-bennett.md)
+- [Nandan Hegde](../people/nandan-hegde.md)
+- [Sophia Fricker](../people/sophia-fricker.md)
+- [Vijay G](../people/vijay-g.md)
 
 ## Projects
 - [Slipstream US](../projects/slipstream-us.md)
 - [Midwich Squad](../projects/midwich-squad.md)
+- [Midwich App Development SOW008](../projects/midwich-app-development-sow008.md)
+- [Slipstream Boomi K&S](../projects/slipstream-boomi-ks.md)
 
 ## Activity notes (2026-02-20)
-- Email thread: “Boomi & Slipstream - K&S” — sent update and promised required master file formats + HLD.
-- Midwich weekly progress email sent to Joe (covering for Yaz).
-- Midwich Squad standup held (no transcript).
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
-
-## Recent Activity
-- **2026-02-20 11:08:** Email thread re: Boomi & Slipstream master file formats + HLD to align approach.
-- **2026-02-20 11:08:** Midwich Limited weekly project progress email sent (in Yaz's absence).
-- **2026-02-20 11:08:** Resource/capacity discussion in PM chat referencing Midwich allocation changes.
-
+- Email thread: Boomi & Slipstream - K&S (Jake replied; will send master file formats + HLD).
+- Email: Midwich Limited - Weekly Project Progress (sent in Yaz’s absence).
+- Teams (Project Managers): Vijay Midwich capacity changed 8h/day -> 3h/day.
+- Meeting: Midwich Squad - daily standup (no transcript/insights).
 
 ---
 *Last Updated: 2026-02-20*
-- **2026-02-20 12:12:** Email thread: Boomi & Slipstream - K&S — requested required master file formats + HLD to align approach (Jon Allen).
-- **2026-02-20 12:12:** Email sent: Midwich Limited - Weekly Project Progress (Charlie covering for Yaz).
-- **2026-02-20 12:12:** PM chat: noted Vijay capacity change on Midwich (8h/day -> 3h/day).
-- **2026-02-20 13:10:** 2026-02-20: Sent email re: Boomi & Slipstream master file formats + HLD for approach.
-- **2026-02-20 13:10:** 2026-02-20: Weekly project progress update sent (email).
-- **2026-02-20 13:10:** 2026-02-20: Resource/capacity changes noted in Teams affecting Midwich.
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-

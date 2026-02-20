@@ -9,6 +9,7 @@
 - **Email**: noreply@microsoft.com
 
 ## Recent interactions
+- **2026-02-20 15:06:** Mentioned Synapx in Teams training-related chat (Fabric Analyst in a Day / Chat with Your Data in a Day).
 - **2026-02-20 14:06:** Mentioned Fabric Analyst in a Day (FAIAD) in Teams notification email.
 - **2026-02-20 12:05:** Mentioned 'Fabric Analyst in a Day (FAIAD)' in Teams notification email.
 - **2026-02-20 09:05:** Mentioned 'Fabric Analyst in a Day (FAIAD)' update in Teams via email notification.

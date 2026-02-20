@@ -9,6 +9,7 @@
 - **Email**: saumya.dubey@synapx.com
 
 ## Recent interactions
+- **2026-02-20 15:07:** Noted upcoming leave; active in Synapx chats (Copilot Jumpstart, finance report discussion).
 - **2026-02-20 13:08:** Sent leave reminder email; participated in Teams chats about capacity and project support.
 - **2026-02-20 12:09:** Sent leave reminder email; mentioned in Project Managers and VPN transition messages.
 - **2026-02-20 11:06:** Notified about upcoming leave; active in Copilot Jumpstart and other delivery chats.

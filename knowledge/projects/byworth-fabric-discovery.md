@@ -11,6 +11,9 @@ Byworth Fabric discovery work for Venture.
 
 ## Timeline / Log
 ### 2026-02-20
+- Project referenced in Teams chats list (Byworth fabric regroup); still active in Harvest.
+
+### 2026-02-20
 - Venture tech discussion placeholder accepted (calendar).
 
 ### 2026-02-20

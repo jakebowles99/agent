@@ -1,46 +1,24 @@
 # Leadenhall Capital Partners
 
 ## Summary
-
+Client profile for Leadenhall Capital Partners (LCP) including Fabric FX rates integration and document extraction workstreams.
 
 ## People
+- [Kenny Balogun](../people/kenny-balogun.md)
+- [Charlie Phipps-Bennett](../people/charlie-phipps-bennett.md)
+- [Ajay Gannamaneni](../people/ajay-gannamaneni.md)
+- [Navsheen Koul](../people/navsheen-koul.md)
+- [Vijay](../people/vijay.md)
+- [Jake Bowles](../people/jake-bowles.md)
 
 ## Projects
 - [Fabric FX Rates Integration](../projects/fabric-fx-rates-integration.md)
 - [LCP Doc Extraction](../projects/lcp-doc-extraction.md)
+- [LCP Overview](../projects/lcp-overview.md)
 
 ## Activity notes (2026-02-20)
-- Internal standup: “Standup - LCP Doc Extraction” — deployment/testing planning and demo scheduling (Copilot notes captured).
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
-
-## Recent Activity
-- **2026-02-20 11:08:** Standup on LCP Doc Extraction: plugin testing/deployment planning; AI extraction testing prioritized; onboarding/demo scheduling after Monday evening IST deployment.
-
+- Harvest: Delivery: Data & AI (pre-sales) notes mention LCP work (Kenny + PA vnet).
+- Meeting: Standup - LCP Doc Extraction — plugin testing/account provision, manifest troubleshooting, deployment plan for Monday evening IST, demo scheduling.
 
 ---
 *Last Updated: 2026-02-20*
-- **2026-02-20 12:13:** Meeting: Standup - LCP Doc Extraction — plugin testing and deployment planning; demo scheduling and manifest troubleshooting (Ajay/Charlie/Vijay/Navsheen/Jake).
-- **2026-02-20 13:11:** 2026-02-20: LCP Doc Extraction standup—plugin testing instructions, manifest troubleshooting, deployment planning for demo, and onboarding/demo scheduling.
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-
-
-## Relevant People
-- None yet.
-
-
-## Relevant Projects
-- None yet.
-

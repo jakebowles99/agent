@@ -11,6 +11,9 @@ FRP Advisory discovery and design engagement (SOW not signed).
 
 ## Timeline / Log
 ### 2026-02-20
+- Listed as active in Harvest; no additional activity captured in today's archived comms.
+
+### 2026-02-20
 - No specific activity found in today's comms.
 
 ### 2026-02-20

@@ -6,65 +6,82 @@
 
 | Project | Client | Status |
 |---|---|---|
-| [Compass CHC](projects/compass-chc.md) | [Compass CHC](clients/compass-chc.md) | Active |
-| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active |
-| [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
-| [Synapx Product (AI Readiness Score)](projects/synapx-product-ai-readiness-score.md) | [Synapx](clients/synapx.md) | Active |
-| [Data Discovery for Microsoft Fabric Migration](projects/data-discovery-for-microsoft-fabric-migration.md) | [Seras](clients/seras.md) | Active |
+| AI Support | (internal/various) | Active |
+| App Development & Roll-out | (internal/various) | Active |
+| BES Group Fabric Discussion | BES Group | Active |
+| Byworth Fabric Discovery | (unknown) | Active |
+| Capital HB Fabric | Capital HB | Active |
+| Compass CHC | Compass CHC | Active |
+| Compass CHC  Portal & Medical Records Extraction | Compass CHC | Active |
+| Compass CHC  Weekly Status Review | Compass CHC | Active |
+| Daily Pipeline & Failure Reporting | (internal/various) | Active |
+| Data Discovery for Microsoft Fabric Migration | (unknown) | Active |
+| Euroleague Basketball RFP | Euroleague Basketball | Closed/Lost |
+| Fabric Discovery | (various) | Active |
+| Fabric FX Rates Integration | LCP | Active |
+| Fabric FX Rates Integration (Graph API) | LCP | Active |
+| Fabric Power BI Implementation (Fabric) | (various) | Active |
+| Fabric Power BI Implementation (Power BI) | (various) | Active |
+| iwantmore.ai Regular Check-in | iwantmore.ai | Active |
+| Jensten Overview | Jensten | Active |
+| LCP Doc Extraction | Leadenhall Capital Partners | Active |
+| LCP Overview | Leadenhall Capital Partners | Active |
+| Leadenhall LemonEdge | Leadenhall Capital | Active |
+| Marketing Requests (Internal) | Synapx | Active |
+| Medical Records Extraction | Compass CHC | Active |
+| Midwich App Development SOW008 | Midwich | Active |
+| Midwich Squad | Midwich | Active |
+| Power BI Support | (various) | Active |
+| Support Contract | WA Communications | Active |
+| Synapx Product (AI Readiness Score) | Synapx | Active |
+| Underwriting Power BI Discovery | (unknown) | Active |
+| WA Communications Support (T&M) | WA Communications | Active |
 
 ## Clients
 
 | Client | Key Contact | Active Project |
 |---|---|---|
-| [Compass CHC](clients/compass-chc.md) | (not set) | [Compass CHC](projects/compass-chc.md) |
-| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | (not set) | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
-| [Midwich](clients/midwich.md) | Jon Allen / Joe Thompson | [Midwich Squad](projects/midwich-squad.md) |
-| [Seras](clients/seras.md) | (not set) | [Data Discovery for Microsoft Fabric Migration](projects/data-discovery-for-microsoft-fabric-migration.md) |
-| [Synapx](clients/synapx.md) | (internal) | [Synapx Product (AI Readiness Score)](projects/synapx-product-ai-readiness-score.md) |
+| Compass CHC | (TBD  see meeting attendees: Kia, Rachel, Louis) | Compass CHC |
+| Leadenhall Capital Partners | (TBD) | LCP Doc Extraction |
+| Midwich | Jon Allen / Joe Thompson (per emails) | Midwich Squad |
+| Synapx (Internal) | Jake Bowles | Synapx Product (AI Readiness Score) |
+| WA Communications | (TBD) | Support Contract |
 
 ## Key People
 
-### Internal
-- [Jake Bowles](people/jake-bowles.md)
-- [Charlie Phipps-Bennett](people/charlie-phipps-bennett.md)
-- [Andrew Price](people/andrew-price.md)
-- [Fraser Hamilton](people/fraser-hamilton.md)
-- [Sophia Fricker](people/sophia-fricker.md)
-- [Kim Totten](people/kim-totten.md)
-- [Aishwarya Ramesh](people/aishwarya-ramesh.md)
-- [Tushara Udata](people/tushara-udata.md)
+### Internal (Synapx)
+- Jake Bowles
+- Charlie Phipps-Bennett
+- Andrew Price
+- Fraser Hamilton
+- Sophia Fricker
+- Tushara Udata
+- Matt Davies
+- Nandan Hegde
+- Rahul Matta
+- Ajay Gannamaneni
+- Tarun Reddy
+- Narayan Solanki
 
-### External / Client
-- [Jon Allen](people/jon-allen.md) (Midwich)
-- [Joe Thompson](people/joe-thompson.md) (Midwich)
-- [Phil Carter](people/phil-carter.md) (Capital H&B)
-- [Mahnoor Arif](people/mahnoor-arif.md) (Lumovy/Microsoft)
-- [Tafana Caesar](people/tafana-caesar.md) (Intuit)
+### External
+- Kia (Compass CHC)
+- Rachel Brier (Compass CHC)
+- Louis Seymour (Compass CHC)
+- Phil Carter (Capital HB)
+- Owais Sidat (Adstract)
+- Jon Allen (Midwich)
 
-## Recent Meetings (latest 7)
-
-| Date | Meeting | Notes |
-|---|---|---|
-| 2026-02-20 | [Weekly Status Review \| Compass CHC](meetings/2026-02-20-weekly-status-review-compass-chc.md) | Copilot summary; no transcript |
-| 2026-02-20 | [Standup - LCP Doc Extraction](meetings/2026-02-20-standup-lcp-doc-extraction.md) | Copilot summary; no transcript |
-| 2026-02-20 | [Product Catchup](meetings/2026-02-20-product-catchup.md) | Copilot summary; no transcript |
-| 2026-02-20 | [Midwich Squad - daily standup](meetings/2026-02-20-midwich-squad-daily-standup.md) | No transcript/AI insights |
-| 2026-02-20 | [iwantmore.ai and Synapx- Regular check in](meetings/2026-02-20-iwantmore-ai-and-synapx-regular-check-in.md) | Meeting ID unresolved |
-| 2026-02-20 | [Canceled: Synapx Internal Projects - Weekly Governance Meeting](meetings/2026-02-20-canceled-synapx-internal-projects-weekly-governance-meeting.md) | No transcript/AI insights |
-| 2026-02-20 | [Synapx Internal Projects - Weekly Governance Meeting](meetings/2026-02-20-synapx-internal-projects-weekly-governance-meeting.md) | Canceled/duplicate artifact |
+## Recent Meetings (most recent 7)
+- 2026-02-20 Weekly Status Review | Compass CHC
+- 2026-02-20 Standup  LCP Doc Extraction
+- 2026-02-20 Product Catchup
+- 2026-02-20 Midwich Squad  daily standup
+- 2026-02-20 iwantmore.ai and Synapx  Regular check in
+- 2026-02-20 Synapx Internal Projects  Weekly Governance Meeting (canceled)
+- 2026-02-19 Delivery Leadership Call
 
 ## Upcoming Deadlines / Reminders
-- **COB 2026-02-20:** Timesheets due; entries must include notes ("No notes = no approval").
-- **2026-02-22:** NordVPN subscription ends; client firewall allowlist updates needed to new Azure VPN external IP range (51.142.25.0/30).
-- **By Monday evening IST (2026-02-23):** LCP plugin deployment target for demo readiness.
-- **Next Friday (date TBC):** Prepare demo of extracting exact sentences from evidence docs for Louis Seymour (Compass CHC).
+- **2026-02-22:** NordVPN subscription ends; notify clients to update firewall to Azure VPN external IP range **51.142.25.0/30**.
+- **Today (COB):** Submit Harvest timesheet; add notes to all entries.
+- **Mon (IST evening):** LCP plugin deploy to client tenant for demo/testing.
 
-## Todays Calendar (high level)
-- Anand OOO: 2026-02-19  2026-02-24
-- CIAD: 06:3016:30
-- Midwich Squad standup: 08:4509:00
-- LCP Doc Extraction standup: 09:3009:45
-- Product Catchup: 10:3010:55
-- Governance meeting (canceled/short): 12:0012:30
-- Compass CHC status review: 13:3014:00
-- iwantmore.ai check-in: 14:0014:45

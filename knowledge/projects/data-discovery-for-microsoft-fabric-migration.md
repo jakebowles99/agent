@@ -8,6 +8,9 @@ Discovery phase to assess current data environment and deliver a roadmap for Mic
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time logged for project management and discovery (reviewed files/report). Team chat notes include Seras capacity planning/weekly catchup references.
+
+### 2026-02-20
 - Harvest time logged for discovery review and PM activity; LCP-related VNet note mentioned in timesheet context.
 
 ### 2026-02-20

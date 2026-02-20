@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Active in Harvest; access readiness confirmed in email and password reset details discussed as part of kick-off.
+
+### 2026-02-20
 - Kickoff/access setup emails referenced; access to Power BI/Fabric/Azure DevOps/Azure Portal confirmed.
 
 ### 2026-02-20

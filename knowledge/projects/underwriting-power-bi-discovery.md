@@ -11,6 +11,9 @@ Discovery work for underwriting Power BI reporting for Jensten.
 
 ## Timeline / Log
 ### 2026-02-20
+- Mentioned in Dave Jackson Teams chat thread discussing SOW/business case and BA support needs; also referenced in Harvest projects list.
+
+### 2026-02-20
 - No specific activity found in today's comms.
 
 ### 2026-02-20
