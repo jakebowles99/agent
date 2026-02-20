@@ -11,6 +11,9 @@ Discovery work for underwriting Power BI reporting for Jensten.
 
 ## Timeline / Log
 ### 2026-02-20
+- No specific activity captured today beyond remaining active in Harvest.
+
+### 2026-02-20
 - No explicit activity captured today; remains active in Harvest and resourcing discussions.
 
 ### 2026-02-20

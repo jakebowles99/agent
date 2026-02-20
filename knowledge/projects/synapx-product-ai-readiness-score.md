@@ -8,6 +8,9 @@ Internal product work: AI readiness score and related engineering workflow/tooli
 
 ## Timeline / Log
 ### 2026-02-20
+- Product catchup discussed using Foundry endpoints (Anthropic/OpenAI) and API key needs; action for Rahul to confirm endpoint access and request keys if required.
+
+### 2026-02-20
 - Product catchup: agreed AI readiness score needs LLM; Rahul to confirm Foundry endpoint access and request API keys if needed.
 
 ### 2026-02-20

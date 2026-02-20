@@ -34,4 +34,12 @@ Client profile for Leadenhall Capital Partners (LCP) including Fabric FX rates i
 ## Recent Activity
 - **2026-02-20 16:13:** 2026-02-20: Harvest notes mention LCP pre-sales work (Kenny + PA vnet).
 - **2026-02-20 16:13:** 2026-02-20: Meeting “Standup - LCP Doc Extraction” — plugin testing/account provision, manifest troubleshooting, deployment planned for Monday evening IST, demo scheduling.
+- **2026-02-20 17:11:** 2026-02-20: Internal standup notes for LCP Doc Extraction (plugin testing/deployment planning for Monday evening IST; demo scheduling and testing priorities).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 

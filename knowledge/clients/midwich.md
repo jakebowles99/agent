@@ -40,4 +40,13 @@ Client profile for Midwich (including Slipstream US and Midwich Squad work).
 - **2026-02-20 16:12:** 2026-02-20: Email “Midwich Limited - Weekly Project Progress” sent in Yaz’s absence.
 - **2026-02-20 16:12:** 2026-02-20: Teams (Project Managers) — Vijay Midwich capacity changed 8h/day -> 3h/day.
 - **2026-02-20 16:12:** 2026-02-20: Meeting “Midwich Squad - daily standup” (no transcript/insights).
+- **2026-02-20 17:11:** 2026-02-20: Email thread on “Boomi & Slipstream - K&S”; promised to send required master-file formats and a HLD approach doc.
+- **2026-02-20 17:11:** 2026-02-20: Sent weekly project progress email (in Yaz’s absence).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 

@@ -6,6 +6,9 @@ Power Platform-based timesheet solution development.
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- Harvest logged 'Get Absence by Timesheet week changes' stored procedure refactoring (missing case for open ended).
+
 
 ### 2026-02-20
 - Harvest time logged: stored procedure changes.

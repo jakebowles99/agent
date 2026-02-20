@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric/Power BI implementation (Power BI workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Kick-off/access checks discussed via email (Fabric Set Up Project Kick Off) and access/password reset issues referenced.
+
+### 2026-02-20
 - Fabric set-up kick-off follow-ups and access/password reset discussion with Capital H&B stakeholders.
 
 ### 2026-02-20

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 17:08:** To prioritize testing AI extraction; receiving test account/docs and manifest updates for local plugin testing; to report issues.
 - **2026-02-11 15:43:** Referenced in Harvest forecast updates; in 17C user accounts chat responded 'No' and was identified as Vijay Gorasia (gorasia@17capital.com).
 - **2026-02-11 08:41:** Referenced in forecast update (updated for Vijay against Accent).
 - **2026-02-11 08:30:** Mentioned in context of forecast update against Accent.
@@ -22,4 +23,4 @@
 - **2026-02-10 05:48:** Discussed as potential tester; asked about needed days/hours; noted last seen on Midwich.
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-20*

@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 17:08:** Discussed testing priorities and deployment approach; gave Rahul walkthrough of coding tools/workflow and Foundry LLM endpoint usage; offered API keys and support for blockers.
 - **2026-02-11 08:31:** Asked by Andrew Price for opinion on recruitment offer fairness.
 - **2026-02-11 08:25:** Asked for opinion on fairness of offer in recruitment discussion.
 - **2026-02-11 07:53:** Mentioned by Andrew Price for opinion on recruitment offer.
@@ -21,4 +22,4 @@
 - **2026-02-10 07:07:** Mentioned by Bhoomi Dasa in recruitment discussion about drafting a JD.
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-20*

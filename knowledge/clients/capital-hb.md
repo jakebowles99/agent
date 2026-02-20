@@ -30,4 +30,12 @@ Fabric and Power BI implementation engagement.
 
 ## Recent Activity
 - **2026-02-20 16:12:** 2026-02-20: Fabric Set Up Project Kick Off — Phil confirmed access to Power BI/Fabric/Azure DevOps/Azure Portal; password reset discussion.
+- **2026-02-20 17:11:** 2026-02-20: Email from Phil Carter confirming Fabric/Power BI/Azure DevOps access; discussed password reset/admin account password change.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 
