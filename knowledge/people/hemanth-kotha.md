@@ -9,6 +9,7 @@
 - **Email**: hemanth.kotha@synapx.com
 
 ## Recent interactions
+- **2026-02-20 13:07:** Discussed Midwich/Slipstream requirements for historical order data, app approach (Power Apps + Fabric/Power BI), and sharing Jensten doc template.
 - **2026-02-20 00:07:** Mentioned as having accessed NordVPN in prior year during VPN transition communication.
 - **2026-02-19 17:09:** Mentioned in Everyone channel attachment; referenced in Delivery Leadership Call notes as part of data team.
 - **2026-02-11 15:54:** Discussed missing RFA emails and AD/AVD password synchronisation issues; noted ITSM confusion and AD sync update.

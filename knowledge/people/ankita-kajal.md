@@ -9,6 +9,7 @@
 - **Email**: ankita.kajal@synapx.com
 
 ## Recent interactions
+- **2026-02-20 13:08:** Followed up on doc extraction webpage requirements with Owais; organized marketplace follow-up meeting.
 - **2026-02-20 12:09:** Requested updates to Doc Extraction Webpage requirements and follow-up on marketplace meeting.
 - **2026-02-20 11:04:** Followed up with Owais on Doc Extraction webpage navigation name/link changes and Marketplace meeting follow-up.
 - **2026-02-20 10:29:** Coordinated responses about missing lab link for "Chat with Your Data in a Day"; asked what to reply and whether they can provide a link; noted someone had Teams link but not lab link.

@@ -9,6 +9,7 @@
 - **Email**: owais@adstract.co.uk
 
 ## Recent interactions
+- **2026-02-20 13:08:** Updated navigation/menu link and requirements for Doc Extraction webpage after feedback from Ankita.
 - **2026-02-20 12:04:** Replied about updating the menu link for Doc Extraction Webpage Requirements.
 - **2026-02-20 11:04:** Discussed Doc Extraction webpage requirements and updating menu link/name.
 - **2026-02-20 09:07:** Replied on doc extraction webpage requirements; said will update today after being OOO.

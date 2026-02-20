@@ -8,6 +8,9 @@ Document extraction solution work for LCP (plugin, dashboard, email ingestion, d
 
 ## Timeline / Log
 ### 2026-02-20
+- Standup meeting: Ajay to provide test account/files for local plugin testing; troubleshoot/update manifest; deploy plugin Monday evening IST; Navsheen to schedule demo; testing to prioritize AI extraction.
+
+### 2026-02-20
 - Standup covered plugin local testing constraints, manifest troubleshooting, deployment planned for Monday evening IST, and demo/onboarding scheduling.
 
 ### 2026-02-20

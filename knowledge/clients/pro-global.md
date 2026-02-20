@@ -25,6 +25,15 @@
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 13:11:** 2026-02-20: SharePoint notified that a past Synapx & Pro Global meeting recording expired/deleted.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

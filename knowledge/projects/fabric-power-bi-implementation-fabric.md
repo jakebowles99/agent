@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Kickoff/access follow-up emails: access confirmed for three accounts; password reset for admin account noted.
+
+### 2026-02-20
 - Kick-off/access setup emails (Fabric Set Up Project Kick Off) indicate accounts now access Fabric and Azure Portal; password reset issue discussed.
 
 ### 2026-02-20

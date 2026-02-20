@@ -8,6 +8,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 
 ## Timeline / Log
 ### 2026-02-20
+- Active in Harvest list; no specific comms captured today.
+
+### 2026-02-20
 - No specific activity noted today beyond active status in Harvest.
 
 ### 2026-02-20

@@ -29,6 +29,15 @@
 *Last Updated: 2026-02-20*
 - **2026-02-20 12:13:** Email: Additional SharePoint list fields for Chelverton mapping — updated SharePoint list source file sent (Amanda Bond).
 - **2026-02-20 12:13:** Harvest project active: Power BI Support; SharePoint List & Data Ingestion.
+- **2026-02-20 13:11:** 2026-02-20: Email from Amanda Bond re: updated SharePoint list source file for Chelverton mapping fields.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

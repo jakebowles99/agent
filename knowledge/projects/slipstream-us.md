@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Email thread: 'Boomi & Slipstream - K&S'—requested formats/master files; Jake to send required formats and a HLD.
+
+### 2026-02-20
 - Mentioned in email thread: “Boomi & Slipstream - K&S” and referenced in Midwich squad resourcing updates.
 
 ### 2026-02-20
