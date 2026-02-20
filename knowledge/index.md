@@ -7,10 +7,10 @@
 | Project | Client | Status |
 |---|---|---|
 | [Compass CHC](projects/compass-chc.md) | [Compass CHC](clients/compass-chc.md) | Active |
+| [Medical Records Extraction](projects/medical-records-extraction.md) | [Compass CHC](clients/compass-chc.md) | Active |
 | [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active |
 | [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital H&B](clients/capital-hb.md) | Active |
 | [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
-| [Medical Records Extraction](projects/medical-records-extraction.md) | [Compass CHC](clients/compass-chc.md) | Active |
 | [Support Contract](projects/support-contract.md) | [WA Communications](clients/wa-communications.md) | Active |
 | [Data Discovery for Microsoft Fabric Migration](projects/data-discovery-for-microsoft-fabric-migration.md) | (TBD) | Active |
 | [Synapx Product - AI Readiness Score](projects/synapx-product-ai-readiness-score.md) | [Synapx](clients/synapx.md) | Active |
@@ -20,12 +20,12 @@
 
 | Client | Key Contact | Active Project |
 |---|---|---|
-| [Compass CHC](clients/compass-chc.md) | [Kia](people/kia.md), [Munni Musa](people/munni-musa.md) | [Compass CHC](projects/compass-chc.md) |
-| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | [Navsheen Koul](people/navsheen-koul.md), [Ajay Gannamaneni](people/ajay-gannamaneni.md) | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
-| [Capital H&B](clients/capital-hb.md) | [Phil Carter](people/phil-carter.md), [Cristian Ettridge](people/cristian-ettridge.md) | [Capital HB Fabric](projects/capital-hb-fabric.md) |
+| [Compass CHC](clients/compass-chc.md) | Kia, Munni Musa (see: [Weekly Status Review](meetings/2026-02-20-weekly-status-review-compass-chc.md)) | [Compass CHC](projects/compass-chc.md) |
+| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | [Kenny Balogun](people/kenny-balogun.md), [Navsheen Koul](people/navsheen-koul.md) | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
+| [Capital H&B](clients/capital-hb.md) | [Phil Carter](people/phil-carter.md), [Cristian Ettridge](people/cristian-ettridge.md) | [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) |
 | [Midwich](clients/midwich.md) | [Jon Allen](people/jon-allen.md), [Joe Thompson](people/joe-thompson.md) | [Midwich Squad](projects/midwich-squad.md) |
 | [WA Communications](clients/wa-communications.md) | [Matt Davies](people/matt-davies.md) | [Support Contract](projects/support-contract.md) |
-| [Synapx](clients/synapx.md) | [Jake Bowles](people/jake-bowles.md) | [AI Readiness Score](projects/synapx-product-ai-readiness-score.md) |
+| [Synapx](clients/synapx.md) | [Jake Bowles](people/jake-bowles.md) | [Synapx Product - AI Readiness Score](projects/synapx-product-ai-readiness-score.md) |
 
 ## Key People
 
@@ -42,11 +42,9 @@
 ### External / Client Contacts
 - [Phil Carter](people/phil-carter.md) (Capital H&B)
 - [Cristian Ettridge](people/cristian-ettridge.md) (Capital H&B)
-- [Kia](people/kia.md) (Compass CHC)
-- [Munni Musa](people/munni-musa.md) (Compass CHC)
-- [Rachel Brier](people/rachel-brier.md) (Compass CHC)
-- [Louis Seymour](people/louis-seymour.md) (Compass CHC)
+- [Kenny Balogun](people/kenny-balogun.md) (LCP)
 - [Jon Allen](people/jon-allen.md) (Midwich)
+- [Joe Thompson](people/joe-thompson.md) (Midwich)
 
 ## Recent Meetings (last 7)
 
@@ -63,4 +61,3 @@
 ## Upcoming Deadlines / Reminders
 - **2026-02-22:** NordVPN subscription ends; move to Azure VPN Client and update client firewall allowlists to new external IP range **51.142.25.0/30**.
 - **2026-02-24:** Anand OOO through 24 Feb.
-

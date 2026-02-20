@@ -6,6 +6,9 @@ Application development and rollout workstream (SQL/apps/prod issue debugging).
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time logged for deployments/sprocs, QA deployments and code reviews (new PO approval flow), and performance analysis on PO/SO search page.
+
+### 2026-02-20
 - Harvest time logged today: deployments and stored procedures; code reviews & QA deployments; work on New PO approval flow; performance analysis on Search PO/SO page for 'Complete' status; supported teammate questions.
 
 ### 2026-02-20

@@ -8,6 +8,9 @@ Integration to bring FX rates into Fabric (Graph API) for Leadenhall Capital Par
 
 ## Timeline / Log
 ### 2026-02-20
+- Time entries logged under Delivery: Data & AI pre-sales included LCP work (Kenny + PA vnet; NAV reconciliation) and a dedicated LCP doc extraction standup covered plugin deployment/testing plans.
+
+### 2026-02-20
 - LCP Doc Extraction standup: plugin testing/deployment planning; Ajay to deploy to tenant Monday evening IST; Vijay to prioritise AI extraction testing; Navsheen to schedule demo; manifest troubleshooting ongoing.
 
 ### 2026-02-20

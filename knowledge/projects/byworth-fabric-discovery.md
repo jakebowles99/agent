@@ -11,6 +11,9 @@ Byworth Fabric discovery work for Venture.
 
 ## Timeline / Log
 ### 2026-02-20
+- Sent email accepted placeholder for Venture tech discussion; Harvest shows project active.
+
+### 2026-02-20
 - Related to Venture/BES discussion: received BES Group draft SoW email (Venture Systems Group contact) referencing next steps.
 
 ### 2026-02-20

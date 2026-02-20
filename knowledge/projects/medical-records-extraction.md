@@ -6,6 +6,9 @@ Medical records extraction development/support work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Weekly Status Review | Compass CHC covered extensive backlog (email routing, CMS/Zoho payment sync, UI fixes, audit trail, extraction requirements). Harvest time logged for locking flows and optimisation; ongoing support for large responses.
+
+### 2026-02-20
 - Weekly status review meeting: extensive action list across portal, CMS sync, payments (Stripe/Zoho), audit trail, extraction requirements (summaries vs exact sentences), and upcoming demos. Harvest entries also logged for flow locking, optimisation, and handling large responses.
 
 ### 2026-02-20

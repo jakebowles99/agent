@@ -8,6 +8,9 @@ Discovery phase to assess current data environment and deliver a roadmap for Mic
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time logged for project management and discovery (reviewed files/report).
+
+### 2026-02-20
 - Harvest time logged today (project management + discovery) reviewing provided files/report.
 
 ### 2026-02-20
