@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Email thread on 'Fabric Set Up Project Kick Off' indicates tenant/tool access now working; password reset issue noted by Andrew.
+
+### 2026-02-20
 - Project kick-off follow-up; client access appears sorted across Fabric/Power BI/Azure portal and DevOps.
 
 ### 2026-02-20

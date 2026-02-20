@@ -8,6 +8,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 
 ## Timeline / Log
 ### 2026-02-20
+- No explicit activity captured today; ensured profile from active Harvest list.
+
+### 2026-02-20
 - Work continued around SharePoint list fields / Chelverton mapping data inputs.
 
 ### 2026-02-20

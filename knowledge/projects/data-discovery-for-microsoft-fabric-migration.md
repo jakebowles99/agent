@@ -8,6 +8,9 @@ Discovery phase to assess current data environment and deliver a roadmap for Mic
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time entry logged today (0.5h Project Management). Resource planning note: Hemanth overutilized with 6h/day on Seras plus other projects.
+
+### 2026-02-20
 - No specific activity captured in today's archived comms; maintained as active Harvest project.
 
 ### 2026-02-20
