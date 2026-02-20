@@ -7,9 +7,12 @@ FRP Advisory discovery and design engagement (SOW not signed).
 - **Status:** Active
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*
 
 ## Timeline / Log
+### 2026-02-20
+- No specific activity captured in today's archived emails/meetings; project still listed active in Harvest.
+
 ### 2026-02-19
 - No specific comms captured today beyond Harvest listing; project remains active in Harvest as 'Not Signed'.
 

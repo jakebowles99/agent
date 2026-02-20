@@ -1,3 +1,41 @@
+## 2026-02-20 00:00
+
+### Changes Today
+- **Emails:** 50 new (Security recommendation: Help protect your VMs in any environment; AVD Rollout | Testing Phase Announcement !; Midwich Limited - Weekly Project Progress; Signature requested on "WA COMMUNICATIONS_SOW004_Support (T&M)_19 February 2026"; Re: Fabric Set Up Project Kick Off)
+- **Teams Chats:** 0 messages across 0 conversations
+- **Teams Channels:** 50 messages in 1 channels
+- **Transcripts:** 0 new
+- **People Profiles:** 13 updated
+- **Project Profiles:** 13 processed (1 created, 12 updated)
+- **Client Profiles:** 10 updated
+- **Calendar:** 9 events on calendar
+- **Time Tracking:** none
+
+### Action Items Detected
+- [ ] Reply to Fraser with any clients using NordVPN dedicated IP (212.237.225.22) so they can be updated to new Azure VPN external IP range (51.142.25.0/30) before Sun 22 Feb.
+- [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; troubleshoot/update manifest and share with Charlie/Vijay; improve dashboard PDF layout; deploy plugin to client tenant by Monday evening IST.
+- [ ] LCP Doc Extraction: Navsheen to schedule demo slot after 18:00 IST Monday; send required documents to Vijay.
+- [ ] LCP Doc Extraction: Vijay to prioritise AI extraction testing and report issues.
+- [ ] LCP Doc Extraction: Charlie to customise manifest and confirm whether issue is resolved.
+- [ ] Product: Rahul to confirm access to Foundry endpoints; request LLM API keys from Jake if needed.
+- [ ] Compass CHC: Kia to confirm shared inbox routing for additional services requests; Tarun to fix DOB format (UK), update case timeline, integrate actions required with CMS, add UI feedback for notifications & preferences, align brand colours; Tarun/Charlie to sync payment status CMS→Zoho; Charlie/Munni to set Lewis demo time; Narayan to enable bulk approval status field + inactive dropdown + org/folder field and update SharePoint flow; Charlie to finish QA + set UAT date + written status update.
+
+### Files Updated
+- knowledge/emails/2026-02-20.md
+- knowledge/channels/2026-02-20/Synapx | Everyone-Genuinely.md
+- knowledge/harvest/2026-02-20.md
+- knowledge/meetings/2026-02-20-midwich-squad-daily-standup.md
+- knowledge/meetings/2026-02-20-standup-lcp-doc-extraction.md
+- knowledge/meetings/2026-02-20-product-catchup.md
+- knowledge/meetings/2026-02-20-canceled-synapx-internal-projects-weekly-governance-meeting.md
+- knowledge/meetings/2026-02-20-weekly-status-review-compass-chc.md
+- knowledge/meetings/2026-02-20-iwantmore-ai-and-synapx-regular-check-in.md
+- knowledge/inbox.md
+- knowledge/index.md
+
+---
+
+
 ## 2026-02-19 23:00
 
 ### Changes Today
@@ -12,7 +50,7 @@
 - **Time Tracking:** none
 
 ### Action Items Detected
-- [ ] Capital Hair & Beauty / Fabric setup: confirm tomorrow’s meeting time (Phil requested 11:00–12:00); ensure Synapx admin access to Azure subscription; resolve password reset + MFA/2FA setup.
+- [ ] Capital Hair & Beauty / Fabric setup: confirm tomorrows meeting time (Phil requested 11:0012:00); ensure Synapx admin access to Azure subscription; resolve password reset + MFA/2FA setup.
 - [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; troubleshoot/update manifest and share; improve dashboard PDF layout; deploy plugin to client tenant by Monday evening IST.
 - [ ] LCP Doc Extraction: Navsheen to schedule demo after 18:00 IST Monday; send required docs to Vijay.
 - [ ] LCP Doc Extraction: Vijay to prioritise AI extraction testing and report issues.
@@ -50,180 +88,3 @@
 
 ---
 
-## 2026-02-19 21:00
-
-### Changes Today
-- **Emails:** 50 new
-- **Teams Chats:** 21 messages across 5 conversations
-- **Teams Channels:** 65 messages in 2 channels
-- **Transcripts:** 0 new
-- **People Profiles:** 18 processed (1 created, 17 updated)
-- **Project Profiles:** 12 processed (1 created, 11 updated)
-- **Client Profiles:** 1 updated
-- **Calendar:** 10 events on calendar (Anand OOO; XIAD prep; multiple standups/calls)
-- **Time Tracking:** none
-
-### Action Items Detected
-- [ ] Timesheets: submit by COB today; add clear notes to all Harvest entries (no notes = may be rejected).
-- [ ] Capital Hair & Beauty / Fabric setup: confirm tomorrows meeting time (Phil requested 11:0012:00); ensure Synapx admin access to Azure subscription; resolve password reset + MFA/2FA setup.
-- [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; troubleshoot/update manifest and share; improve dashboard PDF layout; deploy plugin to client tenant by Monday evening IST.
-- [ ] LCP Doc Extraction: Navsheen to schedule demo after 18:00 IST Monday; send required docs to Vijay.
-- [ ] LCP Doc Extraction: Vijay to prioritise AI extraction testing and report issues.
-- [ ] LCP Doc Extraction: Charlie to apply manifest customisations and confirm if issue is resolved.
-- [ ] Product: Rahul to confirm Foundry endpoint access; request LLM API keys from Jake if needed (AI readiness score).
-- [ ] Delivery Leadership: progress actions (RACI training session, 2026 SMART delivery goals, org structure update on Azure, GitHub repo access/accelerators, infra upskilling list for Fraser/Gaurav, performance review meeting).
-- [ ] Venture/BES: respond on CMF kickoff attendance (Wed 25th ~10:30) or propose alternate day.
-- [ ] Marketing: re-post/like/comment on Fabric Featured Partners LinkedIn post; update LinkedIn banner; nominate 1 marketing champion per team (1 post/week); use 2026 master PPT template/updated brand guidelines.
-- [ ] Licensing: Kim Totten to confirm approach for Power Apps Per App Plan end-of-sale (2026).
-
-### Files Updated
-- knowledge/emails/2026-02-19.md
-- knowledge/harvest/2026-02-19.md
-- knowledge/meetings/2026-02-19-midwich-squad-daily-standup.md
-- knowledge/meetings/2026-02-19-standup-lcp-doc-extraction.md
-- knowledge/meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md
-- knowledge/meetings/2026-02-19-product-catchup.md
-- knowledge/meetings/2026-02-19-delivery-leadership-call.md
-- knowledge/meetings/2026-02-19-jake-nandan-forecast-updates.md
-- knowledge/meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md
-- knowledge/meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md
-- knowledge/teams/2026-02-19/andrew-hutchison-dave-jackson-matt-davies.md
-- knowledge/teams/2026-02-19/andrew-price-charlie-phipps-bennett-kim-totten-matt-davies.md
-- knowledge/teams/2026-02-19/bes-group-synapx-venture.md
-- knowledge/teams/2026-02-19/copilot-jumpstart.md
-- knowledge/teams/2026-02-19/dhanyakumar-l-saumya-dubey.md
-- knowledge/teams/2026-02-19/synapx-leadership-team.md
-- knowledge/channels/2026-02-19/Synapx | Everyone-Genuinely.md
-- knowledge/channels/2026-02-19/Synapx | Everyone-Synapx AI Demo.md
-- knowledge/inbox.md
-- knowledge/index.md
-
----
-
-## 2026-02-19 20:00
-
-### Changes Today
-- **Emails:** 50 new
-- **Teams Chats:** 21 messages across 5 conversations
-- **Teams Channels:** 50 messages in 2 channels
-- **Transcripts:** 0 new
-- **People Profiles:** 17 updated
-- **Project Profiles:** 11 updated
-- **Client Profiles:** 8 updated
-- **Calendar:** 10 events on calendar (Anand OOO; XIAD prep; multiple standups/calls)
-- **Time Tracking:** none
-
-### Action Items Detected
-- [ ] Timesheets: submit by COB today; add clear notes to all Harvest entries (no notes = may be rejected).
-- [ ] Capital Hair & Beauty / Fabric setup: confirm tomorrows meeting time (Phil requested 11:0012:00); ensure Synapx admin access to Azure subscription; resolve password reset + 2FA/MFA setup.
-- [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; troubleshoot/update manifest and share; improve dashboard PDF layout; deploy plugin to client tenant by Monday evening IST.
-- [ ] LCP Doc Extraction: Navsheen to schedule demo after 18:00 IST Monday; send required docs to Vijay.
-- [ ] LCP Doc Extraction: Vijay to prioritise AI extraction testing and report issues.
-- [ ] LCP Doc Extraction: Charlie to apply manifest customisations and confirm if issue is resolved.
-- [ ] Product: Rahul to confirm Foundry endpoint access; request LLM API keys from Jake if needed (AI readiness score).
-- [ ] Delivery Leadership: progress actions (RACI training session, 2026 SMART delivery goals, org structure update on Azure, GitHub repo access/accelerators, infra upskilling list for Fraser/Gaurav, performance review meeting).
-- [ ] Marketing: re-post/like/comment on Fabric Featured Partners LinkedIn post; update LinkedIn banner; nominate 1 marketing champion per team (1 post/week); use 2026 master PPT template/updated brand guidelines.
-- [ ] Licensing: Kim Totten to confirm approach for Power Apps Per App Plan end-of-sale (2026).
-
-### Files Updated
-- knowledge/emails/2026-02-19.md
-- knowledge/harvest/2026-02-19.md
-- knowledge/meetings/2026-02-19-midwich-squad-daily-standup.md
-- knowledge/meetings/2026-02-19-standup-lcp-doc-extraction.md
-- knowledge/meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md
-- knowledge/meetings/2026-02-19-product-catchup.md
-- knowledge/meetings/2026-02-19-delivery-leadership-call.md
-- knowledge/meetings/2026-02-19-jake-nandan-forecast-updates.md
-- knowledge/meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md
-- knowledge/meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md
-- knowledge/teams/2026-02-19/andrew-hutchison-dave-jackson-matt-davies.md
-- knowledge/teams/2026-02-19/andrew-price-charlie-phipps-bennett-kim-totten-matt-davies.md
-- knowledge/teams/2026-02-19/copilot-jumpstart.md
-- knowledge/teams/2026-02-19/synapx-leadership-team.md
-- knowledge/channels/2026-02-19/Synapx | Everyone-Genuinely.md
-- knowledge/channels/2026-02-19/Synapx | Everyone-Synapx AI Demo.md
-
----
-
-## 2026-02-19 18:00
-
-### Changes Today
-- **Emails:** 50 new
-- **Teams Chats:** 3 messages across 3 conversations
-- **Teams Channels:** 21 messages in 1 channels
-- **Transcripts:** 0 new
-- **People Profiles:** 12 updated
-- **Project Profiles:** 12 updated
-- **Client Profiles:** 0 updated
-- **Calendar:** 10 events on calendar
-- **Time Tracking:** none
-
-### Action Items Detected
-- [ ] Timesheets: submit by COB today; add clear notes to all Harvest entries (no notes = may be rejected).
-- [ ] Capital Hair & Beauty / Fabric setup: confirm tomorrows meeting time (Phil requested 11:0012:00); ensure Synapx admin access to Azure subscription; resolve password reset + 2FA/MFA setup.
-- [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; troubleshoot/update manifest and share; improve dashboard PDF layout; deploy plugin to client tenant by Monday evening IST.
-- [ ] LCP Doc Extraction: Navsheen to schedule demo after 18:00 IST Monday; send required docs to Vijay.
-- [ ] LCP Doc Extraction: Vijay to prioritise AI extraction testing and report issues.
-- [ ] LCP Doc Extraction: Charlie to apply manifest customisations and confirm if issue is resolved.
-- [ ] Product: Rahul to confirm Foundry endpoint access; request LLM API keys from Jake if needed (AI readiness score).
-- [ ] Delivery Leadership: progress actions (RACI training session, 2026 SMART delivery goals, org structure update on Azure, GitHub repo access/accelerators, infra upskilling list for Fraser/Gaurav, performance review meeting).
-- [ ] Marketing: re-post/like/comment on Fabric Featured Partners LinkedIn post; update LinkedIn banner; nominate 1 marketing champion per team (1 post/week); use 2026 master PPT template/updated brand guidelines.
-- [ ] Licensing: Kim Totten to confirm approach for Power Apps Per App Plan end-of-sale (2026).
-
-### Files Updated
-- knowledge/emails/2026-02-19.md
-- knowledge/harvest/2026-02-19.md
-- knowledge/meetings/2026-02-19-midwich-squad-daily-standup.md
-- knowledge/meetings/2026-02-19-standup-lcp-doc-extraction.md
-- knowledge/meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md
-- knowledge/meetings/2026-02-19-product-catchup.md
-- knowledge/meetings/2026-02-19-delivery-leadership-call.md
-- knowledge/meetings/2026-02-19-jake-nandan-forecast-updates.md
-- knowledge/meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md
-- knowledge/meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md
-- knowledge/teams/2026-02-19/andrew-hutchison-dave-jackson-matt-davies.md
-- knowledge/teams/2026-02-19/andrew-price-charlie-phipps-bennett-kim-totten-matt-davies.md
-- knowledge/teams/2026-02-19/synapx-leadership-team.md
-- knowledge/channels/2026-02-19/Synapx | Everyone-Genuinely.md
-
----
-
-## 2026-02-19 17:00
-
-### Changes Today
-- **Emails:** 50 new
-- **Teams Chats:** 3 messages across 3 conversations
-- **Teams Channels:** 66 messages in 3 channels
-- **Transcripts:** 0 new
-- **People Profiles:** 23 processed (1 created, 22 updated)
-- **Project Profiles:** 15 processed (4 created, 11 updated)
-- **Client Profiles:** 5 processed (0 created, 5 updated)
-- **Calendar:** 10 events on calendar
-- **Time Tracking:** none
-
-### Action Items Detected
-- [ ] Submit timesheets by COB today and add clear notes to all Harvest entries (no notes = may be rejected).
-- [ ] Capital Hair & Beauty / Fabric setup: confirm kick-off time tomorrow (Phil requested 11:0012:00) and ensure admin access to Azure subscription; resolve password change + 2FA/MFA setup.
-- [ ] LCP Doc Extraction: Ajay to provide Vijay test account/files/instructions; fix/share manifest; adjust dashboard layout; deploy plugin to client tenant by Monday evening IST; Navsheen to schedule demo after 18:00 IST and email docs; Vijay to prioritise AI extraction testing; Charlie to apply manifest customisations and report.
-- [ ] Product: Rahul to confirm Foundry endpoint access and request LLM API keys from Jake if needed (AI readiness score work).
-- [ ] Marketing: re-post/like/comment on Fabric Featured Partners LinkedIn post; teams to nominate a marketing champion (1 post/week); update LinkedIn banner + adopt 2026 master PPT template/brand guidelines.
-- [ ] Licensing: Kim Totten to confirm approach for Power Apps Per App Plan end-of-sale (2026).
-- [ ] Delivery Leadership: owners to progress actions (RACI training session, 2026 SMART delivery goals, org-structure update on Azure, GitHub repo access/accelerators, infra upskilling list for Fraser/Gaurav, performance review meeting).
-
-### Files Updated
-- knowledge/emails/2026-02-19.md
-- knowledge/teams/2026-02-19/andrew-hutchison-dave-jackson-matt-davies.md
-- knowledge/teams/2026-02-19/andrew-price-charlie-phipps-bennett-kim-totten-matt-davies.md
-- knowledge/teams/2026-02-19/synapx-leadership-team.md
-- knowledge/channels/2026-02-19/Synapx | Everyone-Genuinely.md
-- knowledge/harvest/2026-02-19.md
-- knowledge/meetings/2026-02-19-midwich-squad-daily-standup.md
-- knowledge/meetings/2026-02-19-standup-lcp-doc-extraction.md
-- knowledge/meetings/2026-02-19-fw-placeholder-for-venture-tech-discussion.md
-- knowledge/meetings/2026-02-19-product-catchup.md
-- knowledge/meetings/2026-02-19-delivery-leadership-call.md
-- knowledge/meetings/2026-02-19-jake-nandan-forecast-updates.md
-- knowledge/meetings/2026-02-19-partner-voice-webcast-microsoft-fabric-data-agent-upcoming-private-preview-features.md
-- knowledge/meetings/2026-02-19-placeholder-bes-group-fabric-discussion.md
-
----

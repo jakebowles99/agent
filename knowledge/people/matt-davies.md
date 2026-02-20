@@ -9,6 +9,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-20 00:07:** Mentioned as having accessed NordVPN in prior year during VPN transition communication.
 - **2026-02-19 22:09:** Shared HR update; posted timesheet note requirements; active in leadership chats.
 - **2026-02-19 21:09:** Sent HR update about Tejashwini leaving Synapx; posted timesheet/Harvest note reminders in Everyone channel.
 - **2026-02-19 20:08:** Shared HR update; timesheet note requirements; participated in chats.
@@ -131,4 +132,4 @@
 - **2026-02-09 18:33 UTC (Teams | Synapx Directors):** Mentioned by Akshansh as the person who can explain why the prior Zoho SalesIQ approach didn’t work; internal alignment requested before proposing SalesIQ to Compass.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

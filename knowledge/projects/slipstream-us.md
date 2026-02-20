@@ -7,6 +7,9 @@ Midwich Slipstream US integration/build work.
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- Boomi & Slipstream email thread: agreed to send required master file formats and a high-level design approach to Midwich (Jon Allen).
+
 ### 2026-02-19
 - Email and chat activity on Midwich US/Slipstream and Boomi integration approach; aligned on security/governance preference for Private Endpoints and discussed master/canonical formats.
 
@@ -30,4 +33,4 @@ Midwich Slipstream US integration/build work.
 - Worked on securing storage account and AI Foundry with private endpoints; discussed Boomi/Slipstream integration approach via email.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

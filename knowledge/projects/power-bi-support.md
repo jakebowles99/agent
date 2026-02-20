@@ -7,6 +7,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- No specific activity captured today; project remains active in Harvest.
+
 ### 2026-02-19
 - Email thread indicates FROP-001A data load failure due to Office Script timeout was re-triggered and Chelverton data became visible again; ongoing operational support.
 
@@ -30,4 +33,4 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 - Resolved a data load failure by re-triggering flows after an Office Script timeout; client confirmed Chelverton data is now visible.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

@@ -14,4 +14,13 @@ Leadenhall Capital Partners is a client engaged on Fabric-related integrations.
 - 2026-02-19: Received Adobe Acrobat Sign completion email confirming SOW005 (Fabric FX Rates Integration - Graph API) fully signed.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*
+- **2026-02-20 00:09:** Standup: LCP Doc Extraction—plugin testing, manifest troubleshooting, and deployment planned for Monday evening IST; demo scheduling discussed.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

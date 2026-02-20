@@ -17,4 +17,13 @@ Spring Capital is a client receiving ongoing Power BI and data ingestion support
 - 2026-02-19: Email received with updated SharePoint list source file for additional Chelverton mapping fields.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*
+- **2026-02-20 00:09:** Amanda Bond sent updated SharePoint list source file for Chelverton mapping; noted some entries incomplete and will be updated over time.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

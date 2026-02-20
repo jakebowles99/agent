@@ -7,6 +7,9 @@ Integration to bring FX rates into Fabric (Graph API) for Leadenhall Capital Par
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- No specific comms today beyond ongoing LCP doc/extraction standup context; project remains active in Harvest.
+
 ### 2026-02-19
 - Adobe Sign confirmation received that SOW005 Fabric FX Rates Integration (Graph API) agreement is fully signed/completed.
 
@@ -30,4 +33,4 @@ Integration to bring FX rates into Fabric (Graph API) for Leadenhall Capital Par
 - Received confirmation that SOW005 agreement was completed via Adobe Acrobat Sign.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

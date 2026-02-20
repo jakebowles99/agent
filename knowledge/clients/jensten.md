@@ -88,3 +88,11 @@ Jensten Group is an insurance group with multiple workstreams including Fabric d
 
 
 - 2026-02-19: Shared sample dashboard screenshot in Teams as an example deliverable for pricing/discount impact analysis (non-Jensten example).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

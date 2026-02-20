@@ -9,6 +9,7 @@
 - **Email**: kushagra.shukla@synapx.com
 
 ## Recent interactions
+- **2026-02-20 00:07:** Mentioned as having accessed NordVPN in prior year during VPN transition communication.
 - **2026-02-19 19:09:** Mentioned in Teams email digest re: resource availability (8 hrs/day till EOW).
 - **2026-02-11 15:44:** Confirmed password changed and access via AVD/web version; described two login points with different passwords.
 - **2026-02-11 13:37:** Discussed login/password sync issues between web version, AVD, and Session Desktop.
@@ -21,4 +22,4 @@
 - **2026-02-10 06:45:** Listed in 17 Capital account status update; access requested via RFA ticket.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

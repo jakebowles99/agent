@@ -63,3 +63,12 @@ UK's largest independent supplier to hairdressers, beauty therapists and nail te
 
 ## Recent Activity
 - 2026-02-19: Emails with Philip Dobson/Phil Carter/Cristian Ettridge arranging Fabric set-up kick-off and discussing admin access issues (password reset/2FA/conditional access, Azure subscription access).
+- **2026-02-20 00:09:** Phil Carter confirmed access for three accounts to Power BI, Fabric, Azure DevOps, and Azure Portal (Fabric setup kickoff follow-up).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

@@ -45,3 +45,11 @@ Pro Global is an insurance services company providing solutions across risk capt
 
 
 - 2026-02-19: Mentioned in active Harvest projects (AI Support).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

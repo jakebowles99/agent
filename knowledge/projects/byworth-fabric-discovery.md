@@ -7,9 +7,12 @@ Byworth Fabric discovery work for Venture.
 - **Status:** Active
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*
 
 ## Timeline / Log
+### 2026-02-20
+- Placeholder for Venture discussion referenced (accepted calendar placeholder for Venture Tech Discussion).
+
 ### 2026-02-19
 - Teams chat with Venture indicated Microsoft funding likely pending scope finalisation; first SOW being drafted with aim to agree next week; CMF kickoff pencilled for Wed 25th (TBC) with request for Synapx attendance.
 

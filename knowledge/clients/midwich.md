@@ -75,3 +75,12 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 - 2026-02-19: Email thread with Jon/Jose on Slipstream/Midwich US integration approach; Private Endpoints preferred for security/governance.
 - 2026-02-19: Sent sample middleware responses to Jeff for Foundry Analyser PO response format review.
 - 2026-02-19: Midwich squad daily standup (no transcript available).
+- **2026-02-20 00:09:** Email thread re: “Boomi & Slipstream - K&S”; promised to send required master file formats + HLD.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

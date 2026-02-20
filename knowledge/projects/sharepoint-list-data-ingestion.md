@@ -7,6 +7,9 @@ Automate portfolio reporting data capture using SharePoint Lists and ingestion p
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- Email from Spring Capital (Amanda Bond): shared updated SharePoint list source file for Chelverton mapping; noted some entries incomplete and will be updated over time.
+
 ### 2026-02-19
 - Client provided updated SharePoint list source file for Chelverton mapping; data load issue investigation/updates in progress via email.
 
@@ -30,4 +33,4 @@ Automate portfolio reporting data capture using SharePoint Lists and ingestion p
 - Addressed Spring Capital script failure error and internal comms; continued PM coordination (per Harvest entry).
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

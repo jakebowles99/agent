@@ -7,6 +7,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- Fabric implementation workstream active; kick-off follow-ups referenced in Capital H&B emails (access confirmed to Fabric/Azure tooling).
+
 ### 2026-02-19
 - Worked through provisioning/access items for Azure subscription and Fabric; emails indicate progress on admin access but continued issues with password reset and Azure subscription listing.
 
@@ -30,4 +33,4 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 - Internal coordination for access-related issues and validations; progressed Fabric set-up and kickoff planning (Azure subscription provisioned; requested admin access).
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

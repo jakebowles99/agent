@@ -7,6 +7,9 @@ Document extraction solution work for LCP (plugin, dashboard, email ingestion, d
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- Standup covered plugin testing/deployment plan: Ajay to provide test account/files, troubleshoot manifest, update dashboard PDF layout, deploy to client tenant Monday evening IST; Navsheen to schedule demo; Vijay to prioritize AI extraction testing.
+
 ### 2026-02-19
 - Standup covered plugin testing/deployment constraints, manifest troubleshooting, and scheduling a demo after Monday evening IST deployment; AI extraction testing set as top priority.
 
@@ -27,4 +30,4 @@ Document extraction solution work for LCP (plugin, dashboard, email ingestion, d
 - Standup covered plugin testing via test tenant, manifest troubleshooting, deployment planned for Monday evening IST, and demo/onboarding scheduling; testing priority on extraction functionality.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*
