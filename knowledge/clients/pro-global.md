@@ -53,3 +53,15 @@ Pro Global is an insurance services company providing solutions across risk capt
 ## Relevant Projects
 - None yet.
 
+
+## Company Overview
+Pro Global — insurance services client; Synapx provides AI support under a support contract.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

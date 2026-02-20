@@ -7,6 +7,9 @@ Client portal + CMS + medical records extraction workflow (Zoho/SharePoint) incl
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- Meeting: Weekly Status Review | Compass CHC—reviewed portal/CMS integration, additional services email routing, payment status sync, UI tweaks, extraction workflow and many action items.
+
 
 ### 2026-02-20
 - Weekly status review: discussed portal auth/profile/notifications, CMS sync, Stripe payment workflow + Zoho CRM updates, additional services email routing, branding tweaks, medical records extraction demo (bulk approvals, folder naming), and many follow-up actions incl. demo for Lewis and QA/UAT planning.

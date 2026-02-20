@@ -9,6 +9,7 @@
 - **Email**: saumya.dubey@synapx.com
 
 ## Recent interactions
+- **2026-02-20 01:08:** Sent upcoming leave reminder; mentioned in NordVPN channel post; participant in multiple Teams chats.
 - **2026-02-20 00:07:** Mentioned as having accessed NordVPN in prior year during VPN transition communication.
 - **2026-02-11 20:34:** Auto-reply about being on PTO; directed urgent items to Nandan Hegde and Jake Bowles.
 - **2026-02-11 18:00:** Auto-reply: out of office; directed urgent queries to Nandan Hegde/Jake Bowles.

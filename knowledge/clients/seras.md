@@ -34,3 +34,15 @@ Overview to be captured.
 ## Relevant Projects
 - None yet.
 
+
+## Company Overview
+Seras — client engaging Synapx for data discovery and roadmap for Microsoft Fabric migration.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

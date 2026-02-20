@@ -42,3 +42,15 @@ Overview to be captured.
 ## Recent Activity
 - **2026-02-20 00:09:** Placeholder accepted for Venture tech discussion (calendar).
 
+
+## Company Overview
+Venture — client supported by Synapx on Byworth Fabric discovery work.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

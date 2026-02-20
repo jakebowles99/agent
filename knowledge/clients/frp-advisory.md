@@ -38,3 +38,15 @@ Overview to be captured.
 ## Relevant Projects
 - None yet.
 
+
+## Company Overview
+FRP Advisory — client in discovery/design phase (not yet signed).
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

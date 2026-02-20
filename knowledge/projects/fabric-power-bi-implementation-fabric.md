@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Active in Harvest (SOW002).
+
+### 2026-02-20
 - Fabric implementation workstream active; kick-off follow-ups referenced in Capital H&B emails (access confirmed to Fabric/Azure tooling).
 
 ### 2026-02-19

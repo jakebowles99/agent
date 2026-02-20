@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Active in Harvest (SOW010).
+
+### 2026-02-20
 - Boomi & Slipstream email thread: agreed to send required master file formats and a high-level design approach to Midwich (Jon Allen).
 
 ### 2026-02-19

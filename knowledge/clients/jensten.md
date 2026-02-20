@@ -96,3 +96,15 @@ Jensten Group is an insurance group with multiple workstreams including Fabric d
 ## Relevant Projects
 - None yet.
 
+
+## Company Overview
+Jensten — insurance group client; Synapx supports Microsoft Fabric discovery and underwriting Power BI discovery initiatives.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
