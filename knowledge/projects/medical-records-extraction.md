@@ -6,6 +6,9 @@ Medical records extraction development/support work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time logged: locking flows to prevent duplicate runs, optimisation investigations, and implementing fix for too-large response handling; Weekly Status Review also covered terminology update and bulk approval improvements.
+
+### 2026-02-20
 - Weekly status review: extensive portal/CMS integration updates, extraction workflow demo, action items for QA/UAT and multiple feature fixes; dev work logged on locking flows and handling too-large responses.
 
 ### 2026-02-20

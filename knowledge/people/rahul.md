@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 21:08:** Discussed AI readiness score implementation; to confirm Foundry endpoint access and request LLM API keys if needed.
 - **2026-02-20 17:08:** Discussed implementation approach for AI readiness score; to confirm access to Foundry endpoints and request LLM API keys if needed.
 - **2026-02-11 14:44:** Candidate discussed in recruitment chat; requested ~30% hike and countered offer at 32–33.
 - **2026-02-11 14:26:** Mentioned as a candidate discussing salary hike expectations; also listed as participant for agentic coding lessons.

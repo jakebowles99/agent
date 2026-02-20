@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 21:08:** Discussed manifest/plugin troubleshooting and deployment; in Compass CHC meeting responsible for QA/UAT updates, output formatting decisions, and demos with stakeholders.
 - **2026-02-20 17:07:** Discussed plugin deployment/testing, manifest troubleshooting, demo planning; owned action items incl QA/UAT updates, status update, output formatting decision, payment status sync with Tarun, and other coordination.
 - **2026-02-18 22:01:** Mentioned in chat ('Still Charlie'); also appears in calendar as 'Charlie Birthday Leave'.
 - **2026-02-18 21:50:** Calendar shows Charlie on birthday leave (all-day event).

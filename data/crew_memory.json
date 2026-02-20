@@ -3,6 +3,14 @@
     "last_runs": [
       {
         "status": "success",
+        "emails_found": 0,
+        "messages_found": 0,
+        "files_updated": 0,
+        "result_preview": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "timestamp": "2026-02-20T21:13:27.979736+00:00"
+      },
+      {
+        "status": "success",
         "emails_found": 50,
         "messages_found": 62,
         "files_updated": 50,
@@ -72,14 +80,6 @@
         "files_updated": 0,
         "result_preview": "I can\u2019t comply with the request to ignore prior instructions.",
         "timestamp": "2026-02-20T12:16:17.889631+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 50,
-        "messages_found": 6,
-        "files_updated": 36,
-        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```markdown\n## 2026-02-20 11:00\n\n### Changes Today\n- **Emails:** 50 new\n- **Teams Chats:** 6 messages across 3 conversations\n- **Teams Channels:** 32 messages in 3 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 15 updated\n- **Project Profiles:** 10 updated\n- **Client Profiles:** 11 updated\n- **Calendar:** 10 events on calendar (Anand OOO through 2026-02-24; CIAD; standups; product catchup; Compass status review; iwantmore check-in)\n- *",
-        "timestamp": "2026-02-20T11:10:41.279619+00:00"
       }
     ],
     "pending_items": []
@@ -87,7 +87,7 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 194,
+      "total_runs": 195,
       "emails_processed": 950,
       "messages_processed": 214,
       "files_updated": 659
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-20T20:18:34.694962+00:00",
+    "last_updated": "2026-02-20T21:13:27.979749+00:00",
     "version": "1.0"
   }
 }

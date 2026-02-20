@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 21:08:** Marked OOO (out of office) 2026-02-19 to 2026-02-24.
 - **2026-02-11 15:43:** Mentioned as possibly having 17C investor commitment work post meeting.
 - **2026-02-11 15:21:** Referenced in discussion about salary level.
 - **2026-02-11 14:45:** Discussed as subject of salary question (reported £60k salary).
@@ -19,4 +20,4 @@
 - **2026-02-10 11:07:** Mentioned as not believing credentials were shared with him.
 
 ---
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-20*

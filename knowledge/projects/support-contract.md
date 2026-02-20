@@ -6,6 +6,9 @@ General support contract for bug investigation and fixes.
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time logged: Sales Order due date fix deployment; added records to dev/upper envs via DevOps and performed cleanup; admin updates.
+
+### 2026-02-20
 - Support work logged: Sales Order due date fix deployed; environment/user records updates via DevOps; admin checks and ticket/thread updates.
 
 ### 2026-02-20
