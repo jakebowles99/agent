@@ -21,6 +21,7 @@
 - Technical estimation
 
 ## Recent interactions
+- **2026-02-20 10:30:** Referenced as point of contact to reach out to (re: BRD) in Marketing Requests thread.
 - **2026-02-19 17:09:** Mentioned in Everyone channel attachment; has OOO calendar event.
 - **2026-02-11 20:34:** Sent BRD weekly standup update (moved call); sent Euroleague final reviews Teams meeting invite.
 - **2026-02-11 16:38:** Sent BRD weekly standup update; organized Euroleague final reviews meeting invite.

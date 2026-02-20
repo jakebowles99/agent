@@ -8,6 +8,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 
 ## Timeline / Log
 ### 2026-02-20
+- No direct updates today beyond general Fabric/Power BI service outage notice in company channel.
+
+### 2026-02-20
 - Support SOW signature requested via Adobe Sign; ongoing support tracked in Harvest.
 
 ### 2026-02-20

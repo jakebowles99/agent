@@ -8,6 +8,9 @@ Automate portfolio reporting data capture using SharePoint Lists and ingestion p
 
 ## Timeline / Log
 ### 2026-02-20
+- Client emailed updated SharePoint list source file for Chelverton mapping fields; noted some entries incomplete to be updated over time.
+
+### 2026-02-20
 - Client emailed updated SharePoint list source file and noted some entries incomplete; fields being updated over time.
 
 ### 2026-02-20

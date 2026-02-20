@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-20 10:29:** Shared lab activation details for "Chat with Your Data/AI tour | 2026-02-20 | United Kingdom" including signup link and activation code; workshop has 30 pre-deployed instances.
 - **2026-02-20 09:06:** Discussed Fabric setup kickoff/access and lab readiness; involved in Intuit follow-up thread.
 - **2026-02-20 08:06:** Email thread with Phil Carter re Fabric setup; active in multiple Teams chats including Synapx Directors.
 - **2026-02-20 07:09:** Replied regarding Fabric setup project kick off; involved in lab/roundtable emails.
