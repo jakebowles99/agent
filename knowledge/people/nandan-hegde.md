@@ -18,6 +18,7 @@
 - **2026-02-09**
 
 ## Recent interactions
+- **2026-02-20 14:08:** OOO auto-reply for Fabric MLOps roundtable invite; involved in Boomi & Slipstream email thread recipients.
 - **2026-02-20 13:08:** OOO auto-reply; posted Fabric/Power BI outage and bootcamp link; involved in multiple internal chats/meetings.
 - **2026-02-20 12:09:** OOO auto-reply; posted about Fabric/Power BI outage; mentioned as recipient in emails.
 - **2026-02-20 09:07:** Posted Fabric/Power BI outage and Business Central bootcamp links; referenced in meeting recording expiry notices; participant in multiple Synapx communications.

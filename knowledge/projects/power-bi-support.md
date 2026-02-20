@@ -8,6 +8,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 
 ## Timeline / Log
 ### 2026-02-20
+- Power BI/Fabric outage noted in Teams channel; potential impact to support work.
+
+### 2026-02-20
 - Active in Harvest list; no specific comms captured today.
 
 ### 2026-02-20

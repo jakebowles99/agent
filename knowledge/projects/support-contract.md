@@ -6,6 +6,9 @@ General support contract for bug investigation and fixes.
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest time logged: deployment fix for Sales Order DueDate and adding Umar records across environments; cleanup for constraints.
+
+### 2026-02-20
 - Harvest time logged for Sales Order due date fix deployment.
 
 ### 2026-02-20
