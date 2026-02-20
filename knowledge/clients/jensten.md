@@ -46,3 +46,24 @@
 ## Relevant Projects
 - None yet.
 
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-20 18:10:** 2026-02-20: No direct comms found in daily knowledge; client included due to active Harvest projects.
+
+
+
+## People
+- [Tushara Udata](../people/tushara-udata.md)
+
+## Projects
+- [Jensten Overview](../projects/jensten-overview.md)
+- [Fabric Discovery](../projects/fabric-discovery.md)
+- [Underwriting Power BI Discovery](../projects/underwriting-power-bi-discovery.md)

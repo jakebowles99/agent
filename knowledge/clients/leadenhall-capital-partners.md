@@ -35,6 +35,8 @@ Client profile for Leadenhall Capital Partners (LCP) including Fabric FX rates i
 - **2026-02-20 16:13:** 2026-02-20: Harvest notes mention LCP pre-sales work (Kenny + PA vnet).
 - **2026-02-20 16:13:** 2026-02-20: Meeting “Standup - LCP Doc Extraction” — plugin testing/account provision, manifest troubleshooting, deployment planned for Monday evening IST, demo scheduling.
 - **2026-02-20 17:11:** 2026-02-20: Internal standup notes for LCP Doc Extraction (plugin testing/deployment planning for Monday evening IST; demo scheduling and testing priorities).
+- **2026-02-20 18:10:** 2026-02-20: Standup - LCP Doc Extraction: plugin testing account/manifest troubleshooting; planned deployment to client tenant Monday evening IST; demo scheduling after deployment.
+- **2026-02-20 18:10:** 2026-02-20: Harvest notes include LCP networking/reconciliation work (Kenny + PA vnet) and NAV reconciliation pipeline planning.
 
 ## Relevant People
 - None yet.
@@ -43,3 +45,23 @@ Client profile for Leadenhall Capital Partners (LCP) including Fabric FX rates i
 ## Relevant Projects
 - None yet.
 
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+
+## People
+- [Kenny Balogun](../people/kenny-balogun.md)
+- [Charlie Phipps-Bennett](../people/charlie-phipps-bennett.md)
+- [Vijay](../people/vijay.md)
+- [Ajay Gannamaneni](../people/ajay-gannamaneni.md)
+- [Navsheen Koul](../people/navsheen-koul.md)
+
+## Projects
+- [Fabric FX Rates Integration](../projects/fabric-fx-rates-integration.md)
+- [LCP Doc Extraction](../projects/lcp-doc-extraction.md)

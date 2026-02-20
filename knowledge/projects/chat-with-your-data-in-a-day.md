@@ -7,6 +7,9 @@ Microsoft Fabric 'Chat with Your Data' enablement workshop/lab session run for a
 
 ## Timeline / Log
 ### 2026-02-20
+- Teams event chat supported attendees with lab activation link/code and troubleshooting (RDP access, missing emails, guide location).
+
+### 2026-02-20
 - Teams chat supported lab access and activation (signup link + activation code shared); attendees discussed RDP access and lab troubleshooting.
 
 

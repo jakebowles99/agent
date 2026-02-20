@@ -9,6 +9,7 @@
 - **Email**: dave.jackson@jensten.co.uk
 
 ## Recent interactions
+- **2026-02-20 18:07:** Coordinated scheduling for Fabric discovery walkthrough and Jensten stakeholder intro; referenced Gary Jackson and James for requirements.
 - **2026-02-19 19:09:** Chat about sample data/dashboard deliverable for SOW.
 - **2026-02-11 18:01:** Accepted Jensten <> Synapx SOW & proposal walkthrough meeting invite.
 - **2026-02-11 16:23:** Replied in chat that 12-1 looks free; accepted Jensten SOW & proposal walkthrough invite.
@@ -23,4 +24,4 @@
 - **2026-02-10 02:02:** External attendee for underwriting proposal meeting on 2026-02-10.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-20*

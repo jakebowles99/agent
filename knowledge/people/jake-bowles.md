@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-20 18:07:** Discussed rate card and BA costs for Pro Global SOW; day check-in conversation.
 - **2026-02-20 16:08:** Mentioned in multiple emails/chats/meetings; coordinated demos, labs, and project discussions.
 - **2026-02-20 13:07:** Communicated with team across chats/meetings about deployments, requirements, labs, and project coordination.
 - **2026-02-20 12:08:** Mentioned/participant across emails and meetings (CDIAD call, LCP standup, product catchup, Compass CHC status review).
