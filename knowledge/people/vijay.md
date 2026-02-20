@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 22:09:** Received testing instructions; asked to prioritize AI extraction testing and report issues.
 - **2026-02-20 21:08:** Assigned to prioritize testing AI extraction functionality; to receive documents via email and report issues.
 - **2026-02-20 17:08:** To prioritize testing AI extraction; receiving test account/docs and manifest updates for local plugin testing; to report issues.
 - **2026-02-11 15:43:** Referenced in Harvest forecast updates; in 17C user accounts chat responded 'No' and was identified as Vijay Gorasia (gorasia@17capital.com).

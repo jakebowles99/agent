@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Email thread 'Boomi & Slipstream - K&S': agreed to send required master file formats and a HLD for approach; Midwich weekly progress email sent (in Yaz's absence).
+
+### 2026-02-20
 - Harvest active project; email thread mentions sending required master file formats and an HLD for approach (Boomi & Slipstream - K&S).
 
 ### 2026-02-20

@@ -14,3 +14,12 @@ Overview to be captured.
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 22:13:** Inbound email from Martin Everard about connecting in future (follow-up outreach).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

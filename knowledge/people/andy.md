@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 22:09:** Involved in scheduling working session and decisions on audit trail filtering/sorting; to review data model and Figma critically.
 - **2026-02-20 21:08:** To schedule working session with Charlie; asked to review Figma critically and clarify queries; involved in audit trail decisions.
 - **2026-02-20 17:07:** Mentioned for scheduling working session with Charlie; involved in audit trail filtering/sorting decisions and data model walkthrough.
 - **2026-02-11 21:34:** Gave Charlie advice on presenting budget/spend rationale in written form; Craig noted speaking with Andy and that it's in his interest for the work to proceed.

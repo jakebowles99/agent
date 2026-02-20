@@ -11,6 +11,9 @@ Ongoing AI support engagement for Pro Global.
 
 ## Timeline / Log
 ### 2026-02-20
+- No direct comms today; referenced in SharePoint recording deletion notice ('Synapx & Pro Global - AI Kick-off attempt') indicating older recording expired.
+
+### 2026-02-20
 - Harvest active project; no additional activity captured today.
 
 ### 2026-02-20

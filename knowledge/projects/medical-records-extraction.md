@@ -6,6 +6,9 @@ Medical records extraction development/support work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Weekly status review meeting: extensive action list across portal, CMS sync, payments (Stripe/Zoho), audit trail, extraction requirements (summaries vs exact sentences), and upcoming demos. Harvest entries also logged for flow locking, optimisation, and handling large responses.
+
+### 2026-02-20
 - Harvest time logged: locking flows to prevent duplicate runs, optimisation investigations, and implementing fix for too-large response handling; Weekly Status Review also covered terminology update and bulk approval improvements.
 
 ### 2026-02-20

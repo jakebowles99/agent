@@ -11,6 +11,9 @@ Microsoft Fabric discovery engagement for Jensten.
 
 ## Timeline / Log
 ### 2026-02-20
+- No specific activity captured in today's comms; active in Harvest.
+
+### 2026-02-20
 - Harvest active project; no additional activity captured today.
 
 ### 2026-02-20

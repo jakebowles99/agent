@@ -17,6 +17,15 @@ Overview to be captured.
 - **2026-02-20 03:11:** Email from Tafana Caesar following up on Synapx/Intuit cohort feedback and survey.
 - **2026-02-20 19:11:** Email: Follow-up on Synapx/Intuit cohort feedback/survey request.
 - **2026-02-20 20:15:** Email follow-up in Synapx/Intuit thread re: cohort feedback/survey (Tafana Caesar).
+- **2026-02-20 22:13:** Email follow-up from Tafana Caesar re Synapx/Intuit: asked about feedback from cohort/survey.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

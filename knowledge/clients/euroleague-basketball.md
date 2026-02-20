@@ -58,4 +58,12 @@ Premier professional basketball league in Europe, organizing top-tier club compe
 
 ## Recent Activity
 - **2026-02-20 19:11:** Email: Euroleague Basketball RFP outcome (proposal unsuccessful); Charlie requested feedback.
+- **2026-02-20 22:14:** Email received: RFP proposal unsuccessful; request sent for feedback on where proposal fell short.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 

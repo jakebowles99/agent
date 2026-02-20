@@ -14,3 +14,12 @@ Overview to be captured.
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 22:14:** Received marketing invite email for Connect2Collab Forum (26 March).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
