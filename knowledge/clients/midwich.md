@@ -84,6 +84,8 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 - **2026-02-20 02:09:** 2026-02-20: Midwich Squad daily standup held (no transcript/notes available).
 - **2026-02-20 03:10:** Email thread re: “Boomi & Slipstream - K&S”: Jake to send required master-file formats + HLD for approach.
 - **2026-02-20 03:10:** Midwich Limited weekly project progress email sent (Yaz absent).
+- **2026-02-20 04:08:** Email thread re: “Boomi & Slipstream - K&S” (Jake to Jon Allen / Joe Thompson): Jake to send required master-file formats and an HLD for approach.
+- **2026-02-20 04:08:** Midwich weekly project progress email sent to Joe Thompson (covering for Yaz).
 
 ## Relevant People
 - None yet.
@@ -95,6 +97,14 @@ Midwich Group is a leading specialist distributor of technology solutions, servi
 
 ## Company Overview
 UK-based technology distributor. Synapx supports Midwich on initiatives including Slipstream/Boomi and squad delivery.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 
 
 ## Relevant People

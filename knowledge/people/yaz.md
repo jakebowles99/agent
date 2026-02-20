@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-20 04:06:** Mentioned as absent; weekly project progress sent in Yaz's absence.
 - **2026-02-20 03:07:** Mentioned as absent in Midwich weekly project progress email.
 - **2026-02-11 21:19:** Was on site with Joe; mentioned lingering performance issues in SO app related to indexing/filtering.
 - **2026-02-11 21:02:** Mentioned as being on site with Joe during a good day; raised performance issues in SO app.

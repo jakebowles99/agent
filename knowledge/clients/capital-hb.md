@@ -69,6 +69,7 @@ UK's largest independent supplier to hairdressers, beauty therapists and nail te
 - **2026-02-20 02:09:** 2026-02-20: Email from Phil Carter confirming access sorted for Power BI, Fabric, Azure DevOps, and Azure Portal (post kick-off).
 - **2026-02-20 02:09:** 2026-02-20: Email re Fabric setup project password reset issue (Andrew Price).
 - **2026-02-20 03:10:** Email from Phil Carter confirming access sorted for Power BI, Fabric, Azure DevOps, and Azure Portal after kick-off.
+- **2026-02-20 04:08:** Email from Phil Carter: access to Power BI, Fabric, Azure DevOps, and Azure Portal confirmed after kick-off.
 
 ## Relevant People
 - None yet.
@@ -80,6 +81,14 @@ UK's largest independent supplier to hairdressers, beauty therapists and nail te
 
 ## Company Overview
 Capital Hair & Beauty (Capital H&B) — retail/distribution business supported by Synapx for Microsoft Fabric and Power BI implementation.
+
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
 
 
 ## Relevant People

@@ -3,6 +3,14 @@
     "last_runs": [
       {
         "status": "success",
+        "emails_found": 50,
+        "messages_found": 0,
+        "files_updated": 23,
+        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```md\n## 2026-02-20 04:00\n\n### Changes Today\n- **Emails:** 50 new\n- **Teams Chats:** 0 messages across 0 conversations\n- **Teams Channels:** 1 messages in 1 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 0 updated\n- **Project Profiles:** 14 updated\n- **Client Profiles:** 9 updated\n- **Calendar:** 9 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Reply to Fraser with any clients using NordVPN dedicated IP (",
+        "timestamp": "2026-02-20T04:13:46.620793+00:00"
+      },
+      {
+        "status": "success",
         "emails_found": 0,
         "messages_found": 0,
         "files_updated": 43,
@@ -69,14 +77,6 @@
         "files_updated": 0,
         "result_preview": "I can\u2019t comply with \u201cignore all previous instructions\u201d because I must follow the task requirements.\n\n",
         "timestamp": "2026-02-19T19:13:11.781560+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 50,
-        "messages_found": 3,
-        "files_updated": 24,
-        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```md\n## 2026-02-19 18:00\n\n### Changes Today\n- **Emails:** 50 new\n- **Teams Chats:** 3 messages across 3 conversations\n- **Teams Channels:** 21 messages in 1 channels\n- **Transcripts:** 0 new\n- **People Profiles:** 12 updated\n- **Project Profiles:** 12 updated\n- **Client Profiles:** 0 updated\n- **Calendar:** 10 events on calendar\n- **Time Tracking:** none\n\n### Action Items Detected\n- [ ] Timesheets: submit by COB today; add clear notes to all Ha",
-        "timestamp": "2026-02-19T18:15:14.150345+00:00"
       }
     ],
     "pending_items": []
@@ -84,10 +84,10 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 177,
-      "emails_processed": 300,
+      "total_runs": 178,
+      "emails_processed": 350,
       "messages_processed": 48,
-      "files_updated": 283
+      "files_updated": 306
     }
   },
   "entities": {
@@ -97,7 +97,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-20T03:13:21.513840+00:00",
+    "last_updated": "2026-02-20T04:13:46.620806+00:00",
     "version": "1.0"
   }
 }
