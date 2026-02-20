@@ -10,3 +10,7 @@ Working thread around weekly status review and sharing meeting recordings (large
 ## Open questions / action items
 - [ ] Confirm whether anything beyond accessing the SharePoint link is required to view/download the meeting recording.
 - [ ] Verify Munni’s team has been added to SharePoint members and can access recordings.
+
+## Timeline / Log
+### 2026-02-20
+- Weekly status review meeting held covering portal authentication, CMS sync, Stripe/payment status sync to Zoho, additional services routing, notifications, branding/UI tweaks, and medical records extraction workflow.

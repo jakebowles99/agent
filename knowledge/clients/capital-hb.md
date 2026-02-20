@@ -34,6 +34,7 @@ Fabric and Power BI implementation engagement.
 - **2026-02-20 18:10:** 2026-02-20: Email from Phil Carter confirming access to Power BI/Fabric/Azure DevOps/Azure Portal; noted admin password reset during testing.
 - **2026-02-20 18:10:** 2026-02-20: Kickoff follow-up re Fabric setup project and access/password reset issue.
 - **2026-02-20 19:11:** Email: Fabric Set Up Project Kick Off access confirmation and password reset/admin account notes.
+- **2026-02-20 20:14:** Email re: Fabric setup project kick-off access (Power BI/Fabric/Azure DevOps/Azure Portal) and password reset notes (Phil Carter).
 
 ## Relevant People
 - None yet.
@@ -60,6 +61,14 @@ Fabric and Power BI implementation engagement.
 - [Capital HB Fabric](../projects/capital-hb-fabric.md)
 - [Fabric & Power BI Implementation (Fabric)](../projects/fabric-power-bi-implementation-fabric.md)
 - [Fabric & Power BI Implementation (Power BI)](../projects/fabric-power-bi-implementation-power-bi.md)
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

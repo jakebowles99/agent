@@ -15,6 +15,15 @@ Overview to be captured.
 ---
 *Last Updated: 2026-02-20*
 - **2026-02-20 19:11:** Email: Adobe Sign signature requested for WA COMMUNICATIONS_SOW004_Support (T&M)_19 February 2026.
+- **2026-02-20 20:15:** Adobe Acrobat Sign: signature requested for 'WA COMMUNICATIONS_SOW004_Support (T&M)_19 February 2026' (Matt Davies).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

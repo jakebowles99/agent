@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-20 20:11:** Handled Midwich progress email; requested salary guide; involved in Euroleague RFP follow-up; mentioned in standups and status review; posted in channel.
 - **2026-02-20 19:07:** Salary guide request to Simon; Euroleague RFP feedback request; active in Compass CHC and LCP standup action items.
 - **2026-02-20 18:07:** Shared Credly badge links and discussed Copilot Jumpstart training/exams and Harvest time booking.
 - **2026-02-20 16:09:** Discussed salary guide with Simon; midwich progress email; Euroleague RFP follow-up; actions in Compass CHC and LCP doc extraction meetings.

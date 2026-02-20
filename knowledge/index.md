@@ -8,23 +8,26 @@
 |---|---|---|
 | [Compass CHC](projects/compass-chc.md) | [Compass CHC](clients/compass-chc.md) | Active |
 | [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active |
-| [Chat with Your Data in a Day](projects/chat-with-your-data-in-a-day.md) | (event) | Active |
-| [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital H&B](clients/capital-hb.md) | Active |
-| [Fabric & Power BI Implementation (Fabric)](projects/fabric-power-bi-implementation-fabric.md) | [Capital H&B](clients/capital-hb.md) | Active |
-| [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
-| [Support Contract](projects/support-contract.md) | [WA Communications](clients/wa-communications.md) | Active |
-| [WA Communications Support (T&M)](projects/wa-communications-support-tm.md) | [WA Communications](clients/wa-communications.md) | Active |
 | [Synapx Product (AI Readiness Score)](projects/synapx-product-ai-readiness-score.md) | [Synapx](clients/synapx.md) | Active |
+| [Chat with Your Data in a Day](projects/chat-with-your-data-in-a-day.md) | (event) | Active |
+| [Chat with Your Data in a Day  Synapx](projects/chat-with-your-data-in-a-day-synapx.md) | [Synapx](clients/synapx.md) | Active |
+| [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
+| [Slipstream US](projects/slipstream-us.md) | [Midwich](clients/midwich.md) | Active |
+| [Slipstream Boomi K&S](projects/slipstream-boomi-ks.md) | [Midwich](clients/midwich.md) | Active |
+| [Midwich App Development SOW008](projects/midwich-app-development-sow008.md) | [Midwich](clients/midwich.md) | Active |
+| [Capital HB Fabric](projects/capital-hb-fabric.md) | [Capital H&B](clients/capital-hb.md) | Active |
+| [WA Communications Support (T&M)](projects/wa-communications-support-tm.md) | [WA Communications](clients/wa-communications.md) | Active |
+| [Support Contract](projects/support-contract.md) | [WA Communications](clients/wa-communications.md) | Active |
 
 ## Clients
 
 | Client | Key contact | Active project |
 |---|---|---|
 | [Compass CHC](clients/compass-chc.md) | Kia; Rachel Brier; Louis Seymour | Compass CHC |
-| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | (see client profile) | LCP Doc Extraction |
-| [Capital H&B](clients/capital-hb.md) | Cristian Ettridge | Capital HB Fabric |
+| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | (see profile) | LCP Doc Extraction |
 | [Midwich](clients/midwich.md) | Jon Allen; Joe Thompson | Midwich Squad |
 | [WA Communications](clients/wa-communications.md) | Matt Davies | Support Contract |
+| [Capital H&B](clients/capital-hb.md) | Cristian Ettridge; Phil Carter | Capital HB Fabric |
 | [Synapx](clients/synapx.md) | Jake Bowles | AI Readiness Score |
 
 ## Key People
@@ -38,6 +41,7 @@
 - [Tarun Reddy](people/tarun-reddy.md)
 - [Narayan Solanki](people/narayan-solanki.md)
 - [Rahul Matta](people/rahul-matta.md)
+- [Ajay Gannamaneni](people/ajay-gannamaneni.md)
 
 ### External
 - [Cristian Ettridge](people/cristian-ettridge.md) (Capital H&B)
@@ -45,6 +49,9 @@
 - [Kia](people/kia.md) (Compass CHC)
 - [Rachel Brier](people/rachel-brier.md) (Compass CHC)
 - [Louis Seymour](people/louis-seymour.md) (Compass CHC)
+- [Jon Allen](people/jon-allen.md) (Midwich)
+- [Joe Thompson](people/joe-thompson.md) (Midwich)
+- [Munni Musa](people/munni-musa.md) (Compass CHC)
 
 ## Recent Meetings (last 7)
 

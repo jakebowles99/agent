@@ -45,6 +45,8 @@ Client profile for Midwich (including Slipstream US and Midwich Squad work).
 - **2026-02-20 18:09:** 2026-02-20: Email thread with Jon/Jonathan Allen and Joe Thompson re Boomi & Slipstream (K&S); committed to send required master file formats and HLD approach.
 - **2026-02-20 18:09:** 2026-02-20: Midwich weekly project progress email sent (in Yaz’s absence).
 - **2026-02-20 18:09:** 2026-02-20: Internal PM note: Vijay capacity on Midwich changed from 8h/day to 3h/day.
+- **2026-02-20 20:14:** Email thread re: Boomi & Slipstream - K&S (master file formats; approach HLD to follow).
+- **2026-02-20 20:14:** Weekly project progress email sent in Yaz’s absence.
 
 ## Relevant People
 - None yet.
@@ -76,3 +78,11 @@ Client profile for Midwich (including Slipstream US and Midwich Squad work).
 - [Slipstream US](../projects/slipstream-us.md)
 - [Slipstream Boomi K&S](../projects/slipstream-boomi-ks.md)
 - [Midwich Squad](../projects/midwich-squad.md)
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

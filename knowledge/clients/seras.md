@@ -36,6 +36,7 @@
 - **2026-02-20 17:11:** 2026-02-20: Worked on Data Discovery for Microsoft Fabric Migration (reviewed files/report per Harvest notes).
 - **2026-02-20 18:10:** 2026-02-20: Work logged on Data Discovery for Microsoft Fabric Migration (reviewed files and report).
 - **2026-02-20 18:10:** 2026-02-20: Internal note: upcoming week overutilization includes Seras allocation (needs adjustment).
+- **2026-02-20 20:15:** Harvest time logged on 'Data Discovery for Microsoft Fabric Migration'.
 
 ## Relevant People
 - None yet.
@@ -67,3 +68,11 @@
 
 ## Projects
 - [Data Discovery for Microsoft Fabric Migration](../projects/data-discovery-for-microsoft-fabric-migration.md)
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

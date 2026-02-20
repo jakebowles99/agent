@@ -37,6 +37,7 @@ Client profile for Leadenhall Capital Partners (LCP) including Fabric FX rates i
 - **2026-02-20 17:11:** 2026-02-20: Internal standup notes for LCP Doc Extraction (plugin testing/deployment planning for Monday evening IST; demo scheduling and testing priorities).
 - **2026-02-20 18:10:** 2026-02-20: Standup - LCP Doc Extraction: plugin testing account/manifest troubleshooting; planned deployment to client tenant Monday evening IST; demo scheduling after deployment.
 - **2026-02-20 18:10:** 2026-02-20: Harvest notes include LCP networking/reconciliation work (Kenny + PA vnet) and NAV reconciliation pipeline planning.
+- **2026-02-20 20:14:** LCP Doc Extraction standup (plugin testing, manifest issues, deployment timing and demo planning).
 
 ## Relevant People
 - None yet.
@@ -65,3 +66,11 @@ Client profile for Leadenhall Capital Partners (LCP) including Fabric FX rates i
 ## Projects
 - [Fabric FX Rates Integration](../projects/fabric-fx-rates-integration.md)
 - [LCP Doc Extraction](../projects/lcp-doc-extraction.md)
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

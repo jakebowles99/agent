@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Boomi & Slipstream thread: agreed to send required master file formats and an HLD of approach; Midwich standup held.
+
+### 2026-02-20
 - Active in Harvest. Related comms today referenced Boomi & Slipstream master file formats/HLD (email thread).
 
 ### 2026-02-20

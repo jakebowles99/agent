@@ -17,6 +17,15 @@ Iwantmore.ai engaged with Synapx to explore potential AI workstreams (including 
 - **2026-02-19 21:12:** Meeting follow-up email received outlining streams of work; Vinum use cases to be refined.
 - **2026-02-20 03:10:** Meeting “iwantmore.ai and Synapx- Regular check in” occurred; no transcript/insights available.
 - **2026-02-20 12:13:** Meeting: iwantmore.ai and Synapx- Regular check in (no transcript/insights available).
+- **2026-02-20 20:15:** Regular check-in meeting held (no transcript/insights available).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

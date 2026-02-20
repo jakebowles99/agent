@@ -8,6 +8,9 @@ Internal product work: AI readiness score and related engineering workflow/tooli
 
 ## Timeline / Log
 ### 2026-02-20
+- Product catchup: walkthrough of Claude/Coda workflow; agreed AI readiness score will use LLM via Microsoft Foundry endpoints; action items for Rahul on endpoint access and API keys.
+
+### 2026-02-20
 - Product catchup discussed using Foundry endpoints (Anthropic/OpenAI) and API key needs; action for Rahul to confirm endpoint access and request keys if required.
 
 ### 2026-02-20

@@ -6,6 +6,9 @@ General support contract for bug investigation and fixes.
 
 ## Timeline / Log
 ### 2026-02-20
+- Support work logged: Sales Order due date fix deployed; environment/user records updates via DevOps; admin checks and ticket/thread updates.
+
+### 2026-02-20
 - Harvest logged Sales Order due date fix deployment, record additions via DevOps, and admin/ticket updates. Adobe Sign signature request received for 'WA COMMUNICATIONS_SOW004_Support (T&M)_19 February 2026'.
 
 ### 2026-02-20

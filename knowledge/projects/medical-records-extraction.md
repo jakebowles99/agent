@@ -6,6 +6,9 @@ Medical records extraction development/support work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Weekly status review: extensive portal/CMS integration updates, extraction workflow demo, action items for QA/UAT and multiple feature fixes; dev work logged on locking flows and handling too-large responses.
+
+### 2026-02-20
 - Work logged in Harvest on locking flows, optimisation, and response size fix; Weekly Status Review | Compass CHC meeting covered extraction workflow, portal integrations, QA/UAT planning, and multiple action items.
 
 ### 2026-02-20

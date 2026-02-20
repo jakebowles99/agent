@@ -67,3 +67,11 @@
 - [Jensten Overview](../projects/jensten-overview.md)
 - [Fabric Discovery](../projects/fabric-discovery.md)
 - [Underwriting Power BI Discovery](../projects/underwriting-power-bi-discovery.md)
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

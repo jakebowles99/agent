@@ -9,6 +9,7 @@
 - **Email**: gemma=riadaconsultancy.com@hubspotstarter.eu1.hs-send.com
 
 ## Recent interactions
+- **2026-02-20 20:12:** Sent invitation to Connect2Collab Forum (26 March).
 - **2026-02-20 19:07:** Sent invite to Connect2Collab Forum (26 March).
 - **2026-02-20 16:09:** Marketing email invite to Connect2Collab Forum on 26th March.
 - **2026-02-20 15:07:** Invited to Connect2Collab Forum (March 26).
