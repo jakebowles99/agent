@@ -6,6 +6,9 @@ Medical records extraction development/support work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Weekly status review meeting covered portal/CMS sync, payments, additional services routing, UI tweaks, and extensive action items; Harvest time logged (1.5h) on locking flows to prevent duplicate runs.
+
+### 2026-02-20
 - Discussed as part of Compass CHC status review: demoed medical records extraction workflow (Zoho Creator → SharePoint → extraction/approval app) and captured multiple follow-up actions (bulk approval fields, terminology updates, multi-doc extraction output, audit trail).
 
 ### 2026-02-20

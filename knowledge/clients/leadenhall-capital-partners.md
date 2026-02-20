@@ -11,3 +11,18 @@
 
 ## Activity notes (2026-02-20)
 - Internal standup: “Standup - LCP Doc Extraction” — deployment/testing planning and demo scheduling (Copilot notes captured).
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-20 11:08:** Standup on LCP Doc Extraction: plugin testing/deployment planning; AI extraction testing prioritized; onboarding/demo scheduling after Monday evening IST deployment.
+
+
+---
+*Last Updated: 2026-02-20*

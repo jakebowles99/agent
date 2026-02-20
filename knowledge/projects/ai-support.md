@@ -11,6 +11,9 @@ Ongoing AI support engagement for Pro Global.
 
 ## Timeline / Log
 ### 2026-02-20
+- Old meeting recording expiration notice referenced 'Synapx & Pro Global - AI Kick-off attempt' (recording deleted).
+
+### 2026-02-20
 - SharePoint notified that a past 'Synapx & Pro Global - AI Kick-off' meeting recording expired/deleted.
 
 ### 2026-02-20

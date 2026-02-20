@@ -9,6 +9,7 @@
 - **Email**: saumya.dubey@synapx.com
 
 ## Recent interactions
+- **2026-02-20 11:06:** Notified about upcoming leave; active in Copilot Jumpstart and other delivery chats.
 - **2026-02-20 09:06:** Sent upcoming leave reminder; included in PM resource availability and NordVPN users list; part of Teams chat context.
 - **2026-02-20 08:07:** Emailed leave reminder to Jake and Nandan; appears in Project Managers chat and Dhanyakumar L chat.
 - **2026-02-20 07:10:** Notified upcoming leave; participant in Dhanyakumar L chat name; referenced in resourcing updates and VPN transition mentions.

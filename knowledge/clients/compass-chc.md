@@ -14,3 +14,12 @@ Overview to be captured.
 
 ---
 *Last Updated: 2026-02-20*
+- **2026-02-20 11:08:** Weekly Status Review: portal/CMS integration, additional services email routing, payment status sync to Zoho, UI tweaks, and medical records extraction workflow updates; multiple action items assigned across team/client.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+

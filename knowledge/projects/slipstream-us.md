@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Referenced in email thread about Boomi & Slipstream master file formats and HLD approach.
+
+### 2026-02-20
 - Midwich squad daily standup held (no transcript available). Email thread continues on Boomi & Slipstream master file formats and HLD to be sent.
 
 ### 2026-02-20
