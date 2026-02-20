@@ -6,40 +6,37 @@
 
 | Project | Client | Status |
 |---|---|---|
-| [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital HB](clients/capital-hb.md) | Active |
+| [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) | [Capital Hair & Beauty](clients/capital-hb.md) | Active |
 | [Compass CHC](projects/compass-chc.md) | [Compass CHC](clients/compass-chc.md) | Active |
-| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | Active |
+| [LCP Doc Extraction](projects/lcp-doc-extraction.md) | [Leadenhall Capital Partners (LCP)](clients/lcp.md) | Active |
 | [Midwich Squad](projects/midwich-squad.md) | [Midwich](clients/midwich.md) | Active |
-| [Nimans Slipstream](projects/nimans-slipstream.md) | [Midwich](clients/midwich.md) | Active |
-| [Slipstream US](projects/slipstream-us.md) | [Midwich](clients/midwich.md) | Active |
 
 ## Clients
 
 | Client | Key contact | Active project |
 |---|---|---|
-| [Capital HB](clients/capital-hb.md) | [Phil Carter](people/phil-carter.md) | [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) |
-| [Compass CHC](clients/compass-chc.md) | [Munni](people/munni.md) | [Compass CHC](projects/compass-chc.md) |
-| [Leadenhall Capital Partners](clients/leadenhall-capital-partners.md) | [Munni](people/munni.md) | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
-| [Midwich](clients/midwich.md) | [Joe Thompson](people/joe-thompson.md) | [Nimans Slipstream](projects/nimans-slipstream.md) |
+| [Capital Hair & Beauty](clients/capital-hb.md) | Phil Carter | [Capital Hair & Beauty - Fabric/Power BI Implementation](projects/capital-hb-fabric.md) |
+| [Compass CHC](clients/compass-chc.md) | TBD (see meeting attendees) | [Compass CHC](projects/compass-chc.md) |
+| [Leadenhall Capital Partners (LCP)](clients/lcp.md) | Chris Learmonth | [LCP Doc Extraction](projects/lcp-doc-extraction.md) |
+| [Midwich](clients/midwich.md) | Joe Thompson | [Midwich Squad](projects/midwich-squad.md) |
 
 ## Key People
 
-### Internal
-- [Jake Bowles](people/jake-bowles.md)
-- [Charlie Phipps-Bennett](people/charlie-phipps-bennett.md)
-- [Andrew Price](people/andrew-price.md)
-- [Fraser Hamilton](people/fraser-hamilton.md)
-- [Tarun Reddy](people/tarun-reddy.md)
-- [Ajay Gannamaneni](people/ajay-gannamaneni.md)
-- [Navsheen Koul](people/navsheen-koul.md)
-- [Narayan Solanki](people/narayan-solanki.md)
+### Internal Team
+- Jake Bowles
+- Andrew Price
+- Charlie Phipps-Bennett
+- Fraser Hamilton
+- Ajay Gannamaneni
+- Tarun Reddy
+- Navsheen Koul
+- Narayan Solanki
 
 ### Key External Contacts
-- [Phil Carter](people/phil-carter.md) (Capital HB)
-- [Joe Thompson](people/joe-thompson.md) (Midwich)
-- [Jon Allen](people/jon-allen.md) (Midwich)
-- [Munni](people/munni.md) (Compass CHC)
-- [Rachel](people/rachel.md) (Compass CHC)
+- Phil Carter (Capital HB)
+- Joe Thompson (Midwich)
+- Jon Allen (Midwich)
+- Chris Learmonth (LCP)
 
 ## Recent Meetings (latest 7)
 - [2026-02-20 Weekly Status Review | Compass CHC](meetings/2026-02-20-weekly-status-review-compass-chc.md)
@@ -52,5 +49,5 @@
 
 ## Upcoming Deadlines (from calendar/context)
 - **2026-02-22:** NordVPN ends; transition to Azure VPN. Collect client list that whitelists NordVPN dedicated IP (212.237.225.22) and update to Azure VPN external IP range (51.142.25.0/30).
-- **2026-02-23 (Mon, evening IST):** LCP Doc Extraction plugin deployment for demo/testing (Ajay).
+- **2026-02-23 (Mon, evening IST):** LCP Doc Extraction plugin deployment for demo/testing.
 - **2026-02-24:** Anand OOO ends.

@@ -7,6 +7,9 @@ Regular client check-in with iwantmore.ai (product/eng coordination).
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-20
+- Regular check-in meeting occurred on 2026-02-20; no transcript/notes available in archive.
+
 
 ### 2026-02-20
 - Calendar: regular check-in occurred; meeting summary unavailable (no transcript/meeting ID).
