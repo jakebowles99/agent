@@ -52,3 +52,8 @@ https://dynamics365bootcamp.com/
 
 ## 11:49 - [Sophia Fricker] > Contribute to Synapx Marketing – Technical Deep-Dive Posts. Please organise 1 marketing champion from each team to contribute one post per week.
 
+
+## 08:04 - [Tushara Udata] > Friendly reminder that all timesheets must be submitted by COB today.  
+No notes = No approval.  
+Noticed that several of you haven't even started logging this week’s hours. Please do, as we will review submissions by COB today for any defaulters, with respective actions where required.
+

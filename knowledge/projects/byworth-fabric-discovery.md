@@ -11,6 +11,9 @@ Byworth Fabric discovery work for Venture.
 
 ## Timeline / Log
 ### 2026-02-20
+- Venture mentioned in sent email re: placeholder for Venture tech discussion; discovery remains active in Harvest.
+
+### 2026-02-20
 - Placeholder calendar item “Venture Tech Discussion” accepted; otherwise no additional updates captured today.
 
 ### 2026-02-20

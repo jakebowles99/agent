@@ -9,6 +9,7 @@
 - **Email**: Jonathan.Allen@midwich.com
 
 ## Recent interactions
+- **2026-02-20 09:06:** Requested required formats for master files for Boomi & Slipstream K&S; coordinating file supply with Jake.
 - **2026-02-20 08:07:** Requested formats for master files in Boomi & Slipstream thread; coordinating with Jake.
 - **2026-02-20 07:09:** Coordinated required master file formats for Boomi & Slipstream - K&S.
 - **2026-02-20 06:07:** Discussed Boomi & Slipstream master file formats; requested required formats and additional info.

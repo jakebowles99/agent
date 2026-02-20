@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Kick-off/access email noted: Capital H&B confirmed accounts can access Power BI, Fabric, Azure DevOps and Azure Portal; access blockers being cleared before development starts.
+
+### 2026-02-20
 - Fabric/Power BI outage noted in Teams channel; otherwise general active delivery.
 
 ### 2026-02-20

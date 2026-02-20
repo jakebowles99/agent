@@ -11,6 +11,9 @@ Discovery work for underwriting Power BI reporting for Jensten.
 
 ## Timeline / Log
 ### 2026-02-20
+- Mentioned in resource planning chat (overutilization includes Midwich/Jensten workstreams); remains active in Harvest.
+
+### 2026-02-20
 - Mentioned in internal resourcing/utilization chat as an active project; no client updates captured today.
 
 ### 2026-02-20

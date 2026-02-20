@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric/Power BI implementation (Power BI workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Project mentioned in internal comms; ongoing delivery tracked in Harvest.
+
+### 2026-02-20
 - Ongoing delivery tracked in Harvest; no specific comms captured today beyond general Fabric/Power BI outage mention.
 
 ### 2026-02-20

@@ -8,6 +8,9 @@ Integration to bring FX rates into Fabric (Graph API) for Leadenhall Capital Par
 
 ## Timeline / Log
 ### 2026-02-20
+- Discussed in standup context as LCP-related delivery continues; extraction workstream progressing.
+
+### 2026-02-20
 - Referenced indirectly in internal resourcing (LCP) and ongoing workstreams; no new client comms captured today.
 
 ### 2026-02-20
