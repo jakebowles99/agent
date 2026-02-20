@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric/Power BI implementation (Power BI workstream).
 
 ## Timeline / Log
 ### 2026-02-20
+- Fabric set up / project kick-off follow-ups; access confirmed for Power BI, Fabric, Azure DevOps and Azure Portal.
+
+### 2026-02-20
 - Active in Harvest on 2026-02-20.
 
 ### 2026-02-20

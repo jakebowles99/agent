@@ -9,6 +9,7 @@
 - **Email**: saumya.dubey@synapx.com
 
 ## Recent interactions
+- **2026-02-20 06:07:** Notified upcoming leave; listed among NordVPN users to identify affected clients.
 - **2026-02-20 05:10:** Notified about upcoming leave; also listed among NordVPN users in Teams channel post.
 - **2026-02-20 03:07:** Notified upcoming leave; listed as prior NordVPN user in VPN migration post.
 - **2026-02-20 02:07:** Notified Jake Bowles and Nandan Hegde about upcoming leave dates.
