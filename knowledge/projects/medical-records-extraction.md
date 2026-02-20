@@ -6,6 +6,9 @@ Medical records extraction development/support work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Weekly Status Review (Compass CHC): portal auth/notifications/payments; CMS integration; extraction workflow demo; extensive action items incl. demo for Lewis, bulk approvals, terminology updates, and UAT planning.
+
+### 2026-02-20
 - Weekly status review held; multiple action items across portal/CMS/extraction. Harvest time logged for optimisation tweaks and flow locking to prevent duplicate runs.
 
 ### 2026-02-20

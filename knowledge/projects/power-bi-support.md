@@ -8,6 +8,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 
 ## Timeline / Log
 ### 2026-02-20
+- Support/SOW signature request noted (Support T&M SOW004) and ongoing support referenced in Harvest.
+
+### 2026-02-20
 - Active in Harvest; no specific delivery notes in today's comms beyond general SharePoint mapping email.
 
 ### 2026-02-20

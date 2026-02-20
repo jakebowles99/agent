@@ -26,3 +26,18 @@ Client profile for Midwich (including Slipstream US and Midwich Squad work).
 
 ---
 *Last Updated: 2026-02-20*
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
+
+## Recent Activity
+- **2026-02-20 16:12:** 2026-02-20: Email thread “Boomi & Slipstream - K&S” — Jake replied; will send master file formats + HLD.
+- **2026-02-20 16:12:** 2026-02-20: Email “Midwich Limited - Weekly Project Progress” sent in Yaz’s absence.
+- **2026-02-20 16:12:** 2026-02-20: Teams (Project Managers) — Vijay Midwich capacity changed 8h/day -> 3h/day.
+- **2026-02-20 16:12:** 2026-02-20: Meeting “Midwich Squad - daily standup” (no transcript/insights).
+

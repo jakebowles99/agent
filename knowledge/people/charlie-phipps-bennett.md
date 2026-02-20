@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-20 16:09:** Discussed salary guide with Simon; midwich progress email; Euroleague RFP follow-up; actions in Compass CHC and LCP doc extraction meetings.
 - **2026-02-20 15:07:** Led project updates and coordination across multiple meetings and chats (Midwich, Compass CHC, Copilot Jumpstart).
 - **2026-02-20 14:08:** Requested salary guide data/infra guides; sent Midwich weekly project progress in Yaz's absence; active in LCP meetings.
 - **2026-02-20 13:08:** Requested salary guide data; coordinated Midwich progress update; involved heavily in Compass CHC and LCP doc extraction meetings.

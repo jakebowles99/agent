@@ -8,6 +8,9 @@ Midwich Slipstream US integration/build work.
 
 ## Timeline / Log
 ### 2026-02-20
+- Midwich-related comms and standup; ongoing work referenced alongside Boomi/Slipstream coordination.
+
+### 2026-02-20
 - Active Harvest project (SOW010). Related comms include 'Boomi & Slipstream - K&S' and Midwich standup activity today.
 
 ### 2026-02-20

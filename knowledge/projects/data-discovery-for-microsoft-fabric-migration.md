@@ -8,6 +8,9 @@ Discovery phase to assess current data environment and deliver a roadmap for Mic
 
 ## Timeline / Log
 ### 2026-02-20
+- Harvest logged discovery/PM time reviewing files and reporting as part of Fabric migration discovery.
+
+### 2026-02-20
 - Harvest time logged for project management and discovery (reviewed files/report). Team chat notes include Seras capacity planning/weekly catchup references.
 
 ### 2026-02-20
