@@ -8,6 +8,9 @@ Discovery phase to assess current data environment and deliver a roadmap for Mic
 
 ## Timeline / Log
 ### 2026-02-21
+- No direct comms activity captured today; project present as active in Harvest.
+
+### 2026-02-21
 - Imported from Harvest active projects list (2026-02-21).
 
 ### 2026-02-20

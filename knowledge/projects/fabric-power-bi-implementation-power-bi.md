@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric/Power BI implementation (Power BI workstream).
 
 ## Timeline / Log
 ### 2026-02-21
+- Email thread referenced 'Fabric Set Up Project Kick Off' and access/password reset notes.
+
+### 2026-02-21
 - Imported from Harvest active projects list (2026-02-21).
 
 ### 2026-02-20

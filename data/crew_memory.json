@@ -4,6 +4,14 @@
       {
         "status": "success",
         "emails_found": 50,
+        "messages_found": 50,
+        "files_updated": 33,
+        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```markdown\n## 2026-02-21 01:00\n\n### Changes Today\n- **Emails:** 50 new (Jake! You just earned a badge from Microsoft Global Channel Partner Sales (GCPS) \ud83c\udf89; BES Group - draft SoW; RE: Fabric Set Up Project Kick Off; Timesheets Submission Reminder - Action Required Today; Your Teams meeting recording has expired and is now deleted)\n- **Teams Chats:** 50 messages across 1 conversations\n- **Teams Channels:** 28 messages in 1 channels\n- **Transcript",
+        "timestamp": "2026-02-21T01:07:35.998643+00:00"
+      },
+      {
+        "status": "success",
+        "emails_found": 50,
         "messages_found": 0,
         "files_updated": 27,
         "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n--- knowledge/inbox.md ---\n## 2026-02-21 00:00\n\n### Changes Today\n- **Emails:** 50 new (Jake! You just earned a badge from Microsoft Global Channel Partner Sales (GCPS) \ud83c\udf89; BES Group - draft SoW; RE: Fabric Set Up Project Kick Off; Timesheets Submission Reminder - Action Required Today; Nord VPN retirement / Azure VPN replacement!)\n- **Teams Chats:** 0 messages\n- **Teams Channels:** 3 messages in 1 channel\n- **Transcripts:** 0 new\n- **People Prof",
@@ -72,14 +80,6 @@
         "files_updated": 40,
         "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```markdown\n## 2026-02-20 15:00\n\n### Changes Today\n- **Emails:** 50 new\n- **Teams Chats:** 5 conversations (6 messages)\n- **Teams Channels:** 3 channels (32 messages)\n- **Transcripts:** 0 new\n- **People Profiles:** 20 updated\n- **Project Profiles:** 12 processed (1 created, 11 updated)\n- **Client Profiles:** 8 processed (6 created, 2 updated)\n- **Calendar:** 9 meetings/events today (incl. CIAD; standups; Product Catchup; Weekly Status Review | C",
         "timestamp": "2026-02-20T16:15:18.570271+00:00"
-      },
-      {
-        "status": "success",
-        "emails_found": 50,
-        "messages_found": 5,
-        "files_updated": 35,
-        "result_preview": "Report: inbox_updated, index_regenerated, summary\n\n```md\n## 2026-02-20 14:00\n\n### Changes Today\n- **Emails:** 50 new (Security recommendation: Help protect your VMs in any environment; RE: Fabric Set Up Project Kick Off; Re: Doc Extraction Webpage Requirements; Midwich Limited - Weekly Project Progress; Signature requested on \"WA COMMUNICATIONS_SOW004_Support (T&M)_19 February 2026\")\n- **Teams Chats:** 5 conversations (6 messages archived)\n- **Teams Channels:** 3 channels (32 messages archived)\n",
-        "timestamp": "2026-02-20T15:12:59.806420+00:00"
       }
     ],
     "pending_items": []
@@ -87,10 +87,10 @@
   "long_term": {
     "patterns": [],
     "statistics": {
-      "total_runs": 198,
-      "emails_processed": 1100,
-      "messages_processed": 344,
-      "files_updated": 753
+      "total_runs": 199,
+      "emails_processed": 1150,
+      "messages_processed": 394,
+      "files_updated": 786
     }
   },
   "entities": {
@@ -100,7 +100,7 @@
   },
   "metadata": {
     "created_at": "2026-02-08T11:48:43.049872+00:00",
-    "last_updated": "2026-02-21T00:09:04.461804+00:00",
+    "last_updated": "2026-02-21T01:07:35.998665+00:00",
     "version": "1.0"
   }
 }

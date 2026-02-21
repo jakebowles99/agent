@@ -6,6 +6,7 @@
 - **Type**: Unknown
 
 ## Recent interactions
+- **2026-02-21 01:04:** Posted timesheet and leave reminders (missing timesheets, restricted leave/OOO scheduling, timesheets live for December/January) and asked for Excel help.
 - **2026-02-19 17:09:** Posted timesheet reminders, restricted leave notice, and requested Excel tips in Everyone channel.
 - **2026-02-11 18:06:** Asked for urgent help responding to legal/FRP queries; noted Charlie hadn't seen messages and Maggie was waiting; planned to ask Kim.
 - **2026-02-11 18:01:** Asked about estimate fields and alignment of roles; checked personal data processing for FRP; sought help responding to legal and FRP queries.
@@ -30,4 +31,4 @@
 - **2026-02-10 10:47:** Discussed Harvest setup for Capital H&B SOW separation; asked about adding PMO tag.
 
 ---
-*Last Updated: 2026-02-19*
+*Last Updated: 2026-02-21*

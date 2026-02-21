@@ -25,7 +25,7 @@ Client profile for Midwich (including Slipstream US and Midwich Squad work).
 - Meeting: Midwich Squad - daily standup (no transcript/insights).
 
 ---
-*Last Updated: 2026-02-20*
+*Last Updated: 2026-02-21*
 
 ## Relevant People
 - None yet.
@@ -50,6 +50,7 @@ Client profile for Midwich (including Slipstream US and Midwich Squad work).
 - **2026-02-20 22:13:** Email thread re Boomi & Slipstream (K&S): promised required master file formats and an HLD for approach.
 - **2026-02-20 22:13:** Midwich Limited weekly project progress update sent (Yaz absent).
 - **2026-02-20 22:13:** Internal resourcing note: Vijay capacity on Midwich adjusted (8h/day to 3h/day).
+- **2026-02-21 01:06:** Copilot Jumpstart chat referenced prior reading about AI Foundry for Midwich (context for Copilot pro-code assessment).
 
 ## Relevant People
 - None yet.
@@ -81,6 +82,14 @@ Client profile for Midwich (including Slipstream US and Midwich Squad work).
 - [Slipstream US](../projects/slipstream-us.md)
 - [Slipstream Boomi K&S](../projects/slipstream-boomi-ks.md)
 - [Midwich Squad](../projects/midwich-squad.md)
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

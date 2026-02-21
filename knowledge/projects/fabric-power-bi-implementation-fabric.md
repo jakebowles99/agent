@@ -8,6 +8,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 
 ## Timeline / Log
 ### 2026-02-21
+- Teams/channel mention of Microsoft Fabric/Power BI outage; plus kickoff/access emails for Fabric setup.
+
+### 2026-02-21
 - Imported from Harvest active projects list (2026-02-21).
 
 ### 2026-02-20

@@ -27,12 +27,21 @@ Synapx internal (non-client) projects and operations.
 
 
 ---
-*Last Updated: 2026-02-20*
+*Last Updated: 2026-02-21*
 - **2026-02-20 12:13:** Internal meeting: Synapx Internal Projects - Weekly Governance Meeting (canceled).
 - **2026-02-20 12:13:** Channel notice: NordVPN ending; move to Azure VPN Client and need to notify clients using NordVPN access (Fraser Hamilton).
 - **2026-02-20 13:11:** 2026-02-20: Product catchup—AI readiness score implementation discussion and Foundry endpoint access check.
 - **2026-02-20 13:11:** 2026-02-20: Internal comms re: timesheet submission reminders and NordVPN→Azure VPN client transition planning.
 - **2026-02-20 17:11:** 2026-02-20: Internal email/Teams activity including governance meeting cancellation and general operational updates (timesheets, VPN migration notice).
+- **2026-02-21 01:06:** Internal comms: timesheet submission reminders; marketing/LinkedIn updates; Copilot Jumpstart discussion; NordVPN retirement notice.
+
+## Relevant People
+- None yet.
+
+
+## Relevant Projects
+- None yet.
+
 
 ## Relevant People
 - None yet.

@@ -11,6 +11,9 @@ Ongoing AI support engagement for Pro Global.
 
 ## Timeline / Log
 ### 2026-02-21
+- Email referenced deleted Teams recording: 'Synapx & Pro Global - AI Kick-off attempt _2' (recording expired/deleted notice).
+
+### 2026-02-21
 - Imported from Harvest active projects list (2026-02-21).
 
 ### 2026-02-20
