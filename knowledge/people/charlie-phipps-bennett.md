@@ -4,6 +4,7 @@
 - **Last contact:** 2026-02-09
 
 ## Recent interactions
+- **2026-02-21 00:04:** Followed up with Euroleague contact requesting feedback after unsuccessful RFP outcome; also mentioned in Teams email mention.
 - **2026-02-20 20:11:** Handled Midwich progress email; requested salary guide; involved in Euroleague RFP follow-up; mentioned in standups and status review; posted in channel.
 - **2026-02-20 19:07:** Salary guide request to Simon; Euroleague RFP feedback request; active in Compass CHC and LCP standup action items.
 - **2026-02-20 18:07:** Shared Credly badge links and discussed Copilot Jumpstart training/exams and Harvest time booking.
@@ -138,4 +139,4 @@
 - **2026-02-09 20:23 UTC:** Asked James/Grant for availability to schedule end-of-week call with Andrew Catt (Vinco Wines).
 
 ---
-*Last Updated: 2026-02-20*
+*Last Updated: 2026-02-21*

@@ -7,6 +7,9 @@ Automate portfolio reporting data capture using SharePoint Lists and ingestion p
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-21
+- Imported from Harvest active projects list (2026-02-21).
+
 ### 2026-02-20
 - Received updated SharePoint list source file for Chelverton mapping from client; acknowledged incomplete entries to be updated over time.
 
@@ -102,4 +105,4 @@ Automate portfolio reporting data capture using SharePoint Lists and ingestion p
 - Addressed Spring Capital script failure error and internal comms; continued PM coordination (per Harvest entry).
 
 ---
-*Last Updated: 2026-02-20*
+*Last Updated: 2026-02-21*

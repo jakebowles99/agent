@@ -7,6 +7,9 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-21
+- Imported from Harvest active projects list (2026-02-21).
+
 ### 2026-02-20
 - Email from Spring Capital shared updated SharePoint list source file for Chelverton mapping; aligns with ongoing ingestion/support work.
 
@@ -96,4 +99,4 @@ Ongoing Power BI support and operational reporting for Spring Capital.
 - Resolved a data load failure by re-triggering flows after an Office Script timeout; client confirmed Chelverton data is now visible.
 
 ---
-*Last Updated: 2026-02-20*
+*Last Updated: 2026-02-21*

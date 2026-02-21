@@ -7,6 +7,9 @@ Integration to bring FX rates into Fabric (Graph API) for Leadenhall Capital Par
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-21
+- Imported from Harvest active projects list (2026-02-21).
+
 ### 2026-02-20
 - Time entries logged under Delivery: Data & AI pre-sales included LCP work (Kenny + PA vnet; NAV reconciliation) and a dedicated LCP doc extraction standup covered plugin deployment/testing plans.
 
@@ -102,4 +105,4 @@ Integration to bring FX rates into Fabric (Graph API) for Leadenhall Capital Par
 - Received confirmation that SOW005 agreement was completed via Adobe Acrobat Sign.
 
 ---
-*Last Updated: 2026-02-20*
+*Last Updated: 2026-02-21*

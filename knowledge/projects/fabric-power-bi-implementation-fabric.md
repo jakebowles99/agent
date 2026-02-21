@@ -7,6 +7,9 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 - **Status:** Active
 
 ## Timeline / Log
+### 2026-02-21
+- Imported from Harvest active projects list (2026-02-21).
+
 ### 2026-02-20
 - Kick-off/access email updates: client confirmed access across Fabric/Azure; password reset noted for admin account.
 
@@ -102,4 +105,4 @@ Capital Hair & Beauty Fabric platform setup/implementation (Fabric workstream).
 - Internal coordination for access-related issues and validations; progressed Fabric set-up and kickoff planning (Azure subscription provisioned; requested admin access).
 
 ---
-*Last Updated: 2026-02-20*
+*Last Updated: 2026-02-21*
